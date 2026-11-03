@@ -1,0 +1,238 @@
+{
+  "nodeId": "node_066_02",
+  "title": "سورة التحريم: وقاية الأهل من النار والتوبة النصوح ونور المؤمنين",
+  "surahId": 66,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_066_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "قُوٓا۟",
+        "ٱحْمُوا۟",
+        "نَجُّوا۟",
+        "ٱحْفَظُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_066_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "وَقُودُهَا",
+        "حَطَبُهَا",
+        "نَارُهَا",
+        "لَهَبُهَا"
+      ]
+    },
+    {
+      "activityId": "act_066_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلْحِجَارَةُ",
+        "وَٱلْأَصْنَامُ",
+        "وَٱلْكُفَّارُ",
+        "وَٱلْحَدِيدُ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 13,
+      "options": [
+        "غِلَاظٌۭ",
+        "أَقْوِيَاءُ",
+        "قُسَاةٌ",
+        "عِظَامٌ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 14,
+      "options": [
+        "شِدَادٌۭ",
+        "غِلَاظٌ",
+        "أَشِدَّاءُ",
+        "مُّقْتَدِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "يَعْصُونَ",
+        "يُخَالِفُونَ",
+        "يَرُدُّونَ عَلَى",
+        "يَمْتَنِعُونَ عَنْ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        6
+      ]
+    },
+    {
+      "activityId": "act_066_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "تَعْتَذِرُوا۟",
+        "تَطْلُبُوا عُذْرًا",
+        "تَتَكَلَّمُوا",
+        "تَشْتَكُوا"
+      ]
+    },
+    {
+      "activityId": "act_066_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "تُجْزَوْنَ",
+        "تُحَاسَبُونَ",
+        "تُعَاقَبُونَ",
+        "تُلْقَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 11,
+      "options": [
+        "تَعْمَلُونَ",
+        "تَكْسِبُونَ",
+        "تَقْتَرِفُونَ",
+        "تُفْسِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_066_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "تُوبُوٓا۟",
+        "ٱرْجِعُوٓا۟",
+        "أَنِيبُوٓا۟",
+        "ٱسْتَغْفِرُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_066_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 8,
+      "options": [
+        "نَّصُوحًا",
+        "صَادِقَةً",
+        "خَالِصَةً",
+        "كَامِلَةً"
+      ]
+    },
+    {
+      "activityId": "act_066_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 12,
+      "options": [
+        "يُكَفِّرَ",
+        "يَمْحُوَ",
+        "يَسْتُرَ",
+        "يَغْفِرَ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 23,
+      "options": [
+        "يُخْزِى",
+        "يُذِلُّ",
+        "يُهِينُ",
+        "يَفْضَحُ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 29,
+      "options": [
+        "نُورُهُمْ",
+        "ضِيَاؤُهُمْ",
+        "إِيمَانُهُمْ",
+        "هُدَاهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 30,
+      "options": [
+        "يَسْعَىٰ",
+        "يَمْشِى",
+        "يُضِيءُ",
+        "يَسِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 36,
+      "options": [
+        "أَتْمِمْ",
+        "أَبْقِ",
+        "زِدْ",
+        "ثَبِّتْ"
+      ]
+    },
+    {
+      "activityId": "act_066_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 45,
+      "options": [
+        "قَدِيرٌۭ",
+        "عَلِيمٌ",
+        "عَظِيمٌ",
+        "حَكِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التحريم",
+    "juz": 28,
+    "theme": "أمر المؤمنين بوقاية أنفسهم وأهليهم من نار وقودها الناس والحجارة عليها ملائكة غلاظ شداد، وتوبيخ الكفار بحرمان المعذرة، والحث على التوبة النصوح المورثة للنور التام يوم القيامة."
+  }
+}

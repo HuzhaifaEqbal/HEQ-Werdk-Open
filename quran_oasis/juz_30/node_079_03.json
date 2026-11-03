@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_079_03",
+  "title": "سورة النازعات - المقطع الثالث (إنكار البعث والزجرة الواحدة)",
+  "surahId": 79,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "لَمَرْدُودُونَ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَمَرْدُودُونَ",
+        "لَمَبْعُوثُونَ",
+        "لَمُحْيَوْنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "الْحَافِرَةِ",
+      "missingWordPosition": 5,
+      "options": [
+        "الْحَافِرَةِ",
+        "الْآخِرَةِ",
+        "الْأُولَى"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "عِظَامًا",
+      "missingWordPosition": 3,
+      "options": [
+        "عِظَامًا",
+        "تُرَابًا",
+        "رُفَاتًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "نَّخِرَةً",
+      "missingWordPosition": 4,
+      "options": [
+        "نَّخِرَةً",
+        "بَالِيَةً",
+        "رَمِيمًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "كَرَّةٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "كَرَّةٌ",
+        "رَجْعَةٌ",
+        "عَوْدَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "خَاسِرَةٌ",
+      "missingWordPosition": 5,
+      "options": [
+        "خَاسِرَةٌ",
+        "بَاطِلَةٌ",
+        "ضَائِعَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        10,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "زَجْرَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "زَجْرَةٌ",
+        "صَيْحَةٌ",
+        "نَفْخَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَاحِدَةٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَاحِدَةٌ",
+        "قَاضِيَةٌ",
+        "شَدِيدَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "بِالسَّاهِرَةِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِالسَّاهِرَةِ",
+        "بِالْآخِرَةِ",
+        "بِالْحَافِرَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ينقل القرآن استنكار المشركين للبعث؛ إذ يقولون استبعاداً واستهزاءً: أنُرد بعد موتنا إلى الحياة كما كنا أول مرة (في الحافرة)؟ أنُبعث بعد أن أصبحت عظامنا بالية مجوفة ومفتتة (عظاماً نخرة)؟ وقالوا: إن كانت هناك رجعة فهي رجعة غبن وخسارة علينا لكفرنا بها. فيرد الله ببيان قدرته وسرعة البعث: فما هي إلا صيحة ونفخة واحدة يزجر بها الملك الخلائق (زجرة واحدة)، فإذا جميع الأموات قيام أحياء على وجه الأرض المستوية (بالساهرة) بعدما كانوا في جوفها."
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "nodeId": "node_048_04",
+  "title": "سورة الفتح: امتحان الأعراب ورخصة أولي الضرر وبيعة الشجرة",
+  "surahId": 48,
+  "ayahStart": 16,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "activityId": "act_048_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 10,
+      "options": [
+        "شَدِيدٍۢ",
+        "عَظِيمٍۢ",
+        "شَدِيدَةٍ",
+        "قَوِىٍّ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 18,
+      "options": [
+        "أَجْرًا",
+        "ثَوَابًا",
+        "فَوْزًا",
+        "نَصِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_048_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 27,
+      "options": [
+        "عَذَابًا",
+        "نَكَالًا",
+        "خِزْيًا",
+        "هَلَاكًا"
+      ]
+    },
+    {
+      "activityId": "act_048_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_048_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "حَرَجٌۭ",
+        "إِثْمٌ",
+        "ذَنۢبٌ",
+        "ضِيقٌ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَعْرَجِ",
+        "ٱلضَّعِيفِ",
+        "ٱلشَّيْخِ",
+        "ٱلْمِسْكِينِ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_048_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "رَضِىَ",
+        "غَفَرَ",
+        "رَحِمَ",
+        "تَابَ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلشَّجَرَةِ",
+        "ٱلْعَقَبَةِ",
+        "ٱلْغَارِ",
+        "ٱلْجَبَلِ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلسَّكِينَةَ",
+        "ٱلطُّمَأْنِينَةَ",
+        "ٱلرَّحْمَةَ",
+        "ٱلنُّورَ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 17,
+      "options": [
+        "وَأَثَـٰبَهُمْ",
+        "وَجَزَاهُمْ",
+        "وَبَشَّرَهُمْ",
+        "وَنَصَرَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_048_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_048_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "وَمَغَانِمَ",
+        "وَأَمْوَالًا",
+        "وَأَسْلَابًا",
+        "وَفُتُوحًا"
+      ]
+    },
+    {
+      "activityId": "act_048_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "حَكِيمًۭا",
+        "عَلِيمًا",
+        "قَدِيرًا",
+        "غَفُورًا"
+      ]
+    }
+  ]
+}

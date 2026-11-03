@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_083_04",
+  "title": "سورة المطففين - المقطع الرابع (كتاب الأبرار في عليين وشهادة المقربين)",
+  "surahId": 83,
+  "ayahStart": 18,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلْأَبْرَارِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَبْرَارِ",
+        "ٱلْفُجَّارِ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "عِلِّيِّينَ",
+      "missingWordPosition": 6,
+      "options": [
+        "عِلِّيِّينَ",
+        "سِجِّينٍ",
+        "فِرْدَوْسٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "عِلِّيُّونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "عِلِّيُّونَ",
+        "سِجِّينٌ",
+        "طُوبَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "مَّرْقُومٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مَّرْقُومٌ",
+        "مَّعْلُومٌ",
+        "مَّشْهُودٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "يَشْهَدُهُ",
+      "missingWordPosition": 1,
+      "options": [
+        "يَشْهَدُهُ",
+        "يَحْفَظُهُ",
+        "يَعْرِفُهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "ٱلْمُقَرَّبُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُقَرَّبُونَ",
+        "ٱلْمُخْلَصُونَ",
+        "ٱلصَّالِحُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "ٱلْأَبْرَارَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَبْرَارَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "نَعِيمٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "نَعِيمٍ",
+        "جَنَّاتٍ",
+        "رَحْمَةٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "حقاً إن كتاب المؤمنين الصادقين المطيعين لربهم (الأبرار) في 'عليين' وهو أعلى مراتب الجنة ودرجات الشرف، وما أعلمك ما عليون وما علو شأنه! إنه كتاب مسطور مكتوب لا ريب فيه، تشهده وتحضره ملائكة الرحمن والمقربون من كل سماء تكريماً وتشريفاً لأهله، وإن هؤلاء الأبرار لفي نعيم دائم لا يزول وقرة أعين أبدية."
+  }
+}

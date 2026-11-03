@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_004_05",
+  "title": "سورة النساء - الآيات 21-23",
+  "surahId": 4,
+  "ayahStart": 21,
+  "ayahEnd": 23,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 2,
+      "options": [
+        "تَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَابَآؤُكُم"
+      ],
+      "activityId": "act_004_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_004_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَابَآؤُكُم",
+        "أَبۡنَآئِكُمُ",
+        "أَتُرِيدُونَ",
+        "وَبَنَاتُكُمۡ"
+      ],
+      "activityId": "act_004_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_004_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 4,
+      "options": [
+        "وَبَنَاتُكُمۡ",
+        "ءَابَآؤُكُم",
+        "أَبۡنَآئِكُمُ",
+        "أَتُرِيدُونَ"
+      ],
+      "activityId": "act_004_05_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 4,
+    "theme": "يبين أحكام المحرمات من النساء، ويذكر حق الزوجة في المهر والمعاملة بالمعروف."
+  }
+}

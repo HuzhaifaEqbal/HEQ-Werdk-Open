@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_085_01",
+  "title": "سورة البروج - المقطع الأول (القَسَم بالبروج ولعنة أصحاب الأخدود)",
+  "surahId": 85,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلسَّمَآءِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلسَّمَآءِ",
+        "وَٱلْأَرْضِ",
+        "وَٱلشَّمْسِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْبُرُوجِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبُرُوجِ",
+        "ٱلنُّجُومِ",
+        "ٱلْحُبُكِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَٱلْيَوْمِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْيَوْمِ",
+        "وَٱلْفَجْرِ",
+        "وَٱلْعَصْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "ٱلْمَوْعُودِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَوْعُودِ",
+        "ٱلْمَشْهُودِ",
+        "ٱلْمَعْلُومِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَشَاهِدٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَشَاهِدٍ",
+        "وَحَاضِرٍ",
+        "وَنَاظِرٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَمَشْهُودٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَمَشْهُودٍ",
+        "وَمَوْعُودٍ",
+        "وَمَعْلُومٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "قُتِلَ",
+      "missingWordPosition": 1,
+      "options": [
+        "قُتِلَ",
+        "هُلِكَ",
+        "خَسِرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْأُخْدُودِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأُخْدُودِ",
+        "ٱلْفِيلِ",
+        "ٱلْحِجْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلنَّارِ",
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلنَّارِ",
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلْوَقُودِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْوَقُودِ",
+        "ٱلْحَدِيدِ",
+        "ٱلشَّدِيدِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالسماء البديعة ذات المنازل والكواكب والبروج العظيمة، وبيوم القيامة الموعود الذي وعد الله بجمعه وحسابه، وبكل شاهد يشهد وبكل مشهود يُشهد عليه في ذلك اليوم؛ لُعن وهلك الكفار الطغاة أصحاب الشق العظيم في الأرض (الأخدود) حين أضرموا فيه النار الهائلة ذات الحطب الكثير والوقود المتأجج لإحراق المؤمنين."
+  }
+}

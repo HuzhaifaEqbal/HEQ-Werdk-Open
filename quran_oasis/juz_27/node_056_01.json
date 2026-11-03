@@ -1,0 +1,284 @@
+{
+  "nodeId": "node_056_01",
+  "title": "سورة الواقعة: قيام القيامة ورج الأرض وأصناف الخلق الثلاثة",
+  "surahId": 56,
+  "ayahStart": 1,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_056_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْوَاقِعَةُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلسَّاعَةُ",
+        "ٱلْحَاقَّةُ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_056_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "كَاذِبَةٌ",
+        "مِرْيَةٌ",
+        "شَكٌّ",
+        "رَيْبٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_056_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "خَافِضَةٌۭ",
+        "مُّهْلِكَةٌ",
+        "قَاطِعَةٌ",
+        "شَدِيدَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "رَّافِعَةٌ",
+        "نَّاصِرَةٌ",
+        "شَافِعَةٌ",
+        "عَادِلَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_056_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "رُجَّتِ",
+        "زُلْزِلَتِ",
+        "مِيدَتِ",
+        "دُكَّتِ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "رَجًّۭا",
+        "دَكًّا",
+        "زَلْزَلَةً",
+        "خَسْفًا"
+      ]
+    },
+    {
+      "activityId": "act_056_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_056_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "وَبُسَّتِ",
+        "وَسُيِّرَتِ",
+        "وَنُسِفَتِ",
+        "وَقُلِعَتِ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "بَسًّۭا",
+        "نَسْفًا",
+        "سَيْرًا",
+        "دَكًّا"
+      ]
+    },
+    {
+      "activityId": "act_056_01_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_056_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "هَبَآءًۭ",
+        "رَمَادًا",
+        "صَعِيدًا",
+        "عِهْنًا"
+      ]
+    },
+    {
+      "activityId": "act_056_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّنۢبَثًّۭا",
+        "مَّنْشُورًا",
+        "مُّتَفَرِّقًا",
+        "مَّذْرُوًّا"
+      ]
+    },
+    {
+      "activityId": "act_056_01_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_056_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "أَزْوَٰجًۭا",
+        "أَصْنَافًا",
+        "فِرَقًا",
+        "شِيَعًا"
+      ]
+    },
+    {
+      "activityId": "act_056_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "ثَلَـٰثَةًۭ",
+        "شَتَّى",
+        "مُتَفَرِّقَةً",
+        "كَثِيرَةً"
+      ]
+    },
+    {
+      "activityId": "act_056_01_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_056_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَيْمَنَةِ",
+        "ٱلْيَمِينِ",
+        "ٱلْجَنَّةِ",
+        "ٱلْفَوْزِ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_056_01_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَشْـَٔمَةِ",
+        "ٱلشِّمَالِ",
+        "ٱلنَّارِ",
+        "ٱلْجَحِيمِ"
+      ]
+    },
+    {
+      "activityId": "act_056_01_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_056_01_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّـٰبِقُونَ",
+        "ٱلْمُقَرَّبُونَ",
+        "ٱلْفَائِزُونَ",
+        "ٱلْمُفْلِحُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "افتتاح السورة بوصف أهوال يوم القيامة وخفضها لأعداء الله ورفعها لأوليائه وانقسام الخلائق إلى ثلاثة أصناف."
+  }
+}

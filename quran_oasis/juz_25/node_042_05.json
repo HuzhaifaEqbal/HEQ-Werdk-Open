@@ -1,0 +1,133 @@
+{
+  "nodeId": "node_042_05",
+  "title": "سورة الشورى: نعيم روضات الجنات والمودة في القربى وقبول التوبة وإجابة المؤمنين",
+  "surahId": 42,
+  "ayahStart": 22,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_042_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 14,
+      "options": [
+        "رَوْضَاتِ",
+        "غُرُفَاتِ",
+        "جَنَّاتِ",
+        "قُصُورِ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_042_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمَوَدَّةَ",
+        "ٱلصِّلَةَ",
+        "ٱلْبِرَّ",
+        "ٱلْإِحْسَانَ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 20,
+      "options": [
+        "يَقْتَرِفْ",
+        "يَعْمَلْ",
+        "يَفْعَلْ",
+        "يُقَدِّمْ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_042_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 10,
+      "options": [
+        "يَخْتِمْ",
+        "يَطْبَعْ",
+        "يَقْفِلْ",
+        "يَشْدُدْ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 13,
+      "options": [
+        "وَيَمْحُ",
+        "وَيُذْهِبُ",
+        "وَيُبْطِلُ",
+        "وَيَدْحَضُ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_042_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلتَّوْبَةَ",
+        "ٱلْأَوْبَةَ",
+        "ٱلْمَغْفِرَةَ",
+        "ٱلْعُذْرَ"
+      ]
+    },
+    {
+      "activityId": "act_042_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_042_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَسْتَجِيبُ",
+        "وَيُثِيبُ",
+        "وَيَرْحَمُ",
+        "وَيَهْدِى"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_002_29",
+  "title": "سورة البقرة - الآيات 139-141",
+  "surahId": 2,
+  "ayahStart": 139,
+  "ayahEnd": 141,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 2,
+      "options": [
+        "أَتُحَآجُّونَنَا",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَدِّثُونَهُم",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_29_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "wrongOptionsAyahNumbers": [
+        141,
+        137
+      ],
+      "activityId": "act_002_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 5,
+      "options": [
+        "وَإِسۡمَٰعِيلَ",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_29_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 140,
+      "correctNextAyahNumber": 141,
+      "wrongOptionsAyahNumbers": [
+        142,
+        138
+      ],
+      "activityId": "act_002_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 15,
+      "options": [
+        "يَعۡمَلُونَ",
+        "ءَاتَيۡنَا",
+        "ءَابَآئِكَ",
+        "وَإِسۡمَٰعِيلَ"
+      ],
+      "activityId": "act_002_29_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يختم المقطع بإبطال دعوى احتكار إبراهيم وذريته، وتقرير أن لكل نفس ما كسبت وأن الله لا يغفل عن أعمال العباد."
+  }
+}

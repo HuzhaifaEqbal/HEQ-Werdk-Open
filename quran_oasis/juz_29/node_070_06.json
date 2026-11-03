@@ -1,0 +1,150 @@
+{
+  "nodeId": "node_070_06",
+  "title": "سورة المعارج: حق السائل والمحروم والإشفاق من عذاب الله",
+  "surahId": 70,
+  "ayahStart": 24,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "activityId": "act_070_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "حَقٌّۭ",
+        "نَصِيبٌ",
+        "قِسْطٌ",
+        "فَرْضٌ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "مَّعْلُومٌۭ",
+        "مَفْرُوضٌ",
+        "وَاجِبٌ",
+        "مَّقْسُومٌ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_070_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "لِّلسَّآئِلِ",
+        "لِّلْفَقِيرِ",
+        "لِّلْيَتِيمِ",
+        "لِّلْمِسْكِينِ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلْمَحْرُومِ",
+        "وَٱلْمِسْكِينِ",
+        "وَٱلْفَقِيرِ",
+        "وَٱلضَّعِيفِ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_070_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "يُصَدِّقُونَ",
+        "يُؤْمِنُونَ",
+        "يُوقِنُونَ",
+        "يَخَافُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْبَعْثِ",
+        "ٱلْحِسَابِ",
+        "ٱلْفَصْلِ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ]
+    },
+    {
+      "activityId": "act_070_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّشْفِقُونَ",
+        "خَائِفُونَ",
+        "وَجِلُونَ",
+        "رَاهِبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ]
+    },
+    {
+      "activityId": "act_070_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "مَأْمُونٍۢ",
+        "مَرْدُودٍ",
+        "مَقْطُوعٍ",
+        "مَعْلُومٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "إخراج الزكاة والصدقات للسائل والمتعفف، والتصديق بيوم القيامة والإشفاق الدائم من عذاب الله الذي لا يأمنه عاقل"
+  }
+}

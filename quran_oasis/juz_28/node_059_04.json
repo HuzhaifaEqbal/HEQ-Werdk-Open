@@ -1,0 +1,248 @@
+{
+  "nodeId": "node_059_04",
+  "title": "سورة الحشر: مواعيد المنافقين الكاذبة وجبنهم وتشتت قلوبهم",
+  "surahId": 59,
+  "ayahStart": 11,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_059_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "نَافَقُوا۟",
+        "كَذَبُوا۟",
+        "خَانُوا۟",
+        "فَسَقُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْكِتَـٰبِ",
+        "ٱلتَّوْرَاةِ",
+        "ٱلْيَهُودِ",
+        "ٱلْقُرَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 15,
+      "options": [
+        "لَنَخْرُجَنَّ",
+        "لَنَمْضِيَنَّ",
+        "لَنُهَاجِرَنَّ",
+        "لَنَرْحَلَنَّ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 24,
+      "options": [
+        "لَنَنصُرَنَّكُمْ",
+        "لَنُقَاتِلَنَّ",
+        "لَنَفْدِيَنَّكُمْ",
+        "لَنَحْمِيَنَّكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 28,
+      "options": [
+        "لَكَـٰذِبُونَ",
+        "لَفَاسِقُونَ",
+        "لَمُنَافِقُونَ",
+        "لَخَائِنُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_059_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "يَخْرُجُونَ",
+        "يُهَاجِرُونَ",
+        "يَرْحَلُونَ",
+        "يَمْضُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 9,
+      "options": [
+        "يَنصُرُونَهُمْ",
+        "يُعِينُونَهُمْ",
+        "يُقَاتِلُونَ",
+        "يَحْمُونَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْأَدْبَـٰرَ",
+        "ٱلظُّهُورَ",
+        "ٱلْأَعْقَابَ",
+        "ٱلْوُجُوهَ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        11
+      ]
+    },
+    {
+      "activityId": "act_059_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "رَهْبَةًۭ",
+        "خَوْفًا",
+        "فَزَعًا",
+        "هَيْبَةً"
+      ]
+    },
+    {
+      "activityId": "act_059_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "صُدُورِهِم",
+        "قُلُوبِهِم",
+        "أَنْفُسِهِم",
+        "أَفْئِدَتِهِم"
+      ]
+    },
+    {
+      "activityId": "act_059_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 12,
+      "options": [
+        "يَفْقَهُونَ",
+        "يَعْلَمُونَ",
+        "يُؤْمِنُونَ",
+        "يَعْقِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_059_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "يُقَـٰتِلُونَكُمْ",
+        "يَبْرُزُونَ لَكُمْ",
+        "يُوَاجِهُونَكُمْ",
+        "يَلْقَوْنَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّحَصَّنَةٍ",
+        "مَّنِيعَةٍ",
+        "قَوِيَّةٍ",
+        "عَالِيَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 11,
+      "options": [
+        "جُدُرٍۭ ۚ",
+        "حُصُونٍ",
+        "أَبْوَابٍ",
+        "خَنَادِقَ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 14,
+      "options": [
+        "شَدِيدٌۭ ۚ",
+        "عَظِيمٌ",
+        "قَوِيٌّ",
+        "قَاطِعٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 18,
+      "options": [
+        "شَتَّىٰ ۚ",
+        "مُتَفَرِّقَةٌ",
+        "خَاوِيَةٌ",
+        "مَرِيضَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_04_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 23,
+      "options": [
+        "يَعْقِلُونَ",
+        "يَفْقَهُونَ",
+        "يَسْمَعُونَ",
+        "يُبْصِرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "فضح تواطؤ المنافقين مع كفار أهل الكتاب ووعودهم الكاذبة بنصرتهم، وبيان شدة خوفهم وهلعهم من المؤمنين وتفرق قلوبهم رغم اجتماع أبدانهم."
+  }
+}

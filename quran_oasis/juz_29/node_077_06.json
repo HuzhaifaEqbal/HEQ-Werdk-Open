@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_077_06",
+  "title": "سورة المرسلات: نعيم المتقين في الظلال والعيون والفواكه المشتهاة",
+  "surahId": 77,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "activityId": "act_077_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُتَّقِينَ",
+        "ٱلْأَبْرَارَ",
+        "ٱلصَّالِحِينَ",
+        "ٱلْمُحْسِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "ظِلَـٰلٍۢ",
+        "جَنَّاتٍ",
+        "رَوْضَاتٍ",
+        "نَعِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "وَعُيُونٍۢ",
+        "وَأَنْهَارٍ",
+        "وَنَعِيمٍ",
+        "وَسُرُورٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_077_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 1,
+      "options": [
+        "وَفَوَٰكِهَ",
+        "وَثِمَارٍ",
+        "وَطَعَامٍ",
+        "وَأَكْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "يَشْتَهُونَ",
+        "يَطْلُبُونَ",
+        "يُحِبُّونَ",
+        "يَبْتَغُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_077_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "كُلُوا۟",
+        "تَنَعَّمُوا",
+        "ٱسْعَدُوا",
+        "ٱفْرَحُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱشْرَبُوا۟",
+        "وَتَلَذَّذُوا",
+        "وَٱرْوَوْا",
+        "وَٱطْعَمُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 3,
+      "options": [
+        "هَنِيٓـًٔۢا",
+        "مَرِيئًا",
+        "طَيِّبًا",
+        "سَائِغًا"
+      ]
+    },
+    {
+      "activityId": "act_077_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 6,
+      "options": [
+        "تَعْمَلُونَ",
+        "تَكْسِبُونَ",
+        "تُقَدِّمُونَ",
+        "تَصْبِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ]
+    },
+    {
+      "activityId": "act_077_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "نَجْزِى",
+        "نُثِيبُ",
+        "نُعْطِى",
+        "نُكْرِمُ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلصَّادِقِينَ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_077_06_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_077_06_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِلظَّالِمِينَ",
+        "لِلْفَاسِقِينَ",
+        "لِلْمُجْرِمِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "جزاء المتقين ومآلهم في الجنات والظلال الوارفة والعيون الجارية والفواكه المشتهاة، وتكريمهم بالأكل والشرب الهنيء جزاء ما أسلَفوا من إحسان."
+  }
+}

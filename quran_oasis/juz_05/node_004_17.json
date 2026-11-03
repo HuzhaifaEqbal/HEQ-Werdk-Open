@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_17",
+  "title": "سورة النساء - الآيات 79-83",
+  "surahId": 4,
+  "ayahStart": 79,
+  "ayahEnd": 83,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 13,
+      "options": [
+        "وَأَرۡسَلۡنَٰكَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_004_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_004_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرَّسُولَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "وَأَرۡسَلۡنَٰكَ"
+      ],
+      "activityId": "act_004_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_004_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَقُولُونَ",
+        "يَتَدَبَّرُونَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_004_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَدَبَّرُونَ",
+        "وَأَرۡسَلۡنَٰكَ",
+        "وَيَقُولُونَ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_004_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 20,
+      "options": [
+        "يَسۡتَنۢبِطُونَهُۥ",
+        "ٱلۡمُسۡتَضۡعَفِينَ",
+        "۞ وَٱلۡمُحۡصَنَٰتُ",
+        "يَتَدَبَّرُونَ"
+      ],
+      "activityId": "act_004_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يحرض المقطع على الدفاع عن المستضعفين، ويذكر أن الموت يدرك الناس أينما كانوا."
+  }
+}

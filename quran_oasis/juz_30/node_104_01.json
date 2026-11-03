@@ -1,0 +1,150 @@
+{
+  "nodeId": "node_104_01",
+  "title": "سورة الهمزة: وعيد المغتاب والجامع للمال",
+  "surahId": 104,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_104_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيْلٌۭ",
+        "هَلَاكٌ",
+        "عَذَابٌ",
+        "خِزْىٌ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "هُمَزَةٍۢ",
+        "عُتُلٍّ",
+        "مَّنَّاعٍ",
+        "أَثِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "لُّمَزَةٍ",
+        "فَخُورٍ",
+        "كَفُورٍ",
+        "زَنِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_104_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "وَعَدَّدَهُۥ",
+        "وَكَنَزَهُۥ",
+        "وَخَزَنَهُۥ",
+        "وَأَحْصَىٰهُ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_104_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "أَخْلَدَهُۥ",
+        "أَنْقَذَهُۥ",
+        "أَنْجَىٰهُ",
+        "رَفَعَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_104_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "لَيُنۢبَذَنَّ",
+        "لَيُطْرَحَنَّ",
+        "لَيُكَبَّنَّ",
+        "لَيُسْحَبَنَّ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحُطَمَةِ",
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ",
+        "ٱلْهَاوِيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_104_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_104_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحُطَمَةُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلْهَاوِيَةُ",
+        "ٱلصَّآخَّةُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الهمزة",
+    "juz": 30,
+    "theme": "وعيد شديد للطعّان في الناس العياب لهم، الذي يشغله جمع المال عن الآخرة فيلقى في الحطمة"
+  }
+}

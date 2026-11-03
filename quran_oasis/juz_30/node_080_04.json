@@ -1,0 +1,282 @@
+{
+  "nodeId": "hifz_080_04",
+  "title": "سورة عبس - المقطع الرابع (نعم الله في طعام الإنسان وإنبات الأرض)",
+  "surahId": 80,
+  "ayahStart": 24,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "فَلْيَنظُرِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَلْيَنظُرِ",
+        "فَلْيَتَفَكَّرِ",
+        "فَلْيَعْلَمِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "طَعَامِهِ",
+      "missingWordPosition": 4,
+      "options": [
+        "طَعَامِهِ",
+        "خَلْقِهِ",
+        "رِزْقِهِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "صَبَبْنَا",
+      "missingWordPosition": 2,
+      "options": [
+        "صَبَبْنَا",
+        "أَنزَلْنَا",
+        "أَرْسَلْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "صَبًّا",
+      "missingWordPosition": 4,
+      "options": [
+        "صَبًّا",
+        "مِدْرَارًا",
+        "ثَجَّاجًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "شَقَقْنَا",
+      "missingWordPosition": 2,
+      "options": [
+        "شَقَقْنَا",
+        "فَتَقْنَا",
+        "مَدَدْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "شَقًّا",
+      "missingWordPosition": 4,
+      "options": [
+        "شَقًّا",
+        "صَبًّا",
+        "دَحْوًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        25,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "فَأَنبَتْنَا",
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَنبَتْنَا",
+        "فَأَخْرَجْنَا",
+        "فَجَعَلْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "حَبًّا",
+      "missingWordPosition": 3,
+      "options": [
+        "حَبًّا",
+        "زَرْعًا",
+        "نَبَاتًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "وَعِنَبًا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَعِنَبًا",
+        "وَثَمَرًا",
+        "وَحَبًّا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "وَقَضْبًا",
+      "missingWordPosition": 2,
+      "options": [
+        "وَقَضْبًا",
+        "وَأَبًّا",
+        "وَنَخْلًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "وَزَيْتُونًا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَزَيْتُونًا",
+        "وَرُمَّانًا",
+        "وَأَعْنَابًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "وَنَخْلًا",
+      "missingWordPosition": 2,
+      "options": [
+        "وَنَخْلًا",
+        "وَشَجَرًا",
+        "وَكَرْمًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "وَحَدَائِقَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَحَدَائِقَ",
+        "وَجَنَّاتٍ",
+        "وَبَسَاتِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "غُلْبًا",
+      "missingWordPosition": 2,
+      "options": [
+        "غُلْبًا",
+        "أَلْفَافًا",
+        "أَفْنَانًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        28,
+        32
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "وَفَاكِهَةً",
+      "missingWordPosition": 1,
+      "options": [
+        "وَفَاكِهَةً",
+        "وَجَنَّةً",
+        "وَنِعْمَةً"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "وَأَبًّا",
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَبًّا",
+        "وَقَضْبًا",
+        "وَرَعْيًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "مَّتَاعًا",
+      "missingWordPosition": 1,
+      "options": [
+        "مَّتَاعًا",
+        "رِزْقًا",
+        "بَلَاغًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "وَلِأَنْعَامِكُمْ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَلِأَنْعَامِكُمْ",
+        "وَلِدَوَابِّكُمْ",
+        "وَلِأَهْلِيكُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "دعوة ربانية للإنسان إلى التفكر في قوام حياته وطعامه؛ كيف دبر الله أمره بلطفه: فأنزل الماء من السحاب صباً متتابعاً، ثم شق وجه الأرض بالنبات شقاً بديعاً لتخرج البذور اللطيفة، فأنبت فيها الحبوب التي يعيش عليها الناس، وعنباً لذيذاً، وقضباً وهو العلف الرطب للماشية، وزيتوناً مباركاً، ونخيلاً باسقات، وبساتين عظيمة متكاثفة الأشجار (حدائق غُلباً)، وفاكهة يتلذذ بها البشر، وأبّاً وهو الكلأ والمرعى الذي تأكله البهائم؛ كل ذلك نعمة ومنفعة لكم ولأنعامكم."
+  }
+}

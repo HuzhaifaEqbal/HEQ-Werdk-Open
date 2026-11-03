@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_17",
+  "title": "سورة الأنعام - الآيات 97-102",
+  "surahId": 6,
+  "ayahStart": 97,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 6,
+      "options": [
+        "لِتَهْتَدُوا۟",
+        "فَأَخْرَجْنَا",
+        "وَٱلرُّمَّانَ",
+        "وَٱلْأَرْضِ ۖ"
+      ],
+      "activityId": "act_006_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_006_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 8,
+      "options": [
+        "وَمُسْتَوْدَعٌۭ ۗ",
+        "فَٱعْبُدُوهُ ۚ",
+        "وَٱلزَّيْتُونَ",
+        "مُّتَرَاكِبًۭا"
+      ],
+      "activityId": "act_006_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_006_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 28,
+      "options": [
+        "وَٱلزَّيْتُونَ",
+        "وَمُسْتَوْدَعٌۭ ۗ",
+        "فَٱعْبُدُوهُ ۚ",
+        "وَخَلَقَهُمْ ۖ"
+      ],
+      "activityId": "act_006_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_006_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 5,
+      "options": [
+        "وَخَلَقَهُمْ ۖ",
+        "وَيَنْعِهِۦٓ ۚ",
+        "لِتَهْتَدُوا۟",
+        "وَٱلْبَحْرِ ۗ"
+      ],
+      "activityId": "act_006_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_006_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْأَرْضِ ۖ",
+        "فَأَخْرَجْنَا",
+        "لِتَهْتَدُوا۟",
+        "وَٱلرُّمَّانَ"
+      ],
+      "activityId": "act_006_17_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_006_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 11,
+      "options": [
+        "فَٱعْبُدُوهُ ۚ",
+        "وَٱلزَّيْتُونَ",
+        "وَمُسْتَوْدَعٌۭ ۗ",
+        "مُّتَرَاكِبًۭا"
+      ],
+      "activityId": "act_006_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

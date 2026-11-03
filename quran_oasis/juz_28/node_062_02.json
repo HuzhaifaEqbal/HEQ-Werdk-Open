@@ -1,0 +1,260 @@
+{
+  "nodeId": "node_062_02",
+  "title": "سورة الجمعة: مثل حاملي التوراة وتمني الموت وفرارهم منه",
+  "surahId": 62,
+  "ayahStart": 5,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_062_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلتَّوْرَىٰةَ",
+        "ٱلْإِنْجِيلَ",
+        "ٱلْكِتَابَ",
+        "ٱلصُّحُفَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْحِمَارِ",
+        "ٱلْبَعِيرِ",
+        "ٱلدَّابَّةِ",
+        "ٱلْأَنْعَامِ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 11,
+      "options": [
+        "أَسْفَارًۢا ۚ",
+        "كُتُبًا",
+        "أَحْمَالًا",
+        "عِلْمًا"
+      ]
+    },
+    {
+      "activityId": "act_062_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "بِئْسَ",
+        "سَاءَ",
+        "قَبُحَ",
+        "خَابَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_062_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "هَادُوٓا۟",
+        "كَفَرُوا۟",
+        "أَشْرَكُوا۟",
+        "ضَلُّوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "زَعَمْتُمْ",
+        "ٱدَّعَيْتُمْ",
+        "قُلْتُمْ",
+        "حَسِبْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْلِيَآءُ",
+        "أَحْبَابُ",
+        "أَبْنَاءُ",
+        "خَاصَّةُ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمَوْتَ",
+        "ٱلْآخِرَةَ",
+        "ٱلْجَنَّةَ",
+        "ٱلْفَوْزَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "صَـٰدِقِينَ",
+        "مُحِقِّينَ",
+        "مُؤْمِنِينَ",
+        "مُخْلِصِينَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        5
+      ]
+    },
+    {
+      "activityId": "act_062_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَمَنَّوْنَهُۥٓ",
+        "يَطْلُبُونَهُۥ",
+        "يَرْجُونَهُۥ",
+        "يُحِبُّونَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "أَبَدًۢا",
+        "قَطُّ",
+        "حِينًا",
+        "بِأَلْسِنَتِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "عَلِيمٌۢ",
+        "خَبِيرٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_062_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَوْتَ",
+        "ٱلْأَجَلَ",
+        "ٱلْهَلَاكَ",
+        "ٱلْقَدَرَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "تَفِرُّونَ",
+        "تَهْرُبُونَ",
+        "تَحْذَرُونَ",
+        "تَخَافُونَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 8,
+      "options": [
+        "مُلَـٰقِيكُمْ ۖ",
+        "مُدْرِكُكُمْ",
+        "نَازِلٌ بِكُمْ",
+        "آتِيكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 10,
+      "options": [
+        "تُرَدُّونَ",
+        "تُرْجَعُونَ",
+        "تُبْعَثُونَ",
+        "تُسَاقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_062_02_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلشَّهَـٰدَةِ",
+        "وَٱلْعَلَانِيَةِ",
+        "وَٱلظَّاهِرِ",
+        "وَٱلْأَمْرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجمعة",
+    "juz": 28,
+    "theme": "ضرب المثل لليهود الذين حملوا التوراة ولم يعملوا بها بالحمار يحمل كتب العلم ولا ينتفع بها، وتحديهم بالدعوة لتمني الموت إن صدقوا في زعمهم، وتأكيد حتمية ملاقاة الموت ومحاسبة عالم الغيب."
+  }
+}

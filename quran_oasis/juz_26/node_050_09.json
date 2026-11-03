@@ -1,0 +1,169 @@
+{
+  "nodeId": "node_050_09",
+  "title": "سورة ق: نداء الصيحة بالحق ويوم الخروج والتذكير بالقرآن",
+  "surahId": 50,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "activityId": "act_050_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱسْتَمِعْ",
+        "وَٱنْتَظِرْ",
+        "وَٱرْتَقِبْ",
+        "وَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "قَرِيبٍۢ",
+        "بَعِيدٍ",
+        "مَّعْلُومٍ",
+        "عَلِىٍّ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_050_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصَّيْحَةَ",
+        "ٱلرَّاجِفَةَ",
+        "ٱلْقَارِعَةَ",
+        "ٱلصَّاخَّةَ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْخُرُوجِ",
+        "ٱلْبَعْثِ",
+        "ٱلنُّشُورِ",
+        "ٱلْقِيَامَةِ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_050_09_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلرُّجُوعُ",
+        "ٱلْمُنْقَلَبُ",
+        "ٱلْمَآبُ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        1
+      ]
+    },
+    {
+      "activityId": "act_050_09_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "تَشَقَّقُ",
+        "تَنْفَطِرُ",
+        "تَنْشَقُّ",
+        "تَمُورُ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "سِرَاعًۭا ۚ",
+        "سُجَّدًا",
+        "خُشَّعًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "activityId": "act_050_09_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسِيرٌۭ",
+        "قَرِيبٌ",
+        "عَظِيمٌ",
+        "هَيِّنٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_050_09_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 8,
+      "options": [
+        "بِجَبَّارٍۢ ۖ",
+        "بِمُسَيْطِرٍ",
+        "بِمُتَسَلِّطٍ",
+        "بِمُكْرِهٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_09_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 12,
+      "options": [
+        "يَخَافُ",
+        "يَرْجُو",
+        "يَخْشَى",
+        "يَحْذَرُ"
+      ]
+    }
+  ]
+}

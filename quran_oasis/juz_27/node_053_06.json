@@ -1,0 +1,350 @@
+{
+  "nodeId": "node_053_06",
+  "title": "سورة النجم: قدرة الخالق في الموت والحياة وإهلاك عاد وثمود وقوم نوح",
+  "surahId": 53,
+  "ayahStart": 43,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "activityId": "act_053_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 3,
+      "options": [
+        "أَضْحَكَ",
+        "أَسْعَدَ",
+        "أَفْرَحَ",
+        "أَنْعَمَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَبْكَىٰ",
+        "وَأَحْزَنَ",
+        "وَأَشْقَى",
+        "وَأَضْنَى"
+      ]
+    },
+    {
+      "activityId": "act_053_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_053_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "أَمَاتَ",
+        "أَفْنَى",
+        "أَهْلَكَ",
+        "قَبَضَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَحْيَا",
+        "وَأَبْقَى",
+        "وَأَنْشَأَ",
+        "وَبَعَثَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_053_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلزَّوْجَيْنِ",
+        "ٱلْأَصْنَافَ",
+        "ٱلْخَلْقَ",
+        "ٱلثَّقَلَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_053_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "نُّطْفَةٍ",
+        "مَاءٍ",
+        "طِينٍ",
+        "عَلَقَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 4,
+      "options": [
+        "تُمْنَىٰ",
+        "تُخْلَقُ",
+        "تَصِيرُ",
+        "تَبْدَأُ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_053_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلنَّشْأَةَ",
+        "ٱلْإِعَادَةَ",
+        "ٱلْبَعْثَ",
+        "ٱلْحَيَاةَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_053_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَقْنَىٰ",
+        "وَأَعْطَى",
+        "وَرَزَقَ",
+        "وَكَفَى"
+      ]
+    },
+    {
+      "activityId": "act_053_06_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_053_06_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشِّعْرَىٰ",
+        "ٱلشَّمْسِ",
+        "ٱلْقَمَرِ",
+        "ٱلْفَلَكِ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_053_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "عَادًا",
+        "ثَمُودَ",
+        "فِرْعَوْنَ",
+        "قُرَيْشًا"
+      ]
+    },
+    {
+      "activityId": "act_053_06_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_053_06_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 1,
+      "options": [
+        "وَثَمُودَا۟",
+        "وَعَادًا",
+        "وَمَدْيَنَ",
+        "وَفِرْعَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_053_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأَطْغَىٰ",
+        "وَأَكْفَرَ",
+        "وَأَخْسَرَ",
+        "وَأَفْسَدَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        55
+      ]
+    },
+    {
+      "activityId": "act_053_06_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْمُؤْتَفِكَةَ",
+        "وَٱلْقَرْيَةَ",
+        "وَٱلْمَدِينَةَ",
+        "وَٱلْبِلَادَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 2,
+      "options": [
+        "أَهْوَىٰ",
+        "أَسْقَطَ",
+        "دَمَّرَ",
+        "أَغْرَقَ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_26",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_053_06_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 1,
+      "options": [
+        "فَغَشَّىٰهَا",
+        "فَأَصَابَهَا",
+        "فَدَمَّرَهَا",
+        "فَأَحْرَقَهَا"
+      ]
+    },
+    {
+      "activityId": "act_053_06_28",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_053_06_29",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَالَآءِ",
+        "نِعَمِ",
+        "قُدْرَةِ",
+        "ءَايَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_053_06_30",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 4,
+      "options": [
+        "تَتَمَارَىٰ",
+        "تُكَذِّبُ",
+        "تَشُكُّ",
+        "تَجْحَدُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النجم",
+    "juz": 27,
+    "theme": "بيان طلاقة القدرة الإلهية في الإضحاك والإبكاء، الإماتة والإحياء، خلق الزوجين، وإبادة عاد وثمود وقرى سدوم."
+  }
+}

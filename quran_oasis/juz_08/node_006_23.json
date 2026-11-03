@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_23",
+  "title": "سورة الأنعام - الآيات 129-134",
+  "surahId": 6,
+  "ayahStart": 129,
+  "ayahEnd": 134,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "وَيَسْتَخْلِفْ",
+        "بِمُعْجِزِينَ",
+        "ٱلرَّحْمَةِ ۚ"
+      ],
+      "activityId": "act_006_23_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "wrongOptionsAyahNumbers": [
+        131,
+        127
+      ],
+      "activityId": "act_006_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 11,
+      "options": [
+        "وَيُنذِرُونَكُمْ",
+        "ٱلظَّـٰلِمِينَ",
+        "وَيَسْتَخْلِفْ",
+        "بِمُعْجِزِينَ"
+      ],
+      "activityId": "act_006_23_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "wrongOptionsAyahNumbers": [
+        132,
+        128
+      ],
+      "activityId": "act_006_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأَهْلُهَا",
+        "أَنفُسِهِمْ",
+        "عَمِلُوا۟ ۚ",
+        "وَشَهِدُوا۟"
+      ],
+      "activityId": "act_006_23_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "wrongOptionsAyahNumbers": [
+        133,
+        129
+      ],
+      "activityId": "act_006_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 4,
+      "options": [
+        "عَمِلُوا۟ ۚ",
+        "وَأَهْلُهَا",
+        "يَكْسِبُونَ",
+        "ٱلْحَيَوٰةُ"
+      ],
+      "activityId": "act_006_23_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 132,
+      "correctNextAyahNumber": 133,
+      "wrongOptionsAyahNumbers": [
+        134,
+        130
+      ],
+      "activityId": "act_006_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلرَّحْمَةِ ۚ",
+        "أَنفُسِنَا ۖ",
+        "ٱلظَّـٰلِمِينَ",
+        "بِمُعْجِزِينَ"
+      ],
+      "activityId": "act_006_23_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "wrongOptionsAyahNumbers": [
+        135,
+        131
+      ],
+      "activityId": "act_006_23_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 7,
+      "options": [
+        "بِمُعْجِزِينَ",
+        "ٱلرَّحْمَةِ ۚ",
+        "أَنفُسِنَا ۖ",
+        "وَيَسْتَخْلِفْ"
+      ],
+      "activityId": "act_006_23_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

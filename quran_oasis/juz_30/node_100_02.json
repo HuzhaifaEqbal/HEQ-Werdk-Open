@@ -1,0 +1,178 @@
+{
+  "nodeId": "hifz_100_02",
+  "title": "سورة العاديات - المقطع الثاني (كنود الإنسان وحبه للمال وبعثرة القبور)",
+  "surahId": 100,
+  "ayahStart": 6,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْكَافِرَ",
+        "ٱلْفَاجِرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "لَكَنُودٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَكَنُودٌ",
+        "لَكَفُورٌ",
+        "لَجَحُودٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "لَشَهِيدٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَشَهِيدٌ",
+        "لَبَصِيرٌ",
+        "لَعَلِيمٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلْخَيْرِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْخَيْرِ",
+        "ٱلْمَالِ",
+        "ٱلدُّنْيَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "لَشَدِيدٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَشَدِيدٌ",
+        "لَحَرِيصٌ",
+        "لَبَخِيلٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "بُعْثِرَ",
+      "missingWordPosition": 4,
+      "options": [
+        "بُعْثِرَ",
+        "أُخْرِجَ",
+        "نُشِرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلْقُبُورِ",
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْقُبُورِ",
+        "ٱلْأَرْضِ",
+        "ٱلصُّدُورِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        6,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "وَحُصِّلَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَحُصِّلَ",
+        "وَأُظْهِرَ",
+        "وَكُشِفَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ٱلصُّدُورِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصُّدُورِ",
+        "ٱلْقُلُوبِ",
+        "ٱلْأَفْئِدَةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "رَبَّهُم",
+      "missingWordPosition": 2,
+      "options": [
+        "رَبَّهُم",
+        "ٱللَّهَ",
+        "خَالِقَهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "لَّخَبِيرٌۢ",
+      "missingWordPosition": 5,
+      "options": [
+        "لَّخَبِيرٌۢ",
+        "لَّبَصِيرٌ",
+        "لَّعَلِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الإنسان لطبيعة كفره لجحود لنعم ربه منّاع للخير (كنود)، وهو شاهد ومقر على نفسه بذلك بحاله وأفعاله، وإنه لحب المال والثروة الشديد الحريص البخيل، أفلا يعلم هذا الغافل ما ينتظره إذا قُلبت الأرض وأُخرج ما في القبور من الأموات للبعث، وأُبرز وفُصّل ومُيّز ما كانت تُكنّه الصدور وتخفيه القلوب من النيات والأسرار؟! إن ربهم بهم وبأعمالهم يومئذ لخبير عليم لا تخفى عليه خافية وسيجازيهم عليها."
+  }
+}

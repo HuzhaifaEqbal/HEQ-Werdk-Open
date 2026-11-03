@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_22",
+  "title": "سورة آل عمران - الآيات 103-107",
+  "surahId": 3,
+  "ayahStart": 103,
+  "ayahEnd": 107,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱعۡتَصِمُواْ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "بِٱلۡمَعۡرُوفِ"
+      ],
+      "activityId": "act_003_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_003_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلۡمَعۡرُوفِ",
+        "وَٱخۡتَلَفُواْ",
+        "وَٱعۡتَصِمُواْ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "wrongOptionsAyahNumbers": [
+        106,
+        102
+      ],
+      "activityId": "act_003_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱخۡتَلَفُواْ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "بِٱلۡمَعۡرُوفِ",
+        "وَٱعۡتَصِمُواْ"
+      ],
+      "activityId": "act_003_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_003_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 9,
+      "options": [
+        "وُجُوهُهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "وَٱخۡتَلَفُواْ"
+      ],
+      "activityId": "act_003_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_003_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 4,
+      "options": [
+        "وُجُوهُهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر صفات الأمة الداعية إلى الخير، ويحذر من عاقبة الوجوه المسودة يوم القيامة."
+  }
+}

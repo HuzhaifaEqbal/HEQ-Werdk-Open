@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_17",
+  "title": "سورة البقرة - الآيات 80-84",
+  "surahId": 2,
+  "ayahStart": 80,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 1,
+      "options": [
+        "وَقَالُواْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_002_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_002_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 7,
+      "options": [
+        "خَطِيٓـَٔتُهُۥ",
+        "مِيثَٰقَكُمۡ",
+        "وَقَالُواْ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_002_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُواْ",
+        "خَطِيٓـَٔتُهُۥ",
+        "ءَاتَيۡنَا",
+        "مِيثَٰقَكُمۡ"
+      ],
+      "activityId": "act_002_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_002_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 10,
+      "options": [
+        "وَبِٱلۡوَٰلِدَيۡنِ",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_002_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_002_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 3,
+      "options": [
+        "مِيثَٰقَكُمۡ",
+        "خَطِيٓـَٔتُهُۥ",
+        "وَقَالُواْ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يتناول أدب الخطاب، وبيان اختصاص الله بالملك، ثم يرد على دعاوى أهل الكتاب ويذكر حسد بعضهم للمؤمنين."
+  }
+}

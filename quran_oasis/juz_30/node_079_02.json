@@ -1,0 +1,127 @@
+{
+  "nodeId": "hifz_079_02",
+  "title": "سورة النازعات - المقطع الثاني (الراجفة والرادفة ووجل القلوب)",
+  "surahId": 79,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "تَرْجُفُ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَرْجُفُ",
+        "تَصْدَعُ",
+        "تَزْلَزَلُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "الرَّاجِفَةُ",
+      "missingWordPosition": 3,
+      "options": [
+        "الرَّاجِفَةُ",
+        "الرَّادِفَةُ",
+        "الصَّاخَّةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "تَتْبَعُهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "تَتْبَعُهَا",
+        "تَقْدُمُهَا",
+        "تَصْحَبُهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "الرَّادِفَةُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الرَّادِفَةُ",
+        "الرَّاجِفَةُ",
+        "الطَّامَّةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "قُلُوبٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "قُلُوبٌ",
+        "وُجُوهٌ",
+        "أَبْصَارٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "وَاجِفَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَاجِفَةٌ",
+        "خَاشِعَةٌ",
+        "خَائِفَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "أَبْصَارُهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "أَبْصَارُهَا",
+        "قُلُوبُهَا",
+        "أَفْئِدَتُهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "خَاشِعَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَاشِعَةٌ",
+        "وَاجِفَةٌ",
+        "شَاخِصَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "جواب القَسَم محذوف تقديره: لَتُبْعَثُنّ ولتُحاسَبُنّ؛ حين تضطرب الأرض والجبال وتتزلزل عند النفخة الأولى التي يصعق بها الخلائق (الراجفة)، ثم تعقبها وتتلوها النفخة الثانية لبعث الناس من قبورهم (الرادفة). في ذلك اليوم العظيم، تكون قلوب المكذبين خائفة ومضطربة أشد الاضطراب (واجفة)، وتكون أبصارهم ذليلة منكسرة وخاضعة من هول ما عاينوا من الفزع والوعيد."
+  }
+}

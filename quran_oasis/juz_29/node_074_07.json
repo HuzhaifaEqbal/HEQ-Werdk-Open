@@ -1,0 +1,148 @@
+{
+  "nodeId": "node_074_07",
+  "title": "سورة المدثر: القسم بالقمر وإدبار الليل وإسفار الصبح على عظم سقر",
+  "surahId": 74,
+  "ayahStart": 32,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "activityId": "act_074_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلْقَمَرِ",
+        "وَٱلشَّمْسِ",
+        "وَٱلنَّجْمِ",
+        "وَٱلصُّبْحِ"
+      ]
+    },
+    {
+      "activityId": "act_074_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_074_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "أَدْبَرَ",
+        "أَقْبَلَ",
+        "يَغْشَىٰ",
+        "سَجَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_074_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_074_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "أَسْفَرَ",
+        "تَنَفَّسَ",
+        "أَضَاءَ",
+        "طَلَعَ"
+      ]
+    },
+    {
+      "activityId": "act_074_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ]
+    },
+    {
+      "activityId": "act_074_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْكُبَرِ",
+        "ٱلْعَظَائِمِ",
+        "ٱلْأَهْوَالِ",
+        "ٱلْقَوَارِعِ"
+      ]
+    },
+    {
+      "activityId": "act_074_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ]
+    },
+    {
+      "activityId": "act_074_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 1,
+      "options": [
+        "نَذِيرًۭا",
+        "بَشِيرًا",
+        "مَوْعِظَةً",
+        "تَذْكِرَةً"
+      ]
+    },
+    {
+      "activityId": "act_074_07_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ]
+    },
+    {
+      "activityId": "act_074_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَقَدَّمَ",
+        "يُؤْمِنَ",
+        "يَفُوزَ",
+        "يَنْجُوَ"
+      ]
+    },
+    {
+      "activityId": "act_074_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 7,
+      "options": [
+        "يَتَأَخَّرَ",
+        "يَكْفُرَ",
+        "يَخْسَرَ",
+        "يَهْلِكَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "القسم بالقمر وإدبار الليل وإشراق الصبح على أن جهنم إحدى الدواهي العظام، نذيراً للإنس لمن شاء أن يتقدم بالطاعة أو يتأخر بالمعصية"
+  }
+}

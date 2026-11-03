@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_009_06",
+  "title": "سورة التوبة - الآيات 31-36",
+  "surahId": 9,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "أَحْبَارَهُمْ",
+        "أَنفُسَكُمْ ۚ",
+        "لَيَأْكُلُونَ",
+        "لِأَنفُسِكُمْ"
+      ],
+      "activityId": "act_009_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_009_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "بِأَفْوَٰهِهِمْ",
+        "۞ يَـٰٓأَيُّهَا",
+        "لِيَعْبُدُوٓا۟",
+        "وَرُهْبَـٰنَهُمْ"
+      ],
+      "activityId": "act_009_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_009_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمُشْرِكُونَ",
+        "وَٱلرُّهْبَانِ",
+        "ٱلْمُشْرِكِينَ",
+        "وَظُهُورُهُمْ ۖ"
+      ],
+      "activityId": "act_009_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_009_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلرُّهْبَانِ",
+        "ٱلْمُشْرِكُونَ",
+        "يُقَـٰتِلُونَكُمْ",
+        "ٱلْمُشْرِكِينَ"
+      ],
+      "activityId": "act_009_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_009_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 11,
+      "options": [
+        "وَظُهُورُهُمْ ۖ",
+        "يُنفِقُونَهَا",
+        "وَٱلرُّهْبَانِ",
+        "ٱلْمُشْرِكُونَ"
+      ],
+      "activityId": "act_009_06_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_009_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 27,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "وَظُهُورُهُمْ ۖ",
+        "يُنفِقُونَهَا",
+        "وَٱلرُّهْبَانِ"
+      ],
+      "activityId": "act_009_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

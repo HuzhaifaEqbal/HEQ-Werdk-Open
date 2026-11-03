@@ -1,0 +1,96 @@
+{
+  "nodeId": "hifz_096_02",
+  "title": "سورة العلق - المقطع الثاني (طغيان الإنسان باستغنائه وحتمية الرجوع لله)",
+  "surahId": 96,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْكَافِرَ",
+        "ٱلْفَاجِرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "لَيَطْغَىٰٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَيَطْغَىٰٓ",
+        "لَيَكْفُرُ",
+        "لَيَجْحَدُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "رَّءَاهُ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَّءَاهُ",
+        "ظَنَّهُ",
+        "حَسِبَهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱسْتَغْنَىٰٓ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱسْتَغْنَىٰٓ",
+        "تَوَلَّىٰ",
+        "تَكَبَّرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "رَبِّكَ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَبِّكَ",
+        "خَالِقِكَ",
+        "ٱللَّهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلرُّجْعَىٰٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلرُّجْعَىٰٓ",
+        "ٱلْمَصِيرَ",
+        "ٱلْمُنْتَهَىٰ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "حقاً إن الإنسان الكافر ليتجاوز حدّه في الطغيان والتكبر والعصيان، حين يرى نفسه قد استغنى بكثرة ماله وعشيرته وقوته، وغفل هذا الجاحد أن المرجع والمآب والمنتهى بعد الموت إلى ربك وحده ليحاسب كل عامل على عمله ويجازيه بالعدل."
+  }
+}

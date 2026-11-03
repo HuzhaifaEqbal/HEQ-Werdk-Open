@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_073_04",
+  "title": "سورة المزمل: تحذير كفار مكة بمصير فرعون وشيب الولدان",
+  "surahId": 73,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "activityId": "act_073_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "شَـٰهِدًا",
+        "نَذِيرًا",
+        "بَشِيرًا",
+        "مُّبِينًا"
+      ]
+    },
+    {
+      "activityId": "act_073_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 10,
+      "options": [
+        "فِرْعَوْنَ",
+        "عَادٍ",
+        "ثَمُودَ",
+        "قَارُونَ"
+      ]
+    },
+    {
+      "activityId": "act_073_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_073_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "وَبِيلًۭا",
+        "أَلِيمًا",
+        "شَدِيدًا",
+        "رَّابِيًا"
+      ]
+    },
+    {
+      "activityId": "act_073_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_073_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "تَتَّقُونَ",
+        "تَحْذَرُونَ",
+        "تَهْرُبُونَ",
+        "تَنْجُونَ"
+      ]
+    },
+    {
+      "activityId": "act_073_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 8,
+      "options": [
+        "شِيبًا",
+        "فَزِعِينَ",
+        "خَاشِعِينَ",
+        "سُكَارَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_073_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ]
+    },
+    {
+      "activityId": "act_073_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "مُنفَطِرٌۢ",
+        "مُتَشَقِّقَةٌ",
+        "خَاشِعَةٌ",
+        "مُظْلِمَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_073_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "مَفْعُولًا",
+        "وَاقِعًا",
+        "حَقًّا",
+        "قَرِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_073_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ]
+    },
+    {
+      "activityId": "act_073_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "تَذْكِرَةٌۭ",
+        "نُورٌ",
+        "هُدًى",
+        "بَيَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_073_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 9,
+      "options": [
+        "سَبِيلًا",
+        "طَرِيقًا",
+        "صِرَاطًا",
+        "عَهْدًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المزمل",
+    "juz": 29,
+    "theme": "تذكير قريش بعقوبة فرعون حين عصى رسوله موسى، والتحذير من هول يوم القيامة الذي يشيب فيه الولدان وتنفطر فيه السماء"
+  }
+}

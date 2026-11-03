@@ -1,0 +1,123 @@
+{
+  "nodeId": "node_050_06",
+  "title": "سورة ق: تبرؤ القرين وعدل الله وسؤال جهنم هل امتلأت",
+  "surahId": 50,
+  "ayahStart": 27,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_050_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "أَطْغَيْتُهُۥ",
+        "أَغْوَيْتُهُۥ",
+        "أَضْلَلْتُهُۥ",
+        "فَتَنْتُهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_050_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_050_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "تَخْتَصِمُوا۟",
+        "تَتَنَازَعُوا۟",
+        "تَجَادَلُوا۟",
+        "تَلُومُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_050_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْوَعِيدِ",
+        "بِٱلْعَذَابِ",
+        "بِٱلْحَقِّ",
+        "بِٱلْأَمْرِ"
+      ]
+    },
+    {
+      "activityId": "act_050_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_050_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "يُبَدَّلُ",
+        "يُغَيَّرُ",
+        "يُرَدُّ",
+        "يُنْقَضُ"
+      ]
+    },
+    {
+      "activityId": "act_050_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 7,
+      "options": [
+        "بِظَلَّـٰمٍۢ",
+        "بِجَائِرٍ",
+        "بِغَافِلٍ",
+        "بِمُعَذِّبٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_050_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱمْتَلَأْتِ",
+        "ٱكْتَفَيْتِ",
+        "شَبِعْتِ",
+        "ضِقْتِ"
+      ]
+    },
+    {
+      "activityId": "act_050_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "مَّزِيدٍۢ",
+        "كَلَّا",
+        "قَرِيبٍ",
+        "سَعِيرٍ"
+      ]
+    }
+  ]
+}

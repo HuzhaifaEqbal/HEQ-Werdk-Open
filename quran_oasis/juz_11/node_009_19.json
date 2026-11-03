@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_19",
+  "title": "سورة التوبة - الآيات 105-109",
+  "surahId": 9,
+  "ayahStart": 105,
+  "ayahEnd": 109,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْمُؤْمِنُونَ ۖ",
+        "يَتَطَهَّرُوا۟ ۚ",
+        "ٱلْمُطَّهِّرِينَ",
+        "ٱلْمُؤْمِنِينَ"
+      ],
+      "activityId": "act_009_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_009_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 1,
+      "options": [
+        "وَءَاخَرُونَ",
+        "وَرَسُولُهُۥ",
+        "وَإِرْصَادًۭا",
+        "وَتَفْرِيقًۢا"
+      ],
+      "activityId": "act_009_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_009_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "يَتَطَهَّرُوا۟ ۚ",
+        "ٱلْمُطَّهِّرِينَ",
+        "فَيُنَبِّئُكُم"
+      ],
+      "activityId": "act_009_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_009_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 20,
+      "options": [
+        "يَتَطَهَّرُوا۟ ۚ",
+        "ٱلْمُؤْمِنِينَ",
+        "وَلَيَحْلِفُنَّ",
+        "وَٱلشَّهَـٰدَةِ"
+      ],
+      "activityId": "act_009_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_009_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 27,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "وَسَتُرَدُّونَ",
+        "ٱلْحُسْنَىٰ ۖ",
+        "وَءَاخَرُونَ"
+      ],
+      "activityId": "act_009_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 11,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "nodeId": "node_055_03",
+  "title": "سورة الرحمن: فناء الخلائق وبقاء ذي الجلال والإكرام وتحدي أقطار السماوات",
+  "surahId": 55,
+  "ayahStart": 26,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "activityId": "act_055_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "فَانٍۢ",
+        "مَيِّتٌ",
+        "هَالِكٌ",
+        "زَائِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_055_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْجَلَـٰلِ",
+        "ٱلْعِزَّةِ",
+        "ٱلْقُوَّةِ",
+        "ٱلْعَظَمَةِ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْإِكْرَامِ",
+        "وَٱلْإِنْعَامِ",
+        "وَٱلْفَضْلِ",
+        "وَٱلْجُودِ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_055_03_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_055_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "يَسْـَٔلُهُۥ",
+        "يَدْعُوهُ",
+        "يَعْبُدُهُ",
+        "يَرْجُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 10,
+      "options": [
+        "شَأْنٍۢ",
+        "أَمْرٍ",
+        "حَالٍ",
+        "فِعْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_055_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_055_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 1,
+      "options": [
+        "سَنَفْرُغُ",
+        "سَنَنْظُرُ",
+        "سَنَحْكُمُ",
+        "سَنَقْضِى"
+      ]
+    },
+    {
+      "activityId": "act_055_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلثَّقَلَانِ",
+        "ٱلْإِنْسَانُ",
+        "ٱلْخَلْقُ",
+        "ٱلْعَالَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_055_03_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_055_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 7,
+      "options": [
+        "تَنفُذُوا۟",
+        "تَهْرُبُوا",
+        "تَخْرُجُوا",
+        "تَفِرُّوا"
+      ]
+    },
+    {
+      "activityId": "act_055_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 9,
+      "options": [
+        "أَقْطَارِ",
+        "أَبْوَابِ",
+        "حُدُودِ",
+        "أَطْرَافِ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 16,
+      "options": [
+        "بِسُلْطَـٰنٍۢ",
+        "بِقُوَّةٍ",
+        "بِإِذْنٍ",
+        "بِأَمْرٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_055_03_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_055_03_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "شُوَاظٌۭ",
+        "لَهَبٌ",
+        "شِهَابٌ",
+        "عَذَابٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "وَنُحَاسٌۭ",
+        "وَدُخَانٌ",
+        "وَحَدِيدٌ",
+        "وَحِجَارَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 8,
+      "options": [
+        "تَنتَصِرَانِ",
+        "تَفِرَّانِ",
+        "تَنْجُوَانِ",
+        "تَفْلَحَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_03_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرحمن",
+    "juz": 27,
+    "theme": "حقيقة فناء جميع الخلائق وبقاء وجه الله ذي الجلال والإكرام، وتحدي الثقلين بالنفوذ من أقطار السماوات والأرض."
+  }
+}

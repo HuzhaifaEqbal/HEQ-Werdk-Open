@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_39",
+  "title": "سورة آل عمران - الآيات 188-192",
+  "surahId": 3,
+  "ayahStart": 188,
+  "ayahEnd": 192,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 188,
+      "missingWordPosition": 14,
+      "options": [
+        "تَحۡسَبَنَّهُم",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "أَخۡزَيۡتَهُۥۖ"
+      ],
+      "activityId": "act_003_39_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 188,
+      "correctNextAyahNumber": 189,
+      "wrongOptionsAyahNumbers": [
+        190,
+        186
+      ],
+      "activityId": "act_003_39_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 189,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تَحۡسَبَنَّهُم"
+      ],
+      "activityId": "act_003_39_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 189,
+      "correctNextAyahNumber": 190,
+      "wrongOptionsAyahNumbers": [
+        191,
+        187
+      ],
+      "activityId": "act_003_39_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 190,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "أَخۡزَيۡتَهُۥۖ"
+      ],
+      "activityId": "act_003_39_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 190,
+      "correctNextAyahNumber": 191,
+      "wrongOptionsAyahNumbers": [
+        192,
+        188
+      ],
+      "activityId": "act_003_39_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 191,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَتَفَكَّرُونَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "وَٱلنَّهَارِ"
+      ],
+      "activityId": "act_003_39_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 191,
+      "correctNextAyahNumber": 192,
+      "wrongOptionsAyahNumbers": [
+        193,
+        189
+      ],
+      "activityId": "act_003_39_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 192,
+      "missingWordPosition": 7,
+      "options": [
+        "أَخۡزَيۡتَهُۥۖ",
+        "تَحۡسَبَنَّهُم",
+        "وَٱلنَّهَارِ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_39_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر أقوال المكذبين واستهزاءهم، ويقرر أن كل نفس ذائقة الموت وأن الجزاء يكون وافياً."
+  }
+}

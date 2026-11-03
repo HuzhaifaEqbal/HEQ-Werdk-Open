@@ -1,0 +1,107 @@
+{
+  "nodeId": "hifz_095_02",
+  "title": "سورة التين - المقطع الثاني (استثناء المؤمنين وجزاء الدين وأحكم الحاكمين)",
+  "surahId": 95,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ٱلصَّـٰلِحَـٰتِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلْخَيْرَاتِ",
+        "ٱلْحَسَنَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "أَجْرٌ",
+      "missingWordPosition": 7,
+      "options": [
+        "أَجْرٌ",
+        "ثَوَابٌ",
+        "نَعِيمٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "مَمْنُونٍۭ",
+      "missingWordPosition": 9,
+      "options": [
+        "مَمْنُونٍۭ",
+        "مَقْطُوعٍ",
+        "مَنْقُوصٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يُكَذِّبُكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُكَذِّبُكَ",
+        "يَصْرِفُكَ",
+        "يَحْمِلُكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "بِٱلدِّينِ",
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلدِّينِ",
+        "بِٱلْحِسَابِ",
+        "بِٱلْبَعْثِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "بِأَحْكَمِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِأَحْكَمِ",
+        "بِأَعْدَلِ",
+        "بِأَقْدَرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلْحَـٰكِمِينَ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحَـٰكِمِينَ",
+        "ٱلْقَاضِينَ",
+        "ٱلْفَاصِلِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "لكن الذين آمنوا بالله وعملوا الصالحات فإنهم ناجون من دركات الردى، ولهم في جنات النعيم ثواب وأجر دائم مستمر غير مقطوع ولا ممنوع (غير ممنون)، فما الذي يحملك أيها الإنسان الجاحد بعد هذه الدلائل القاطعة على التكذيب بيوم الجزاء والحساب؟! أليس الله بأحكم الحاكمين قضاءً وعدلاً وإتقاناً في خلقه وتدبيره وحكمه بين عباده؟ بلى، ونحن على ذلك من الشاهدين."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_25",
+  "title": "سورة النساء - الآيات 119-123",
+  "surahId": 4,
+  "ayahStart": 119,
+  "ayahEnd": 123,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 2,
+      "options": [
+        "وَلَأُمَنِّيَنَّهُمۡ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "wrongOptionsAyahNumbers": [
+        121,
+        117
+      ],
+      "activityId": "act_004_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 2,
+      "options": [
+        "وَيُمَنِّيهِمۡۖ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "سَنُدۡخِلُهُمۡ"
+      ],
+      "activityId": "act_004_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_004_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 2,
+      "options": [
+        "مَأۡوَىٰهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "وَيُمَنِّيهِمۡۖ"
+      ],
+      "activityId": "act_004_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_004_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 5,
+      "options": [
+        "سَنُدۡخِلُهُمۡ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَيُمَنِّيهِمۡۖ"
+      ],
+      "activityId": "act_004_25_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "wrongOptionsAyahNumbers": [
+        124,
+        120
+      ],
+      "activityId": "act_004_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 2,
+      "options": [
+        "بِأَمَانِيِّكُمۡ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "وَلَأُمَنِّيَنَّهُمۡ"
+      ],
+      "activityId": "act_004_25_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "ينهى عن الأماني الباطلة، ويقرر أن الجزاء على العمل، ويذكر أحكاماً في الأسرة والوصية."
+  }
+}

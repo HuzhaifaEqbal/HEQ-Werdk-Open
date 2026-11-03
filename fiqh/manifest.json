@@ -1,0 +1,79 @@
+{
+  "name": "Fiqh & Daily Worship Interactive Curriculum",
+  "name_ar": "منهج الفقه والعبادات اليومية التفاعلي المفتوح",
+  "version": "2.0.0",
+  "madhhab": "Shafi'i (المذهب الشافعي)",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/fiqh",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/fiqh",
+  "total_nodes": 5,
+  "total_files": 31,
+  "nodes": [
+    {
+      "id": "01_Taharah",
+      "title_ar": "عقدة الطهارة",
+      "title_en": "Taharah (Purification)",
+      "files": [
+        { "file": "01_water_and_purity.json", "type": "lesson", "title_ar": "أنواع المياه وأحكام النجاسات والاستنجاء" },
+        { "file": "02_wudu_fard_and_sunnah.json", "type": "lesson", "title_ar": "فرائض الوضوء الستة وسننه" },
+        { "file": "03_nullifiers_of_wudu.json", "type": "lesson", "title_ar": "نواقض الوضوء الأربعة" },
+        { "file": "04_ghusl_and_major_purification.json", "type": "lesson", "title_ar": "موجبات الغسل وأركانه وسننه" },
+        { "file": "05_tayammum_and_wiping.json", "type": "lesson", "title_ar": "المسح على الخفين والتيمم" },
+        { "file": "06_boss_level_taharah.json", "type": "boss_level", "title_ar": "الاختبار الملكي الشامل لعقدة الطهارة" }
+      ]
+    },
+    {
+      "id": "02_Salah/level_1",
+      "title_ar": "عقدة الصلاة (المستوى الأول)",
+      "title_en": "Salah (Prayer) - Level 1",
+      "files": [
+        { "file": "01_prayer_times_and_adhan.json", "type": "lesson", "title_ar": "مواقيت الصلوات الخمس والأذان" },
+        { "file": "02_conditions_of_prayer.json", "type": "lesson", "title_ar": "شروط صحة الصلاة" },
+        { "file": "03_pillars_and_sunnahs.json", "type": "lesson", "title_ar": "أركان الصلاة وسننها" },
+        { "file": "04_abd_hayat_and_sujood.json", "type": "lesson", "title_ar": "سنن الأبعاض والهيئات وسجود السهو" },
+        { "file": "05_nullifiers_and_disliked_acts.json", "type": "lesson", "title_ar": "مبطلات الصلاة ومكروهاتها" },
+        { "file": "06_boss_level_salah.json", "type": "boss_level", "title_ar": "الاختبار الملكي الشامل لعقدة الصلاة (المستوى 1)" }
+      ]
+    },
+    {
+      "id": "02_Salah/level_2",
+      "title_ar": "عقدة الصلاة (المستوى الثاني)",
+      "title_en": "Salah (Prayer) - Level 2",
+      "files": [
+        { "file": "01_congregational_prayer_and_imamate.json", "type": "lesson", "title_ar": "صلاة الجماعة والإمامة" },
+        { "file": "02_traveler_prayer.json", "type": "lesson", "title_ar": "صلاة المسافر (القصر والجمع)" },
+        { "file": "03_friday_prayer.json", "type": "lesson", "title_ar": "صلاة الجمعة وأحكامها" },
+        { "file": "04_special_prayers_and_funerals.json", "type": "lesson", "title_ar": "العيدين والكسوف والجنازة" },
+        { "file": "05_prostrations_sahw_tilawah_shukr.json", "type": "lesson", "title_ar": "سجود السهو والتلاوة والشكر" },
+        { "file": "06_boss_level_salah_l2.json", "type": "boss_level", "title_ar": "الاختبار الملكي الشامل لعقدة الصلاة (المستوى 2)" }
+      ]
+    },
+    {
+      "id": "04_Sawm/level_1",
+      "title_ar": "عقدة الصيام (المستوى الأول)",
+      "title_en": "Sawm (Fasting) - Level 1",
+      "files": [
+        { "file": "01_fasting_definition_and_conditions.json", "type": "lesson", "title_ar": "تعريف الصيام وشروطه" },
+        { "file": "02_moon_sighting_and_laylat_al_qadr.json", "type": "lesson", "title_ar": "ثبوت الشهر وليلة القدر" },
+        { "file": "03_fasting_intention_and_abstinence.json", "type": "lesson", "title_ar": "أركان الصوم والنية" },
+        { "file": "04_fasting_sunnahs_and_etiquette.json", "type": "lesson", "title_ar": "سنن الصيام وآدابه" },
+        { "file": "05_fasting_invalidators_and_disliked_acts.json", "type": "lesson", "title_ar": "مبطلات الصوم ومكروهاته" },
+        { "file": "06_boss_level_sawm.json", "type": "boss_level", "title_ar": "الاختبار الملكي الشامل لعقدة الصيام (المستوى 1)" }
+      ]
+    },
+    {
+      "id": "04_Sawm/level_2",
+      "title_ar": "عقدة الصيام (المستوى الثاني)",
+      "title_en": "Sawm (Fasting) - Level 2",
+      "files": [
+        { "file": "01_fasting_excuses_and_redemption.json", "type": "lesson", "title_ar": "الأعذار المبيحة للفطر والفدية" },
+        { "file": "02_fasting_expiation_and_holding_time.json", "type": "lesson", "title_ar": "الكفارة الكبرى والإمساك لحرمة الوقت" },
+        { "file": "03_fasting_voluntary_and_prohibited_days.json", "type": "lesson", "title_ar": "صوم التطوع والأيام المحرمة" },
+        { "file": "04_fasting_i'tikaf_sunnah_and_invalidators.json", "type": "lesson", "title_ar": "أحكام الاعتكاف وسننه ومبطلاته" },
+        { "file": "05_fasting_vows_and_continuity_rules.json", "type": "lesson", "title_ar": "أحكام النذر والتتابع" },
+        { "file": "06_boss_level_sawm_l2.json", "type": "boss_level", "title_ar": "الاختبار الملكي الشامل لعقدة الصيام (المستوى 2)" },
+        { "file": "fasting_enrichment_misconceptions.json", "type": "enrichment", "title_ar": "الملحق الإثرائي: مفاهيم خاطئة ومستحبات" }
+      ]
+    }
+  ]
+}

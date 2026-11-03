@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_002_52",
+  "title": "سورة البقرة - الآيات 247-249",
+  "surahId": 2,
+  "ayahStart": 247,
+  "ayahEnd": 249,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 247,
+      "missingWordPosition": 19,
+      "options": [
+        "بِٱلۡمُلۡكِ",
+        "بِجَالُوتَ",
+        "جَاوَزَهُۥ",
+        "فَشَرِبُواْ"
+      ],
+      "activityId": "act_002_52_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 247,
+      "correctNextAyahNumber": 248,
+      "wrongOptionsAyahNumbers": [
+        249,
+        245
+      ],
+      "activityId": "act_002_52_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 248,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلتَّابُوتُ",
+        "بِٱلۡجُنُودِ",
+        "مُبۡتَلِيكُم",
+        "ٱلۡمَلَٰٓئِكَةُۚ"
+      ],
+      "activityId": "act_002_52_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 248,
+      "correctNextAyahNumber": 249,
+      "wrongOptionsAyahNumbers": [
+        250,
+        246
+      ],
+      "activityId": "act_002_52_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 249,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلۡجُنُودِ",
+        "ٱلتَّابُوتُ",
+        "مُبۡتَلِيكُم",
+        "ٱلۡمَلَٰٓئِكَةُۚ"
+      ],
+      "activityId": "act_002_52_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يعرض اصطفاء طالوت وعودة التابوت، ثم ابتلاء الجنود بالنهر وتمييز الصابرين."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "nodeId": "node_043_02",
+  "title": "سورة الزخرف: دلائل التوحيد في تمهيد الأرض وتسخير الأنعام والفلك ودعاء الركوب",
+  "surahId": 43,
+  "ayahStart": 9,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_043_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْحَكِيمُ",
+        "ٱلْغَفُورُ"
+      ]
+    },
+    {
+      "activityId": "act_043_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_043_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "مَهْدًۭا",
+        "فِرَاشًا",
+        "قَرَارًا",
+        "بِسَاطًا"
+      ]
+    },
+    {
+      "activityId": "act_043_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_043_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "فَأَنشَرْنَا",
+        "فَأَحْيَيْنَا",
+        "فَأَنْبَتْنَا",
+        "فَسَقَيْنَا"
+      ]
+    },
+    {
+      "activityId": "act_043_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_043_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَزْوَٰجَ",
+        "ٱلْأَصْنَافَ",
+        "ٱلْخَلْقَ",
+        "ٱلْأَنْوَاعَ"
+      ]
+    },
+    {
+      "activityId": "act_043_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_043_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "لِتَسْتَوُۥا۟",
+        "لِتَرْكَبُوا۟",
+        "لِتَجْلِسُوا۟",
+        "لِتَعْلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_043_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 20,
+      "options": [
+        "مُقْرِنِينَ",
+        "مُطِيقِينَ",
+        "قَادِرِينَ",
+        "ضَابِطِينَ"
+      ]
+    },
+    {
+      "activityId": "act_043_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_043_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "لَمُنقَلِبُونَ",
+        "لَرَاجِعُونَ",
+        "لَصَائِرُونَ",
+        "لَمَيِّتُونَ"
+      ]
+    }
+  ]
+}

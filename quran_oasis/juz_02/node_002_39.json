@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_39",
+  "title": "سورة البقرة - الآيات 186-190",
+  "surahId": 2,
+  "ayahStart": 186,
+  "ayahEnd": 190,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 186,
+      "missingWordPosition": 12,
+      "options": [
+        "فَلۡيَسۡتَجِيبُواْ",
+        "وَلۡيُؤۡمِنُواْ",
+        "يُقَٰتِلُونَكُمۡ",
+        "ٱلۡمُعۡتَدِينَ"
+      ],
+      "activityId": "act_002_39_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 186,
+      "correctNextAyahNumber": 187,
+      "wrongOptionsAyahNumbers": [
+        188,
+        184
+      ],
+      "activityId": "act_002_39_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 187,
+      "missingWordPosition": 18,
+      "options": [
+        "تَخۡتَانُونَ",
+        "تَقۡرَبُوهَاۗ",
+        "تُبَٰشِرُوهُنَّ",
+        "لِتَأۡكُلُواْ"
+      ],
+      "activityId": "act_002_39_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 187,
+      "correctNextAyahNumber": 188,
+      "wrongOptionsAyahNumbers": [
+        189,
+        185
+      ],
+      "activityId": "act_002_39_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 188,
+      "missingWordPosition": 10,
+      "options": [
+        "لِتَأۡكُلُواْ",
+        "تَخۡتَانُونَ",
+        "وَٱبۡتَغُواْ",
+        "وَٱشۡرَبُواْ"
+      ],
+      "activityId": "act_002_39_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 188,
+      "correctNextAyahNumber": 189,
+      "wrongOptionsAyahNumbers": [
+        190,
+        186
+      ],
+      "activityId": "act_002_39_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 189,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ يَسۡـَٔلُونَكَ",
+        "وَلۡيُؤۡمِنُواْ",
+        "يُقَٰتِلُونَكُمۡ",
+        "ٱلۡمُعۡتَدِينَ"
+      ],
+      "activityId": "act_002_39_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 189,
+      "correctNextAyahNumber": 190,
+      "wrongOptionsAyahNumbers": [
+        191,
+        187
+      ],
+      "activityId": "act_002_39_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 190,
+      "missingWordPosition": 6,
+      "options": [
+        "يُقَٰتِلُونَكُمۡ",
+        "۞ يَسۡـَٔلُونَكَ",
+        "وَلۡيُؤۡمِنُواْ",
+        "ٱلۡمُعۡتَدِينَ"
+      ],
+      "activityId": "act_002_39_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر الأهلة والحج، ويدعو إلى التقوى، ثم يبين حرمة الاعتداء في القتال."
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "nodeId": "node_076_04",
+  "title": "سورة الإنسان: شراب الزنجبيل والسلسبيل والولدان المخلدون وحلي الفضة",
+  "surahId": 76,
+  "ayahStart": 17,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "activityId": "act_076_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيُسْقَوْنَ",
+        "وَيَشْرَبُونَ",
+        "وَيُؤْتَوْنَ",
+        "وَيَذُوقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 3,
+      "options": [
+        "كَأْسًۭا",
+        "شَرَابًا",
+        "مَاءً",
+        "خَمْرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "زَنجَبِيلًا",
+        "كَافُورًا",
+        "سَلْسَبِيلًا",
+        "تَسْنِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_076_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 1,
+      "options": [
+        "عَيْنًۭا",
+        "نَهْرًا",
+        "يَنْبُوعًا",
+        "رَوْضَةً"
+      ]
+    },
+    {
+      "activityId": "act_076_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 3,
+      "options": [
+        "تُسَمَّىٰ",
+        "تُدْعَىٰ",
+        "تُعْرَفُ",
+        "تُوصَفُ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "سَلْسَبِيلًۭا",
+        "تَسْنِيمًا",
+        "كَافُورًا",
+        "كَوْثَرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_076_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَيَطُوفُ",
+        "وَيَسْعَىٰ",
+        "وَيَقُومُ",
+        "وَيَخْدُمُ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "وِلْدَٰنٌۭ",
+        "غِلْمَانٌ",
+        "خَدَمٌ",
+        "أَصْحَابٌ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّخَلَّدُونَ",
+        "مُكْرَمُونَ",
+        "مُقَرَّبُونَ",
+        "طَائِفُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "حَسِبْتَهُمْ",
+        "ظَنَنْتَهُمْ",
+        "أَلْفَيْتَهُمْ",
+        "وَجَدْتَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 8,
+      "options": [
+        "لُؤْلُؤًۭا",
+        "دُرًّا",
+        "جَوْهَرًا",
+        "يَاقُوتًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_076_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 3,
+      "options": [
+        "ثَمَّ",
+        "هُنَاكَ",
+        "فِيهَا",
+        "حَوْلَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 5,
+      "options": [
+        "نَعِيمًۭا",
+        "فَضْلًا",
+        "رِزْقًا",
+        "خَيْرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 7,
+      "options": [
+        "كَبِيرًا",
+        "عَظِيمًا",
+        "جَلِيلًا",
+        "مُّبِينًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        17
+      ]
+    },
+    {
+      "activityId": "act_076_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 2,
+      "options": [
+        "ثِيَابُ",
+        "لِبَاسُ",
+        "حُلَلُ",
+        "كِسْوَةُ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "سُندُسٍ",
+        "حَرِيرٍ",
+        "دِيبَاجٍ",
+        "صُوفٍ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "خُضْرٌۭ",
+        "بِيضٌ",
+        "حُمْرٌ",
+        "صُفْرٌ"
+      ]
+    },
+    {
+      "activityId": "act_076_04_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "وَحُلُّوٓا۟",
+        "وَأُلْبِسُوا",
+        "وَزُيِّنُوا",
+        "وَأُعْطُوا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 7,
+      "options": [
+        "أَسَاوِرَ",
+        "حِلْيَةً",
+        "خَوَاتِمَ",
+        "تِيجَانًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 13,
+      "options": [
+        "طَهُورًا",
+        "لَذِيذًا",
+        "هَنِيئًا",
+        "عَذْبًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_076_04_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 5,
+      "options": [
+        "جَزَآءًۭ",
+        "ثَوَابًا",
+        "عَطَاءً",
+        "فَضْلًا"
+      ]
+    },
+    {
+      "activityId": "act_076_04_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "سَعْيُكُم",
+        "عَمَلُكُم",
+        "صَبْرُكُم",
+        "إِحْسَانُكُم"
+      ]
+    },
+    {
+      "activityId": "act_076_04_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 8,
+      "options": [
+        "مَّشْكُورًا",
+        "مَقْبُولًا",
+        "مَذْكُورًا",
+        "مَّرْضِيًّا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإنسان",
+    "juz": 29,
+    "theme": "كؤوس الزنجبيل وعين السلسبيل، وخدمة الغلمان المخلدين كاللؤلؤ المنثور، وعظمة النعيم والملك الكبير، وثياب السندس وحلي الفضة والشراب الطهور وسعي الأبرار المشكور."
+  }
+}

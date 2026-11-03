@@ -1,0 +1,222 @@
+{
+  "nodeId": "node_067_01",
+  "title": "سورة الملك: تبارك الخالق وخلق الموت والحياة وإتقان السماوات",
+  "surahId": 67,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_067_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "تَبَـٰرَكَ",
+        "تَعَالَىٰ",
+        "سُبْحَـٰنَ",
+        "قُدُّوسُ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُلْكُ",
+        "ٱلْأَمْرُ",
+        "ٱلْحَمْدُ",
+        "ٱلْخَلْقُ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_067_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَوْتَ",
+        "ٱلْخَلْقَ",
+        "ٱلْأَرْضَ",
+        "ٱلنَّاسَ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْحَيَوٰةَ",
+        "وَٱلْبَعْثَ",
+        "وَٱلنُّورَ",
+        "وَٱلرِّزْقَ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "أَحْسَنُ",
+        "أَكْثَرُ",
+        "أَعْظَمُ",
+        "أَقْوَمُ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_067_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "طِبَاقًۭا",
+        "عِظَامًا",
+        "مَّرْفُوعَةً",
+        "مَّوْزُونَةً"
+      ]
+    },
+    {
+      "activityId": "act_067_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 12,
+      "options": [
+        "تَفَـٰوُتٍۢ",
+        "خَلَلٍ",
+        "نَقْصٍ",
+        "عَيْبٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 18,
+      "options": [
+        "فُطُورٍۢ",
+        "شُقُوقٍ",
+        "عَيْبٍ",
+        "ضَعْفٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_067_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "كَرَّتَيْنِ",
+        "مَرَّتَيْنِ",
+        "تَارَتَيْنِ",
+        "دَوْرَتَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "خَاسِئًۭا",
+        "طَائِعًا",
+        "خَاضِعًا",
+        "ذَلِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_067_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "حَسِيرٌۭ",
+        "كَسِيرٌ",
+        "عَلِيلٌ",
+        "ضَعِيفٌ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_067_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "بِمَصَـٰبِيحَ",
+        "بِٱلنُّجُومِ",
+        "بِٱلْكَوَاكِبِ",
+        "بِٱلضِّيَاءِ"
+      ]
+    },
+    {
+      "activityId": "act_067_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 7,
+      "options": [
+        "رُجُومًۭا",
+        "شُهُبًا",
+        "حِمَايَةً",
+        "حَرَسًا"
+      ]
+    },
+    {
+      "activityId": "act_067_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلسَّعِيرِ",
+        "ٱلْجَحِيمِ",
+        "ٱلْهَاوِيَةِ",
+        "جَهَنَّمَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "تمجيد الله تعالى وكمال سلطانه، وبيان الحكمة من خلق الموت والحياة، وإتقان خلق السماوات وتزيينها بالمصابيح"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_29",
+  "title": "سورة الأعراف - الآيات 166-171",
+  "surahId": 7,
+  "ayahStart": 166,
+  "ayahEnd": 171,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 9,
+      "options": [
+        "كُونُوا۟",
+        "۞ وَإِذْ",
+        "لَسَرِيعُ",
+        "نَتَقْنَا"
+      ],
+      "activityId": "act_007_29_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "wrongOptionsAyahNumbers": [
+        168,
+        164
+      ],
+      "activityId": "act_007_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْعَذَابِ ۗ",
+        "وَأَقَامُوا۟",
+        "وَيَقُولُونَ",
+        "وَٱذْكُرُوا۟"
+      ],
+      "activityId": "act_007_29_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 167,
+      "correctNextAyahNumber": 168,
+      "wrongOptionsAyahNumbers": [
+        169,
+        165
+      ],
+      "activityId": "act_007_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰلِحُونَ",
+        "ءَاتَيْنَـٰكُم",
+        "يَأْخُذُوهُ ۚ",
+        "ٱلْعَذَابِ ۗ"
+      ],
+      "activityId": "act_007_29_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "wrongOptionsAyahNumbers": [
+        170,
+        166
+      ],
+      "activityId": "act_007_29_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 11,
+      "options": [
+        "وَيَقُولُونَ",
+        "ٱلْعِقَابِ ۖ",
+        "ٱلصَّـٰلِحُونَ",
+        "بِٱلْحَسَنَـٰتِ"
+      ],
+      "activityId": "act_007_29_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "wrongOptionsAyahNumbers": [
+        171,
+        167
+      ],
+      "activityId": "act_007_29_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُصْلِحِينَ",
+        "وَبَلَوْنَـٰهُم",
+        "وَٱلسَّيِّـَٔاتِ",
+        "وَقَطَّعْنَـٰهُمْ"
+      ],
+      "activityId": "act_007_29_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "wrongOptionsAyahNumbers": [
+        172,
+        168
+      ],
+      "activityId": "act_007_29_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 13,
+      "options": [
+        "ءَاتَيْنَـٰكُم",
+        "ٱلصَّـٰلِحُونَ",
+        "بِٱلْحَسَنَـٰتِ",
+        "وَبَلَوْنَـٰهُم"
+      ],
+      "activityId": "act_007_29_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_05",
+  "title": "سورة آل عمران - الآيات 21-25",
+  "surahId": 3,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَقۡتُلُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَٱلۡأٓخِرَةِ"
+      ],
+      "activityId": "act_003_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_003_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلۡأٓخِرَةِ",
+        "وَيَقۡتُلُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_003_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 20,
+      "options": [
+        "مُّعۡرِضُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "جَمَعۡنَٰهُمۡ"
+      ],
+      "activityId": "act_003_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ],
+      "activityId": "act_003_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 9,
+      "options": [
+        "مَّعۡدُودَٰتٖۖ",
+        "مُّعۡرِضُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ],
+      "activityId": "act_003_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "جَمَعۡنَٰهُمۡ",
+        "مَّعۡدُودَٰتٖۖ",
+        "مُّعۡرِضُونَ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يحذر المقطع من الجدل في آيات الله، ويقرر عدل الله يوم القيامة، ويذكر أن الغنى لا يدفع العذاب."
+  }
+}

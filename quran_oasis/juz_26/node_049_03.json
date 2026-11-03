@@ -1,0 +1,115 @@
+{
+  "nodeId": "node_049_03",
+  "title": "سورة الحجرات: الإصلاح بين المؤمنين ومقاتلة الفئة الباغية وأخوة الإيمان",
+  "surahId": 49,
+  "ayahStart": 9,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_049_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "طَآئِفَتَانِ",
+        "فِرْقَتَانِ",
+        "فِئَتَانِ",
+        "جَمَاعَتَانِ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "بَغَتْ",
+        "ظَلَمَتْ",
+        "تَعَدَّتْ",
+        "جَارَتْ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 17,
+      "options": [
+        "تَفِىٓءَ",
+        "تَرْجِعَ",
+        "تَعُودَ",
+        "تَنْقَادَ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 26,
+      "options": [
+        "وَأَقْسِطُوٓا۟ ۖ",
+        "وَٱحْكُمُوٓا۟",
+        "وَٱعْدِلُوٓا۟",
+        "وَٱرْحَمُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 30,
+      "options": [
+        "ٱلْمُقْسِطِينَ",
+        "ٱلصَّـٰبِرِينَ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_049_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "إِخْوَةٌۭ",
+        "أَحِبَّآءُ",
+        "أَوْلِيَآءُ",
+        "أَنْصَارٌ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "أَخَوَيْكُمْ ۚ",
+        "قَوْمِكُمْ",
+        "إِخْوَانِكُمْ",
+        "عَشِيرَتِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_049_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 10,
+      "options": [
+        "تُرْحَمُونَ",
+        "تُفْلِحُونَ",
+        "تَهْتَدُونَ",
+        "تُنْصَرُونَ"
+      ]
+    }
+  ]
+}

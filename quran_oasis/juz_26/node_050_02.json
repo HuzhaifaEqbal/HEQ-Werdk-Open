@@ -1,0 +1,167 @@
+{
+  "nodeId": "node_050_02",
+  "title": "سورة ق: دلائل القدرة في خلق السماء والأرض والنبات وإحياء الموتى",
+  "surahId": 50,
+  "ayahStart": 6,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_050_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "وَزَيَّنَّـٰهَا",
+        "وَسَوَّيْنَـٰهَا",
+        "وَرَفَعْنَـٰهَا",
+        "وَأَحْكَمْنَـٰهَا"
+      ]
+    },
+    {
+      "activityId": "act_050_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 12,
+      "options": [
+        "فُرُوجٍۢ",
+        "شُقُوقٍ",
+        "عَيْبٍ",
+        "صُدُوعٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_050_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "رَوَٰسِىَ",
+        "جِبَالًا",
+        "أَوْتَادًا",
+        "مَعَـٰلِمَ"
+      ]
+    },
+    {
+      "activityId": "act_050_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 11,
+      "options": [
+        "بَهِيجٍۢ",
+        "كَرِيمٍ",
+        "حَسَنٍ",
+        "نَضِيرٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_050_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 1,
+      "options": [
+        "تَبْصِرَةًۭ",
+        "مَوْعِظَةً",
+        "بَيَانًا",
+        "دَلِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_050_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_050_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّبَـٰرَكًۭا",
+        "طَهُورًا",
+        "فُرَاتًا",
+        "غَدَقًا"
+      ]
+    },
+    {
+      "activityId": "act_050_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_050_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "بَاسِقَـٰتٍۢ",
+        "عَالِيَاتٍ",
+        "مُثْمِرَاتٍ",
+        "طَوِيلَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "نَّضِيدٌۭ",
+        "كَثِيرٌ",
+        "مَّرْكُومٌ",
+        "مَّنْظُومٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_050_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْخُرُوجُ",
+        "ٱلنُّشُورُ",
+        "ٱلْبَعْثُ",
+        "ٱلْمَعَادُ"
+      ]
+    }
+  ]
+}

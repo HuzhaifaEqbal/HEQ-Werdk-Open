@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_088_04",
+  "title": "سورة الغاشية - المقطع الرابع (مهمة الرسول وحتمية الرجوع والحساب لله)",
+  "surahId": 88,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "فَذَكِّرْ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَذَكِّرْ",
+        "فَأَنْذِرْ",
+        "فَبَلِّغْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "مُذَكِّرٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "مُذَكِّرٌ",
+        "مُسَيْطِرٌ",
+        "وَكِيلٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "عَلَيْهِم",
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَيْهِم",
+        "فِيهِمْ",
+        "مِنْهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "بِمُصَيْطِرٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِمُصَيْطِرٍ",
+        "بِمُذَكِّرٍ",
+        "بِوَكِيلٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "تَوَلَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَوَلَّىٰ",
+        "أَعْرَضَ",
+        "طَغَىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "وَكَفَرَ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَكَفَرَ",
+        "وَفَسَقَ",
+        "وَأَشْرَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "فَيُعَذِّبُهُ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَيُعَذِّبُهُ",
+        "فَيَجْزِيهِ",
+        "فَيُهْلِكُهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "ٱلْأَكْبَرَ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَكْبَرَ",
+        "ٱلْأَلِيمَ",
+        "ٱلْمُهِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        21,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "إِلَيْنَآ",
+      "missingWordPosition": 2,
+      "options": [
+        "إِلَيْنَآ",
+        "إِلَىٰ رَبِّهِمْ",
+        "إِلَى ٱللَّهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "إِيَابَهُمْ",
+      "missingWordPosition": 3,
+      "options": [
+        "إِيَابَهُمْ",
+        "رُجُوعَهُمْ",
+        "مَصِيرَهُمْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "عَلَيْنَا",
+      "missingWordPosition": 3,
+      "options": [
+        "عَلَيْنَا",
+        "إِلَيْنَا",
+        "لَدَيْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "حِسَابَهُمْ",
+      "missingWordPosition": 4,
+      "options": [
+        "حِسَابَهُمْ",
+        "جَزَاءَهُمْ",
+        "عَذَابَهُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "فذكّر يا رسول الله الناس وعظهم بما أوتيت من الهدى؛ فما عليك إلا البلاغ والنصح والتذكير، ولست عليهم بمتسلط ولا جبار تجبرهم على الإيمان، لكن من أدبر عن التذكرة وأصر على كفره وجحوده، فيعذبه الله العذاب الأكبر وهو نار جهنم الخالدة، إن إلينا وحدنا مرجعهم ومآبهم بعد موتهم، ثم إن علينا وحدنا محاسبتهم ومجازاتهم على أعمالهم كلها."
+  }
+}

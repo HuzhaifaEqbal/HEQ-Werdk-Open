@@ -1,0 +1,145 @@
+{
+  "nodeId": "node_042_10",
+  "title": "سورة الشورى: هبة الذكور والإناث والعقم وطرق تكليم الله للبشر والوحي بالروح والنور",
+  "surahId": 42,
+  "ayahStart": 49,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "activityId": "act_042_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 9,
+      "options": [
+        "لِمَن",
+        "يُعْطِى",
+        "يَرْزُقُ",
+        "يَقْسِمُ"
+      ]
+    },
+    {
+      "activityId": "act_042_10_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_042_10_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "يُزَوِّجُهُمْ",
+        "يَجْمَعُهُمْ",
+        "يَخْلِطُهُمْ",
+        "يَهَبُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_042_10_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 8,
+      "options": [
+        "عَقِيمًا ۚ",
+        "فَرْدًا",
+        "وَحِيدًا",
+        "مَحْرُومًا"
+      ]
+    },
+    {
+      "activityId": "act_042_10_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_042_10_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 12,
+      "options": [
+        "حِجَابٍ",
+        "سِتْرٍ",
+        "غِطَاءٍ",
+        "سَحَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 15,
+      "options": [
+        "رَسُولًۭا",
+        "مَلَكًا",
+        "نَبِيًّا",
+        "بَشِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_042_10_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        1
+      ]
+    },
+    {
+      "activityId": "act_042_10_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 4,
+      "options": [
+        "رُوحًۭا",
+        "قُرْآنًا",
+        "كِتَابًا",
+        "نُورًا"
+      ]
+    },
+    {
+      "activityId": "act_042_10_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 16,
+      "options": [
+        "نُورًۭا",
+        "هُدًى",
+        "ضِيَاءً",
+        "بُرْهَانًا"
+      ]
+    },
+    {
+      "activityId": "act_042_10_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_042_10_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 14,
+      "options": [
+        "تَصِيرُ",
+        "تَرْجِعُ",
+        "تَنْتَهِى",
+        "تَؤُولُ"
+      ]
+    }
+  ]
+}

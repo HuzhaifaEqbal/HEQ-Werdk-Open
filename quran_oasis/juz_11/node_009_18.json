@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_009_18",
+  "title": "سورة التوبة - الآيات 99-104",
+  "surahId": 9,
+  "ayahStart": 99,
+  "ayahEnd": 104,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَعْرَابِ",
+        "وَءَاخَرُونَ",
+        "ٱتَّبَعُوهُم",
+        "ٱعْتَرَفُوا۟"
+      ],
+      "activityId": "act_009_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_009_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُهَـٰجِرِينَ",
+        "ٱلْمَدِينَةِ ۖ",
+        "مُنَـٰفِقُونَ ۖ",
+        "تَعْلَمُهُمْ ۖ"
+      ],
+      "activityId": "act_009_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_009_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمَدِينَةِ ۖ",
+        "وَٱلْأَنصَارِ",
+        "وَٱلسَّـٰبِقُونَ",
+        "ٱلْمُهَـٰجِرِينَ"
+      ],
+      "activityId": "act_009_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_009_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱعْتَرَفُوا۟",
+        "ٱلرَّسُولِ ۚ",
+        "ٱلْأَعْرَابِ",
+        "وَتُزَكِّيهِم"
+      ],
+      "activityId": "act_009_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "wrongOptionsAyahNumbers": [
+        104,
+        100
+      ],
+      "activityId": "act_009_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 6,
+      "options": [
+        "وَتُزَكِّيهِم",
+        "بِذُنُوبِهِمْ",
+        "ٱلْأَوَّلُونَ",
+        "رَحْمَتِهِۦٓ ۗ"
+      ],
+      "activityId": "act_009_18_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_009_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 2,
+      "options": [
+        "يَعْلَمُوٓا۟",
+        "عَلَيْهِمْ ۚ",
+        "أَمْوَٰلِهِمْ",
+        "تُطَهِّرُهُمْ"
+      ],
+      "activityId": "act_009_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 11,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_07",
+  "title": "سورة آل عمران - الآيات 31-35",
+  "surahId": 3,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱتَّبِعُونِي",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_003_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلرَّسُولَۖ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلۡعَٰلَمِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_003_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلۡعَٰلَمِينَ",
+        "وَٱلرَّسُولَۖ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_003_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "بَعۡضُهَا",
+        "ءَامَنَّا",
+        "ءَانَآءَ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_003_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلسَّمِيعُ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ",
+        "بَعۡضُهَا"
+      ],
+      "activityId": "act_003_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يأمر الله بطاعته ومحبته باتباع الرسول، ثم يذكر اصطفاء آدم ونوح وآل إبراهيم وآل عمران."
+  }
+}

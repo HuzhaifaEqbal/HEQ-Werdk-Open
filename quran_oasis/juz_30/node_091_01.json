@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_091_01",
+  "title": "سورة الشمس - المقطع الأول (القَسَم الكوني العظيم بآيات النهار والليل والسماء والأرض)",
+  "surahId": 91,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلشَّمْسِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلشَّمْسِ",
+        "وَٱلْقَمَرِ",
+        "وَٱلنَّهَارِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَضُحَىٰهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "وَضُحَىٰهَا",
+        "وَضِيَائِهَا",
+        "وَنُورِهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَٱلْقَمَرِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْقَمَرِ",
+        "وَٱلنَّجْمِ",
+        "وَٱلَّيْلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "تَلَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "تَلَىٰهَا",
+        "ٱتَّسَقَ",
+        "أَضَاءَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَٱلنَّهَارِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "وَٱلصُّبْحِ",
+        "وَٱلْفَجْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "جَلَّىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "جَلَّىٰهَا",
+        "أَظْهَرَهَا",
+        "كَشَفَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَٱلَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلَّيْلِ",
+        "وَٱلشَّفَقِ",
+        "وَٱلْفَجْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "يَغْشَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "يَغْشَىٰهَا",
+        "يُظْلِمُهَا",
+        "يَسْرِي"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        1,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "وَٱلسَّمَآءِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلسَّمَآءِ",
+        "وَٱلْأَرْضِ",
+        "وَٱلْجِبَالِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "بَنَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "بَنَىٰهَا",
+        "رَفَعَهَا",
+        "سَوَّاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "وَٱلْأَرْضِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْأَرْضِ",
+        "وَٱلسَّمَاءِ",
+        "وَٱلْجِبَالِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "طَحَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "طَحَىٰهَا",
+        "بَسَطَهَا",
+        "مَدَّهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالشمس ونورها وإشراقها وقت الضحى، وبالقمر إذا تبعها في الإضاءة بعد غروبها، وبالنهار إذا كشف الظلمة وأجلاها بنوره، وبالليل إذا يغطي الأرض ويغشاها بظلامه، وبالسماء البديعة وبنائها المحكم المرفوع، وبالأرض وبسطها ومدّها وتسويتها (طحاها) لتكون مهداً لمعاش الخلائق."
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "nodeId": "node_077_04",
+  "title": "سورة المرسلات: كفاية الأرض ونعمة الجبال وظلال جهنم وشررها كالقصر",
+  "surahId": 77,
+  "ayahStart": 25,
+  "ayahEnd": 34,
+  "activities": [
+    {
+      "activityId": "act_077_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَرْضَ",
+        "ٱلْبِلَادَ",
+        "ٱلْمِهَادَ",
+        "ٱلْأَوْطَانَ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "كِفَاتًا",
+        "مِهَادًا",
+        "قَرَارًا",
+        "فِرَاشًا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_077_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "أَحْيَآءًۭ",
+        "مَعَاشًا",
+        "سَكَنًا",
+        "مَأْوًى"
+      ]
+    },
+    {
+      "activityId": "act_077_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَمْوَٰتًۭا",
+        "وَرُفَاتًا",
+        "وَقُبُورًا",
+        "وَجُدُثًا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_077_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "رَوَٰسِىَ",
+        "جِبَالًا",
+        "أَوْتَادًا",
+        "هضَابًا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "شَـٰمِخَـٰتٍۢ",
+        "عَالِيَاتٍ",
+        "رَاسِيَاتٍ",
+        "ثَابِتَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَسْقَيْنَـٰكُم",
+        "وَأَنْزَلْنَا",
+        "وَأَجْرَيْنَا",
+        "وَأَنْبَعْنَا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 7,
+      "options": [
+        "فُرَاتًۭا",
+        "عَذْبًا",
+        "طَهُورًا",
+        "سَائِغًا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_077_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_077_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱنطَلِقُوٓا۟",
+        "ٱذْهَبُوا",
+        "سِيرُوا",
+        "ٱدْخُلُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "تُكَذِّبُونَ",
+        "تَجْحَدُونَ",
+        "تَسْتَهْزِئُونَ",
+        "تَمْتَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_077_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "ظِلٍّۢ",
+        "دُخَانٍ",
+        "نَارٍ",
+        "سَمُومٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "ثَلَـٰثِ",
+        "سَبْعِ",
+        "أَرْبَعِ",
+        "خَمْسِ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "شُعَبٍۢ",
+        "طَبَقَاتٍ",
+        "أَبْوَابٍ",
+        "فِرَقٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_077_04_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "ظَلِيلٍۢ",
+        "بَارِدٍ",
+        "كَافٍ",
+        "مَانِعٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "يُغْنِى",
+        "يَحْمِى",
+        "يَصْرِفُ",
+        "يَدْفَعُ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱللَّهَبِ",
+        "ٱلْعَذَابِ",
+        "ٱلنَّارِ",
+        "ٱلْحَرِيقِ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_077_04_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 2,
+      "options": [
+        "تَرْمِى",
+        "تَقْذِفُ",
+        "تَبْعَثُ",
+        "تُلْقِى"
+      ]
+    },
+    {
+      "activityId": "act_077_04_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "بِشَرَرٍۢ",
+        "بِلَهَبٍ",
+        "بِجَمْرٍ",
+        "بِشُوَاظٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 4,
+      "options": [
+        "كَٱلْقَصْرِ",
+        "كَٱلْجَبَلِ",
+        "كَٱلْبُنْيَانِ",
+        "كَٱلْحِصْنِ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_27",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        25
+      ]
+    },
+    {
+      "activityId": "act_077_04_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 2,
+      "options": [
+        "جِمَـٰلَتٌۭ",
+        "نُوقٌ",
+        "إِبِلٌ",
+        "خَيْلٌ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_29",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "صُفْرٌۭ",
+        "سُودٌ",
+        "حُمْرٌ",
+        "شُهْبٌ"
+      ]
+    },
+    {
+      "activityId": "act_077_04_30",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "بيان نعمة جعل الأرض كفاتاً للأحياء والأموات ورواسي شامخات وماءً فراتاً، ثم تصوير انطلاق الكفار إلى ظل ذي ثلاث شعب ونار ترمي بشرر كالقصر كأنه جمالت صفر."
+  }
+}

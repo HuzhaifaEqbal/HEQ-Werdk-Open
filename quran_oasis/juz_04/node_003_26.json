@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_26",
+  "title": "سورة آل عمران - الآيات 123-127",
+  "surahId": 3,
+  "ayahStart": 123,
+  "ayahEnd": 127,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱتَّقُواْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_26_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "wrongOptionsAyahNumbers": [
+        125,
+        121
+      ],
+      "activityId": "act_003_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 3,
+      "options": [
+        "لِلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "فَيَنقَلِبُواْ"
+      ],
+      "activityId": "act_003_26_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "wrongOptionsAyahNumbers": [
+        126,
+        122
+      ],
+      "activityId": "act_003_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَأۡتُوكُم",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَلِتَطۡمَئِنَّ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_26_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_003_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 7,
+      "options": [
+        "وَلِتَطۡمَئِنَّ",
+        "وَيَأۡتُوكُم",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_26_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_003_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 8,
+      "options": [
+        "فَيَنقَلِبُواْ",
+        "لِلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_26_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر أن النصر من عند الله وحده، ويدعو إلى التقوى، وينهى عن الربا ويحث على المسارعة للمغفرة."
+  }
+}

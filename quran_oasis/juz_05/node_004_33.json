@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_33",
+  "title": "سورة النساء - الآيات 159-163",
+  "surahId": 4,
+  "ayahStart": 159,
+  "ayahEnd": 163,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 6,
+      "options": [
+        "لَيُؤۡمِنَنَّ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "وَبِصَدِّهِمۡ"
+      ],
+      "activityId": "act_004_33_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "wrongOptionsAyahNumbers": [
+        161,
+        157
+      ],
+      "activityId": "act_004_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 10,
+      "options": [
+        "وَبِصَدِّهِمۡ",
+        "لَيُؤۡمِنَنَّ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_33_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "wrongOptionsAyahNumbers": [
+        162,
+        158
+      ],
+      "activityId": "act_004_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 10,
+      "options": [
+        "وَأَعۡتَدۡنَا",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_33_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "wrongOptionsAyahNumbers": [
+        163,
+        159
+      ],
+      "activityId": "act_004_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلۡمُؤۡمِنُونَ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_33_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 162,
+      "correctNextAyahNumber": 163,
+      "wrongOptionsAyahNumbers": [
+        164,
+        160
+      ],
+      "activityId": "act_004_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 17,
+      "options": [
+        "وَٱلۡأَسۡبَاطِ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "وَأَعۡتَدۡنَا"
+      ],
+      "activityId": "act_004_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يؤكد صدق الوحي والرسالة، ويدعو أهل الكتاب إلى ترك الغلو في الدين والإيمان بالله وحده."
+  }
+}

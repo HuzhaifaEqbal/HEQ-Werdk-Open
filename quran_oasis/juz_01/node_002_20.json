@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_20",
+  "title": "سورة البقرة - الآيات 95-99",
+  "surahId": 2,
+  "ayahStart": 95,
+  "ayahEnd": 99,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱلظَّٰلِمِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "بِمُزَحۡزِحِهِۦ"
+      ],
+      "activityId": "act_002_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_002_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 17,
+      "options": [
+        "بِمُزَحۡزِحِهِۦ",
+        "بِٱلظَّٰلِمِينَ",
+        "لِلۡمُؤۡمِنِينَ",
+        "وَمَلَٰٓئِكَتِهِۦ"
+      ],
+      "activityId": "act_002_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_002_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 18,
+      "options": [
+        "لِلۡمُؤۡمِنِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "بِمُزَحۡزِحِهِۦ"
+      ],
+      "activityId": "act_002_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_002_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 5,
+      "options": [
+        "وَمَلَٰٓئِكَتِهِۦ",
+        "بِٱلظَّٰلِمِينَ",
+        "لِلۡمُؤۡمِنِينَ",
+        "ءَأَنذَرۡتَهُمۡ"
+      ],
+      "activityId": "act_002_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_002_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلۡفَٰسِقُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَمَلَٰٓئِكَتِهِۦ"
+      ],
+      "activityId": "act_002_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يذكر تمني بعض أهل الكتاب رد المؤمنين عن إيمانهم، ويدعو إلى العفو والصفح وإقامة الصلاة والزكاة."
+  }
+}

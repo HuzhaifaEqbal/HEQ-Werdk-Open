@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_005_17",
+  "title": "سورة المائدة - الآيات 79-81",
+  "surahId": 5,
+  "ayahStart": 79,
+  "ayahEnd": 81,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 3,
+      "options": [
+        "يَتَنَاهَوْنَ",
+        "ٱتَّخَذُوهُمْ",
+        "يَتَوَلَّوْنَ",
+        "أَوْلِيَآءَ"
+      ],
+      "activityId": "act_005_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_005_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 4,
+      "options": [
+        "يَتَوَلَّوْنَ",
+        "وَٱلنَّبِىِّ",
+        "فَعَلُوهُ ۚ",
+        "يَفْعَلُونَ"
+      ],
+      "activityId": "act_005_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_005_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱتَّخَذُوهُمْ",
+        "يَتَنَاهَوْنَ",
+        "أَنفُسُهُمْ",
+        "كَفَرُوا۟ ۚ"
+      ],
+      "activityId": "act_005_17_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

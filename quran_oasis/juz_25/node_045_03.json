@@ -1,0 +1,99 @@
+{
+  "nodeId": "node_045_03",
+  "title": "سورة الجاثية: تسخير البحر والكون للإنسان والعفو عن المسيئين ومسؤولية العمل",
+  "surahId": 45,
+  "ayahStart": 12,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_045_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْفُلْكُ",
+        "ٱلسُّفُنُ",
+        "ٱلْجَوَارِى",
+        "ٱلْمَرَاكِبُ"
+      ]
+    },
+    {
+      "activityId": "act_045_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_045_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 16,
+      "options": [
+        "يَتَفَكَّرُونَ",
+        "يَعْقِلُونَ",
+        "يَشْكُرُونَ",
+        "يَعْلَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_045_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_045_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "يَغْفِرُوا۟",
+        "يَصْفَحُوا۟",
+        "يَعْفُوا۟",
+        "يَتَجَاوَزُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_045_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 8,
+      "options": [
+        "أَيَّامَ",
+        "نَصْرَ",
+        "وَعْدَ",
+        "عِقَابَ"
+      ]
+    },
+    {
+      "activityId": "act_045_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_045_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "فَعَلَيْهَا ۖ",
+        "فَلِأَهْلِهِ",
+        "فَعَلَيْكُمْ",
+        "فَلِلنَّاسِ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "nodeId": "node_061_03",
+  "title": "سورة الصف: افتراء الكذب وإتمام نور الله وظهور دين الحق",
+  "surahId": 61,
+  "ayahStart": 7,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_061_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "أَظْلَمُ",
+        "أَشَدُّ",
+        "أَكْبَرُ",
+        "أَعْظَمُ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱفْتَرَىٰ",
+        "ٱخْتَلَقَ",
+        "تَقَوَّلَ",
+        "وَضَعَ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْإِسْلَـٰمِ ۚ",
+        "ٱلْإِيمَانِ",
+        "ٱلْحَقِّ",
+        "ٱلْهُدَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        7
+      ]
+    },
+    {
+      "activityId": "act_061_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "لِيُطْفِـُٔوا۟",
+        "لِيَمْحُوا۟",
+        "لِيُبْطِلُوا۟",
+        "لِيُزِيلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_061_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "نُورَ",
+        "دِينَ",
+        "حَقَّ",
+        "كَلِمَةَ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "بِأَفْوَٰهِهِمْ",
+        "بِأَلْسِنَتِهِمْ",
+        "بِمَكْرِهِمْ",
+        "بِقُوَّتِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "مُتِمُّ",
+        "مُظْهِرُ",
+        "نَاصِرُ",
+        "مُعِزُّ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْمُشْرِكُونَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلظَّـٰلِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_061_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْهُدَىٰ",
+        "بِٱلنُّورِ",
+        "بِٱلْكِتَابِ",
+        "بِٱلْبَيَانِ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحَقِّ",
+        "ٱلْإِسْلَامِ",
+        "ٱلْإِيمَانِ",
+        "ٱلصِّدْقِ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "لِيُظْهِرَهُۥ",
+        "لِيَنْصُرَهُۥ",
+        "لِيَرْفَعَهُۥ",
+        "لِيُثَبِّتَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_061_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمُشْرِكُونَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْمُنَافِقُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصف",
+    "juz": 28,
+    "theme": "بيان ظلم من افترى على الله الكذب وهو يدعى إلى الإسلام، ومحاولة الكفار العابثة إطفاء نور الله بأفواههم ووعد الله بإتمام نوره وإظهار دينه الحق على سائر الأديان."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_08",
+  "title": "سورة آل عمران - الآيات 36-40",
+  "surahId": 3,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 14,
+      "options": [
+        "كَٱلۡأُنثَىٰۖ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَأَنۢبَتَهَا"
+      ],
+      "activityId": "act_003_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_003_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَنۢبَتَهَا",
+        "كَٱلۡأُنثَىٰۖ",
+        "وَٱمۡرَأَتِي",
+        "ٱلۡمَلَٰٓئِكَةُ"
+      ],
+      "activityId": "act_003_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_003_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلدُّعَآءِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_003_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡمَلَٰٓئِكَةُ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "كَٱلۡأُنثَىٰۖ",
+        "وَأَنۢبَتَهَا"
+      ],
+      "activityId": "act_003_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_003_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱمۡرَأَتِي",
+        "ٱلۡمَلَٰٓئِكَةُ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يعرض نذر امرأة عمران، وميلاد مريم، وكفالة زكريا لها، ودعاء زكريا ربه بالذرية."
+  }
+}

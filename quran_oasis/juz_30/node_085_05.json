@@ -1,0 +1,178 @@
+{
+  "nodeId": "hifz_085_05",
+  "title": "سورة البروج - المقطع الخامس (عبرة الطغاة وحفظ القرآن في اللوح المحفوظ)",
+  "surahId": 85,
+  "ayahStart": 17,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "حَدِيثُ",
+      "missingWordPosition": 3,
+      "options": [
+        "حَدِيثُ",
+        "نَبَأُ",
+        "خَبَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ٱلْجُنُودِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْجُنُودِ",
+        "ٱلْقُرُونِ",
+        "ٱلْأُمَمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "فِرْعَوْنَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فِرْعَوْنَ",
+        "قَارُونَ",
+        "هَامَانَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "وَثَمُودَ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَثَمُودَ",
+        "وَعَادٍ",
+        "وَمَدْيَنَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "تَكْذِيبٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "تَكْذِيبٍ",
+        "ضَلَالٍ",
+        "شِقَاقٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "وَرَآئِهِم",
+      "missingWordPosition": 3,
+      "options": [
+        "وَرَآئِهِم",
+        "دُونِهِمْ",
+        "فَوْقِهِمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "مُّحِيطٌۢ",
+      "missingWordPosition": 4,
+      "options": [
+        "مُّحِيطٌۢ",
+        "شَهِيدٌ",
+        "بَصِيرٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "قُرْءَانٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "قُرْءَانٌ",
+        "كِتَابٌ",
+        "وَحْيٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "مَّجِيدٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "مَّجِيدٌ",
+        "كَرِيمٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "لَوْحٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "لَوْحٍ",
+        "كِتَابٍ",
+        "سِجِلٍّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "مَّحْفُوظٍۭ",
+      "missingWordPosition": 3,
+      "options": [
+        "مَّحْفُوظٍۭ",
+        "مَّرْقُومٍ",
+        "مَّكْنُونٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "هل بلغك يا نبي الله خبر الجموع الطاغية المحاربة لله ورسله: فرعون وجنوده، وثمود وقوم صالح، وما حلّ بهم من الهلاك والدمار التام؟! ورغم وضوح تلك العِبر، فإن كفار قريش مستمرون في التكذيب والعناد، والله محيط بهم وبأعمالهم لا يفوتونه ولا يعجزونه، وليس هذا القرآن سحراً ولا كهانة كما زعموا، بل هو قرآن مجيد عظيم الشرف محفوظ في اللوح المحفوظ عند الله من كل تبديل أو تحريف أو نقص."
+  }
+}

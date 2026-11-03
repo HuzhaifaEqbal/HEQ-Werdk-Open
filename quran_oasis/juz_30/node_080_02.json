@@ -1,0 +1,156 @@
+{
+  "nodeId": "hifz_080_02",
+  "title": "سورة عبس - المقطع الثاني (مكانة القرآن وقدسية الصحف والملائكة)",
+  "surahId": 80,
+  "ayahStart": 11,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "تَذْكِرَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَذْكِرَةٌ",
+        "مَوْعِظَةٌ",
+        "بَصِيرَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ذَكَرَهُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ذَكَرَهُ",
+        "تَبِعَهُ",
+        "حَفِظَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "صُحُفٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "صُحُفٍ",
+        "كُتُبٍ",
+        "أَلْوَاحٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "مُّكَرَّمَةٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُّكَرَّمَةٍ",
+        "مُّطَهَّرَةٍ",
+        "مَّرْفُوعَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "مَّرْفُوعَةٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "مَّرْفُوعَةٍ",
+        "مُّكَرَّمَةٍ",
+        "مَّحْفُوظَةٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "مُّطَهَّرَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "مُّطَهَّرَةٍ",
+        "مُّكَرَّمَةٍ",
+        "مُّبَارَكَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        12,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "سَفَرَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "سَفَرَةٍ",
+        "مَلَائِكَةٍ",
+        "حَفَظَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "كِرَامٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "كِرَامٍ",
+        "عِظَامٍ",
+        "أَبْرَارٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "بَرَرَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "بَرَرَةٍ",
+        "طَهَرَةٍ",
+        "أَبْرَارٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "حقاً وصدقاً؛ إن آيات هذا القرآن موعظة وتذكرة بليغة شاملة للخلائق، فمن شاء اتعظ به واهتدى بنوره. وهذا القرآن محفوظ في صحف معظمة رفيعة المنزلة عند الله (في صحف مكرمة)، عالية القدر والمنزلة منزهة عن الزيادة والنقصان والتحريف (مرفوعة مطهرة)، تتنزل به وتكتبه أيدي ملائكة سفراء بين الله وأنبيائه (سَفَرة)، شرفاء مطهرون وصادقون مطيعون لأمر ربهم في كل شأن (كرام بررة)."
+  }
+}

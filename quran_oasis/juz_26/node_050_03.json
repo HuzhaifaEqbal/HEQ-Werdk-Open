@@ -1,0 +1,111 @@
+{
+  "nodeId": "node_050_03",
+  "title": "سورة ق: مصارع الأمم المكذبة والقدرة التامة على الخلق الأول والجديد",
+  "surahId": 50,
+  "ayahStart": 12,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_050_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلرَّسِّ",
+        "ٱلْأَيْكَةِ",
+        "ٱلْحِجْرِ",
+        "ٱلْقَرْيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_050_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_050_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "وَإِخْوَٰنُ",
+        "وَقَوْمُ",
+        "وَأَصْحَـٰبُ",
+        "وَعَشِيرَةُ"
+      ]
+    },
+    {
+      "activityId": "act_050_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_050_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "تُبَّعٍۢ ۚ",
+        "مَدْيَنَ",
+        "يُونُسَ",
+        "إِبْرَاهِيمَ"
+      ]
+    },
+    {
+      "activityId": "act_050_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 9,
+      "options": [
+        "وَعِيدِ",
+        "عَذَابِى",
+        "عِقَابِ",
+        "نَذِيرِ"
+      ]
+    },
+    {
+      "activityId": "act_050_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_050_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَعَيِينَا",
+        "أَفَعَجَزْنَا",
+        "أَفَتَعِبْنَا",
+        "أَفَقَصَرْنَا"
+      ]
+    },
+    {
+      "activityId": "act_050_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "لَبْسٍۢ",
+        "شَكٍّ",
+        "رَيْبٍ",
+        "مِرْيَةٍ"
+      ]
+    }
+  ]
+}

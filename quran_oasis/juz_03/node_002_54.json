@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_54",
+  "title": "سورة البقرة - الآيات 253-257",
+  "surahId": 2,
+  "ayahStart": 253,
+  "ayahEnd": 257,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 253,
+      "missingWordPosition": 14,
+      "options": [
+        "وَءَاتَيۡنَا",
+        "بِٱلطَّٰغُوتِ",
+        "بِٱلۡعُرۡوَةِ",
+        "ٱقۡتَتَلُواْ"
+      ],
+      "activityId": "act_002_54_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 253,
+      "correctNextAyahNumber": 254,
+      "wrongOptionsAyahNumbers": [
+        255,
+        251
+      ],
+      "activityId": "act_002_54_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 254,
+      "missingWordPosition": 19,
+      "options": [
+        "وَٱلۡكَٰفِرُونَ",
+        "أَوۡلِيَآؤُهُمُ",
+        "يُخۡرِجُونَهُم",
+        "وَءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_54_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 254,
+      "correctNextAyahNumber": 255,
+      "wrongOptionsAyahNumbers": [
+        256,
+        252
+      ],
+      "activityId": "act_002_54_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 255,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡقَيُّومُۚ",
+        "أَنفِقُواْ",
+        "أَيۡدِيهِمۡ",
+        "بِإِذۡنِهِۦۚ"
+      ],
+      "activityId": "act_002_54_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 255,
+      "correctNextAyahNumber": 256,
+      "wrongOptionsAyahNumbers": [
+        257,
+        253
+      ],
+      "activityId": "act_002_54_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 256,
+      "missingWordPosition": 12,
+      "options": [
+        "بِٱلطَّٰغُوتِ",
+        "ٱلظَّٰلِمُونَ",
+        "بِٱلۡعُرۡوَةِ",
+        "وَءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_54_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 256,
+      "correctNextAyahNumber": 257,
+      "wrongOptionsAyahNumbers": [
+        258,
+        254
+      ],
+      "activityId": "act_002_54_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 257,
+      "missingWordPosition": 12,
+      "options": [
+        "أَوۡلِيَآؤُهُمُ",
+        "وَٱلۡكَٰفِرُونَ",
+        "يُخۡرِجُونَهُم",
+        "بِٱلطَّٰغُوتِ"
+      ],
+      "activityId": "act_002_54_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يبين اختلاف أحوال الرسل، ويدعو المؤمنين إلى الإنفاق، ثم يذكر آية الكرسي والتوحيد والثبات على الإيمان."
+  }
+}

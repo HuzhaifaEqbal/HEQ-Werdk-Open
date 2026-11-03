@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_34",
+  "title": "سورة البقرة - الآيات 161-165",
+  "surahId": 2,
+  "ayahStart": 161,
+  "ayahEnd": 165,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلۡمَلَٰٓئِكَةِ",
+        "وَٱلسَّحَابِ",
+        "وَٱلنَّهَارِ",
+        "يُحِبُّونَهُمۡ"
+      ],
+      "activityId": "act_002_34_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "wrongOptionsAyahNumbers": [
+        163,
+        159
+      ],
+      "activityId": "act_002_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡعَذَابُ",
+        "أَجۡمَعِينَ",
+        "أَندَادٗا",
+        "وَإِلَٰهُكُمۡ"
+      ],
+      "activityId": "act_002_34_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 162,
+      "correctNextAyahNumber": 163,
+      "wrongOptionsAyahNumbers": [
+        164,
+        160
+      ],
+      "activityId": "act_002_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلرَّحۡمَٰنُ",
+        "وَتَصۡرِيفِ",
+        "وَمَاتُواْ",
+        "وَٱخۡتِلَٰفِ"
+      ],
+      "activityId": "act_002_34_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "wrongOptionsAyahNumbers": [
+        165,
+        161
+      ],
+      "activityId": "act_002_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "وَٱلسَّحَابِ",
+        "يُحِبُّونَهُمۡ",
+        "وَٱلنَّاسِ"
+      ],
+      "activityId": "act_002_34_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "wrongOptionsAyahNumbers": [
+        166,
+        162
+      ],
+      "activityId": "act_002_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 9,
+      "options": [
+        "يُحِبُّونَهُمۡ",
+        "وَٱلنَّهَارِ",
+        "وَٱلسَّحَابِ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_002_34_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يقرر أن الله واحد، ويعرض حال من اتخذوا أنداداً ثم تبرأ بعضهم من بعض يوم القيامة."
+  }
+}

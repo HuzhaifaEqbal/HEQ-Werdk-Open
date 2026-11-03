@@ -1,0 +1,153 @@
+{
+  "nodeId": "node_044_07",
+  "title": "سورة الدخان: مقام المتقين الأمين وثياب السندس والحور العين والفوز العظيم",
+  "surahId": 44,
+  "ayahStart": 51,
+  "ayahEnd": 59,
+  "activities": [
+    {
+      "activityId": "act_044_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 5,
+      "options": [
+        "أَمِينٍۢ",
+        "كَرِيمٍ",
+        "عَظِيمٍ",
+        "رَفِيعٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_044_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 3,
+      "options": [
+        "سُندُسٍۢ",
+        "حَرِيرٍ",
+        "دِيبَاجٍ",
+        "صُوفٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_044_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 3,
+      "options": [
+        "بِحُورٍ",
+        "بِأَزْوَاجٍ",
+        "بِقَاصِرَاتِ",
+        "بِخَيْرَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_044_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 8,
+      "options": [
+        "وَوَقَىٰهُمْ",
+        "وَأَنْجَاهُمْ",
+        "وَصَرَفَ عَنْهُمْ",
+        "وَبَاعَدَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_044_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    },
+    {
+      "activityId": "act_044_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَظِيمُ",
+        "ٱلْكَبِيرُ",
+        "ٱلْمُبِينُ",
+        "ٱلْأَعْلَى"
+      ]
+    },
+    {
+      "activityId": "act_044_07_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        1
+      ]
+    },
+    {
+      "activityId": "act_044_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسَّرْنَـٰهُ",
+        "بَيَّنَّاهُ",
+        "أَنْزَلْنَاهُ",
+        "فَصَّلْنَاهُ"
+      ]
+    },
+    {
+      "activityId": "act_044_07_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_044_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱرْتَقِبْ",
+        "فَٱصْبِرْ",
+        "فَٱنْتَظِرْ",
+        "فَتَوَلَّ"
+      ]
+    }
+  ]
+}

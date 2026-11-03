@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_11",
+  "title": "سورة المائدة - الآيات 51-55",
+  "surahId": 5,
+  "ayahStart": 51,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلنَّصَـٰرَىٰٓ",
+        "أَيْمَـٰنِهِمْ ۙ",
+        "دَآئِرَ ةٌۭ ۚ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_005_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_005_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 12,
+      "options": [
+        "دَآئِرَ ةٌۭ ۚ",
+        "أَوْلِيَآءَ ۘ",
+        "ٱلظَّـٰلِمِينَ",
+        "فَأَصْبَحُوا۟"
+      ],
+      "activityId": "act_005_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_005_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 9,
+      "options": [
+        "أَيْمَـٰنِهِمْ ۙ",
+        "وَٱلنَّصَـٰرَىٰٓ",
+        "۞ يَـٰٓأَيُّهَا",
+        "فَيُصْبِحُوا۟"
+      ],
+      "activityId": "act_005_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_005_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 14,
+      "options": [
+        "وَيُحِبُّونَهُۥٓ",
+        "وَرَسُولُهُۥ",
+        "أَيْمَـٰنِهِمْ ۙ",
+        "وَٱلنَّصَـٰرَىٰٓ"
+      ],
+      "activityId": "act_005_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        52
+      ],
+      "activityId": "act_005_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرَسُولُهُۥ",
+        "فَأَصْبَحُوا۟",
+        "فَيُصْبِحُوا۟",
+        "أَوْلِيَآءَ ۘ"
+      ],
+      "activityId": "act_005_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "nodeId": "node_075_05",
+  "title": "سورة القيامة: سكرات الموت والتفاف الساق بالساق والمساق إلى الله",
+  "surahId": 75,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_075_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "بَلَغَتِ",
+        "وَصَلَتِ",
+        "حَضَرَتِ",
+        "جَاءَتِ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلتَّرَاقِىَ",
+        "ٱلْحُلْقُومَ",
+        "ٱلْقُلُوبَ",
+        "ٱلْأَعْنَاقَ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_075_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 1,
+      "options": [
+        "وَقِيلَ",
+        "فَقَالَ",
+        "وَنَادَىٰ",
+        "وَصَاحَ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "رَاقٍۢ",
+        "طَبِيبٍ",
+        "شَافٍ",
+        "مُنْجٍ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_075_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 1,
+      "options": [
+        "وَظَنَّ",
+        "وَأَيْقَنَ",
+        "وَعَلِمَ",
+        "وَرَأَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفِرَاقُ",
+        "ٱلْمَمَاتُ",
+        "ٱلْمَوْتُ",
+        "ٱلْهَلَاكُ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ]
+    },
+    {
+      "activityId": "act_075_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْتَفَّتِ",
+        "وَٱتَّصَلَتِ",
+        "وَٱجْتَمَعَتِ",
+        "وَٱلْتَقَتِ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّاقُ",
+        "ٱلرُّوحُ",
+        "ٱلنَّفْسُ",
+        "ٱلشِّدَّةُ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلسَّاقِ",
+        "بِٱلرُّوحِ",
+        "بِٱلْأَمْرِ",
+        "بِٱلْكَرْبِ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_075_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكَ",
+        "إِلَٰهِكَ",
+        "مَوْلَاكَ",
+        "خَالِقِكَ"
+      ]
+    },
+    {
+      "activityId": "act_075_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَسَاقُ",
+        "ٱلْمَصِيرُ",
+        "ٱلْمُنْتَهَىٰ",
+        "ٱلْمَرْجِعُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "لحظات خروج الروح وبلوغها التراقي وعجز الأطباء، وفراق الدنيا والتفاف الساق بالساق وسياقة العباد إلى الله للحساب."
+  }
+}

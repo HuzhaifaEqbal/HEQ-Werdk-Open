@@ -1,0 +1,118 @@
+{
+  "nodeId": "node_047_01",
+  "title": "سورة محمد: إحباط أعمال الكافرين وتكفير سيئات من آمن بما نُزل على محمد",
+  "surahId": 47,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_047_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "عَن",
+        "وَمَنَعُوا",
+        "وَحَارَبُوا",
+        "وَكَذَّبُوا"
+      ]
+    },
+    {
+      "activityId": "act_047_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 8,
+      "options": [
+        "أَعْمَـٰلَهُمْ",
+        "أَبْطَلَ",
+        "رَدَّ",
+        "خَسِرَ"
+      ]
+    },
+    {
+      "activityId": "act_047_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_047_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "عَلَىٰ",
+        "أَحْمَدَ",
+        "ٱلرَّسُولِ",
+        "ٱلنَّبِىِّ"
+      ]
+    },
+    {
+      "activityId": "act_047_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 15,
+      "options": [
+        "عَنْهُمْ",
+        "غَفَرَ",
+        "تَجَاوَزَ",
+        "مَحَا"
+      ]
+    },
+    {
+      "activityId": "act_047_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 18,
+      "options": [
+        "بَالَهُمْ",
+        "حَالَهُمْ",
+        "أَمْرَهُمْ",
+        "قُلُوبَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_047_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱتَّبَعُوا۟",
+        "ٱلْهَوَى",
+        "ٱلشَّيْطَانَ",
+        "ٱلضَّلَالَ"
+      ]
+    },
+    {
+      "activityId": "act_047_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْحَقَّ",
+        "ٱلنُّورَ",
+        "ٱلْهُدَى",
+        "ٱلْكِتَابَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "محمد",
+    "juz": 26,
+    "theme": "بيان بطلان أعمال الكافرين الصادين عن سبيل الله، وتكفير سيئات وإصلاح بال المؤمنين بما أُنزل على محمد ﷺ."
+  }
+}

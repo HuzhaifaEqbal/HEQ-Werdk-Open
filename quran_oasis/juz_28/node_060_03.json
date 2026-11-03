@@ -1,0 +1,202 @@
+{
+  "nodeId": "node_060_03",
+  "title": "سورة الممتحنة: رجاء المودة وضوابط بر غير المحاربين والنهي عن موالاة المعتدين",
+  "surahId": 60,
+  "ayahStart": 7,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_060_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "يَجْعَلَ",
+        "يُوقِعَ",
+        "يَخْلُقَ",
+        "يُؤَلِّفَ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 10,
+      "options": [
+        "مَّوَدَّةًۭ ۚ",
+        "أُلْفَةً",
+        "صُلْحًا",
+        "مَحَبَّةً"
+      ]
+    },
+    {
+      "activityId": "act_060_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "قَدِيرٌۭ ۚ",
+        "عَلِيمٌ",
+        "حَكِيمٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 14,
+      "options": [
+        "غَفُورٌۭ",
+        "تَوَّابٌ",
+        "حَلِيمٌ",
+        "كَرِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        7
+      ]
+    },
+    {
+      "activityId": "act_060_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنْهَىٰكُمُ",
+        "يَمْنَعُكُمُ",
+        "يَحْرِمُكُمُ",
+        "يَحْجُبُكُمُ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْإِيمَانِ",
+        "ٱلْحَقِّ",
+        "ٱلْإِسْلَامِ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 13,
+      "options": [
+        "دِيَـٰرِكُمْ",
+        "أَوْطَانِكُمْ",
+        "بِلَادِكُمْ",
+        "أَمْوَالِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 15,
+      "options": [
+        "تَبَرُّوهُمْ",
+        "تُحْسِنُوا إِلَيْهِمْ",
+        "تُكْرِمُوهُمْ",
+        "تَصِلُوهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 16,
+      "options": [
+        "وَتُقْسِطُوٓا۟",
+        "وَتَعْدِلُوا۟",
+        "وَتُنْصِفُوا۟",
+        "وَتَرْحَمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_060_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلْمُقْسِطِينَ",
+        "ٱلْعَادِلِينَ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلصَّـٰدِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_060_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 6,
+      "options": [
+        "قَـٰتَلُوكُمْ",
+        "عَادَوْكُمْ",
+        "حَارَبُوكُمْ",
+        "ظَلَمُوكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 12,
+      "options": [
+        "وَظَـٰهَرُوا۟",
+        "وَعَاوَنُوا۟",
+        "وَسَاعَدُوا۟",
+        "وَأَعَانُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_060_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 16,
+      "options": [
+        "تَوَلَّوْهُمْ ۚ",
+        "تُصَادِقُوهُمْ",
+        "تَنْصُرُوهُمْ",
+        "تُوَادُّوهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْفَـٰسِقُونَ",
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلْمُجْرِمُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الممتحنة",
+    "juz": 28,
+    "theme": "بشارة الله بتبدل العداوة إلى مودة بإسلام أهل مكة، وبيان تشريع البر والعدل مع الكفار المسالمين الذين لم يقاتلوا، وحرمة موالاة المحاربين المخرجين من الديار."
+  }
+}

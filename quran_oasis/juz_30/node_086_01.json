@@ -1,0 +1,127 @@
+{
+  "nodeId": "hifz_086_01",
+  "title": "سورة الطارق - المقطع الأول (القَسَم بالنجم الثاقب وحفظ النفوس)",
+  "surahId": 86,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلسَّمَآءِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلسَّمَآءِ",
+        "وَٱلشَّمْسِ",
+        "وَٱلْفَجْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلطَّارِقِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلطَّارِقِ",
+        "وَٱلثَّاقِبِ",
+        "وَٱلْغَاشِيَةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "أَدْرَىٰكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "ٱلطَّارِقُ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلطَّارِقُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلْحَاقَّةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلنَّجْمُ",
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلنَّجْمُ",
+        "ٱلْكَوْكَبُ",
+        "ٱلْقَمَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلثَّاقِبُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلثَّاقِبُ",
+        "ٱللَّامِعُ",
+        "ٱلْمُنِيرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "نَفْسٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "نَفْسٍ",
+        "إِنسَانٍ",
+        "خَلْقٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "حَافِظٌ",
+      "missingWordPosition": 6,
+      "options": [
+        "حَافِظٌ",
+        "شَاهِدٌ",
+        "رَقِيبٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالسماء البديعة وبالكوكب الذي يطلع ليلاً كأنه يطرق طروقاً، وما أعلمك ما شأن هذا الطارق العجيب؟ إنه النجم المضيء المتوقد الذي يثقب الظلام بنوره الساطع؛ جواب هذا القَسَم: ما من نفس بشرية إلا وجعل الله عليها ملائكة حفظة يحفظون عليها أعمالها وأقوالها ويحرسونها بأمره حتى توفي أجلها."
+  }
+}

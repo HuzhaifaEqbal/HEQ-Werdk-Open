@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_16",
+  "title": "سورة التوبة - الآيات 88-92",
+  "surahId": 9,
+  "ayahStart": 88,
+  "ayahEnd": 92,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَنفُسِهِمْ ۚ",
+        "ٱلْمُعَذِّرُونَ",
+        "وَرَسُولَهُۥ ۚ",
+        "وَرَسُولِهِۦ ۚ"
+      ],
+      "activityId": "act_009_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_009_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْأَنْهَـٰرُ",
+        "أَحْمِلُكُمْ",
+        "وَأُو۟لَـٰٓئِكَ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_009_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_009_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُعَذِّرُونَ",
+        "وَأَنفُسِهِمْ ۚ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُفْلِحُونَ"
+      ],
+      "activityId": "act_009_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_009_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 18,
+      "options": [
+        "وَرَسُولِهِۦ ۚ",
+        "وَرَسُولَهُۥ ۚ",
+        "ٱلْمُفْلِحُونَ",
+        "وَأَنفُسِهِمْ ۚ"
+      ],
+      "activityId": "act_009_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_009_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 7,
+      "options": [
+        "لِتَحْمِلَهُمْ",
+        "ٱلْخَيْرَٰتُ ۖ",
+        "بِأَمْوَٰلِهِمْ",
+        "ٱلضُّعَفَآءِ"
+      ],
+      "activityId": "act_009_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

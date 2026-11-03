@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_27",
+  "title": "سورة آل عمران - الآيات 128-132",
+  "surahId": 3,
+  "ayahStart": 128,
+  "ayahEnd": 132,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 10,
+      "options": [
+        "يُعَذِّبَهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_003_27_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "wrongOptionsAyahNumbers": [
+        130,
+        126
+      ],
+      "activityId": "act_003_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "يُعَذِّبَهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_27_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "wrongOptionsAyahNumbers": [
+        131,
+        127
+      ],
+      "activityId": "act_003_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "ٱلسَّمَٰوَٰتِ",
+        "يُعَذِّبَهُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_27_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "wrongOptionsAyahNumbers": [
+        132,
+        128
+      ],
+      "activityId": "act_003_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 5,
+      "options": [
+        "لِلۡكَٰفِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَٱلرَّسُولَ"
+      ],
+      "activityId": "act_003_27_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "wrongOptionsAyahNumbers": [
+        133,
+        129
+      ],
+      "activityId": "act_003_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلرَّسُولَ",
+        "لِلۡكَٰفِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_27_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يصف المتقين بالإنفاق وكظم الغيظ والعفو والتوبة، ويذكر جزاءهم من المغفرة والجنة."
+  }
+}

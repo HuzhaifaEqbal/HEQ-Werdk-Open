@@ -1,0 +1,214 @@
+{
+  "nodeId": "node_055_04",
+  "title": "سورة الرحمن: انشقاق السماء كالدهان وأخذ المجرمين بالنواصي والأقدام",
+  "surahId": 55,
+  "ayahStart": 37,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "activityId": "act_055_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "وَرْدَةًۭ",
+        "حَمْرَاءَ",
+        "نَارًا",
+        "سَحَابًا"
+      ]
+    },
+    {
+      "activityId": "act_055_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 6,
+      "options": [
+        "كَٱلدِّهَانِ",
+        "كَٱلْمُهْلِ",
+        "كَٱلصِّهْرِيجِ",
+        "كَٱلشَّحْمِ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_055_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_055_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "ذَنۢبِهِۦٓ",
+        "عَمَلِهِ",
+        "جُرْمِهِ",
+        "إِثْمِهِ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_055_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_055_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "بِسِيمَـٰهُمْ",
+        "بِوُجُوهِهِمْ",
+        "بِأَعْمَالِهِمْ",
+        "بِذُنُوبِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلنَّوَٰصِى",
+        "بِٱلرُّؤُوسِ",
+        "بِٱلْأَعْنَاقِ",
+        "بِٱلْوُجُوهِ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْأَقْدَامِ",
+        "وَٱلْأَيْدِى",
+        "وَٱلْأَرْجُلِ",
+        "وَٱلظُّهُورِ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_055_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_055_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 2,
+      "options": [
+        "جَهَنَّمُ",
+        "ٱلنَّارُ",
+        "ٱلسَّعِيرُ",
+        "ٱلْجَحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_055_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "يَطُوفُونَ",
+        "يُسَاقُونَ",
+        "يُطْرَحُونَ",
+        "يُعَذَّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "حَمِيمٍ",
+        "غَسَّاقٍ",
+        "صَدِيدٍ",
+        "مَاءٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَانٍۢ",
+        "شَدِيدٍ",
+        "مُّغْلٍ",
+        "حَارٍّ"
+      ]
+    },
+    {
+      "activityId": "act_055_04_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرحمن",
+    "juz": 27,
+    "theme": "مشاهد يوم القيامة عند انشقاق السماء وتلونها كالدهان، وسحب المجرمين من نواصيهم وأقدامهم إلى الجحيم والحميم الآن."
+  }
+}

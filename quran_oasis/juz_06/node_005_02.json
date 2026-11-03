@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_02",
+  "title": "سورة المائدة - الآيات 6-10",
+  "surahId": 5,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْكَعْبَيْنِ ۚ",
+        "يَجْرِمَنَّكُمْ",
+        "لِلتَّقْوَىٰ ۖ",
+        "بِٱلْقِسْطِ ۖ"
+      ],
+      "activityId": "act_005_02_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        4
+      ],
+      "activityId": "act_005_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "وَأَطَعْنَا ۖ",
+        "بِرُءُوسِكُمْ",
+        "بِوُجُوهِكُمْ",
+        "تَعْدِلُوا۟ ۚ"
+      ],
+      "activityId": "act_005_02_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        5
+      ],
+      "activityId": "act_005_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْقِسْطِ ۖ",
+        "وَأَطَعْنَا ۖ",
+        "فَتَيَمَّمُوا۟",
+        "فَٱغْسِلُوا۟"
+      ],
+      "activityId": "act_005_02_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ],
+      "activityId": "act_005_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ ۙ",
+        "لِيُطَهِّرَكُمْ",
+        "وَأَرْجُلَكُمْ",
+        "وَأَيْدِيَكُمْ"
+      ],
+      "activityId": "act_005_02_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ],
+      "activityId": "act_005_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "وَكَذَّبُوا۟",
+        "ءَامَنُوٓا۟",
+        "تَشْكُرُونَ",
+        "تَعْمَلُونَ"
+      ],
+      "activityId": "act_005_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

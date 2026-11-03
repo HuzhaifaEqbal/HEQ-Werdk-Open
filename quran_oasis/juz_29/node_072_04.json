@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_072_04",
+  "title": "سورة الجن: المسلمون والقاسطون وبركة الاستقامة على الطريقة",
+  "surahId": 72,
+  "ayahStart": 14,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "activityId": "act_072_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقَـٰسِطُونَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْفَـٰسِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_072_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 10,
+      "options": [
+        "رَشَدًۭا",
+        "خَيْرًا",
+        "هُدًى",
+        "نُورًا"
+      ]
+    },
+    {
+      "activityId": "act_072_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_072_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "حَطَبًۭا",
+        "وَقُودًا",
+        "طَعَامًا",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_072_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        14
+      ]
+    },
+    {
+      "activityId": "act_072_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسْتَقَـٰمُوا۟",
+        "ثَبَتُوا",
+        "آمَنُوا",
+        "صَبَرُوا"
+      ]
+    },
+    {
+      "activityId": "act_072_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 7,
+      "options": [
+        "غَدَقًۭا",
+        "فُرَاتًا",
+        "طَهُورًا",
+        "مُبَارَكًا"
+      ]
+    },
+    {
+      "activityId": "act_072_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        15
+      ]
+    },
+    {
+      "activityId": "act_072_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "لِّنَفْتِنَهُمْ",
+        "لِّنَخْتَبِرَهُمْ",
+        "لِّنَجْزِيَهُمْ",
+        "لِّنَرْزُقَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_072_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 10,
+      "options": [
+        "صَعَدًۭا",
+        "شَدِيدًا",
+        "أَلِيمًا",
+        "مُّهِينًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "جزاء المسلمين بالرشد ومصير القاسطين الجائرين وقوداً لجهنم، ووعد الله بالسعة والماء الغدق لمن استقام، والوعيد بالعذاب الصعد للمعرضين"
+  }
+}

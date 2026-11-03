@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_105_01",
+  "title": "سورة الفيل: إهلاك أصحاب الفيل وحماية الكعبة",
+  "surahId": 105,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_105_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْفِيلِ",
+        "ٱلْخَيْلِ",
+        "ٱلْإِبِلِ",
+        "ٱلْقَرْيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_105_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_105_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "كَيْدَهُمْ",
+        "مَكْرَهُمْ",
+        "سَعْيَهُمْ",
+        "جَمْعَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_105_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "تَضْلِيلٍۢ",
+        "تَدْمِيرٍ",
+        "تَبَابٍ",
+        "خُسْرَانٍ"
+      ]
+    },
+    {
+      "activityId": "act_105_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_105_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "طَيْرًا",
+        "جُنْدًا",
+        "رِيحًا",
+        "حِجَارَةً"
+      ]
+    },
+    {
+      "activityId": "act_105_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "أَبَابِيلَ",
+        "سِجِّيلَ",
+        "كَثِيرَةً",
+        "مُتَفَرِّقَةً"
+      ]
+    },
+    {
+      "activityId": "act_105_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        2
+      ]
+    },
+    {
+      "activityId": "act_105_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "تَرْمِيهِم",
+        "تَقْذِفُهُم",
+        "تُصِيبُهُم",
+        "تَرْجُمُهُم"
+      ]
+    },
+    {
+      "activityId": "act_105_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "سِجِّيلٍۢ",
+        "كِبْرِيتٍ",
+        "طِينٍ",
+        "حَدِيدٍ"
+      ]
+    },
+    {
+      "activityId": "act_105_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        3,
+        2
+      ]
+    },
+    {
+      "activityId": "act_105_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "كَعَصْفٍۢ",
+        "كَٱلرَّمَادِ",
+        "كَٱلصَّرِيمِ",
+        "كَٱلْخَشَبِ"
+      ]
+    },
+    {
+      "activityId": "act_105_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّأْكُولٍۭ",
+        "مَّنْشُورٍ",
+        "مَّحْصُودٍ",
+        "مَّدْكُوكٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفيل",
+    "juz": 30,
+    "theme": "تذكير قريش بنعمة الله في صرف أبرهة وجيشه عن البيت الحرام وإهلاكهم بطير أبابيل"
+  }
+}

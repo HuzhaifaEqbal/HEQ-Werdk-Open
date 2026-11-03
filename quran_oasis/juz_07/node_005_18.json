@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_18",
+  "title": "سورة المائدة - الآيات 82-86",
+  "surahId": 5,
+  "ayahStart": 82,
+  "ayahEnd": 86,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 26,
+      "options": [
+        "يَسْتَكْبِرُونَ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلشَّـٰهِدِينَ",
+        "ٱلصَّـٰلِحِينَ"
+      ],
+      "activityId": "act_005_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_005_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 19,
+      "options": [
+        "فَٱكْتُبْنَا",
+        "أَشْرَكُوا۟ ۖ",
+        "وَرُهْبَانًۭا",
+        "۞ لَتَجِدَنَّ"
+      ],
+      "activityId": "act_005_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_005_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلصَّـٰلِحِينَ",
+        "فَٱكْتُبْنَا",
+        "ٱلشَّـٰهِدِينَ",
+        "أَشْرَكُوا۟ ۖ"
+      ],
+      "activityId": "act_005_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_005_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "يَسْتَكْبِرُونَ",
+        "ٱلصَّـٰلِحِينَ",
+        "وَرُهْبَانًۭا"
+      ],
+      "activityId": "act_005_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_005_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 3,
+      "options": [
+        "وَكَذَّبُوا۟",
+        "أَعْيُنَهُمْ",
+        "أَقْرَبَهُم",
+        "قِسِّيسِينَ"
+      ],
+      "activityId": "act_005_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

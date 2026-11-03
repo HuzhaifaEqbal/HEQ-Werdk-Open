@@ -1,0 +1,236 @@
+{
+  "nodeId": "node_074_08",
+  "title": "سورة المدثر: حوار أصحاب الجنة مع المجرمين في سقر",
+  "surahId": 74,
+  "ayahStart": 38,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "activityId": "act_074_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "رَهِينَةٌ",
+        "مَحْبُوسَةٌ",
+        "مُعَاقَبَةٌ",
+        "مُجْزَاةٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_074_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْيَمِينِ",
+        "ٱلْجَنَّةِ",
+        "ٱلْفِرْدَوْسِ",
+        "ٱلْإِيمَانِ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_074_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "يَتَسَآءَلُونَ",
+        "يَنْظُرُونَ",
+        "يَتَحَادَثُونَ",
+        "يَتَعَجَّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_074_08_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْفَـٰسِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_074_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "سَلَكَكُمْ",
+        "أَدْخَلَكُمْ",
+        "أَوْرَدَكُمْ",
+        "أَلْقَاكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 4,
+      "options": [
+        "سَقَرَ",
+        "ٱلْجَحِيمَ",
+        "ٱلسَّعِيرَ",
+        "ٱلنَّارَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_074_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُصَلِّينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلصَّـٰلِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_074_08_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمِسْكِينَ",
+        "ٱلْيَتِيمَ",
+        "ٱلْفَقِيرَ",
+        "ٱلسَّائِلَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_074_08_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْخَآئِضِينَ",
+        "ٱلْمُكَذِّبِينَ",
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلظَّـٰلِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ]
+    },
+    {
+      "activityId": "act_074_08_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْبَعْثِ",
+        "ٱلْحِسَابِ",
+        "ٱلْفَصْلِ"
+      ]
+    },
+    {
+      "activityId": "act_074_08_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ]
+    },
+    {
+      "activityId": "act_074_08_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْيَقِينُ",
+        "ٱلْعَذَابُ",
+        "ٱلْأَجَلُ",
+        "ٱلْمَوْتُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "سؤال أهل الجنة للمجرمين في سقر عن سبب هلاكهم، واعترافهم بترك الصلاة وإطعام المسكين والخوض مع أهل الباطل والتكذيب بيوم الدين حتى الموت"
+  }
+}

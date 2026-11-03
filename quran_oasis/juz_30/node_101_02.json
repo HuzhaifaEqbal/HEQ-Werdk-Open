@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_101_02",
+  "title": "سورة القارعة: الموازين والجزاء",
+  "surahId": 101,
+  "ayahStart": 6,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_101_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "ثَقُلَتْ",
+        "خَفَّتْ",
+        "رَجَحَتْ",
+        "عَظُمَتْ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "مَوَٰزِينُهُۥ",
+        "أَعْمَالُهُۥ",
+        "حَسَنَاتُهُۥ",
+        "صُحُفُهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_101_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "رَّاضِيَةٍۢ",
+        "عَالِيَةٍۢ",
+        "طَيِّبَةٍۢ",
+        "هَانِئَةٍۢ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_101_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "خَفَّتْ",
+        "ثَقُلَتْ",
+        "ضَاعَتْ",
+        "نَقَصَتْ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_101_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأُمُّهُۥ",
+        "فَمَأْوَىٰهُ",
+        "فَمَصِيرُهُۥ",
+        "فَمَنْزِلُهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "هَاوِيَةٌۭ",
+        "سَاقِطَةٌ",
+        "جَاحِدَةٌ",
+        "مُؤْصَدَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        8
+      ]
+    },
+    {
+      "activityId": "act_101_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "هِيَهْ",
+        "تِلْكَ",
+        "ٱلنَّارُ",
+        "جَهَنَّمُ"
+      ]
+    },
+    {
+      "activityId": "act_101_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        9,
+        8
+      ]
+    },
+    {
+      "activityId": "act_101_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "حَامِيَةٌۢ",
+        "شَدِيدَةٌ",
+        "وَاقِدَةٌ",
+        "مُؤْصَدَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القارعة",
+    "juz": 30,
+    "theme": "بيان مآل المفلحين بثقل موازينهم ومآل الخاسرين بخفة موازينهم وإلقائهم في الهاوية"
+  }
+}

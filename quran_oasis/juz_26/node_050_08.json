@@ -1,0 +1,145 @@
+{
+  "nodeId": "node_050_08",
+  "title": "سورة ق: الاعتبار بالقرون الماضية وخلق السماوات والأرض والأمر بالتسبيح",
+  "surahId": 50,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "activityId": "act_050_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 9,
+      "options": [
+        "بَطْشًۭا",
+        "قُوَّةً",
+        "عِزًّا",
+        "جَمْعًا"
+      ]
+    },
+    {
+      "activityId": "act_050_08_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 15,
+      "options": [
+        "مَّحِيصٍ",
+        "مَفَرٍّ",
+        "مَهْرَبٍ",
+        "مَلْجَإٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_08_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_050_08_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "لَذِكْرَىٰ",
+        "لَعِبْرَةً",
+        "لَمَوْعِظَةً",
+        "لَآيَةً"
+      ]
+    },
+    {
+      "activityId": "act_050_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 10,
+      "options": [
+        "أَلْقَى",
+        "أَصْغَى",
+        "اسْتَمَعَ",
+        "وَجَّهَ"
+      ]
+    },
+    {
+      "activityId": "act_050_08_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_050_08_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 13,
+      "options": [
+        "لُّغُوبٍۢ",
+        "تَعَبٍ",
+        "نَصَبٍ",
+        "كَلَالٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_08_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_050_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْبِرْ",
+        "فَٱعْفُ",
+        "فَٱعْرِضْ",
+        "فَٱهْجُرْ"
+      ]
+    },
+    {
+      "activityId": "act_050_08_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْغُرُوبِ",
+        "ٱلْمَغْرِبِ",
+        "ٱلْأَصِيلِ",
+        "ٱلْعَشِىِّ"
+      ]
+    },
+    {
+      "activityId": "act_050_08_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_050_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَدْبَـٰرَ",
+        "وَأَثْنَاءَ",
+        "وَإِثْرَ",
+        "وَخَلْفَ"
+      ]
+    }
+  ]
+}

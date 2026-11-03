@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_35",
+  "title": "سورة النساء - الآيات 169-173",
+  "surahId": 4,
+  "ayahStart": 169,
+  "ayahEnd": 173,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 4,
+      "options": [
+        "خَٰلِدِينَ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_35_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "wrongOptionsAyahNumbers": [
+        171,
+        167
+      ],
+      "activityId": "act_004_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلرَّسُولُ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "خَٰلِدِينَ"
+      ],
+      "activityId": "act_004_35_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "wrongOptionsAyahNumbers": [
+        172,
+        168
+      ],
+      "activityId": "act_004_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 20,
+      "options": [
+        "وَكَلِمَتُهُۥٓ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ٱلرَّسُولُ"
+      ],
+      "activityId": "act_004_35_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "wrongOptionsAyahNumbers": [
+        173,
+        169
+      ],
+      "activityId": "act_004_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلۡمُقَرَّبُونَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "وَكَلِمَتُهُۥٓ"
+      ],
+      "activityId": "act_004_35_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 172,
+      "correctNextAyahNumber": 173,
+      "wrongOptionsAyahNumbers": [
+        174,
+        170
+      ],
+      "activityId": "act_004_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱسۡتَكۡبَرُواْ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "ٱلۡمُقَرَّبُونَۚ"
+      ],
+      "activityId": "act_004_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يبشر المقطع الشهداء بالحياة عند ربهم، ويبين جزاء الإيمان والعمل الصالح."
+  }
+}

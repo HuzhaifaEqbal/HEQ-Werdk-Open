@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_18",
+  "title": "سورة البقرة - الآيات 85-89",
+  "surahId": 2,
+  "ayahStart": 85,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 6,
+      "options": [
+        "وَتُخۡرِجُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "بِٱلۡأٓخِرَةِۖ"
+      ],
+      "activityId": "act_002_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_002_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلۡأٓخِرَةِۖ",
+        "وَتُخۡرِجُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_002_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 24,
+      "options": [
+        "ٱسۡتَكۡبَرۡتُمۡ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "يَسۡتَفۡتِحُونَ"
+      ],
+      "activityId": "act_002_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_002_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 2,
+      "options": [
+        "قُلُوبُنَا",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "بِٱلۡأٓخِرَةِۖ"
+      ],
+      "activityId": "act_002_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_002_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 13,
+      "options": [
+        "يَسۡتَفۡتِحُونَ",
+        "ٱسۡتَكۡبَرۡتُمۡ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ"
+      ],
+      "activityId": "act_002_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يكشف تعلق بعض الناس بالدنيا وخوفهم من الآخرة، ويذكر دعاوى أهل الكتاب وأخذ العهد عليهم."
+  }
+}

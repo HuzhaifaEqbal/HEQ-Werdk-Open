@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_046_03",
+  "title": "سورة الأحقاف: تصديق القرآن لكتاب موسى وبشارة المحسنين بالأمن والجنة",
+  "surahId": 46,
+  "ayahStart": 11,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_046_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "خَيْرًۭا",
+        "فَضْلًا",
+        "حَقًّا",
+        "هُدًى"
+      ]
+    },
+    {
+      "activityId": "act_046_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 18,
+      "options": [
+        "إِفْكٌۭ",
+        "سِحْرٌ",
+        "كَذِبٌ",
+        "بَاطِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_046_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_046_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 6,
+      "options": [
+        "وَرَحْمَةًۭ ۚ",
+        "نُورًا",
+        "هُدًى",
+        "بَيَانًا"
+      ]
+    },
+    {
+      "activityId": "act_046_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "عَرَبِيًّۭا",
+        "عَرَبِيًّا",
+        "مُّبِينًا",
+        "وَاضِحًا"
+      ]
+    },
+    {
+      "activityId": "act_046_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 16,
+      "options": [
+        "لِلْمُحْسِنِينَ",
+        "لِلْمُتَّقِينَ",
+        "لِلْمُؤْمِنِينَ",
+        "لِلصَّـٰلِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_046_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_046_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "ثُمَّ",
+        "ٱسْتَمَرُّوا",
+        "ثَبَتُوا",
+        "ٱتَّقَوْا"
+      ]
+    },
+    {
+      "activityId": "act_046_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_046_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "أَصْحَـٰبُ",
+        "ٱلْفَـٰئِزُونَ",
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْمُقَرَّبُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "شبهة الكفار في استباق الفقراء للإسلام وتفنيدها، وتصديق القرآن للتوراة بلسان عربي، ووعد المستقيمين بالأمن والخلود في الجنة."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "number": 95,
+  "name_ar": "التِّين",
+  "name_en": "At-Tīn",
+  "ayahs_count": 8,
+  "page_start": 597,
+  "page_end": 597,
+  "ayahs": [
+    {
+      "id": 6099,
+      "number": 1,
+      "text_uthmani": "وَٱلتِّينِ وَٱلزَّيۡتُونِ ١",
+      "text_simple": "والتين والزيتون",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6100,
+      "number": 2,
+      "text_uthmani": "وَطُورِ سِينِينَ ٢",
+      "text_simple": "وطور سينين",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6101,
+      "number": 3,
+      "text_uthmani": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ ٣",
+      "text_simple": "وهذا البلد الأمين",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6102,
+      "number": 4,
+      "text_uthmani": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ ٤",
+      "text_simple": "لقد خلقنا الإنسان في أحسن تقويم",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 6103,
+      "number": 5,
+      "text_uthmani": "ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ ٥",
+      "text_simple": "ثم رددناه أسفل سافلين",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 6104,
+      "number": 6,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ ٦",
+      "text_simple": "إلا الذين آمنوا وعملوا الصالحات فلهم أجر غير ممنون",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6105,
+      "number": 7,
+      "text_uthmani": "فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ ٧",
+      "text_simple": "فما يكذبك بعد بالدين",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6106,
+      "number": 8,
+      "text_uthmani": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ ٨",
+      "text_simple": "أليس الله بأحكم الحاكمين",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    }
+  ]
+}

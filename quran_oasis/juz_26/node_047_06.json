@@ -1,0 +1,182 @@
+{
+  "nodeId": "node_047_06",
+  "title": "سورة محمد: كشف المنافقين في لحن القول وابتلاء المجاهدين والدعوة للبذل",
+  "surahId": 47,
+  "ayahStart": 29,
+  "ayahEnd": 38,
+  "activities": [
+    {
+      "activityId": "act_047_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 11,
+      "options": [
+        "أَضْغَـٰنَهُمْ",
+        "حِقْدَهُمْ",
+        "نِفَاقَهُمْ",
+        "شَرَّهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_047_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 8,
+      "options": [
+        "لَحْنِ",
+        "نَظْمِ",
+        "أُسْلُوبِ",
+        "مَعْنَى"
+      ]
+    },
+    {
+      "activityId": "act_047_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_047_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَنَبْلُوَنَّكُمْ",
+        "وَلَنَمْتَحِنَنَّكُمْ",
+        "وَلَنَخْتَبِرَنَّكُمْ",
+        "وَلَنُجَرِّبَنَّكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_047_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 9,
+      "options": [
+        "تُبْطِلُوٓا۟",
+        "تُفْسِدُوا",
+        "تُحْبِطُوا",
+        "تُضَيِّعُوا"
+      ]
+    },
+    {
+      "activityId": "act_047_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_047_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 2,
+      "options": [
+        "تَهِنُوا۟",
+        "تَضْعُفُوا",
+        "تَخَافُوا",
+        "تَفْشَلُوا"
+      ]
+    },
+    {
+      "activityId": "act_047_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَعْلَوْنَ",
+        "ٱلْغَالِبُونَ",
+        "ٱلْمَنْصُورُونَ",
+        "ٱلْأَقْوِيَاءُ"
+      ]
+    },
+    {
+      "activityId": "act_047_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 11,
+      "options": [
+        "يَتِرَكُمْ",
+        "يُنْقِصَكُمْ",
+        "يَحْرِمَكُمْ",
+        "يُضَيِّعَ"
+      ]
+    },
+    {
+      "activityId": "act_047_06_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_047_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_047_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْغَنِىُّ",
+        "ٱلْكَرِيمُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَزِيزُ"
+      ]
+    },
+    {
+      "activityId": "act_047_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 23,
+      "options": [
+        "يَسْتَبْدِلْ",
+        "يَأْتِ بِـ",
+        "يَخْلُقْ",
+        "يَجْعَلْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "محمد",
+    "juz": 26,
+    "theme": "إظهار أضغان المنافقين في فلتات ألسنتهم ولحن القول، وابتلاء الأمة لتمييز المجاهدين، والنهي عن الوهن في مواجهة الأعداء، والحث على الإنفاق في سبيل الله مع غنى الله المطلق."
+  }
+}

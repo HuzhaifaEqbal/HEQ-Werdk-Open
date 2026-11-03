@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_24",
+  "title": "سورة المائدة - الآيات 112-116",
+  "surahId": 5,
+  "ayahStart": 112,
+  "ayahEnd": 116,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحَوَارِيُّونَ",
+        "ٱلشَّـٰهِدِينَ",
+        "ٱلْعَـٰلَمِينَ",
+        "عَلِمْتَهُۥ ۚ"
+      ],
+      "activityId": "act_005_24_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_005_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلشَّـٰهِدِينَ",
+        "ٱلرَّٰزِقِينَ",
+        "ٱلسَّمَآءِ ۖ",
+        "وَءَاخِرِنَا"
+      ],
+      "activityId": "act_005_24_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_005_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 16,
+      "options": [
+        "وَءَاخِرِنَا",
+        "ٱتَّخِذُونِى",
+        "عَلِمْتَهُۥ ۚ",
+        "ٱلسَّمَآءِ ۖ"
+      ],
+      "activityId": "act_005_24_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_005_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "وَٱرْزُقْنَا",
+        "ٱلشَّـٰهِدِينَ",
+        "ٱلرَّٰزِقِينَ"
+      ],
+      "activityId": "act_005_24_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_005_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱتَّخِذُونِى",
+        "وَءَاخِرِنَا",
+        "وَٱرْزُقْنَا",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_005_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

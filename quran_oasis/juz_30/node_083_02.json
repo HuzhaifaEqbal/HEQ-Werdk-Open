@@ -1,0 +1,156 @@
+{
+  "nodeId": "hifz_083_02",
+  "title": "سورة المطففين - المقطع الثاني (كتاب الفجار في سجين وعاقبة المكذبين)",
+  "surahId": 83,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلْفُجَّارِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْفُجَّارِ",
+        "ٱلْأَبْرَارِ",
+        "ٱلْكَافِرِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "سِجِّينٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "سِجِّينٍ",
+        "عِلِّيِّينَ",
+        "جَحِيمٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "أَدْرَىٰكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "مَّرْقُومٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مَّرْقُومٌ",
+        "مَّعْلُومٌ",
+        "مَّسْطُورٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "لِّلْمُكَذِّبِينَ",
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِّلْمُطَفِّفِينَ",
+        "لِلْكَافِرِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "يُكَذِّبُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُكَذِّبُونَ",
+        "يَجْحَدُونَ",
+        "يَمْتَرُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلدِّينِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْفَصْلِ",
+        "ٱلْحِسَابِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "مُعْتَدٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "مُعْتَدٍ",
+        "ظَالِمٍ",
+        "فَاجِرٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "أَثِيمٍ",
+      "missingWordPosition": 7,
+      "options": [
+        "أَثِيمٍ",
+        "عَنِيدٍ",
+        "كَبِيرٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "حقاً وصدقاً إن مصير الفجار وكتاب أعمالهم لفي 'سجين' وهو مكان ضيق محكم أسفل السافلين، وما أعلمك ما هذا الكتاب المكتوب والمسجل فيه كل قبيح لا يُنسى ولا يُمحى. هلاك وويل شديد يوم القيامة لمن كذب بيوم الجزاء والحساب، وما يجترئ على تكذيب ذلك اليوم العظيم إلا كل متجاوز لحدود الله (معتدٍ) كثير الذنوب والآثام (أثيم)."
+  }
+}

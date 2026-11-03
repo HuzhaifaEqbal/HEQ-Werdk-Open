@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_47",
+  "title": "سورة البقرة - الآيات 226-230",
+  "surahId": 2,
+  "ayahStart": 226,
+  "ayahEnd": 230,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 226,
+      "missingWordPosition": 4,
+      "options": [
+        "نِّسَآئِهِمۡ",
+        "أَرَادُوٓاْ",
+        "بِمَعۡرُوفٍ",
+        "تَأۡخُذُواْ"
+      ],
+      "activityId": "act_002_47_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 226,
+      "correctNextAyahNumber": 227,
+      "wrongOptionsAyahNumbers": [
+        228,
+        224
+      ],
+      "activityId": "act_002_47_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 227,
+      "missingWordPosition": 2,
+      "options": [
+        "عَزَمُواْ",
+        "أَرۡبَعَةِ",
+        "إِصۡلَٰحٗاۚ",
+        "بِإِحۡسَٰنٖۗ"
+      ],
+      "activityId": "act_002_47_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 227,
+      "correctNextAyahNumber": 228,
+      "wrongOptionsAyahNumbers": [
+        229,
+        225
+      ],
+      "activityId": "act_002_47_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 228,
+      "missingWordPosition": 22,
+      "options": [
+        "وَبُعُولَتُهُنَّ",
+        "وَٱلۡمُطَلَّقَٰتُ",
+        "بِٱلۡمَعۡرُوفِۚ",
+        "أَرۡحَامِهِنَّ"
+      ],
+      "activityId": "act_002_47_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 228,
+      "correctNextAyahNumber": 229,
+      "wrongOptionsAyahNumbers": [
+        230,
+        226
+      ],
+      "activityId": "act_002_47_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 229,
+      "missingWordPosition": 14,
+      "options": [
+        "ءَاتَيۡتُمُوهُنَّ",
+        "وَبُعُولَتُهُنَّ",
+        "وَٱلۡمُطَلَّقَٰتُ",
+        "بِٱلۡمَعۡرُوفِۚ"
+      ],
+      "activityId": "act_002_47_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 229,
+      "correctNextAyahNumber": 230,
+      "wrongOptionsAyahNumbers": [
+        231,
+        227
+      ],
+      "activityId": "act_002_47_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 230,
+      "missingWordPosition": 18,
+      "options": [
+        "يَتَرَاجَعَآ",
+        "بِأَنفُسِهِنَّ",
+        "تَعۡتَدُوهَاۚ",
+        "وَلِلرِّجَالِ"
+      ],
+      "activityId": "act_002_47_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "ينظم الإيلاء والطلاق والعدة والرجعة، ويحفظ للنساء حقوقهن في الانفصال."
+  }
+}

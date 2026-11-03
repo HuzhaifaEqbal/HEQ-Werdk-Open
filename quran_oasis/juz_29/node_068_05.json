@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_068_05",
+  "title": "سورة القلم: حرمان المساكين وذهول أصحاب الجنة وندمهم",
+  "surahId": 68,
+  "ayahStart": 23,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "activityId": "act_068_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "يَتَخَـٰفَتُونَ",
+        "يَتَسَارَعُونَ",
+        "يَتَنَاجَوْنَ",
+        "يَتَشَاوَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_068_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "مِّسْكِينٌۭ",
+        "سَآئِلٌ",
+        "فَقِيرٌ",
+        "مُحْتَاجٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_068_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "حَرْدٍۢ",
+        "عَزْمٍ",
+        "غَضَبٍ",
+        "مَكْرٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "قَـٰدِرِينَ",
+        "طَامِعِينَ",
+        "مُسْرِعِينَ",
+        "ظَافِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_068_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "لَضَآلُّونَ",
+        "لَخَاسِرُونَ",
+        "لَنَادِمُونَ",
+        "لَمَهْزُومُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ]
+    },
+    {
+      "activityId": "act_068_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "مَحْرُومُونَ",
+        "هَالِكُونَ",
+        "مُعَذَّبُونَ",
+        "خَائِبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ]
+    },
+    {
+      "activityId": "act_068_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 2,
+      "options": [
+        "أَوْسَطُهُمْ",
+        "أَكْبَرُهُمْ",
+        "أَعْقَلُهُمْ",
+        "أَفْضَلُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_068_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "تُسَبِّحُونَ",
+        "تَسْتَثْنُونَ",
+        "تَشْكُرُونَ",
+        "تَتَّقُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "مضي أصحاب الجنة في عزمهم لحرمان المساكين، وصدمتهم بهلاك جنتهم وتذكير أوسطهم لهم بالتسبيح"
+  }
+}

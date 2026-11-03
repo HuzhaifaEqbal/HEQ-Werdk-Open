@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_072_02",
+  "title": "سورة الجن: استعاذة الإنس بالجن وحراسة السماء بالشهب",
+  "surahId": 72,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_072_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "يَعُوذُونَ",
+        "يَسْتَجِيرُونَ",
+        "يَلْتَجِئُونَ",
+        "يَسْتَنْصِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_072_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 11,
+      "options": [
+        "رَهَقًۭا",
+        "خَوْفًا",
+        "طُغْيَانًا",
+        "ضَلَالًا"
+      ]
+    },
+    {
+      "activityId": "act_072_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_072_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "يَبْعَثَ",
+        "يَخْلُقَ",
+        "يَرْزُقَ",
+        "يُهْلِكَ"
+      ]
+    },
+    {
+      "activityId": "act_072_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        6
+      ]
+    },
+    {
+      "activityId": "act_072_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "لَمَسْنَا",
+        "قَصَدْنَا",
+        "طَلَبْنَا",
+        "بَلَغْنَا"
+      ]
+    },
+    {
+      "activityId": "act_072_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "حَرَسًۭا",
+        "جُنْدًا",
+        "مَلَائِكَةً",
+        "حِصْنًا"
+      ]
+    },
+    {
+      "activityId": "act_072_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 8,
+      "options": [
+        "وَشُهُبًۭا",
+        "وَنَارًا",
+        "وَنُجُومًا",
+        "وَلَهَبًا"
+      ]
+    },
+    {
+      "activityId": "act_072_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        7
+      ]
+    },
+    {
+      "activityId": "act_072_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "مَقَـٰعِدَ",
+        "أَمَاكِنَ",
+        "مَرَاصِدَ",
+        "مَنَازِلَ"
+      ]
+    },
+    {
+      "activityId": "act_072_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 13,
+      "options": [
+        "رَّصَدًۭا",
+        "مُعَدًّا",
+        "حَاضِرًا",
+        "شَدِيدًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "إبطال استعاذة الإنس بالجن في الجاهلية، وبيان حراسة السماء بالملائكة والشهب الثواقب لمنع استراق السمع حفظاً للقرآن"
+  }
+}

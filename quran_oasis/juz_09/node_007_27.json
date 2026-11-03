@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_27",
+  "title": "سورة الأعراف - الآيات 154-159",
+  "surahId": 7,
+  "ayahStart": 154,
+  "ayahEnd": 159,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَلْوَاحَ ۖ",
+        "بِٱلْمَعْرُوفِ",
+        "وَٱرْحَمْنَا ۖ",
+        "ٱلْمُفْلِحُونَ"
+      ],
+      "activityId": "act_007_27_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "wrongOptionsAyahNumbers": [
+        156,
+        152
+      ],
+      "activityId": "act_007_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 6,
+      "options": [
+        "لِّمِيقَـٰتِنَا ۖ",
+        "فَسَأَكْتُبُهَا",
+        "ٱلْأَلْوَاحَ ۖ",
+        "وَٱلْإِنجِيلِ"
+      ],
+      "activityId": "act_007_27_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "wrongOptionsAyahNumbers": [
+        157,
+        153
+      ],
+      "activityId": "act_007_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 22,
+      "options": [
+        "فَسَأَكْتُبُهَا",
+        "لِّمِيقَـٰتِنَا ۖ",
+        "بِٱلْمَعْرُوفِ",
+        "وَٱرْحَمْنَا ۖ"
+      ],
+      "activityId": "act_007_27_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "wrongOptionsAyahNumbers": [
+        158,
+        154
+      ],
+      "activityId": "act_007_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلْإِنجِيلِ",
+        "ٱلْأَلْوَاحَ ۖ",
+        "فَسَأَكْتُبُهَا",
+        "لِّمِيقَـٰتِنَا ۖ"
+      ],
+      "activityId": "act_007_27_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 157,
+      "correctNextAyahNumber": 158,
+      "wrongOptionsAyahNumbers": [
+        159,
+        155
+      ],
+      "activityId": "act_007_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلْأَرْضِ ۖ",
+        "أَتُهْلِكُنَا",
+        "أَهْلَكْتَهُم",
+        "وَٱتَّبَعُوا۟"
+      ],
+      "activityId": "act_007_27_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "wrongOptionsAyahNumbers": [
+        160,
+        156
+      ],
+      "activityId": "act_007_27_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 8,
+      "options": [
+        "يَعْدِلُونَ",
+        "تَهْتَدُونَ",
+        "فَٱلَّذِينَ",
+        "نُسْخَتِهَا"
+      ],
+      "activityId": "act_007_27_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

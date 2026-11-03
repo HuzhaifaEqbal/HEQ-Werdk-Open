@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_34",
+  "title": "سورة النساء - الآيات 164-168",
+  "surahId": 4,
+  "ayahStart": 164,
+  "ayahEnd": 168,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 3,
+      "options": [
+        "قَصَصۡنَٰهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "ءَاذَانَ"
+      ],
+      "activityId": "act_004_34_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "wrongOptionsAyahNumbers": [
+        166,
+        162
+      ],
+      "activityId": "act_004_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 3,
+      "options": [
+        "وَمُنذِرِينَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "لِيَهۡدِيَهُمۡ"
+      ],
+      "activityId": "act_004_34_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 165,
+      "correctNextAyahNumber": 166,
+      "wrongOptionsAyahNumbers": [
+        167,
+        163
+      ],
+      "activityId": "act_004_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلۡمَلَٰٓئِكَةُ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "وَمُنذِرِينَ"
+      ],
+      "activityId": "act_004_34_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "wrongOptionsAyahNumbers": [
+        168,
+        164
+      ],
+      "activityId": "act_004_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلَّذِينَ",
+        "أَبَوَاهُ",
+        "ءَاذَانَ",
+        "قَصَصۡنَٰهُمۡ"
+      ],
+      "activityId": "act_004_34_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 167,
+      "correctNextAyahNumber": 168,
+      "wrongOptionsAyahNumbers": [
+        169,
+        165
+      ],
+      "activityId": "act_004_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 11,
+      "options": [
+        "لِيَهۡدِيَهُمۡ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَمُنذِرِينَ"
+      ],
+      "activityId": "act_004_34_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر كمال علم الله وشهادته، ويقرر أن الرسل بعثوا مبشرين ومنذرين."
+  }
+}

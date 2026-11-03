@@ -1,0 +1,164 @@
+{
+  "nodeId": "node_068_09",
+  "title": "سورة القلم: الاستدراج الإلهي وكيد الله المتين ونفي المغرم",
+  "surahId": 68,
+  "ayahStart": 44,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "activityId": "act_068_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْحَدِيثِ",
+        "ٱلْقُرْءَانِ",
+        "ٱلْوَحْىِ",
+        "ٱلذِّكْرِ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 6,
+      "options": [
+        "سَنَسْتَدْرِجُهُم",
+        "سَنُعَذِّبُهُم",
+        "سَنَأْخُذُهُم",
+        "سَنُهْلِكُهُم"
+      ]
+    },
+    {
+      "activityId": "act_068_09_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_068_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأُمْلِى",
+        "وَأُمْهِلُ",
+        "وَأُنْظِرُ",
+        "وَأَفْتَحُ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "كَيْدِى",
+        "أَمْرِى",
+        "عَذَابِى",
+        "بَأْسِى"
+      ]
+    },
+    {
+      "activityId": "act_068_09_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 5,
+      "options": [
+        "مَتِينٌ",
+        "شَدِيدٌ",
+        "قَوِىٌّ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        44
+      ]
+    },
+    {
+      "activityId": "act_068_09_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 3,
+      "options": [
+        "أَجْرًۭا",
+        "مَالًا",
+        "جَزَاءً",
+        "شُكْرًا"
+      ]
+    },
+    {
+      "activityId": "act_068_09_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 6,
+      "options": [
+        "مَّغْرَمٍۢ",
+        "غُرْمٍ",
+        "دَيْنٍ",
+        "حَمْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّثْقَلُونَ",
+        "مُتْعَبُونَ",
+        "مَشْغُولُونَ",
+        "عَاجِزُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        45
+      ]
+    },
+    {
+      "activityId": "act_068_09_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْغَيْبُ",
+        "ٱلْعِلْمُ",
+        "ٱلْكِتَابُ",
+        "ٱلْحَقُّ"
+      ]
+    },
+    {
+      "activityId": "act_068_09_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 5,
+      "options": [
+        "يَكْتُبُونَ",
+        "يَعْلَمُونَ",
+        "يَشْهَدُونَ",
+        "يَحْكُمُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "وعيد الله للمكذبين بالقرآن بالاستدراج والإملاء، وتذكيرهم بأن النبي ﷺ لا يسألهم أجراً ولا يملكون علم الغيب"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "nodeId": "hifz_085_03",
+  "title": "سورة البروج - المقطع الثالث (وعيد الفاتنين وبشارة المؤمنين بالفوز الكبير)",
+  "surahId": 85,
+  "ayahStart": 10,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "فَتَنُوا۟",
+      "missingWordPosition": 3,
+      "options": [
+        "فَتَنُوا۟",
+        "عَذَّبُوا",
+        "حَرَّقُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "وَٱلْمُؤْمِنَـٰتِ",
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْمُؤْمِنَـٰتِ",
+        "وَٱلصَّالِحَاتِ",
+        "وَٱلْمُسْلِمَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "يَتُوبُوا۟",
+      "missingWordPosition": 8,
+      "options": [
+        "يَتُوبُوا۟",
+        "يَرْجِعُوا",
+        "يَنْتَهُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ٱلْحَرِيقِ",
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْحَرِيقِ",
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلصَّـٰلِحَـٰتِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلْخَيْرَاتِ",
+        "ٱلْحَسَنَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "جَنَّـٰتٌ",
+      "missingWordPosition": 7,
+      "options": [
+        "جَنَّـٰتٌ",
+        "نَعِيمٌ",
+        "مَقَامٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلْفَوْزُ",
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْفَوْزُ",
+        "ٱلْأَجْرُ",
+        "ٱلثَّوَابُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلْكَبِيرُ",
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْكَبِيرُ",
+        "ٱلْعَظِيمُ",
+        "ٱلْمُبِينُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الذين عذبوا وأحرقوا المؤمنين والمؤمنات ليفتنوهم عن دينهم ثم ماتوا مصرّين ولم يتوبوا إلى الله، فلهم في الآخرة عذاب جهنم بكفرهم ولهم عذاب الحريق المحرق جزاءً وفاقاً لما حرقوا أولياء الله. وفي المقابل، فإن الذين آمنوا بالله وعملوا الصالحات لهم جنات تجري من تحت قصورها الأنهار، ذلك النعيم والنجاة من النار هو الفوز الكبير الذي لا يدانيه فوز."
+  }
+}

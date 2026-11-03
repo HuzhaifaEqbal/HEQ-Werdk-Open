@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_16",
+  "title": "سورة آل عمران - الآيات 76-80",
+  "surahId": 3,
+  "ayahStart": 76,
+  "ayahEnd": 80,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡمُتَّقِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "أَلۡسِنَتَهُم"
+      ],
+      "activityId": "act_003_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_003_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَيۡمَٰنِهِمۡ",
+        "وَٱلنُّبُوَّةَ",
+        "ٱلۡمَلَٰٓئِكَةَ",
+        "ٱلۡمُتَّقِينَ"
+      ],
+      "activityId": "act_003_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_003_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 5,
+      "options": [
+        "أَلۡسِنَتَهُم",
+        "وَأَيۡمَٰنِهِمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "wrongOptionsAyahNumbers": [
+        80,
+        76
+      ],
+      "activityId": "act_003_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلنُّبُوَّةَ",
+        "أَلۡسِنَتَهُم",
+        "وَأَيۡمَٰنِهِمۡ",
+        "ٱلۡمَلَٰٓئِكَةَ"
+      ],
+      "activityId": "act_003_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_003_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلۡمَلَٰٓئِكَةَ",
+        "وَٱلنُّبُوَّةَ",
+        "ٱلۡمُتَّقِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يرفض المقطع نسبة دعوة الناس إلى عبادة غير الله إلى نبي، ويذكر ميثاق الله على الأنبياء."
+  }
+}

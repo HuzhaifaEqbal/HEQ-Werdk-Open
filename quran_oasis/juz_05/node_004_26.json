@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_26",
+  "title": "سورة النساء - الآيات 124-128",
+  "surahId": 4,
+  "ayahStart": 124,
+  "ayahEnd": 128,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصَّٰلِحَٰتِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "إِبۡرَٰهِيمَ"
+      ],
+      "activityId": "act_004_26_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "wrongOptionsAyahNumbers": [
+        126,
+        122
+      ],
+      "activityId": "act_004_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 12,
+      "options": [
+        "إِبۡرَٰهِيمَ",
+        "إِعۡرَاضٗا",
+        "ٱلسَّمَٰوَٰتِ",
+        "ٱلصَّٰلِحَٰتِ"
+      ],
+      "activityId": "act_004_26_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_004_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "إِبۡرَٰهِيمَ"
+      ],
+      "activityId": "act_004_26_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_004_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 25,
+      "options": [
+        "وَٱلۡمُسۡتَضۡعَفِينَ",
+        "يَسۡتَنۢبِطُونَهُۥ",
+        "ٱلۡمُسۡتَضۡعَفِينَ",
+        "إِعۡرَاضٗا"
+      ],
+      "activityId": "act_004_26_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "wrongOptionsAyahNumbers": [
+        129,
+        125
+      ],
+      "activityId": "act_004_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 8,
+      "options": [
+        "إِعۡرَاضٗا",
+        "ٱلسَّمَٰوَٰتِ",
+        "ٱلصَّٰلِحَٰتِ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_26_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يأمر بالعدل ولو على النفس والوالدين والأقربين، ويحذر من النفاق والتردد."
+  }
+}

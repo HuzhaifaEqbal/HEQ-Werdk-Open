@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_082_03",
+  "title": "سورة الانفطار - المقطع الثالث (الملائكة الكرام الكاتبون وجزاء الأبرار والفجار)",
+  "surahId": 82,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "لَحَافِظِينَ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَحَافِظِينَ",
+        "لَرَقِيبًا",
+        "لَشَاهِدِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "كِرَامًا",
+      "missingWordPosition": 1,
+      "options": [
+        "كِرَامًا",
+        "عِظَامًا",
+        "سَفَرَةً"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "كَاتِبِينَ",
+      "missingWordPosition": 2,
+      "options": [
+        "كَاتِبِينَ",
+        "حَافِظِينَ",
+        "شَاهِدِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "يَعْلَمُونَ",
+      "missingWordPosition": 1,
+      "options": [
+        "يَعْلَمُونَ",
+        "يَكْتُبُونَ",
+        "يَحْصُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "تَفْعَلُونَ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَفْعَلُونَ",
+        "تَكْسِبُونَ",
+        "تَصْنَعُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        10,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "الْأَبْرَارَ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْأَبْرَارَ",
+        "الْمُتَّقِينَ",
+        "الْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "نَعِيمٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "نَعِيمٍ",
+        "جَنَّاتٍ",
+        "فِرْدَوْسٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "الْفُجَّارَ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْفُجَّارَ",
+        "الْكُفَّارَ",
+        "الظَّالِمِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "جَحِيمٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "جَحِيمٍ",
+        "سَعِيرٍ",
+        "عَذَابٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ينبه الله تعالى العباد إلى أن كل أقوالهم وأفعالهم مرصودة بدقة؛ فوكّل بكم ملائكة رقباء يحفظون أعمالكم (لحافظين)، كراماً شرفاء يكتبون ما يصدر عنكم في صحائفكم (كراماً كاتبين)، يعلمون تفاصيل ما تفعلون في سركم وعلنكم. وبناءً على هذا الإحصاء الدقيق يكون مآل الخلائق: إن أهل البر والتقوى والطاعة لفي نعيم مقيم في الجنة، وإن أهل الفجور والمعاصي والكفر لفي نار الجحيم تلظى."
+  }
+}

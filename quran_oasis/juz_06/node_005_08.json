@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_08",
+  "title": "سورة المائدة - الآيات 36-40",
+  "surahId": 5,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 13,
+      "options": [
+        "لِيَفْتَدُوا۟",
+        "أَيْدِيَهُمَا",
+        "فَٱقْطَعُوٓا۟",
+        "وَٱلسَّارِقُ"
+      ],
+      "activityId": "act_005_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_005_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "يَخْرُجُوا۟",
+        "وَمِثْلَهُۥ",
+        "وَٱلْأَرْضِ",
+        "ٱلْقِيَـٰمَةِ"
+      ],
+      "activityId": "act_005_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_005_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلسَّارِقَةُ",
+        "لِيَفْتَدُوا۟",
+        "ٱلسَّمَـٰوَٰتِ",
+        "بِخَـٰرِجِينَ"
+      ],
+      "activityId": "act_005_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_005_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "ظُلْمِهِۦ",
+        "جَمِيعًۭا",
+        "كَفَرُوا۟",
+        "مِنْهَا ۖ"
+      ],
+      "activityId": "act_005_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_005_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "يَخْرُجُوا۟",
+        "يُرِيدُونَ",
+        "بِخَـٰرِجِينَ"
+      ],
+      "activityId": "act_005_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_30",
+  "title": "سورة آل عمران - الآيات 143-147",
+  "surahId": 3,
+  "ayahStart": 143,
+  "ayahEnd": 147,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 10,
+      "options": [
+        "رَأَيۡتُمُوهُ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلشَّٰكِرِينَ"
+      ],
+      "activityId": "act_003_30_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 143,
+      "correctNextAyahNumber": 144,
+      "wrongOptionsAyahNumbers": [
+        145,
+        141
+      ],
+      "activityId": "act_003_30_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 144,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱنقَلَبۡتُمۡ",
+        "رَأَيۡتُمُوهُ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_30_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 144,
+      "correctNextAyahNumber": 145,
+      "wrongOptionsAyahNumbers": [
+        146,
+        142
+      ],
+      "activityId": "act_003_30_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 145,
+      "missingWordPosition": 24,
+      "options": [
+        "ٱلشَّٰكِرِينَ",
+        "ٱنقَلَبۡتُمۡ",
+        "رَأَيۡتُمُوهُ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_30_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 145,
+      "correctNextAyahNumber": 146,
+      "wrongOptionsAyahNumbers": [
+        147,
+        143
+      ],
+      "activityId": "act_003_30_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 146,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱسۡتَكَانُواْۗ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "وَإِسۡرَافَنَا"
+      ],
+      "activityId": "act_003_30_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 146,
+      "correctNextAyahNumber": 147,
+      "wrongOptionsAyahNumbers": [
+        148,
+        144
+      ],
+      "activityId": "act_003_30_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 147,
+      "missingWordPosition": 11,
+      "options": [
+        "وَإِسۡرَافَنَا",
+        "ٱسۡتَكَانُواْۗ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_30_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يعرض ثبات أتباع الأنبياء، ويحذر من طاعة الكافرين، ويدعو إلى التوكل على الله."
+  }
+}

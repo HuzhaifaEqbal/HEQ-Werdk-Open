@@ -1,0 +1,182 @@
+{
+  "nodeId": "node_046_07",
+  "title": "سورة الأحقاف: هلاك القرون وإسلام نفر الجن ودعوتهم قومهم للإيمان",
+  "surahId": 46,
+  "ayahStart": 26,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "activityId": "act_046_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "فِيمَآ",
+        "أَعْطَيْنَاهُمْ",
+        "رَزَقْنَاهُمْ",
+        "فَضَّلْنَاهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_046_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 23,
+      "options": [
+        "كَانُوا۟",
+        "يَكْفُرُونَ",
+        "يُكَذِّبُونَ",
+        "يَشُكُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_046_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_046_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "مَا",
+        "دَمَّرْنَا",
+        "أَفْنَيْنَا",
+        "عَذَّبْنَا"
+      ]
+    },
+    {
+      "activityId": "act_046_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_046_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱللَّهِ",
+        "شُفَعَاءَ",
+        "شُرَكَاءَ",
+        "أَنْدَادًا"
+      ]
+    },
+    {
+      "activityId": "act_046_07_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_046_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "صَرَفْنَآ",
+        "أَرْسَلْنَا",
+        "بَعَثْنَا",
+        "وَجَّهْنَا"
+      ]
+    },
+    {
+      "activityId": "act_046_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 12,
+      "options": [
+        "أَنصِتُوا۟ ۖ",
+        "ٱسْمَعُوا",
+        "ٱسْكُتُوا",
+        "تَدَبَّرُوا"
+      ]
+    },
+    {
+      "activityId": "act_046_07_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_046_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 8,
+      "options": [
+        "بَعْدِ",
+        "عِيسَى",
+        "إِبْرَاهِيمَ",
+        "دَاوُودَ"
+      ]
+    },
+    {
+      "activityId": "act_046_07_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_046_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱللَّهِ",
+        "رَسُولَ",
+        "نَبِىَّ",
+        "كِتَابَ"
+      ]
+    },
+    {
+      "activityId": "act_046_07_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_046_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 7,
+      "options": [
+        "بِمُعْجِزٍۢ",
+        "بِفَائِتٍ",
+        "بِمُنْتَصِرٍ",
+        "بِقَادِرٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "عبرة الأمم السابقة المكذبة في محيط مكة، وقصة إسلام نفر الجن حين استمعوا للقرآن وتأثروا به ورجعوا إلى قومهم منذرين ومبلغين."
+  }
+}

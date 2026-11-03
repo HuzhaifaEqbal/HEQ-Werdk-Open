@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_28",
+  "title": "سورة النساء - الآيات 134-138",
+  "surahId": 4,
+  "ayahStart": 134,
+  "ayahEnd": 138,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلۡأٓخِرَةِۚ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ٱزۡدَادُواْ"
+      ],
+      "activityId": "act_004_28_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 134,
+      "correctNextAyahNumber": 135,
+      "wrongOptionsAyahNumbers": [
+        136,
+        132
+      ],
+      "activityId": "act_004_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلۡأَقۡرَبِينَۚ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_28_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "wrongOptionsAyahNumbers": [
+        137,
+        133
+      ],
+      "activityId": "act_004_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 20,
+      "options": [
+        "وَمَلَٰٓئِكَتِهِۦ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ٱلۡمُنَٰفِقِينَ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_28_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "wrongOptionsAyahNumbers": [
+        138,
+        134
+      ],
+      "activityId": "act_004_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱزۡدَادُواْ",
+        "وَٱلۡأٓخِرَةِۚ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_28_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 137,
+      "correctNextAyahNumber": 138,
+      "wrongOptionsAyahNumbers": [
+        139,
+        135
+      ],
+      "activityId": "act_004_28_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡمُنَٰفِقِينَ",
+        "وَمَلَٰٓئِكَتِهِۦ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_28_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يأمر بالإنصاف في الخصومات، ويكشف تهاون المنافقين في الصلاة وترددهم بين الفريقين."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_073_01",
+  "title": "سورة المزمل: الأمر بقيام الليل وترتيل القرآن والقول الثقيل",
+  "surahId": 73,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_073_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُزَّمِّلُ",
+        "ٱلْمُدَّثِّرُ",
+        "ٱلنَّبِىُّ",
+        "ٱلرَّسُولُ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_073_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "قُمِ",
+        "صَلِّ",
+        "ٱذْكُرِ",
+        "سَبِّحِ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "قَلِيلًۭا",
+        "كَثِيرًا",
+        "نِصْفًا",
+        "طَوِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_073_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_073_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "نِّصْفَهُۥٓ",
+        "ثُلُثَهُ",
+        "رُبُعَهُ",
+        "كُلَّهُ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱنقُصْ",
+        "زِدْ",
+        "خَفِّفْ",
+        "قَصِّرْ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ]
+    },
+    {
+      "activityId": "act_073_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "زِدْ",
+        "ٱنقُصْ",
+        "صَلِّ",
+        "قُمْ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرَتِّلِ",
+        "وَٱقْرَإِ",
+        "وَٱتْلُ",
+        "وَٱحْفَظِ"
+      ]
+    },
+    {
+      "activityId": "act_073_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "تَرْتِيلًا",
+        "تَفْصِيلًا",
+        "تَبْيِينًا",
+        "تَوْقِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_073_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ]
+    },
+    {
+      "activityId": "act_073_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "سَنُلْقِى",
+        "سَنُنْزِلُ",
+        "سَنُوحِى",
+        "سَنُعْطِى"
+      ]
+    },
+    {
+      "activityId": "act_073_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "ثَقِيلًا",
+        "عَظِيمًا",
+        "كَرِيمًا",
+        "مُّبِينًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المزمل",
+    "juz": 29,
+    "theme": "نداء النبي ﷺ بوصف التزمل، وأمره بقيام الليل وترتيل القرآن بتؤدة وتدبر استعداداً لتلقي القول الثقيل (القرآن وتكاليف الرسالة)"
+  }
+}

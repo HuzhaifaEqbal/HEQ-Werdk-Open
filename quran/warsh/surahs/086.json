@@ -1,0 +1,197 @@
+{
+  "number": 86,
+  "name_ar": "الطَّارق",
+  "name_en": "Aṭ-Ṭāriq",
+  "ayahs_count": 17,
+  "page_start": 591,
+  "page_end": 591,
+  "ayahs": [
+    {
+      "id": 5907,
+      "number": 1,
+      "text_uthmani": "وَالسَّمَآءِ وَالطَّارِقِ ١",
+      "text_simple": "والسمآء والطارق ١",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 5908,
+      "number": 2,
+      "text_uthmani": "وَمَآ أَدْر۪يٰكَ مَا اَ۬لطَّارِقُ ٢",
+      "text_simple": "ومآ ادريك ما الطارق ٢",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 5909,
+      "number": 3,
+      "text_uthmani": "اُ۬لنَّجْمُ اُ۬لثَّاقِبُ ٣",
+      "text_simple": "النجم الثاقب ٣",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 5910,
+      "number": 4,
+      "text_uthmani": "إِن كُلُّ نَفْسٖ لَّمَا عَلَيْهَا حَافِظٞۖ ٤",
+      "text_simple": "ان كل نفسٖ لما عليها حافظٞ ٤",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5911,
+      "number": 5,
+      "text_uthmani": "فَلْيَنظُرِ اِ۬لِانسَٰنُ مِمَّ خُلِقَۖ ٥",
+      "text_simple": "فلينظر الانسن مم خلق ٥",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5912,
+      "number": 6,
+      "text_uthmani": "خُلِقَ مِن مَّآءٖ دَافِقٖ ٦",
+      "text_simple": "خلق من مآءٖ دافقٖ ٦",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 5913,
+      "number": 7,
+      "text_uthmani": "يَخْرُجُ مِنۢ بَيْنِ اِ۬لصُّلْبِ وَالتَّرَآئِبِۖ ٧",
+      "text_simple": "يخرج من بين الصلب والترآئب ٧",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 5914,
+      "number": 8,
+      "text_uthmani": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٞ ٨",
+      "text_simple": "انه علي رجعه لقادرٞ ٨",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 6
+    },
+    {
+      "id": 5915,
+      "number": 9,
+      "text_uthmani": "يَوْمَ تُبْلَى اَ۬لسَّرَآئِرُ ٩",
+      "text_simple": "يوم تبلي السرآئر ٩",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 5916,
+      "number": 10,
+      "text_uthmani": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖۖ ١٠",
+      "text_simple": "فما له من قوهٖ ولا ناصرٖ ١٠",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 7
+    },
+    {
+      "id": 5917,
+      "number": 11,
+      "text_uthmani": "وَالسَّمَآءِ ذَاتِ اِ۬لرَّجْعِ ١١",
+      "text_simple": "والسمآء ذات الرجع ١١",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 5918,
+      "number": 12,
+      "text_uthmani": "وَالَارْضِ ذَاتِ اِ۬لصَّدْعِ ١٢",
+      "text_simple": "والارض ذات الصدع ١٢",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 5919,
+      "number": 13,
+      "text_uthmani": "إِنَّهُۥ لَقَوْلٞ فَصْلٞ ١٣",
+      "text_simple": "انه لقولٞ فصلٞ ١٣",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 5920,
+      "number": 14,
+      "text_uthmani": "وَمَا هُوَ بِالْهَزْلِۖ ١٤",
+      "text_simple": "وما هو بالهزل ١٤",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 5921,
+      "number": 15,
+      "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْداٗ ١٥",
+      "text_simple": "انهم يكيدون كيداٗ ١٥",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 5922,
+      "number": 16,
+      "text_uthmani": "وَأَكِيدُ كَيْداٗۖ ١٦",
+      "text_simple": "واكيد كيداٗ ١٦",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    },
+    {
+      "id": 5923,
+      "number": 17,
+      "text_uthmani": "فَمَهِّلِ اِ۬لْكٰ۪فِرِينَ أَمْهِلْهُمْ رُوَيْداٗۖ ١٧",
+      "text_simple": "فمهل الكفرين امهلهم رويداٗ ١٧",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    }
+  ]
+}

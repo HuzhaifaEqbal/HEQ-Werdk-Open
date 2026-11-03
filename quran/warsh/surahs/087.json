@@ -1,0 +1,219 @@
+{
+  "number": 87,
+  "name_ar": "الأعلى",
+  "name_en": "Al-A‘lā",
+  "ayahs_count": 19,
+  "page_start": 591,
+  "page_end": 592,
+  "ayahs": [
+    {
+      "id": 5924,
+      "number": 1,
+      "text_uthmani": "سَبِّحِ اِ۪سْمَ رَبِّكَ اَ۬لَاعْلَي ١",
+      "text_simple": "سبح اسم ربك الاعلي ١",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 5925,
+      "number": 2,
+      "text_uthmani": "اَ۬لذِے خَلَقَ فَسَوّ۪ىٰ ٢",
+      "text_simple": "الذے خلق فسوي ٢",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 5926,
+      "number": 3,
+      "text_uthmani": "وَالذِے قَدَّرَ فَهَد۪ىٰ ٣",
+      "text_simple": "والذے قدر فهدي ٣",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 13
+    },
+    {
+      "id": 5927,
+      "number": 4,
+      "text_uthmani": "وَالذِےٓ أَخْرَجَ اَ۬لْمَرْع۪ىٰ ٤",
+      "text_simple": "والذےٓ اخرج المرعي ٤",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 5928,
+      "number": 5,
+      "text_uthmani": "فَجَعَلَهُۥ غُثَآءً اَحْو۪ىٰۖ ٥",
+      "text_simple": "فجعله غثآء احوي ٥",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 5929,
+      "number": 6,
+      "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنس۪ىٰٓ ٦",
+      "text_simple": "سنقرئك فلا تنسيٓ ٦",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 14
+    },
+    {
+      "id": 5930,
+      "number": 7,
+      "text_uthmani": "إِلَّا مَا شَآءَ اَ۬للَّهُۖ إِنَّهُۥ يَعْلَمُ اُ۬لْجَهْرَ وَمَا يَخْف۪ىٰۖ ٧",
+      "text_simple": "الا ما شآء الله انه يعلم الجهر وما يخفي ٧",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 5931,
+      "number": 8,
+      "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْر۪ىٰۖ ٨",
+      "text_simple": "ونيسرك لليسري ٨",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 15
+    },
+    {
+      "id": 5932,
+      "number": 9,
+      "text_uthmani": "فَذَكِّرِ اِن نَّفَعَتِ اِ۬لذِّكْر۪ىٰۖ ٩",
+      "text_simple": "فذكر ان نفعت الذكري ٩",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 5933,
+      "number": 10,
+      "text_uthmani": "سَيَذَّكَّرُ مَنْ يَّخْش۪ىٰ ١٠",
+      "text_simple": "سيذكر من يخشي ١٠",
+      "juz": 30,
+      "page": 591,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 5934,
+      "number": 11,
+      "text_uthmani": "وَيَتَجَنَّبُهَا اَ۬لَاشْقَي ١١",
+      "text_simple": "ويتجنبها الاشقي ١١",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 5935,
+      "number": 12,
+      "text_uthmani": "اَ۬لذِے يَصْلَى اَ۬لنَّارَ اَ۬لْكُبْر۪ىٰ ١٢",
+      "text_simple": "الذے يصلي النار الكبري ١٢",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 5936,
+      "number": 13,
+      "text_uthmani": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْي۪ىٰۖ ١٣",
+      "text_simple": "ثم لا يموت فيها ولا يحيي ١٣",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 2
+    },
+    {
+      "id": 5937,
+      "number": 14,
+      "text_uthmani": "قَدَ اَفْلَحَ مَن تَزَكّ۪ىٰ ١٤",
+      "text_simple": "قد افلح من تزكي ١٤",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 5938,
+      "number": 15,
+      "text_uthmani": "وَذَكَرَ اَ۪سْمَ رَبِّهِۦ فَصَلّ۪ىٰۖ ١٥",
+      "text_simple": "وذكر اسم ربه فصلي ١٥",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 5939,
+      "number": 16,
+      "text_uthmani": "بَلْ تُوثِرُونَ اَ۬لْحَيَوٰةَ اَ۬لدُّنْي۪ا ١٦",
+      "text_simple": "بل توثرون الحيوه الدنيا ١٦",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 5940,
+      "number": 17,
+      "text_uthmani": "وَالَاخِرَةُ خَيْرٞ وَأَبْق۪ىٰٓۖ ١٧",
+      "text_simple": "والاخره خيرٞ وابقيٓ ١٧",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 5941,
+      "number": 18,
+      "text_uthmani": "إِنَّ هَٰذَا لَفِے اِ۬لصُّحُفِ اِ۬لُاول۪ىٰ ١٨",
+      "text_simple": "ان هذا لفے الصحف الاولي ١٨",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 4
+    },
+    {
+      "id": 5942,
+      "number": 19,
+      "text_uthmani": "صُحُفِ إِبْرَٰهِيمَ وَمُوس۪ىٰۖ ١٩",
+      "text_simple": "صحف ابرهيم وموسي ١٩",
+      "juz": 30,
+      "page": 592,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    }
+  ]
+}

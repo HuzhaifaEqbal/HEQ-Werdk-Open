@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_071_02",
+  "title": "سورة نوح: شكوى نوح وصبره على دعوة قومه ليلاً ونهاراً",
+  "surahId": 71,
+  "ayahStart": 5,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_071_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 6,
+      "options": [
+        "لَيْلًۭا",
+        "سِرًّا",
+        "دَائِمًا",
+        "صَبَاحًا"
+      ]
+    },
+    {
+      "activityId": "act_071_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 7,
+      "options": [
+        "وَنَهَارًۭا",
+        "وَمَسَاءً",
+        "وَجَهْرًا",
+        "وَعَشِيًّا"
+      ]
+    },
+    {
+      "activityId": "act_071_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_071_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "فِرَارًۭا",
+        "نُفُورًا",
+        "إِعْرَاضًا",
+        "عِنَادًا"
+      ]
+    },
+    {
+      "activityId": "act_071_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_071_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "أَصَـٰبِعَهُمْ",
+        "أَيْدِيَهُمْ",
+        "ثِيَابَهُمْ",
+        "أَكُفَّهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_071_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَاذَانِهِمْ",
+        "وُجُوهِهِمْ",
+        "أَعْيُنِهِمْ",
+        "رُؤُوسِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_071_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱسْتَغْشَوْا۟",
+        "وَأَلْقَوْا",
+        "وَجَلَّلُوا",
+        "وَوَضَعُوا"
+      ]
+    },
+    {
+      "activityId": "act_071_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "وَأَصَرُّوا۟",
+        "وَاسْتَمَرُّوا",
+        "وَتَمَادَوْا",
+        "وَعَتَوْا"
+      ]
+    },
+    {
+      "activityId": "act_071_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        5
+      ]
+    },
+    {
+      "activityId": "act_071_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "جِهَارًۭا",
+        "عَلَانِيَةً",
+        "إِسْرَارًا",
+        "فُرَادَى"
+      ]
+    },
+    {
+      "activityId": "act_071_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ]
+    },
+    {
+      "activityId": "act_071_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "أَعْلَنتُ",
+        "أَظْهَرْتُ",
+        "جَهَرْتُ",
+        "نَادَيْتُ"
+      ]
+    },
+    {
+      "activityId": "act_071_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "إِسْرَارًۭا",
+        "خُفْيَةً",
+        "تَخَفُّفًا",
+        "سِرًّا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "صبر نوح عليه السلام وتنوع أساليبه في دعوة قومه سراً وجهاراً وليلاً ونهاراً، ومقابلتهم ذلك بسد الآذان والاستكبار والفرار"
+  }
+}

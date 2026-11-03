@@ -1,0 +1,115 @@
+{
+  "nodeId": "node_048_06",
+  "title": "سورة الفتح: الصد عن المسجد الحرام وحمية الجاهلية وسكينة المؤمنين",
+  "surahId": 48,
+  "ayahStart": 25,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_048_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "وَصَدُّوكُمْ",
+        "وَمَنَعُوكُمْ",
+        "وَحَبَسُوكُمْ",
+        "وَطَرَدُوكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_048_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "مَعْكُوفًا",
+        "مَحْبُوسًا",
+        "مَمْنُوعًا",
+        "مَوْقُوفًا"
+      ]
+    },
+    {
+      "activityId": "act_048_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 24,
+      "options": [
+        "مَّعَرَّةٌۢ",
+        "مَشَقَّةٌ",
+        "مَضَرَّةٌ",
+        "مُصِيبَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_048_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 34,
+      "options": [
+        "تَزَيَّلُوا۟",
+        "تَمَيَّزُوا۟",
+        "تَفَرَّقُوا۟",
+        "تَبَايَنُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_048_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_048_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحَمِيَّةَ",
+        "ٱلْعَصَبِيَّةَ",
+        "ٱلْغِلَّ",
+        "ٱلْكِبْرَ"
+      ]
+    },
+    {
+      "activityId": "act_048_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 12,
+      "options": [
+        "سَكِينَتَهُۥ",
+        "طُمَأْنِينَتَهُۥ",
+        "رَحْمَتَهُۥ",
+        "نَصْرَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_048_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 17,
+      "options": [
+        "وَأَلْزَمَهُمْ",
+        "وَأَوْرَثَهُمْ",
+        "وَأَعْطَاهُمْ",
+        "وَهَدَاهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_048_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلتَّقْوَىٰ",
+        "ٱلْإِيمَانِ",
+        "ٱلْإِخْلَاصِ",
+        "ٱلْحَقِّ"
+      ]
+    }
+  ]
+}

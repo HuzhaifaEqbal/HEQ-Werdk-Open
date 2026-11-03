@@ -1,0 +1,129 @@
+{
+  "nodeId": "hifz_099_02",
+  "title": "سورة الزلزلة - المقطع الثاني (صدور الناس أشتاتاً ومثقال الذرة من الخير والشر)",
+  "surahId": 99,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "يَصْدُرُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَصْدُرُ",
+        "يَخْرُجُ",
+        "يُحْشَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "أَشْتَاتًا",
+      "missingWordPosition": 4,
+      "options": [
+        "أَشْتَاتًا",
+        "جَمِيعًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "أَعْمَـٰلَهُمْ",
+      "missingWordPosition": 6,
+      "options": [
+        "أَعْمَـٰلَهُمْ",
+        "جَزَاءَهُمْ",
+        "صُحُفَهُمْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "مِثْقَالَ",
+      "missingWordPosition": 3,
+      "options": [
+        "مِثْقَالَ",
+        "مِقْدَارَ",
+        "وَزْنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ذَرَّةٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "ذَرَّةٍ",
+        "حَبَّةٍ",
+        "نَمْلَةٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "خَيْرًا",
+      "missingWordPosition": 5,
+      "options": [
+        "خَيْرًا",
+        "بِرًّا",
+        "إِحْسَانًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ذَرَّةٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "ذَرَّةٍ",
+        "خَرْدَلَةٍ",
+        "قِطْمِيرٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "شَرًّا",
+      "missingWordPosition": 5,
+      "options": [
+        "شَرًّا",
+        "إِثْمًا",
+        "فُجُورًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "يَرَهُۥ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَرَهُۥ",
+        "يَجِدْهُ",
+        "يَلْقَهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "في يوم القيامة يخرج الناس من قبورهم متفرقين جماعات وأصنافاً شتى (أشتاتاً) بحسب أعمالهم وأحوالهم ليُريهم الله جزاء ما قدموا، فمن عمل في الدنيا وزن ذرة صغيرة - وهي أصغر النمل أو الهباء - من خير وطاعة رآه حاضراً في صحيفته وسُرّ بثوابه، ومن عمل وزن ذرة من شر ومعصية رآه مدوناً وساءه جزاؤه وعقابه؛ فلا يحقرن أحد من المعروف شيئاً ولا من الشر شيئاً."
+  }
+}

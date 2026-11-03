@@ -1,0 +1,116 @@
+{
+  "nodeId": "hifz_086_03",
+  "title": "سورة الطارق - المقطع الثالث (القَسَم بالسماء والأرض ومكانة القول الفصل)",
+  "surahId": 86,
+  "ayahStart": 11,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "وَٱلسَّمَآءِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلسَّمَآءِ",
+        "وَٱلْأَرْضِ",
+        "وَٱلشَّمْسِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلرَّجْعِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرَّجْعِ",
+        "ٱلْبُرُوجِ",
+        "ٱلْحُبُكِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "وَٱلْأَرْضِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْأَرْضِ",
+        "وَٱلسَّمَاءِ",
+        "وَٱلْجِبَالِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ٱلصَّدْعِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصَّدْعِ",
+        "ٱلنَّبْتِ",
+        "ٱلْمَهْدِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "لَقَوْلٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "لَقَوْلٌ",
+        "لَكِتَابٌ",
+        "لَوَحْيٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "فَصْلٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَصْلٌ",
+        "عَظِيمٌ",
+        "مُبِينٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "بِٱلْهَزْلِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْهَزْلِ",
+        "بِٱللَّعِبِ",
+        "بِٱلْبَاطِلِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالسماء ذات المطر الذي يرجع ويتكرر حيناً بعد حين، وبالأرض ذات الصدع والشقوق التي تتفتح ليخرج منها النبات والأشجار؛ إن هذا القرآن الكريم لكلام يفصل بين الحق والباطل والهدى والضلال بحكم قاطع جازم، وما هو باللعب أو الهزل بل هو الجد والحق الذي لا مرية فيه."
+  }
+}

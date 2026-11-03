@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_005_16",
+  "title": "سورة المائدة - الآيات 76-78",
+  "surahId": 5,
+  "ayahStart": 76,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "أَتَعْبُدُونَ",
+        "إِسْرَٰٓءِيلَ",
+        "تَتَّبِعُوٓا۟",
+        "وَأَضَلُّوا۟"
+      ],
+      "activityId": "act_005_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_005_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 11,
+      "options": [
+        "تَتَّبِعُوٓا۟",
+        "وَّكَانُوا۟",
+        "يَعْتَدُونَ",
+        "ٱلسَّمِيعُ"
+      ],
+      "activityId": "act_005_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_005_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 6,
+      "options": [
+        "إِسْرَٰٓءِيلَ",
+        "ٱلسَّبِيلِ",
+        "ٱلْعَلِيمُ",
+        "تَتَّبِعُوٓا۟"
+      ],
+      "activityId": "act_005_16_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

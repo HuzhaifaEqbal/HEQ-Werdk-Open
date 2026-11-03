@@ -1,0 +1,161 @@
+{
+  "nodeId": "node_049_04",
+  "title": "سورة الحجرات: النهي عن السخرية واللمز والتجسس والغيبة وميزان التفاضل بالتقوى",
+  "surahId": 49,
+  "ayahStart": 11,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_049_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "يَسْخَرْ",
+        "يَهْزَأْ",
+        "يَعِبْ",
+        "يَطْعَنْ"
+      ]
+    },
+    {
+      "activityId": "act_049_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 24,
+      "options": [
+        "تَلْمِزُوٓا۟",
+        "تَعِيبُوٓا۟",
+        "تَطْعَنُوٓا۟",
+        "تَذُمُّوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 27,
+      "options": [
+        "تَنَابَزُوا۟",
+        "تَعَايَرُوا۟",
+        "تَنَادَوْا۟",
+        "تَسَابُّوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 39,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْفَـٰسِقُونَ",
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلْمُعْتَدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_049_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱجْتَنِبُوا۟",
+        "ٱتَّقُوا۟",
+        "ٱتْرُكُوا۟",
+        "ٱحْذَرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 13,
+      "options": [
+        "تَجَسَّسُوا۟",
+        "تَحَسَّسُوا۟",
+        "تَبْحَثُوا۟",
+        "تَتَبَّعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 25,
+      "options": [
+        "فَكَرِهْتُمُوهُ ۚ",
+        "فَأَبَيْتُمُوهُ ۚ",
+        "فَكَرِهْتُمْ ۚ",
+        "فَمَقَتُّمُوهُ ۚ"
+      ]
+    },
+    {
+      "activityId": "act_049_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 30,
+      "options": [
+        "تَوَّابٌۭ",
+        "غَفُورٌۭ",
+        "عَفُوٌّۭ",
+        "قَرِيبٌۭ"
+      ]
+    },
+    {
+      "activityId": "act_049_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_049_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 9,
+      "options": [
+        "شُعُوبًۭا",
+        "أُمَمًا",
+        "طَوَآئِفَ",
+        "فِرَقًا"
+      ]
+    },
+    {
+      "activityId": "act_049_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 11,
+      "options": [
+        "لِتَعَارَفُوٓا۟ ۚ",
+        "لِتَفَاخَرُوٓا۟",
+        "لِتَبَاهَوْا۟",
+        "لِتَتَنَافَسُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 16,
+      "options": [
+        "أَتْقَىٰكُمْ ۚ",
+        "أَغْنَىٰكُمْ",
+        "أَنْسَبُكُمْ",
+        "أَعْلَمُكُمْ"
+      ]
+    }
+  ]
+}

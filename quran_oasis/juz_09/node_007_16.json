@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_16",
+  "title": "سورة الأعراف - الآيات 88-93",
+  "surahId": 7,
+  "ayahStart": 88,
+  "ayahEnd": 93,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسْتَكْبَرُوا۟",
+        "أَبْلَغْتُكُمْ",
+        "تَوَكَّلْنَا ۚ",
+        "فَأَخَذَتْهُمُ"
+      ],
+      "activityId": "act_007_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_007_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱفْتَرَيْنَا",
+        "فَأَصْبَحُوا۟",
+        "ٱلْخَـٰسِرِينَ",
+        "لَنُخْرِجَنَّكَ"
+      ],
+      "activityId": "act_007_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_007_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱتَّبَعْتُمْ",
+        "قَرْيَتِنَآ",
+        "لَتَعُودُنَّ",
+        "مِلَّتِنَا ۚ"
+      ],
+      "activityId": "act_007_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_007_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَصْبَحُوا۟",
+        "ٱفْتَرَيْنَا",
+        "ٱلْفَـٰتِحِينَ",
+        "أَبْلَغْتُكُمْ"
+      ],
+      "activityId": "act_007_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_007_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْخَـٰسِرِينَ",
+        "تَوَكَّلْنَا ۚ",
+        "فَأَخَذَتْهُمُ",
+        "ٱلْفَـٰتِحِينَ"
+      ],
+      "activityId": "act_007_16_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_007_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 6,
+      "options": [
+        "أَبْلَغْتُكُمْ",
+        "ٱلْخَـٰسِرِينَ",
+        "فَأَصْبَحُوا۟",
+        "لَنُخْرِجَنَّكَ"
+      ],
+      "activityId": "act_007_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_20",
+  "title": "سورة الأعراف - الآيات 112-117",
+  "surahId": 7,
+  "ayahStart": 112,
+  "ayahEnd": 117,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 1,
+      "options": [
+        "يَأْتُوكَ",
+        "عَصَاكَ ۖ",
+        "قَالُوٓا۟",
+        "لَأَجْرًا"
+      ],
+      "activityId": "act_007_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_007_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَـٰلِبِينَ",
+        "ٱلْمُلْقِينَ",
+        "ٱلْمُقَرَّبِينَ",
+        "أَلْقُوا۟ ۖ"
+      ],
+      "activityId": "act_007_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_007_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْغَـٰلِبِينَ",
+        "۞ وَأَوْحَيْنَآ",
+        "ٱلْمُلْقِينَ"
+      ],
+      "activityId": "act_007_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_007_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُلْقِينَ",
+        "ٱلْغَـٰلِبِينَ",
+        "يَأْفِكُونَ",
+        "ٱلسَّحَرَةُ"
+      ],
+      "activityId": "act_007_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_007_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱسْتَرْهَبُوهُمْ",
+        "۞ وَأَوْحَيْنَآ",
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْغَـٰلِبِينَ"
+      ],
+      "activityId": "act_007_20_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "wrongOptionsAyahNumbers": [
+        118,
+        114
+      ],
+      "activityId": "act_007_20_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَأَوْحَيْنَآ",
+        "وَٱسْتَرْهَبُوهُمْ",
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْمُلْقِينَ"
+      ],
+      "activityId": "act_007_20_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

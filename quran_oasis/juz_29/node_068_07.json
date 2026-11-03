@@ -1,0 +1,150 @@
+{
+  "nodeId": "node_068_07",
+  "title": "سورة القلم: نعيم المتقين وإبطال المساواة بين المسلم والمجرم",
+  "surahId": 68,
+  "ayahStart": 34,
+  "ayahEnd": 38,
+  "activities": [
+    {
+      "activityId": "act_068_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْمُتَّقِينَ",
+        "لِلْمُؤْمِنِينَ",
+        "لِلصَّـٰلِحِينَ",
+        "لِلْمُحْسِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنَّعِيمِ",
+        "ٱلْفِرْدَوْسِ",
+        "ٱلْخُلْدِ",
+        "عَدْنٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_068_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْأَبْرَارَ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "كَٱلْمُجْرِمِينَ",
+        "كَٱلْكَـٰفِرِينَ",
+        "كَٱلْفُجَّارِ",
+        "كَٱلظَّـٰلِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_068_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "تَحْكُمُونَ",
+        "تَقْضُونَ",
+        "تَزْعُمُونَ",
+        "تَفْتَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_068_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "كِتَـٰبٌۭ",
+        "بُرْهَانٌ",
+        "عَهْدٌ",
+        "سُلْطَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "تَدْرُسُونَ",
+        "تَقْرَءُونَ",
+        "تَعْلَمُونَ",
+        "تَجِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_07_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ]
+    },
+    {
+      "activityId": "act_068_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "تَخَيَّرُونَ",
+        "تَشْتَهُونَ",
+        "تَطْلُبُونَ",
+        "تُرِيدُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "إثبات جنات النعيم للمتقين وإنكار تسويتهم بالمجرمين في الجزاء، وتحدي المشركين بكتاب أو حجة تنصر باطلهم"
+  }
+}

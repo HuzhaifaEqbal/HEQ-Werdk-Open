@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_084_03",
+  "title": "سورة الانشقاق - المقطع الثالث (عاقبة الكافر وظنه الفاسد بالبعث)",
+  "surahId": 84,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "يَدْعُوا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "يَدْعُوا۟",
+        "يَرْجُو",
+        "يَسْأَلُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ثُبُورًا",
+      "missingWordPosition": 3,
+      "options": [
+        "ثُبُورًا",
+        "عَذَابًا",
+        "هَلَاكًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "وَيَصْلَىٰ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَصْلَىٰ",
+        "وَيَدْخُلُ",
+        "وَيَرِدُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "سَعِيرًا",
+      "missingWordPosition": 2,
+      "options": [
+        "سَعِيرًا",
+        "جَحِيمًا",
+        "لَظَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "أَهْلِهِۦ",
+      "missingWordPosition": 4,
+      "options": [
+        "أَهْلِهِۦ",
+        "دُنْيَاهُ",
+        "قَوْمِهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "مَسْرُورًا",
+      "missingWordPosition": 5,
+      "options": [
+        "مَسْرُورًا",
+        "بَطِرًا",
+        "لَاهِيًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "ظَنَّ",
+      "missingWordPosition": 2,
+      "options": [
+        "ظَنَّ",
+        "حَسِبَ",
+        "زَعَمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "يَحُورَ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَحُورَ",
+        "يَرْجِعَ",
+        "يُبْعَثَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "بَلَىٰٓ",
+      "missingWordPosition": 1,
+      "options": [
+        "بَلَىٰٓ",
+        "كَلَّا",
+        "نَعَمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "بَصِيرًا",
+      "missingWordPosition": 6,
+      "options": [
+        "بَصِيرًا",
+        "عَلِيمًا",
+        "خَبِيرًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "فسوف ينادي الكافر على نفسه بالهلاك والدمار (يا ثبوراه!) من هول ما يرى، ويدخل ناراً موقدة تتلظى ويقاسي حرها وسعيرها؛ إنه كان في الدنيا بين أهله لاهياً بطراً مسروراً بشهواته غير مفكر في العواقب، وظن وأيقن بجهله أنه لن يرجع إلى ربه ولن يُبعث حياً بعد الموت، بلى ليرجعن حياً، إن ربه كان به بصيراً مطلعاً على سره وعلانيته وسيجازيه بعدل."
+  }
+}

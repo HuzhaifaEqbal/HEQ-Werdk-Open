@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_043_03",
+  "title": "سورة الزخرف: إبطال نسبة البنات والملائكة لله وحال المشرك عند البشارة بالأنثى",
+  "surahId": 43,
+  "ayahStart": 15,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_043_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "جُزْءًا ۚ",
+        "وَلَدًا",
+        "شَرِيكًا",
+        "نِدًّا"
+      ]
+    },
+    {
+      "activityId": "act_043_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_043_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَصْفَىٰكُم",
+        "وَأَعْطَاكُم",
+        "وَخَصَّكُم",
+        "وَفَضَّلَكُم"
+      ]
+    },
+    {
+      "activityId": "act_043_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_043_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 12,
+      "options": [
+        "كَظِيمٌ",
+        "حَزِينٌ",
+        "غَضْبَانُ",
+        "كَئِيبٌ"
+      ]
+    },
+    {
+      "activityId": "act_043_03_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_043_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحِلْيَةِ",
+        "ٱلزِّينَةِ",
+        "ٱلثِّيَابِ",
+        "ٱلتَّرَفِ"
+      ]
+    },
+    {
+      "activityId": "act_043_03_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_043_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "إِنَـٰثًا ۚ",
+        "بَنَاتٍ",
+        "أَزْوَاجًا",
+        "شُرَكَاءَ"
+      ]
+    },
+    {
+      "activityId": "act_043_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_043_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 15,
+      "options": [
+        "يَخْرُصُونَ",
+        "يَكْذِبُونَ",
+        "يَفْتَرُونَ",
+        "يَظُنُّونَ"
+      ]
+    }
+  ]
+}

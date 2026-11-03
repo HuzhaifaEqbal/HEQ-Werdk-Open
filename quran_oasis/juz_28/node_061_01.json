@@ -1,0 +1,176 @@
+{
+  "nodeId": "node_061_01",
+  "title": "سورة الصف: تسبيح الكون ومقت القول بلا عمل والبنيان المرصوص",
+  "surahId": 61,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_061_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "سَبَّحَ",
+        "يُسَبِّحُ",
+        "سَبَّحَتِ",
+        "تُسَبِّحُ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْغَفُورُ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلْعَلِيمُ",
+        "ٱلرَّحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_061_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "تَقُولُونَ",
+        "تَعِدُونَ",
+        "تَزْعُمُونَ",
+        "تَدَّعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "تَفْعَلُونَ",
+        "تَصْدُقُونَ",
+        "تُوفُونَ",
+        "تَعْلَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_061_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "كَبُرَ",
+        "عَظُمَ",
+        "شَدُدَ",
+        "ثَقُلَ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "مَقْتًا",
+        "غَضَبًا",
+        "إِثْمًا",
+        "بُغْضًا"
+      ]
+    },
+    {
+      "activityId": "act_061_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_061_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "يُقَـٰتِلُونَ",
+        "يَجْتَمِعُونَ",
+        "يَصْبِرُونَ",
+        "يَسْعَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "صَفًّۭا",
+        "جَمْعًا",
+        "فَوْجًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "activityId": "act_061_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "بُنْيَـٰنٌۭ",
+        "جِدَارٌ",
+        "حِصْنٌ",
+        "سُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "مَّرْصُوصٌۭ",
+        "مُّحْكَمٌ",
+        "مَّتِينٌ",
+        "قَوِىٌّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصف",
+    "juz": 28,
+    "theme": "تسبيح الكائنات لله العزيز الحكيم، والإنكار الشديد على من يخالف قوله فعله، وبيان محبة الله للمؤمنين الصادقين الذين يقاتلون في سبيله صفاً واحداً متماسكاً كالبنيان المرصوص."
+  }
+}

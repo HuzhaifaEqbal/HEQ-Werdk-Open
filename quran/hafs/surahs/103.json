@@ -1,0 +1,43 @@
+{
+  "number": 103,
+  "name_ar": "العَصر",
+  "name_en": "Al-‘Aṣr",
+  "ayahs_count": 3,
+  "page_start": 601,
+  "page_end": 601,
+  "ayahs": [
+    {
+      "id": 6177,
+      "number": 1,
+      "text_uthmani": "وَٱلۡعَصۡرِ ١",
+      "text_simple": "والعصر",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6178,
+      "number": 2,
+      "text_uthmani": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢",
+      "text_simple": "إن الإنسان لفي خسر",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6179,
+      "number": 3,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣",
+      "text_simple": "إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 4
+    }
+  ]
+}

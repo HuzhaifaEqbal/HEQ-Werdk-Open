@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_21",
+  "title": "سورة البقرة - الآيات 100-104",
+  "surahId": 2,
+  "ayahStart": 100,
+  "ayahEnd": 104,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 1,
+      "options": [
+        "أَوَكُلَّمَا",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_002_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_002_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 19,
+      "options": [
+        "ظُهُورِهِمۡ",
+        "أَوَكُلَّمَا",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_002_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 35,
+      "options": [
+        "فَيَتَعَلَّمُونَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "وَلِلۡكَٰفِرِينَ"
+      ],
+      "activityId": "act_002_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "wrongOptionsAyahNumbers": [
+        104,
+        100
+      ],
+      "activityId": "act_002_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "ظُهُورِهِمۡ",
+        "أَوَكُلَّمَا",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_002_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 10,
+      "options": [
+        "وَلِلۡكَٰفِرِينَ",
+        "فَيَتَعَلَّمُونَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ"
+      ],
+      "activityId": "act_002_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يبين بطلان احتكار الهداية، ويقرر أن المشرق والمغرب لله، ويذكر دعوى الولد والرد عليها."
+  }
+}

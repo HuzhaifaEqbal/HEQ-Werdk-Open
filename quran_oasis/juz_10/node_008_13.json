@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_008_13",
+  "title": "سورة الأنفال - الآيات 71-75",
+  "surahId": 8,
+  "ayahStart": 71,
+  "ayahEnd": 75,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 2,
+      "options": [
+        "يُرِيدُوا۟",
+        "ءَامَنُوا۟",
+        "تَعْمَلُونَ",
+        "تَفْعَلُوهُ"
+      ],
+      "activityId": "act_008_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_008_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 31,
+      "options": [
+        "ٱسْتَنصَرُوكُمْ",
+        "ٱلْمُؤْمِنُونَ",
+        "وَهَاجَرُوا۟",
+        "ٱلْأَرْحَامِ"
+      ],
+      "activityId": "act_008_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_008_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 4,
+      "options": [
+        "أَوْلِيَآءُ",
+        "فَعَلَيْكُمُ",
+        "خِيَانَتَكَ",
+        "وَأُو۟لُوا۟"
+      ],
+      "activityId": "act_008_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_008_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْمُؤْمِنُونَ",
+        "يُهَاجِرُوا۟ ۚ",
+        "بِأَمْوَٰلِهِمْ",
+        "وَأَنفُسِهِمْ"
+      ],
+      "activityId": "act_008_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        72,
+        71
+      ],
+      "activityId": "act_008_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 5,
+      "options": [
+        "وَهَاجَرُوا۟",
+        "يُهَاجِرُوا۟",
+        "وَأَنفُسِهِمْ",
+        "بِأَمْوَٰلِهِمْ"
+      ],
+      "activityId": "act_008_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنفال",
+    "juz": 10,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

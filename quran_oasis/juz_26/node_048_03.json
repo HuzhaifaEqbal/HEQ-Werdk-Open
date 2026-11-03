@@ -1,0 +1,181 @@
+{
+  "nodeId": "node_048_03",
+  "title": "سورة الفتح: أعذار المخلفين وسوء ظنهم وطلبهم للمغانم",
+  "surahId": 48,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_048_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "شَغَلَتْنَآ",
+        "حَبَسَتْنَآ",
+        "مَنَعَتْنَآ",
+        "أَلْهَتْنَآ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 12,
+      "options": [
+        "بِأَلْسِنَتِهِم",
+        "بِأَفْوَاهِهِم",
+        "بِقَوْلِهِم",
+        "بِكَلَامِهِم"
+      ]
+    },
+    {
+      "activityId": "act_048_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 27,
+      "options": [
+        "ضَرًّا",
+        "سُوٓءًا",
+        "هَلَاكًا",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_048_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_048_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "يَنقَلِبَ",
+        "يَرْجِعَ",
+        "يَعُودَ",
+        "يَصِلَ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 20,
+      "options": [
+        "بُورًۭا",
+        "هَلْكَىٰ",
+        "خَاسِرِينَ",
+        "فَاسِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_048_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "أَعْتَدْنَا",
+        "أَوْرَثْنَا",
+        "هَيَّأْنَا",
+        "جَعَلْنَا"
+      ]
+    },
+    {
+      "activityId": "act_048_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_048_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "مُلْكُ",
+        "خَزَآئِنُ",
+        "خَلْقُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "يَغْفِرُ",
+        "يَرْحَمُ",
+        "يُثِيبُ",
+        "يُفَضِّلُ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_048_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "مَغَانِمَ",
+        "أَمْوَالٍ",
+        "أَسْلَابٍ",
+        "فُتُوحٍ"
+      ]
+    },
+    {
+      "activityId": "act_048_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 12,
+      "options": [
+        "يُبَدِّلُوا۟",
+        "يُغَيِّرُوا۟",
+        "يُحَرِّفُوا۟",
+        "يَنْقُضُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_048_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 25,
+      "options": [
+        "تَحْسُدُونَنَا ۚ",
+        "تَمْنَعُونَنَا ۚ",
+        "تَكْرَهُونَنَا ۚ",
+        "تَغِيظُونَنَا ۚ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "nodeId": "hifz_096_04",
+  "title": "سورة العلق - المقطع الرابع (الأخذ بالناصية ودعوة الزبانية وسجدة القرب)",
+  "surahId": 96,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَنتَهِ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَنتَهِ",
+        "يَتُبْ",
+        "يَرْجِعْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "لَنَسْفَعًۢا",
+      "missingWordPosition": 5,
+      "options": [
+        "لَنَسْفَعًۢا",
+        "لَنَأْخُذَنَّ",
+        "لَنَسْحَبَنَّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "بِٱلنَّاصِيَةِ",
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلنَّاصِيَةِ",
+        "بِٱلْأَقْدَامِ",
+        "بِٱلسَّلَاسِلِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "كَـٰذِبَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "كَـٰذِبَةٍ",
+        "فَاجِرَةٍ",
+        "ظَالِمَةٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "خَاطِئَةٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "خَاطِئَةٍ",
+        "عَاصِيَةٍ",
+        "مُجْرِمَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "فَلْيَدْعُ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَلْيَدْعُ",
+        "فَلْيَجْمَعْ",
+        "فَلْيَنْصُرْهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "نَادِيَهُۥ",
+      "missingWordPosition": 2,
+      "options": [
+        "نَادِيَهُۥ",
+        "قَوْمَهُ",
+        "عَشِيرَتَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        15,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "سَنَدْعُ",
+      "missingWordPosition": 1,
+      "options": [
+        "سَنَدْعُ",
+        "سَنُرْسِلُ",
+        "سَنَأْتِي بِـ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلزَّبَانِيَةَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلزَّبَانِيَةَ",
+        "ٱلْمَلَائِكَةَ",
+        "ٱلْجُنُودَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "تُطِعْهُ",
+      "missingWordPosition": 3,
+      "options": [
+        "تُطِعْهُ",
+        "تَخَفْهُ",
+        "تَتَّبِعْهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "وَٱسْجُدْ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱسْجُدْ",
+        "وَٱصْبِرْ",
+        "وَٱرْكَعْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "وَٱقْتَرِب",
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱقْتَرِب",
+        "وَٱرْتَقِ",
+        "وَٱفْرَحْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ردع وزجر قاطع لهذا الطاغية: لئن لم ينكفّ عن إيذائه للمصلي لنأخذنّ بمقدم رأسه (الناصية) سحباً وقسراً وبطشاً إلى نار جهنم، ناصيةٍ كاذبة في مقالها خاطئة في أفعالها، فليدعُ حينئذ أهل مجلسه وقومه وعشيرته لينصروه، سندعو ملائكة العذاب الغلاظ الشداد (الزبانية) ليلقوه في النار، كلا لا تطعه يا محمد فيما دعاك إليه من ترك الصلاة، بل اسجد لربك واقترب منه بالعبادة؛ فأقرب ما يكون العبد من ربه وهو ساجد."
+  }
+}

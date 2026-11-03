@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_15",
+  "title": "سورة النساء - الآيات 69-73",
+  "surahId": 4,
+  "ayahStart": 69,
+  "ayahEnd": 73,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلصِّدِّيقِينَ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_004_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡفَضۡلُ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        68
+      ],
+      "activityId": "act_004_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱنفِرُواْ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_004_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "لَّيُبَطِّئَنَّ",
+        "لَيَقُولَنَّ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_004_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 6,
+      "options": [
+        "لَيَقُولَنَّ",
+        "لَّيُبَطِّئَنَّ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يبين أن الإيمان الصادق يقتضي التسليم لحكم الرسول، ثم يذكر فضل طاعة الله والرسول."
+  }
+}

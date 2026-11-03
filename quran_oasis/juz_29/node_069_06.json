@@ -1,0 +1,152 @@
+{
+  "nodeId": "node_069_06",
+  "title": "سورة الحاقة: الأمر بأخذ الكافر وسلسلة السبعين ذراعاً",
+  "surahId": 69,
+  "ayahStart": 30,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "activityId": "act_069_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 1,
+      "options": [
+        "خُذُوهُ",
+        "اقْبِضُوهُ",
+        "اسْحَبُوهُ",
+        "اطْرَحُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "فَغُلُّوهُ",
+        "فَقَيِّدُوهُ",
+        "فَأَوْثِقُوهُ",
+        "فَاحْبِسُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_069_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْجَحِيمَ",
+        "ٱلسَّعِيرَ",
+        "ٱلنَّارَ",
+        "ٱلْهَاوِيَةَ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "صَلُّوهُ",
+        "أَدْخِلُوهُ",
+        "أَلْقُوهُ",
+        "اقْذِفُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        30
+      ]
+    },
+    {
+      "activityId": "act_069_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "سِلْسِلَةٍۢ",
+        "أَغْلَالٍ",
+        "أَوْثَاقٍ",
+        "سَلَاسِلَ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 5,
+      "options": [
+        "سَبْعُونَ",
+        "سِتُّونَ",
+        "خَمْسُونَ",
+        "أَرْبَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱسْلُكُوهُ",
+        "فَٱرْبِطُوهُ",
+        "فَشُدُّوهُ",
+        "فَٱطْرَحُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        31
+      ]
+    },
+    {
+      "activityId": "act_069_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْمِنُ",
+        "يُوقِنُ",
+        "يُخْلِصُ",
+        "يَسْجُدُ"
+      ]
+    },
+    {
+      "activityId": "act_069_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْعَظِيمِ",
+        "ٱلْكَبِيرِ",
+        "ٱلْقَدِيرِ",
+        "ٱلْعَلِىِّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "أمر ملائكة العذاب بأخذ المجرم وتقييده بالأغلال وإلقائه في الجحيم وسلكه في سلسلة سبعين ذراعاً لعدم إيمانه بالله العظيم"
+  }
+}

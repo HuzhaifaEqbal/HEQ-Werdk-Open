@@ -1,0 +1,298 @@
+{
+  "nodeId": "node_051_06",
+  "title": "سورة الذاريات: مصارع المكذبين عبر التاريخ (فرعون، عاد، ثمود، قوم نوح)",
+  "surahId": 51,
+  "ayahStart": 38,
+  "ayahEnd": 46,
+  "activities": [
+    {
+      "activityId": "act_051_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 7,
+      "options": [
+        "بِسُلْطَـٰنٍۢ",
+        "بِبَيِّنَةٍ",
+        "بِآيَةٍ",
+        "بِكِتَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 8,
+      "options": [
+        "مُّبِينٍۢ",
+        "عَظِيمٍ",
+        "قَوِىٍّ",
+        "مُنِيرٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_051_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "بِرُكْنِهِۦ",
+        "بِجُنُودِهِ",
+        "بِمُلْكِهِ",
+        "بِقُوَّتِهِ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 6,
+      "options": [
+        "مَجْنُونٌۭ",
+        "كَذَّابٌ",
+        "مَفْتُونٌ",
+        "ضَالٌّ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_051_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "فَنَبَذْنَـٰهُمْ",
+        "فَأَغْرَقْنَـٰهُمْ",
+        "فَطَرَحْنَـٰهُمْ",
+        "فَأَلْقَيْنَـٰهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْيَمِّ",
+        "ٱلْبَحْرِ",
+        "ٱلْمَاءِ",
+        "ٱلنَّهْرِ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 7,
+      "options": [
+        "مُلِيمٌۭ",
+        "ظَالِمٌ",
+        "خَاسِرٌ",
+        "هَالِكٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_051_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلرِّيحَ",
+        "ٱلصَّيْحَةَ",
+        "ٱلْعَذَابَ",
+        "ٱلصَّاعِقَةَ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَقِيمَ",
+        "ٱلصَّرْصَرَ",
+        "ٱلشَّدِيدَةَ",
+        "ٱلْعَاصِفَةَ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_051_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "تَذَرُ",
+        "تَبْقَى",
+        "تَتْرُكُ",
+        "تَدَعُ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 9,
+      "options": [
+        "كَٱلرَّمِيمِ",
+        "كَٱلْهَشِيمِ",
+        "كَٱلْعِهْنِ",
+        "كَٱلرَّمَادِ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_051_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 6,
+      "options": [
+        "تَمَتَّعُوا۟",
+        "عِيشُوا",
+        "ٱمْكُثُوا",
+        "ٱنْتَظِرُوا"
+      ]
+    },
+    {
+      "activityId": "act_051_06_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_051_06_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "فَعَتَوْا۟",
+        "فَتَوَلَّوْا",
+        "فَكَذَّبُوا",
+        "فَفَسَقُوا"
+      ]
+    },
+    {
+      "activityId": "act_051_06_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰعِقَةُ",
+        "ٱلرَّجْفَةُ",
+        "ٱلصَّيْحَةُ",
+        "ٱلْقَارِعَةُ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_051_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "قِيَامٍۢ",
+        "فِرَارٍ",
+        "نَجَاةٍ",
+        "خَلَاصٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "مُنتَصِرِينَ",
+        "مُفْلِحِينَ",
+        "غَـٰلِبِينَ",
+        "نَـٰجِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_06_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_051_06_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 8,
+      "options": [
+        "فَـٰسِقِينَ",
+        "ظَـٰلِمِينَ",
+        "مُّجْرِمِينَ",
+        "كَـٰفِرِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "استعراض مصارع الطغاة: فرعون في اليم، وعاد بالريح العقيم، وثمود بالصاعقة، وقوم نوح بالغرق."
+  }
+}

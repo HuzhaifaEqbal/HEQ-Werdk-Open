@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_092_02",
+  "title": "سورة الليل - المقطع الثاني (طريق العسرى والبخل وعاقبة التردي في الهلاك)",
+  "surahId": 92,
+  "ayahStart": 8,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "بَخِلَ",
+      "missingWordPosition": 3,
+      "options": [
+        "بَخِلَ",
+        "شَحَّ",
+        "مَنَعَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "وَٱسْتَغْنَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱسْتَغْنَىٰ",
+        "وَتَوَلَّىٰ",
+        "وَاسْتَكْبَرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "وَكَذَّبَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَكَذَّبَ",
+        "وَجَحَدَ",
+        "وَأَعْرَضَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "بِٱلْحُسْنَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلْحُسْنَىٰ",
+        "بِٱلْحَقِّ",
+        "بِٱلدِّينِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "فَسَنُيَسِّرُهُۥ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَنُيَسِّرُهُۥ",
+        "فَسَنَصْرِفُهُ",
+        "فَسَنُعَذِّبُهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "لِلْعُسْرَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْعُسْرَىٰ",
+        "لِلْيُسْرَىٰ",
+        "لِلشَّقَاءِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "يُغْنِى",
+      "missingWordPosition": 2,
+      "options": [
+        "يُغْنِى",
+        "يَنْفَعُ",
+        "يَدْفَعُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "تَرَدَّىٰٓ",
+      "missingWordPosition": 6,
+      "options": [
+        "تَرَدَّىٰٓ",
+        "مَاتَ",
+        "هَلَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        8,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "عَلَيْنَا",
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَيْنَا",
+        "إِلَيْنَا",
+        "لَدَيْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "لَلْهُدَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَلْهُدَىٰ",
+        "لَلْحَقَّ",
+        "لَلْبَيَانَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "لَلْـَٔاخِرَةَ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَلْـَٔاخِرَةَ",
+        "لَلْمُلْكَ",
+        "لَلْجَنَّةَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَٱلْأُولَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأُولَىٰ",
+        "وَٱلدُّنْيَا",
+        "وَٱلْأَرْضَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "وأما من ضنّ وبخل بماله واستغنى عن ثواب ربه وطاعته، وكذّب بالجنة وثواب الله العظيم، فسوف نيسر له أسباب الشر والشقاء ونخْذله إلى طريق العذاب والضنك (العسرى)، وما ينفعه ماله الذي جمعه وبخل به إذا سقط وهلك في حفرة جهنم وتردى فيها! إن علينا بحكمتنا وفضلنا بيان طريق الهدى من الضلال، وإن لنا وحدنا ملك الدار الآخرة والدار الأولى (الدنيا) نتصرف فيهما كيف نشاء."
+  }
+}

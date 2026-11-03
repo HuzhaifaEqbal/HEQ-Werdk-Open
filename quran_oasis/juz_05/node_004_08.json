@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_08",
+  "title": "سورة النساء - الآيات 34-38",
+  "surahId": 4,
+  "ayahStart": 34,
+  "ayahEnd": 38,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 26,
+      "options": [
+        "وَٱهۡجُرُوهُنَّ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_004_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱبۡعَثُواْ",
+        "أَبۡنَآئِكُمُ",
+        "وَيَأۡمُرُونَ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_004_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 7,
+      "options": [
+        "وَبِٱلۡوَٰلِدَيۡنِ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "وَٱهۡجُرُوهُنَّ"
+      ],
+      "activityId": "act_004_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_004_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "وَيَأۡمُرُونَ",
+        "فَٱبۡعَثُواْ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_004_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 2,
+      "options": [
+        "يُنفِقُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "فَٱبۡعَثُواْ"
+      ],
+      "activityId": "act_004_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يعرض حقوق الأسرة، ويعالج النشوز والإصلاح بين الزوجين، ويأمر بالإحسان إلى الوالدين وذوي القربى."
+  }
+}

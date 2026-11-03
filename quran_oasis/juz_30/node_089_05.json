@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_089_05",
+  "title": "سورة الفجر - المقطع الخامس (شدة عذاب الكافرين وبشارة النفس المطمئنة)",
+  "surahId": 89,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "يُعَذِّبُ",
+      "missingWordPosition": 3,
+      "options": [
+        "يُعَذِّبُ",
+        "يُهْلِكُ",
+        "يَقْضِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "عَذَابَهُۥٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "عَذَابَهُۥٓ",
+        "عِقَابَهُ",
+        "أَخْذَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "يُوثِقُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُوثِقُ",
+        "يَرْبِطُ",
+        "يَقْهَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "وَثَاقَهُۥٓ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَثَاقَهُۥٓ",
+        "سِلْسِلَتَهُ",
+        "قَيْدَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "ٱلنَّفْسُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنَّفْسُ",
+        "ٱلرُّوحُ",
+        "ٱلْقُلُوبُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "ٱلْمُطْمَئِنَّةُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُطْمَئِنَّةُ",
+        "ٱلرَّاضِيَةُ",
+        "ٱلصَّالِحَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "ٱرْجِعِىٓ",
+      "missingWordPosition": 1,
+      "options": [
+        "ٱرْجِعِىٓ",
+        "ٱدْخُلِي",
+        "ٱقْدَمِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "رَاضِيَةً",
+      "missingWordPosition": 4,
+      "options": [
+        "رَاضِيَةً",
+        "فَرِحَةً",
+        "آمِنَةً"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "مَّرْضِيَّةً",
+      "missingWordPosition": 5,
+      "options": [
+        "مَّرْضِيَّةً",
+        "مُكَرَّمَةً",
+        "مُقَرَّبَةً"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        25,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "فَٱدْخُلِى",
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱدْخُلِى",
+        "فَكُونِي",
+        "فَٱسْكُنِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "عِبَـٰدِى",
+      "missingWordPosition": 3,
+      "options": [
+        "عِبَـٰدِى",
+        "أَوْلِيَائِي",
+        "جُنْدِي"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "جَنَّتِى",
+      "missingWordPosition": 2,
+      "options": [
+        "جَنَّتِى",
+        "رَحْمَتِي",
+        "دَارِي"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ففي ذلك اليوم العظيم لا أحد أشد تعذيباً من تعذيب الله لمن كفر به وعصاه، ولا أحد أشد إيثاقاً وشدّاً بالسلاسل والأغلال من إيثاق الله له. وفي المقابل، يُنادى المؤمن الصالح بأرق نداء تكريماً وبشرى: يا أيتها النفس الساكنة المطمئنة إلى الإيمان ووعد ربها، ارجعي إلى جوار ربك وكرامته راضية بما أوتيت من النعيم، مَرْضياً عنك بطاعتك وإخلاصك، فادخلي في زمرة عبادي الصالحين المقربين، وادخلي جنتي ودار كرامتي منعمة مخلدة."
+  }
+}

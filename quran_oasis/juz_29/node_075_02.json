@@ -1,0 +1,242 @@
+{
+  "nodeId": "node_075_02",
+  "title": "سورة القيامة: التساؤل عن موعد القيامة وخسوف القمر ولا وزر",
+  "surahId": 75,
+  "ayahStart": 6,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "activityId": "act_075_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "يَسْـَٔلُ",
+        "يَقُولُ",
+        "يَدْعُو",
+        "يَرْجُو"
+      ]
+    },
+    {
+      "activityId": "act_075_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "أَيَّانَ",
+        "مَتَىٰ",
+        "كَيْفَ",
+        "أَيْنَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "ٱلْبَعْثِ",
+        "ٱلْوَاقِعَةِ",
+        "ٱلْحِسَابِ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_075_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "بَرِقَ",
+        "خَشَعَ",
+        "شَخَصَ",
+        "زَاغَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبَصَرُ",
+        "ٱلنَّظَرُ",
+        "ٱلْفُؤَادُ",
+        "ٱلْقَلْبُ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_075_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 1,
+      "options": [
+        "وَخَسَفَ",
+        "وَٱنْشَقَّ",
+        "وَأَظْلَمَ",
+        "وَكُوِّرَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقَمَرُ",
+        "ٱلنَّجْمُ",
+        "ٱلْفَلَقُ",
+        "ٱلْكَوْكَبُ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_075_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 1,
+      "options": [
+        "وَجُمِعَ",
+        "وَكُوِّرَتِ",
+        "وَخُسِفَ",
+        "وَأُدْرِكَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلشَّمْسُ",
+        "ٱلْأَرْضُ",
+        "ٱلنُّجُومُ",
+        "ٱلسَّمَاءُ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_075_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "أَيْنَ",
+        "كَيْفَ",
+        "مَتَىٰ",
+        "أَنَّىٰ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمَفَرُّ",
+        "ٱلْمَهْرَبُ",
+        "ٱلْمَلْجَأُ",
+        "ٱلْمُنْجَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        6
+      ]
+    },
+    {
+      "activityId": "act_075_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "وَزَرَ",
+        "مَهْرَبَ",
+        "نَاصِرَ",
+        "شَفِيعَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_075_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكَ",
+        "إِلَٰهِكَ",
+        "مَوْلَاكَ",
+        "خَالِقِكَ"
+      ]
+    },
+    {
+      "activityId": "act_075_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُسْتَقَرُّ",
+        "ٱلْمَصِيرُ",
+        "ٱلْمُنْتَهَىٰ",
+        "ٱلْمَآبُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "تصوير أهوال القيامة المروعة بتحير البصر وخسوف القمر وجمع الشمس والقمر، وفزع الكافر ومحاولته الفرار واللجوء ولا ملجأ إلا إلى الله."
+  }
+}

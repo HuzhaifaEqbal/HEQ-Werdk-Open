@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_043_07",
+  "title": "سورة الزخرف: عقوبة الإعراض عن الذكر بقرين الشيطان وحسرة الغافلين",
+  "surahId": 43,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "activityId": "act_043_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "يَعْشُ",
+        "يُعْرِضْ",
+        "يَغْفُلْ",
+        "يَصُدَّ"
+      ]
+    },
+    {
+      "activityId": "act_043_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 6,
+      "options": [
+        "نُقَيِّضْ",
+        "نُسَلِّطْ",
+        "نُرْسِلْ",
+        "نَجْعَلْ"
+      ]
+    },
+    {
+      "activityId": "act_043_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_043_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّبِيلِ",
+        "ٱلْحَقِّ",
+        "ٱلْهُدَىٰ",
+        "ٱلدِّينِ"
+      ]
+    },
+    {
+      "activityId": "act_043_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_043_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمَشْرِقَيْنِ",
+        "ٱلسَّمَاوَاتِ",
+        "ٱلْأَرْضِ",
+        "ٱلْآفَاقِ"
+      ]
+    },
+    {
+      "activityId": "act_043_07_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_043_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 9,
+      "options": [
+        "مُشْتَرِكُونَ",
+        "مُعَذَّبُونَ",
+        "خَالِدُونَ",
+        "مُقِيمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_07_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_043_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصُّمَّ",
+        "ٱلْمَوْتَى",
+        "ٱلْغَافِلِينَ",
+        "ٱلْحَيَارَى"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_045_05",
+  "title": "سورة الجاثية: التمييز بين الصالحين والمجرمين ومن اتخذ إلهه هواه وشبهة الدهريين",
+  "surahId": 45,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_045_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱجْتَرَحُوا۟",
+        "ٱكْتَسَبُوا۟",
+        "عَمِلُوا۟",
+        "فَعَلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_045_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_045_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "وَلِتُجْزَىٰ",
+        "وَلِتُثَابَ",
+        "وَلِتُحَاسَبَ",
+        "وَلِتُوَفَّىٰ"
+      ]
+    },
+    {
+      "activityId": "act_045_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_045_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 5,
+      "options": [
+        "هَوَىٰهُ",
+        "شَهْوَتَهُۥ",
+        "نَفْسَهُۥ",
+        "رَأْيَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_045_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 17,
+      "options": [
+        "غِشَـٰوَةًۭ",
+        "حِجَابًا",
+        "سِتْرًا",
+        "ظُلْمَةً"
+      ]
+    },
+    {
+      "activityId": "act_045_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_045_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلدَّهْرُ ۚ",
+        "ٱلْوَقْتُ",
+        "ٱلْأَيَّامُ",
+        "ٱلْقَدَرُ"
+      ]
+    },
+    {
+      "activityId": "act_045_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_045_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "يُحْيِيكُمْ",
+        "يَخْلُقُكُمْ",
+        "يَبْعَثُكُمْ",
+        "يَرْزُقُكُمْ"
+      ]
+    }
+  ]
+}

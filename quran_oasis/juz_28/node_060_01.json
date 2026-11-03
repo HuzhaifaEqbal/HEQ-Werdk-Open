@@ -1,0 +1,226 @@
+{
+  "nodeId": "node_060_01",
+  "title": "سورة الممتحنة: النهي عن موالاة الكفار وعداوة المشركين وعدم نفع الأرحام",
+  "surahId": 60,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_060_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 6,
+      "options": [
+        "عَدُوِّى",
+        "عِبَادِى",
+        "أَوْلِيَائِي",
+        "خَلْقِى"
+      ]
+    },
+    {
+      "activityId": "act_060_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْلِيَآءَ",
+        "نُصَرَاءَ",
+        "أَصْدِقَاءَ",
+        "أَحْبَابًا"
+      ]
+    },
+    {
+      "activityId": "act_060_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 11,
+      "options": [
+        "بِٱلْمَوَدَّةِ",
+        "بِٱلنَّصْرِ",
+        "بِٱلْوَلَاءِ",
+        "بِٱلْقُرْبَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْحَقِّ",
+        "ٱلْهُدَىٰ",
+        "ٱلْقُرْآنِ",
+        "ٱلنُّورِ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلرَّسُولَ",
+        "ٱلنَّبِيَّ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْأَوْلِيَاءَ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 32,
+      "options": [
+        "مَرْضَاتِى ۚ",
+        "ثَوَابِى",
+        "رِضْوَانِى",
+        "جَنَّتِى"
+      ]
+    },
+    {
+      "activityId": "act_060_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 39,
+      "options": [
+        "أَخْفَيْتُمْ",
+        "أَسْرَرْتُمْ",
+        "كَتَمْتُمْ",
+        "أَضْمَرْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 47,
+      "options": [
+        "سَوَآءَ",
+        "صِرَاطَ",
+        "طَرِيقَ",
+        "نَهْجَ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_060_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "يَثْقَفُوكُمْ",
+        "يَلْقَوْكُمْ",
+        "يَظْهَرُوا عَلَيْكُمْ",
+        "يَجِدُوكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "أَعْدَآءًۭ",
+        "خُصَمَاءَ",
+        "ظَالِمِينَ",
+        "مُعْتَدِينَ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "أَيْدِيَهُمْ",
+        "سِلَاحَهُمْ",
+        "بَأْسَهُمْ",
+        "سُيُوفَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 10,
+      "options": [
+        "بِٱلسُّوٓءِ",
+        "بِٱلشَّرِّ",
+        "بِٱلْأَذَىٰ",
+        "بِٱلْبَاطِلِ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 13,
+      "options": [
+        "تَكْفُرُونَ",
+        "تَرْجِعُونَ",
+        "تَضِلُّونَ",
+        "تَفْسُقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_060_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "أَرْحَامُكُمْ",
+        "قَرَابَاتُكُمْ",
+        "أَمْوَالُكُمْ",
+        "عَشَائِرُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 8,
+      "options": [
+        "يَفْصِلُ",
+        "يَقْضِى",
+        "يَحْكُمُ",
+        "يُفَرِّقُ"
+      ]
+    },
+    {
+      "activityId": "act_060_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 13,
+      "options": [
+        "بَصِيرٌۭ",
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "مُحِيطٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الممتحنة",
+    "juz": 28,
+    "theme": "النهي الجازم للمؤمنين عن اتخاذ أعداء الله ورسوله أولياء يلقون إليهم بالمودة والأسرار، وبيان غدر الكفار إذا ظفروا بالمؤمنين، وأن الأرحام والأولاد لن ينفعوا عند الله يوم القيامة."
+  }
+}

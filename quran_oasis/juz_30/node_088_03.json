@@ -1,0 +1,138 @@
+{
+  "nodeId": "hifz_088_03",
+  "title": "سورة الغاشية - المقطع الثالث (دلائل قدرة الخالق في الإبل والكون)",
+  "surahId": 88,
+  "ayahStart": 17,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "يَنظُرُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَنظُرُونَ",
+        "يَتَفَكَّرُونَ",
+        "يَعْلَمُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ٱلْإِبِلِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْإِبِلِ",
+        "ٱلْأَنْعَامِ",
+        "ٱلْخَيْلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "خُلِقَتْ",
+      "missingWordPosition": 6,
+      "options": [
+        "خُلِقَتْ",
+        "بُرِئَتْ",
+        "صُوِّرَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلسَّمَآءِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "ٱلْجِبَالِ",
+        "ٱلْأَرْضِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "رُفِعَتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "رُفِعَتْ",
+        "بُنِيَتْ",
+        "سُوِّيَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        17,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "ٱلْجِبَالِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْجِبَالِ",
+        "ٱلْأَرْضِ",
+        "ٱلسَّمَاءِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "نُصِبَتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "نُصِبَتْ",
+        "أُرْسِيَتْ",
+        "خُلِقَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "ٱلْأَرْضِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَرْضِ",
+        "ٱلْجِبَالِ",
+        "ٱلْبِحَارِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "سُطِحَتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "سُطِحَتْ",
+        "مُدَّتْ",
+        "بُسِطَتْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أفلا يتأمل المكذبون بالبعث في مخلوقات الله الدالة على عظمته وقدرته: كيف خلق الإبل خلقاً بديعاً عجيباً وهيّأها لتحمل المشاق والصبر، وكيف رفع السماء فوقهم بناءً محكماً بغير عمد ترونها، وكيف نصب الجبال الشامخات أوتاداً لتثبيت الأرض، وكيف بسط الأرض ومهدها ليستقر عليها الخلق؟ أليس القادر على هذا بقادر على إعادة الأجساد وحسابها؟!"
+  }
+}

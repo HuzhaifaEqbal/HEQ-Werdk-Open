@@ -1,0 +1,272 @@
+{
+  "nodeId": "node_054_05",
+  "title": "سورة القمر: حاصب قوم لوط وطمس أعينهم وأخذ آل فرعون أخذ عزيز مقتدر",
+  "surahId": 54,
+  "ayahStart": 33,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "activityId": "act_054_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "لُوطٍۭ",
+        "نُوحٍ",
+        "هُودٍ",
+        "صَالِحٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_054_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 4,
+      "options": [
+        "حَاصِبًا",
+        "صَيْحَةً",
+        "صَاعِقَةً",
+        "طُوفَانًا"
+      ]
+    },
+    {
+      "activityId": "act_054_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 9,
+      "options": [
+        "بِسَحَرٍۢ",
+        "بِٱلْفَجْرِ",
+        "بِٱلْغَدَاةِ",
+        "بِٱلْعَشِىِّ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_054_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 1,
+      "options": [
+        "نِّعْمَةًۭ",
+        "رَحْمَةً",
+        "فَضْلًا",
+        "كَرَامَةً"
+      ]
+    },
+    {
+      "activityId": "act_054_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 7,
+      "options": [
+        "شَكَرَ",
+        "ءَامَنَ",
+        "أَحْسَنَ",
+        "ٱتَّقَى"
+      ]
+    },
+    {
+      "activityId": "act_054_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_054_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 3,
+      "options": [
+        "بَطْشَتَنَا",
+        "عَذَابَنَا",
+        "بَأْسَنَا",
+        "غَضَبَنَا"
+      ]
+    },
+    {
+      "activityId": "act_054_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "فَتَمَارَوْا۟",
+        "فَكَذَّبُوا",
+        "فَشَكُّوا",
+        "فَأَعْرَضُوا"
+      ]
+    },
+    {
+      "activityId": "act_054_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_054_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 2,
+      "options": [
+        "رَٰوَدُوهُ",
+        "خَاصَمُوهُ",
+        "طَرَدُوهُ",
+        "جَادَلُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "فَطَمَسْنَآ",
+        "فَأَعْمَيْنَا",
+        "فَفَقَأْنَا",
+        "فَقَلَعْنَا"
+      ]
+    },
+    {
+      "activityId": "act_054_05_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_054_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 3,
+      "options": [
+        "بُكْرَةً",
+        "مَسَاءً",
+        "لَيْلًا",
+        "ظُهْرًا"
+      ]
+    },
+    {
+      "activityId": "act_054_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّسْتَقِرٌّۭ",
+        "أَلِيمٌ",
+        "مُّهِينٌ",
+        "شَدِيدٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_054_05_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_054_05_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_054_05_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "فِرْعَوْنَ",
+        "عَادٍ",
+        "ثَمُودَ",
+        "قَارُونَ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_054_05_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 6,
+      "options": [
+        "عَزِيزٍۢ",
+        "قَوِىٍّ",
+        "عَظِيمٍ",
+        "جَبَّارٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_05_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّقْتَدِرٍ",
+        "قَدِيرٍ",
+        "مَتِينٍ",
+        "حَكِيمٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القمر",
+    "juz": 27,
+    "theme": "عذاب قوم لوط بريح الحاصب الحاصبة وطمس أعينهم، وإهلاك آل فرعون بالغرق أخذاً أليماً شديداً."
+  }
+}

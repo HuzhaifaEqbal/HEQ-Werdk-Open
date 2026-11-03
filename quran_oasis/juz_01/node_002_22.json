@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_22",
+  "title": "سورة البقرة - الآيات 105-109",
+  "surahId": 2,
+  "ayahStart": 105,
+  "ayahEnd": 109,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡمُشۡرِكِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_002_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 6,
+      "options": [
+        "نُنسِهَا",
+        "ءَامَنَّا",
+        "ءَايَٰتِكَ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_002_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَيۡنَا",
+        "ءَابَآئِكَ",
+        "نُنسِهَا"
+      ],
+      "activityId": "act_002_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_002_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 14,
+      "options": [
+        "بِٱلۡإِيمَٰنِ",
+        "ءَاتَيۡنَٰهُمُ",
+        "يَرُدُّونَكُم",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_002_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 7,
+      "options": [
+        "يَرُدُّونَكُم",
+        "بِٱلۡإِيمَٰنِ",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض اعتراض أهل الكتاب على الوحي، ويؤكد رسالة النبي بالحق، ويحذر من اتباع أهوائهم بعد العلم."
+  }
+}

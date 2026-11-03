@@ -1,0 +1,155 @@
+{
+  "nodeId": "node_042_01",
+  "title": "سورة الشورى: فواتح الحروف وعظمة الوحي وتسبيح الملائكة ومغفرة الله",
+  "surahId": 42,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_042_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "حمٓ",
+        "الٓمٓ",
+        "الٓر",
+        "طسٓمٓ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_042_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "عٓسٓقٓ",
+        "كٓهيعٓصٓ",
+        "كٓهيعٓ",
+        "طسٓ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_042_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْغَفُورُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_042_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَظِيمُ",
+        "ٱلْكَبِيرُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْحَكِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_042_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَـٰوَٰتُ",
+        "يَنشَقِقْنَ",
+        "يَهْوِينَ",
+        "يَتَفَطَّرْنَ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 10,
+      "options": [
+        "وَيَسْتَغْفِرُونَ",
+        "وَيَدْعُونَ",
+        "وَيَخْشَوْنَ",
+        "وَيَرْجُونَ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_042_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "حَفِيظٌ",
+        "رَقِيبٌ",
+        "شَهِيدٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_042_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 12,
+      "options": [
+        "بِوَكِيلٍۢ",
+        "بِحَفِيظٍ",
+        "بِجَبَّارٍ",
+        "بِعَلِيمٍ"
+      ]
+    }
+  ]
+}

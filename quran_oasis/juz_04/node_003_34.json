@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_34",
+  "title": "سورة آل عمران - الآيات 163-167",
+  "surahId": 3,
+  "ayahStart": 163,
+  "ayahEnd": 167,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 8,
+      "options": [
+        "يَعۡمَلُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "أَصَٰبَتۡكُم"
+      ],
+      "activityId": "act_003_34_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "wrongOptionsAyahNumbers": [
+        165,
+        161
+      ],
+      "activityId": "act_003_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "لَّٱتَّبَعۡنَٰكُمۡۗ"
+      ],
+      "activityId": "act_003_34_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "wrongOptionsAyahNumbers": [
+        166,
+        162
+      ],
+      "activityId": "act_003_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 2,
+      "options": [
+        "أَصَٰبَتۡكُم",
+        "يَعۡمَلُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_34_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 165,
+      "correctNextAyahNumber": 166,
+      "wrongOptionsAyahNumbers": [
+        167,
+        163
+      ],
+      "activityId": "act_003_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "لَّٱتَّبَعۡنَٰكُمۡۗ"
+      ],
+      "activityId": "act_003_34_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "wrongOptionsAyahNumbers": [
+        168,
+        164
+      ],
+      "activityId": "act_003_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 17,
+      "options": [
+        "لَّٱتَّبَعۡنَٰكُمۡۗ",
+        "ٱلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_34_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "ينفي عن النبي الغلول، ويقرر عدل الجزاء، ويقارن بين من اتبع رضوان الله ومن باء بالسخط."
+  }
+}

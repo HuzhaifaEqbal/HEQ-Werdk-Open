@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_003_18",
+  "title": "سورة آل عمران - الآيات 86-89",
+  "surahId": 3,
+  "ayahStart": 86,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلظَّٰلِمِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَأَصۡلَحُواْ"
+      ],
+      "activityId": "act_003_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_003_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلۡمَلَٰٓئِكَةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلظَّٰلِمِينَ"
+      ],
+      "activityId": "act_003_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_003_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡعَذَابُ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_003_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَصۡلَحُواْ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلظَّٰلِمِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_18_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يعرض المقطع وعيد من كفر بعد إيمانه، ويفتح باب التوبة، ويبين أن الفدية لا تنفع من مات كافراً."
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_085_04",
+  "title": "سورة البروج - المقطع الرابع (عظمة بطش الله وسعة مغفرته وكماله)",
+  "surahId": 85,
+  "ayahStart": 12,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "بَطْشَ",
+      "missingWordPosition": 2,
+      "options": [
+        "بَطْشَ",
+        "عَذَابَ",
+        "أَخْذَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "لَشَدِيدٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَشَدِيدٌ",
+        "لَأَلِيمٌ",
+        "لَعَظِيمٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "يُبْدِئُ",
+      "missingWordPosition": 3,
+      "options": [
+        "يُبْدِئُ",
+        "يَخْلُقُ",
+        "يَبْدَأُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَيُعِيدُ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَيُعِيدُ",
+        "وَيُمِيتُ",
+        "وَيَبْعَثُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "ٱلْغَفُورُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْغَفُورُ",
+        "ٱلرَّحِيمُ",
+        "ٱلْكَرِيمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "ٱلْوَدُودُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْوَدُودُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        12,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "ٱلْعَرْشِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْعَرْشِ",
+        "ٱلْمُلْكِ",
+        "ٱلْفَضْلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "ٱلْمَجِيدُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَجِيدُ",
+        "ٱلْكَبِيرُ",
+        "ٱلْعَظِيمُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "فَعَّالٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَعَّالٌ",
+        "قَادِرٌ",
+        "قَاهِرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "يُرِيدُ",
+      "missingWordPosition": 3,
+      "options": [
+        "يُرِيدُ",
+        "يَشَاءُ",
+        "يَحْكُمُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن أخذ الله وعقابه للجبابرة والظلمة لشديد قاصم، وهو سبحانه المنفرد ببدء الخلق من العدم وإعادته بعد الفناء، وهو واسع المغفرة لذنوب التائبين، المتودد لأوليائه بالمحبة والرضوان والنعيم، صاحب العرش المجيد العظيم الشأن، الفعّال لما يريد بلا معقّب لحكمه ولا رادّ لقضائه ومشيئته النافذة."
+  }
+}

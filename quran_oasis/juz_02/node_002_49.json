@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_49",
+  "title": "سورة البقرة - الآيات 236-240",
+  "surahId": 2,
+  "ayahStart": 236,
+  "ayahEnd": 240,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 236,
+      "missingWordPosition": 22,
+      "options": [
+        "بِٱلۡمَعۡرُوفِۖ",
+        "طَلَّقۡتُمُوهُنَّ",
+        "ٱلۡمُحۡسِنِينَ",
+        "لِّأَزۡوَٰجِهِم"
+      ],
+      "activityId": "act_002_49_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 236,
+      "correctNextAyahNumber": 237,
+      "wrongOptionsAyahNumbers": [
+        238,
+        234
+      ],
+      "activityId": "act_002_49_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 237,
+      "missingWordPosition": 2,
+      "options": [
+        "طَلَّقۡتُمُوهُنَّ",
+        "ٱلۡمُحۡسِنِينَ",
+        "بِٱلۡمَعۡرُوفِۖ",
+        "وَمَتِّعُوهُنَّ"
+      ],
+      "activityId": "act_002_49_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 237,
+      "correctNextAyahNumber": 238,
+      "wrongOptionsAyahNumbers": [
+        239,
+        235
+      ],
+      "activityId": "act_002_49_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 238,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلصَّلَوٰةِ",
+        "لِّأَزۡوَٰجِهِم",
+        "وَمَتِّعُوهُنَّ",
+        "فَٱذۡكُرُواْ"
+      ],
+      "activityId": "act_002_49_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 238,
+      "correctNextAyahNumber": 239,
+      "wrongOptionsAyahNumbers": [
+        240,
+        236
+      ],
+      "activityId": "act_002_49_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 239,
+      "missingWordPosition": 8,
+      "options": [
+        "فَٱذۡكُرُواْ",
+        "وَٱلصَّلَوٰةِ",
+        "لِّأَزۡوَٰجِهِم",
+        "وَمَتِّعُوهُنَّ"
+      ],
+      "activityId": "act_002_49_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 239,
+      "correctNextAyahNumber": 240,
+      "wrongOptionsAyahNumbers": [
+        241,
+        237
+      ],
+      "activityId": "act_002_49_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 240,
+      "missingWordPosition": 7,
+      "options": [
+        "لِّأَزۡوَٰجِهِم",
+        "وَٱلصَّلَوٰةِ",
+        "فَٱذۡكُرُواْ",
+        "وَمَتِّعُوهُنَّ"
+      ],
+      "activityId": "act_002_49_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يقرر أحكام الطلاق قبل الدخول والرضاعة، ويوصي بحسن المعاملة والإنفاق."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "nodeId": "node_048_07",
+  "title": "سورة الفتح: صدق رؤيا النبي صلى الله عليه وسلم وصفات الصحابة في التوراة والإنجيل",
+  "surahId": 48,
+  "ayahStart": 27,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "activityId": "act_048_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "صَدَقَ",
+        "أَرَىٰ",
+        "حَقَّقَ",
+        "أَنْجَزَ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 14,
+      "options": [
+        "مُحَلِّقِينَ",
+        "مُقَصِّرِينَ",
+        "طَائِفِينَ",
+        "سَاعِينَ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 27,
+      "options": [
+        "فَتْحًۭا",
+        "نَصْرًا",
+        "أَجْرًا",
+        "خَيْرًا"
+      ]
+    },
+    {
+      "activityId": "act_048_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        1
+      ]
+    },
+    {
+      "activityId": "act_048_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْهُدَىٰ",
+        "بِٱلنُّورِ",
+        "بِٱلْكِتَابِ",
+        "بِٱلْبَيِّنَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "عَلَى",
+        "لِيَنْصُرَهُۥ",
+        "لِيُعْلِيَهُۥ",
+        "لِيُثَبِّتَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 14,
+      "options": [
+        "شَهِيدًۭا",
+        "عَلِيمًا",
+        "وَكِيلًا",
+        "حَسِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_048_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_048_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "أَشِدَّآءُ",
+        "غِلَاظٌ",
+        "قِيَامٌ",
+        "أَقْوِيَآءُ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 9,
+      "options": [
+        "رُحَمَآءُ",
+        "أَصْفِيَآءُ",
+        "أَحِبَّآءُ",
+        "إِخْوَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 19,
+      "options": [
+        "سِيمَاهُمْ",
+        "نُورُهُمْ",
+        "عَلَامَتُهُمْ",
+        "حِلْيَتُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 34,
+      "options": [
+        "شَطْـَٔهُۥ",
+        "فَرْعَهُۥ",
+        "نَبَاتَهُۥ",
+        "وَرَقَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 42,
+      "options": [
+        "لِيَغِيظَ",
+        "لِيُخْزِىَ",
+        "لِيُهْلِكَ",
+        "لِيَقْهَرَ"
+      ]
+    },
+    {
+      "activityId": "act_048_07_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 54,
+      "options": [
+        "عَظِيمًۢا",
+        "كَبِيرًا",
+        "كَثِيرًا",
+        "مُّقِيمًا"
+      ]
+    }
+  ]
+}

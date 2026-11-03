@@ -1,0 +1,266 @@
+{
+  "nodeId": "node_051_04",
+  "title": "سورة الذاريات: ضيف إبراهيم المكرمون وبشارة الغلام العليم",
+  "surahId": 51,
+  "ayahStart": 24,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_051_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "ضَيْفِ",
+        "قَوْمِ",
+        "ءَالِ",
+        "رُسُلِ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُكْرَمِينَ",
+        "ٱلْمُرْسَلِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلصَّـٰلِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_051_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "مُّنكَرُونَ",
+        "مُّجْرِمُونَ",
+        "غَرِيبُونَ",
+        "مُّسْرِفُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_051_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "فَرَاغَ",
+        "فَمَالَ",
+        "فَذَهَبَ",
+        "فَقَامَ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "بِعِجْلٍۢ",
+        "بِكَبْشٍ",
+        "بِشَاةٍ",
+        "بِطَعَامٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 6,
+      "options": [
+        "سَمِينٍۢ",
+        "حَنِيذٍ",
+        "كَبِيرٍ",
+        "طَيِّبٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_051_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "تَأْكُلُونَ",
+        "تَطْعَمُونَ",
+        "تَشْرَبُونَ",
+        "تُجِيبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_051_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "خِيفَةًۭ ۖ",
+        "فَزَعًا",
+        "رَهْبَةً",
+        "وَجَلًا"
+      ]
+    },
+    {
+      "activityId": "act_051_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "بِغُلَـٰمٍ",
+        "بِوَلَدٍ",
+        "بِبِنْتٍ",
+        "بِنَبِىٍّ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "عَلِيمٍۢ",
+        "حَلِيمٍ",
+        "كَرِيمٍ",
+        "مُّبَارَكٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_051_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 4,
+      "options": [
+        "صَرَّةٍۢ",
+        "دَهْشَةٍ",
+        "فَزْعَةٍ",
+        "عَجَلَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 5,
+      "options": [
+        "فَصَكَّتْ",
+        "فَلَطَمَتْ",
+        "فَغَطَّتْ",
+        "فَمَسَحَتْ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "عَجُوزٌ",
+        "كَبِيرَةٌ",
+        "امْرَأَةٌ",
+        "ضَعِيفَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 9,
+      "options": [
+        "عَقِيمٌۭ",
+        "مَرِيضَةٌ",
+        "يَائِسَةٌ",
+        "عَاقِرٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_051_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلرَّحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_051_04_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْعَلِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلْغَفُورُ",
+        "ٱلْقَدِيرُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "قصة ضيافة خليل الله إبراهيم للملائكة الكرام وبشارتهم له ولزوجه سارة بإسحاق عليه السلام."
+  }
+}

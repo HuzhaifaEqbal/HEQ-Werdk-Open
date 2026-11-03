@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_11",
+  "title": "سورة البقرة - الآيات 50-54",
+  "surahId": 2,
+  "ayahStart": 50,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 5,
+      "options": [
+        "فَأَنجَيۡنَٰكُمۡ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "بِٱتِّخَاذِكُمُ"
+      ],
+      "activityId": "act_002_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ],
+      "activityId": "act_002_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 4,
+      "options": [
+        "أَرۡبَعِينَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "تَشۡكُرُونَ"
+      ],
+      "activityId": "act_002_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_002_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 8,
+      "options": [
+        "تَشۡكُرُونَ",
+        "أَرۡبَعِينَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_002_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلۡفُرۡقَانَ",
+        "فَأَنجَيۡنَٰكُمۡ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ"
+      ],
+      "activityId": "act_002_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_002_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱتِّخَاذِكُمُ",
+        "وَٱلۡفُرۡقَانَ",
+        "فَأَنجَيۡنَٰكُمۡ",
+        "ءَأَنذَرۡتَهُمۡ"
+      ],
+      "activityId": "act_002_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يذكر طلب بني إسرائيل تنويع الطعام، وما قابلوا به النعمة، ويحذر من استبدال الحق بما هو أدنى."
+  }
+}

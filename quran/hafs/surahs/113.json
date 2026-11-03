@@ -1,0 +1,65 @@
+{
+  "number": 113,
+  "name_ar": "الفَلَق",
+  "name_en": "Al-Falaq",
+  "ayahs_count": 5,
+  "page_start": 604,
+  "page_end": 604,
+  "ayahs": [
+    {
+      "id": 6226,
+      "number": 1,
+      "text_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١",
+      "text_simple": "قل أعوذ برب الفلق",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6227,
+      "number": 2,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ ٢",
+      "text_simple": "من شر ما خلق",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6228,
+      "number": 3,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ٣",
+      "text_simple": "ومن شر غاسق إذا وقب",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 8
+    },
+    {
+      "id": 6229,
+      "number": 4,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ ٤",
+      "text_simple": "ومن شر النفاثات في العقد",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6230,
+      "number": 5,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ٥",
+      "text_simple": "ومن شر حاسد إذا حسد",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    }
+  ]
+}

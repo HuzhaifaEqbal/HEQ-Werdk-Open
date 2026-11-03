@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_002_31",
+  "title": "سورة البقرة - الآيات 147-150",
+  "surahId": 2,
+  "ayahStart": 147,
+  "ayahEnd": 150,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 147,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡمُمۡتَرِينَ",
+        "فَٱسۡتَبِقُواْ",
+        "وَٱخۡشَوۡنِي",
+        "تَخۡشَوۡهُمۡ"
+      ],
+      "activityId": "act_002_31_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 147,
+      "correctNextAyahNumber": 148,
+      "wrongOptionsAyahNumbers": [
+        149,
+        145
+      ],
+      "activityId": "act_002_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱسۡتَبِقُواْ",
+        "ٱلۡمُمۡتَرِينَ",
+        "وَٱخۡشَوۡنِي",
+        "تَعۡمَلُونَ"
+      ],
+      "activityId": "act_002_31_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "wrongOptionsAyahNumbers": [
+        150,
+        146
+      ],
+      "activityId": "act_002_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡمَسۡجِدِ",
+        "تَكُونُواْ",
+        "تَهۡتَدُونَ",
+        "مُوَلِّيهَاۖ"
+      ],
+      "activityId": "act_002_31_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "wrongOptionsAyahNumbers": [
+        151,
+        147
+      ],
+      "activityId": "act_002_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 26,
+      "options": [
+        "وَٱخۡشَوۡنِي",
+        "وَلَعَلَّكُمۡ",
+        "وُجُوهَكُمۡ",
+        "ٱلۡحَرَامِۖ"
+      ],
+      "activityId": "act_002_31_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يبين المقطع أن لكل أمة وجهة، ويدعو إلى المسابقة في الخيرات، وذكر التوجه إلى المسجد الحرام."
+  }
+}

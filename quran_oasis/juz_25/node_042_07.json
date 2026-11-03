@@ -1,0 +1,153 @@
+{
+  "nodeId": "node_042_07",
+  "title": "سورة الشورى: الجوار في البحر وصفات المؤمنين المتوكلين وأمرهم شورى بينهم",
+  "surahId": 42,
+  "ayahStart": 32,
+  "ayahEnd": 38,
+  "activities": [
+    {
+      "activityId": "act_042_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "كَٱلْأَعْلَـٰمِ",
+        "كَٱلْجِبَالِ",
+        "كَٱلْبُنْيَانِ",
+        "كَٱلْأَوْتَادِ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_042_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "رَوَاكِدَ",
+        "سَاكِنَاتٍ",
+        "وَاقِفَاتٍ",
+        "ثَابِتَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_042_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "يُوبِقْهُنَّ",
+        "يُغْرِقْهُنَّ",
+        "يُهْلِكْهُنَّ",
+        "يَدَّخِرْهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_042_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 9,
+      "options": [
+        "مَّحِيصٍۢ",
+        "مَفَرٍّ",
+        "مَلْجَإٍ",
+        "مَهْرَبٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_042_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 12,
+      "options": [
+        "وَأَبْقَىٰ",
+        "وَأَعْظَمُ",
+        "وَأَكْمَلُ",
+        "وَأَحْسَنُ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_042_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 10,
+      "options": [
+        "يَغْفِرُونَ",
+        "يَعْفُونَ",
+        "يَصْفَحُونَ",
+        "يَحْلُمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_042_07_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_042_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 7,
+      "options": [
+        "شُورَىٰ",
+        "عَدْلٌ",
+        "نَصِيحَةٌ",
+        "مَوَدَّةٌ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "nodeId": "node_048_02",
+  "title": "سورة الفتح: وعيد المنافقين والمشركين وبيعة الرضوان لله ولرسوله",
+  "surahId": 48,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_048_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيُعَذِّبَ",
+        "وَيُخْزِىَ",
+        "وَيَدْحَضَ",
+        "وَيُهْلِكَ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 11,
+      "options": [
+        "دَآئِرَةُ",
+        "غَضَبُ",
+        "عَذَابُ",
+        "نِقْمَةُ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "وَأَعَدَّ",
+        "وَهَيَّأَ",
+        "وَأَنْزَلَ",
+        "وَأَوْرَثَ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_048_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "جُنُودُ",
+        "مُلْكُ",
+        "خَزَآئِنُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "حَكِيمًا",
+        "قَدِيرًا",
+        "عَلِيمًا",
+        "غَفُورًا"
+      ]
+    },
+    {
+      "activityId": "act_048_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_048_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "شَـٰهِدًۭا",
+        "رَسُولًا",
+        "هَادِيًا",
+        "دَاعِيًا"
+      ]
+    },
+    {
+      "activityId": "act_048_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_048_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "وَتُعَزِّرُوهُ",
+        "وَتَنْصُرُوهُ",
+        "وَتَتَّبِعُوهُ",
+        "وَتُطِيعُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "بُكْرَةًۭ",
+        "عَشِيًّا",
+        "غُدُوًّا",
+        "لَيْلًا"
+      ]
+    },
+    {
+      "activityId": "act_048_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_048_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "يَدُ",
+        "قُدْرَةُ",
+        "عَيْنُ",
+        "حُكْمُ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 12,
+      "options": [
+        "نَّكَثَ",
+        "تَوَلَّىٰ",
+        "كَذَّبَ",
+        "أَعْرَضَ"
+      ]
+    },
+    {
+      "activityId": "act_048_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 18,
+      "options": [
+        "أَوْفَىٰ",
+        "أَتَمَّ",
+        "صَدَقَ",
+        "تَمَسَّكَ"
+      ]
+    }
+  ]
+}

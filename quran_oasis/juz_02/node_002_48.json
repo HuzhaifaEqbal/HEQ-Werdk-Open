@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_48",
+  "title": "سورة البقرة - الآيات 231-235",
+  "surahId": 2,
+  "ayahStart": 231,
+  "ayahEnd": 235,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 231,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأَمۡسِكُوهُنَّ",
+        "تَسۡتَرۡضِعُوٓاْ",
+        "تُوَاعِدُوهُنَّ",
+        "بِٱلۡمَعۡرُوفِۗ"
+      ],
+      "activityId": "act_002_48_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 231,
+      "correctNextAyahNumber": 232,
+      "wrongOptionsAyahNumbers": [
+        233,
+        229
+      ],
+      "activityId": "act_002_48_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 232,
+      "missingWordPosition": 14,
+      "options": [
+        "بِٱلۡمَعۡرُوفِۗ",
+        "فَأَمۡسِكُوهُنَّ",
+        "تَسۡتَرۡضِعُوٓاْ",
+        "تُوَاعِدُوهُنَّ"
+      ],
+      "activityId": "act_002_48_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 232,
+      "correctNextAyahNumber": 233,
+      "wrongOptionsAyahNumbers": [
+        234,
+        230
+      ],
+      "activityId": "act_002_48_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 233,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَٱلۡوَٰلِدَٰتُ",
+        "سَتَذۡكُرُونَهُنَّ",
+        "فَأَمۡسِكُوهُنَّ",
+        "تَسۡتَرۡضِعُوٓاْ"
+      ],
+      "activityId": "act_002_48_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 233,
+      "correctNextAyahNumber": 234,
+      "wrongOptionsAyahNumbers": [
+        235,
+        231
+      ],
+      "activityId": "act_002_48_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 234,
+      "missingWordPosition": 21,
+      "options": [
+        "بِٱلۡمَعۡرُوفِۗ",
+        "تُوَاعِدُوهُنَّ",
+        "فَأَمۡسِكُوهُنَّ",
+        "تَسۡتَرۡضِعُوٓاْ"
+      ],
+      "activityId": "act_002_48_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 234,
+      "correctNextAyahNumber": 235,
+      "wrongOptionsAyahNumbers": [
+        236,
+        232
+      ],
+      "activityId": "act_002_48_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 235,
+      "missingWordPosition": 17,
+      "options": [
+        "سَتَذۡكُرُونَهُنَّ",
+        "۞ وَٱلۡوَٰلِدَٰتُ",
+        "تُوَاعِدُوهُنَّ",
+        "فَأَمۡسِكُوهُنَّ"
+      ],
+      "activityId": "act_002_48_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر أحكام الطلاق والعدة والخطبة، ويدعو إلى التقوى ومراعاة حقوق الطرفين."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_10",
+  "title": "سورة البقرة - الآيات 45-49",
+  "surahId": 2,
+  "ayahStart": 45,
+  "ayahEnd": 49,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱسۡتَعِينُواْ",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "ءَأَنذَرۡتَهُمۡ"
+      ],
+      "activityId": "act_002_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_002_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "يَظُنُّونَ",
+        "ءَامَنَّا",
+        "ءَايَٰتِكَ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_002_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلۡعَٰلَمِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_002_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 19,
+      "options": [
+        "يُنصَرُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "يَظُنُّونَ"
+      ],
+      "activityId": "act_002_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        46
+      ],
+      "activityId": "act_002_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 6,
+      "options": [
+        "يَسُومُونَكُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "ٱلۡعَٰلَمِينَ"
+      ],
+      "activityId": "act_002_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يتناول المقطع طلب موسى رؤية الله، ثم توبة بني إسرائيل وذكر نعم إحياء الموتى وإنزال المنّ والسلوى."
+  }
+}

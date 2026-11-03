@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_006_28",
+  "title": "سورة الأنعام - الآيات 159-165",
+  "surahId": 6,
+  "ayahStart": 159,
+  "ayahEnd": 165,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 5,
+      "options": [
+        "وَكَانُوا۟",
+        "وَمَمَاتِى",
+        "ٱلْعِقَابِ",
+        "حَنِيفًۭا ۚ"
+      ],
+      "activityId": "act_006_28_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "wrongOptionsAyahNumbers": [
+        161,
+        157
+      ],
+      "activityId": "act_006_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 6,
+      "options": [
+        "أَمْثَالِهَا ۖ",
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "فَيُنَبِّئُكُم"
+      ],
+      "activityId": "act_006_28_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "wrongOptionsAyahNumbers": [
+        162,
+        158
+      ],
+      "activityId": "act_006_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "أَمْثَالِهَا ۖ",
+        "ٱلْمُسْلِمِينَ",
+        "بِٱلسَّيِّئَةِ"
+      ],
+      "activityId": "act_006_28_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "wrongOptionsAyahNumbers": [
+        163,
+        159
+      ],
+      "activityId": "act_006_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ءَاتَىٰكُمْ ۗ",
+        "بِٱلْحَسَنَةِ",
+        "تَخْتَلِفُونَ"
+      ],
+      "activityId": "act_006_28_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 162,
+      "correctNextAyahNumber": 163,
+      "wrongOptionsAyahNumbers": [
+        164,
+        160
+      ],
+      "activityId": "act_006_28_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُسْلِمِينَ",
+        "أَمْثَالِهَا ۖ",
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_006_28_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "wrongOptionsAyahNumbers": [
+        165,
+        161
+      ],
+      "activityId": "act_006_28_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 25,
+      "options": [
+        "فَيُنَبِّئُكُم",
+        "لِّيَبْلُوَكُمْ",
+        "بِٱلسَّيِّئَةِ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_006_28_11"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "wrongOptionsAyahNumbers": [
+        162,
+        161
+      ],
+      "activityId": "act_006_28_12"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 11,
+      "options": [
+        "لِّيَبْلُوَكُمْ",
+        "فَيُنَبِّئُكُم",
+        "بِٱلْحَسَنَةِ",
+        "تَخْتَلِفُونَ"
+      ],
+      "activityId": "act_006_28_13"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

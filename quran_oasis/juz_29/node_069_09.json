@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_069_09",
+  "title": "سورة الحاقة: استحالة التقوّل على الله وقطع الوتين",
+  "surahId": 69,
+  "ayahStart": 44,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "activityId": "act_069_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "تَقَوَّلَ",
+        "افْتَرَىٰ",
+        "اخْتَلَقَ",
+        "كَذَبَ"
+      ]
+    },
+    {
+      "activityId": "act_069_09_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأَقَاوِيلِ",
+        "ٱلْأَحَادِيثِ",
+        "ٱلْأَكَاذِيبِ",
+        "ٱلْكَلِمَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_069_09_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_069_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "لَأَخَذْنَا",
+        "لَعَاقَبْنَا",
+        "لَأَهْلَكْنَا",
+        "لَقَتَلْنَا"
+      ]
+    },
+    {
+      "activityId": "act_069_09_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْيَمِينِ",
+        "بِٱلْقُوَّةِ",
+        "بِٱلْعَذَابِ",
+        "بِٱلْبَأْسِ"
+      ]
+    },
+    {
+      "activityId": "act_069_09_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        44
+      ]
+    },
+    {
+      "activityId": "act_069_09_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "لَقَطَعْنَا",
+        "لَفَصَلْنَا",
+        "لَمَزَّقْنَا",
+        "لَسَلَبْنَا"
+      ]
+    },
+    {
+      "activityId": "act_069_09_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْوَتِينَ",
+        "ٱلْفُؤَادَ",
+        "ٱلْقَلْبَ",
+        "ٱلْعُنُقَ"
+      ]
+    },
+    {
+      "activityId": "act_069_09_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        45
+      ]
+    },
+    {
+      "activityId": "act_069_09_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 6,
+      "options": [
+        "حَـٰجِزِينَ",
+        "مَانِعِينَ",
+        "عَاصِمِينَ",
+        "مُنْقِذِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "بيان عصمة الوحي، وأنه لو افترى محمد ﷺ حرفاً لعاجله الله بالعقوبة بقطع نياط قلبه وما استطاع أحد منعه"
+  }
+}

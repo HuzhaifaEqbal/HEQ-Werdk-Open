@@ -1,0 +1,250 @@
+{
+  "nodeId": "node_054_02",
+  "title": "سورة القمر: طوفان قوم نوح ونجاة ذات الألواح والدسر وتيسير القرآن للذكر",
+  "surahId": 54,
+  "ayahStart": 9,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "activityId": "act_054_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱزْدُجِرَ",
+        "وَٱنْتُهِرَ",
+        "وَطُرِدَ",
+        "وَأُوذِىَ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_054_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "مَغْلُوبٌۭ",
+        "مَظْلُومٌ",
+        "ضَعِيفٌ",
+        "مَهْزُومٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱنتَصِرْ",
+        "فَٱنْجِنِى",
+        "فَأَعِنِّى",
+        "فَٱحْكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_054_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّنْهَمِرٍۢ",
+        "مُّنْصَبٍّ",
+        "مُّتَدَفِّقٍ",
+        "شَدِيدٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_054_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "وَفَجَّرْنَا",
+        "وَشَقَقْنَا",
+        "وَأَخْرَجْنَا",
+        "وَنَبَعْنَا"
+      ]
+    },
+    {
+      "activityId": "act_054_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 9,
+      "options": [
+        "قُدِرَ",
+        "قُضِىَ",
+        "كُتِبَ",
+        "أُمِرَ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_054_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "أَلْوَٰحٍۢ",
+        "خَشَبٍ",
+        "سَفِينَةٍ",
+        "أَشْجَارٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "وَدُسُرٍۢ",
+        "وَحِبَالٍ",
+        "وَمَسَامِيرَ",
+        "وَشِرَاعٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_054_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "بِأَعْيُنِنَا",
+        "بِحِفْظِنَا",
+        "بِأَمْرِنَا",
+        "بِرَحْمَتِنَا"
+      ]
+    },
+    {
+      "activityId": "act_054_02_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_054_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّدَّكِرٍۢ",
+        "مُّتَّعِظٍ",
+        "مُّتَذَكِّرٍ",
+        "مُّؤْمِنٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_02_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_054_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "وَنُذُرِ",
+        "وَبَأْسِى",
+        "وَعِقَابِى",
+        "وَبَطْشِى"
+      ]
+    },
+    {
+      "activityId": "act_054_02_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_054_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسَّرْنَا",
+        "فَصَّلْنَا",
+        "أَنْزَلْنَا",
+        "بَيَّنَّا"
+      ]
+    },
+    {
+      "activityId": "act_054_02_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "لِلذِّكْرِ",
+        "لِلْفَهْمِ",
+        "لِلْحِفْظِ",
+        "لِلْعَمَلِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القمر",
+    "juz": 27,
+    "theme": "إهلاك قوم نوح بالطوفان ونجاة نوح والمؤمنين في السفينة ذات الألواح والمسامير، وبيان تيسير القرآن للذكر."
+  }
+}

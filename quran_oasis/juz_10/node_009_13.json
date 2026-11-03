@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_13",
+  "title": "سورة التوبة - الآيات 73-77",
+  "surahId": 9,
+  "ayahStart": 73,
+  "ayahEnd": 77,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْمُنَـٰفِقِينَ",
+        "وَٱلْـَٔاخِرَةِ ۚ",
+        "فَأَعْقَبَهُمْ",
+        "وَلَنَكُونَنَّ"
+      ],
+      "activityId": "act_009_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_009_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 38,
+      "options": [
+        "وَٱلْـَٔاخِرَةِ ۚ",
+        "وَٱلْمُنَـٰفِقِينَ",
+        "وَمَأْوَىٰهُمْ",
+        "ٱلصَّـٰلِحِينَ"
+      ],
+      "activityId": "act_009_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_009_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 10,
+      "options": [
+        "وَلَنَكُونَنَّ",
+        "يَلْقَوْنَهُۥ",
+        "وَرَسُولُهُۥ",
+        "يَنَالُوا۟ ۚ"
+      ],
+      "activityId": "act_009_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_009_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاتَىٰهُم",
+        "ءَاتَىٰنَا",
+        "يَتُوبُوا۟",
+        "ٱلدُّنْيَا"
+      ],
+      "activityId": "act_009_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_009_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 7,
+      "options": [
+        "يَلْقَوْنَهُۥ",
+        "۞ وَمِنْهُم",
+        "وَرَسُولُهُۥ",
+        "وَلَنَكُونَنَّ"
+      ],
+      "activityId": "act_009_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "nodeId": "hifz_086_04",
+  "title": "سورة الطارق - المقطع الرابع (كيد الكافرين وإمهالهم إلى حين)",
+  "surahId": 86,
+  "ayahStart": 15,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَكِيدُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَكِيدُونَ",
+        "يَمْكُرُونَ",
+        "يُدَبِّرُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "كَيْدًا",
+      "missingWordPosition": 3,
+      "options": [
+        "كَيْدًا",
+        "مَكْرًا",
+        "شَرًّا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        13,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "وَأَكِيدُ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَكِيدُ",
+        "وَأَمْكُرُ",
+        "وَأَقْضِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "كَيْدًا",
+      "missingWordPosition": 2,
+      "options": [
+        "كَيْدًا",
+        "مَكْرًا",
+        "عَدْلًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "فَمَهِّلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَمَهِّلِ",
+        "فَأَنْذِرِ",
+        "فَاصْبِرْ عَلَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ٱلْكَـٰفِرِينَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلظَّالِمِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "أَمْهِلْهُمْ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَمْهِلْهُمْ",
+        "أَنْظِرْهُمْ",
+        "اتْرُكْهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "رُوَيْدًا",
+      "missingWordPosition": 4,
+      "options": [
+        "رُوَيْدًا",
+        "قَرِيبًا",
+        "يَسِيرًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الكفار يمكرون مكراً شديداً ليدحضوا به الحق ويبطلوا دعوة الإسلام، والله تعالى يقابل مكرهم باستدراجهم وإظهار دينه ونصر نبيه كيداً متيناً لا قِبل لهم به، فلا تستعجل يا رسول الله عليهم العذاب، بل انتظر وأمهلهم زمناً يسيراً وقليلاً (رويداً)؛ فسيرون ما يحل بهم من خزي الدنيا وعذاب الآخرة الأليم."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "nodeId": "node_103_01",
+  "title": "سورة العصر: قسم بالدهر وشروط النجاة من الخسران",
+  "surahId": 103,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_103_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْعَصْرِ",
+        "وَٱلْفَجْرِ",
+        "وَٱلضُّحَىٰ",
+        "وَٱللَّيْلِ"
+      ]
+    },
+    {
+      "activityId": "act_103_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_103_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "خُسْرٍ",
+        "ضَلَـٰلٍ",
+        "عَذَابٍ",
+        "غَيٍّ"
+      ]
+    },
+    {
+      "activityId": "act_103_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_103_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُوا۟",
+        "أَسْلَمُوا۟",
+        "ٱتَّقَوْا۟",
+        "أَحْسَنُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_103_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلْحَسَنَـٰتِ",
+        "ٱلْخَيْرَاتِ",
+        "ٱلْبَـٰقِيَـٰتِ"
+      ]
+    },
+    {
+      "activityId": "act_103_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "بِٱلْحَقِّ",
+        "بِٱلْعَدْلِ",
+        "بِٱلْقِسْطِ",
+        "بِٱلدِّينِ"
+      ]
+    },
+    {
+      "activityId": "act_103_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱلصَّبْرِ",
+        "بِٱلشُّكْرِ",
+        "بِٱلْمَرْحَمَةِ",
+        "بِٱلتَّقْوَىٰ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العصر",
+    "juz": 30,
+    "theme": "بيان خسارة جنس الإنسان إلا من حقق أركان الفلاح الأربعة: الإيمان، والعمل الصالح، والتواصي بالحق، والتواصي بالصبر"
+  }
+}

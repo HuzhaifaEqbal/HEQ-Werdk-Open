@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_096_03",
+  "title": "سورة العلق - المقطع الثالث (شناعة نهي المصلي ورؤية الله لأفعال العباد)",
+  "surahId": 96,
+  "ayahStart": 9,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "أَرَءَيْتَ",
+      "missingWordPosition": 1,
+      "options": [
+        "أَرَءَيْتَ",
+        "أَلَمْ تَرَ",
+        "أَفَرَأَيْتَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "يَنْهَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَنْهَىٰ",
+        "يَمْنَعُ",
+        "يَصُدُّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "عَبْدًا",
+      "missingWordPosition": 1,
+      "options": [
+        "عَبْدًا",
+        "نَبِيًّا",
+        "رَسُولًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "صَلَّىٰٓ",
+      "missingWordPosition": 3,
+      "options": [
+        "صَلَّىٰٓ",
+        "دَعَا",
+        "سَجَدَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "كَانَ",
+      "missingWordPosition": 3,
+      "options": [
+        "كَانَ",
+        "جَاءَ",
+        "دَعَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلْهُدَىٰٓ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْهُدَىٰٓ",
+        "ٱلْحَقِّ",
+        "ٱلصِّرَاطِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "أَمَرَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَمَرَ",
+        "دَعَا",
+        "نَصَحَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "بِٱلتَّقْوَىٰٓ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلتَّقْوَىٰٓ",
+        "بِٱلْهُدَى",
+        "بِٱلْإِيمَانِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        9,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "كَذَّبَ",
+      "missingWordPosition": 3,
+      "options": [
+        "كَذَّبَ",
+        "كَفَرَ",
+        "جَحَدَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَتَوَلَّىٰٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَتَوَلَّىٰٓ",
+        "وَأَعْرَضَ",
+        "وَطَغَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "يَعْلَم",
+      "missingWordPosition": 2,
+      "options": [
+        "يَعْلَم",
+        "يَدْرِ",
+        "يَفْهَمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "يَرَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَرَىٰ",
+        "شَهِيدٌ",
+        "عَلِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تعجيب شديد من جرأة أبي جهل وأمثاله من طواغيت الكفر حين ينهى عبد الله ورسوله محمداً ﷺ عن الصلاة عند الكعبة! أرأيت أيها العاقل إن كان هذا المصلي المنهي على الهدى والحق المبين، أو كان يأمر الناس بتقوى الله وخشيته أيكون مستحقاً للنهي والأذى؟! وأرأيت إن كان هذا الطاغية الناهي قد كذّب بالحق وتولّى عن الإيمان، ألم يوقن ويعلم بأن الله مطّلع عليه يرى مكانه ويسمع كلامه وسيجازيه على ظلمه وعدوانه؟!"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "nodeId": "node_068_04",
+  "title": "سورة القلم: قصة أصحاب الجنة وقسمهم بحرمان الفقراء",
+  "surahId": 68,
+  "ayahStart": 17,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "activityId": "act_068_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "بَلَوْنَـٰهُمْ",
+        "عَذَّبْنَـٰهُمْ",
+        "أَخَذْنَـٰهُمْ",
+        "أَمْلَيْنَا"
+      ]
+    },
+    {
+      "activityId": "act_068_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْجَنَّةِ",
+        "ٱلْقَرْيَةِ",
+        "ٱلْبُسْتَانِ",
+        "ٱلْحَدِيقَةِ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 9,
+      "options": [
+        "لَيَصْرِمُنَّهَا",
+        "لَيَحْصُدُنَّهَا",
+        "لَيَقْطِفُنَّهَا",
+        "لَيَجْمَعُنَّهَا"
+      ]
+    },
+    {
+      "activityId": "act_068_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 10,
+      "options": [
+        "مُصْبِحِينَ",
+        "مُمْسِينَ",
+        "مُبَكِّرِينَ",
+        "عَاجِلِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_068_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْتَثْنُونَ",
+        "يَشْكُرُونَ",
+        "يَخَافُونَ",
+        "يَتَّقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_068_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "طَآئِفٌۭ",
+        "عَذَابٌ",
+        "نَارٌ",
+        "رِيحٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "نَآئِمُونَ",
+        "غَـٰفِلُونَ",
+        "آمِنُونَ",
+        "سَاهُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_068_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "كَٱلصَّرِيمِ",
+        "كَٱلرَّمَادِ",
+        "كَٱلْهَشِيمِ",
+        "كَٱلْعَصْفِ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        18
+      ]
+    },
+    {
+      "activityId": "act_068_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "فَتَنَادَوْا۟",
+        "فَتَوَاصَوْا۟",
+        "فَتَحَاوَرُوا۟",
+        "فَٱسْتَبْشَرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_068_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ]
+    },
+    {
+      "activityId": "act_068_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 4,
+      "options": [
+        "حَرْثِكُمْ",
+        "زَرْعِكُمْ",
+        "جَنَّتِكُمْ",
+        "بُسْتَانِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_068_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "صَـٰرِمِينَ",
+        "قَاطِفِينَ",
+        "حَاصِدِينَ",
+        "جَانِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "ضرب المثل بأصحاب البستان الذين أقسموا على جني ثمارهم مبكرين لحرمان الفقراء، فاحترقت جنتهم ليلاً"
+  }
+}

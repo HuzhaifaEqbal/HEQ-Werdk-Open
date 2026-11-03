@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_002_53",
+  "title": "سورة البقرة - الآيات 250-252",
+  "surahId": 2,
+  "ayahStart": 250,
+  "ayahEnd": 252,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 250,
+      "missingWordPosition": 4,
+      "options": [
+        "وَجُنُودِهِۦ",
+        "أَقۡدَامَنَا",
+        "فَهَزَمُوهُم",
+        "وَٱنصُرۡنَا"
+      ],
+      "activityId": "act_002_53_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 250,
+      "correctNextAyahNumber": 251,
+      "wrongOptionsAyahNumbers": [
+        252,
+        248
+      ],
+      "activityId": "act_002_53_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 251,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلۡحِكۡمَةَ",
+        "وَجُنُودِهِۦ",
+        "ٱلۡعَٰلَمِينَ",
+        "ٱلۡكَٰفِرِينَ"
+      ],
+      "activityId": "act_002_53_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 251,
+      "correctNextAyahNumber": 252,
+      "wrongOptionsAyahNumbers": [
+        253,
+        249
+      ],
+      "activityId": "act_002_53_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 252,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡمُرۡسَلِينَ",
+        "أَقۡدَامَنَا",
+        "فَهَزَمُوهُم",
+        "وَجُنُودِهِۦ"
+      ],
+      "activityId": "act_002_53_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر دعاء المؤمنين عند لقاء جالوت، ونصر داود، وفضل الله في دفع الناس بعضهم ببعض."
+  }
+}

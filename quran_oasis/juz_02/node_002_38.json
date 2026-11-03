@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_38",
+  "title": "سورة البقرة - الآيات 181-185",
+  "surahId": 2,
+  "ayahStart": 181,
+  "ayahEnd": 185,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 181,
+      "missingWordPosition": 9,
+      "options": [
+        "يُبَدِّلُونَهُۥٓۚ",
+        "وَلِتُكَبِّرُواْ",
+        "وَلِتُكۡمِلُواْ",
+        "وَٱلۡفُرۡقَانِۚ"
+      ],
+      "activityId": "act_002_38_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 181,
+      "correctNextAyahNumber": 182,
+      "wrongOptionsAyahNumbers": [
+        183,
+        179
+      ],
+      "activityId": "act_002_38_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 182,
+      "missingWordPosition": 8,
+      "options": [
+        "فَأَصۡلَحَ",
+        "أَيَّامٗا",
+        "إِثۡمُهُۥ",
+        "بَدَّلَهُۥ"
+      ],
+      "activityId": "act_002_38_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 182,
+      "correctNextAyahNumber": 183,
+      "wrongOptionsAyahNumbers": [
+        184,
+        180
+      ],
+      "activityId": "act_002_38_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 183,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "بَعۡدَ مَا",
+        "تَشۡكُرُونَ",
+        "تَصُومُواْ"
+      ],
+      "activityId": "act_002_38_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 183,
+      "correctNextAyahNumber": 184,
+      "wrongOptionsAyahNumbers": [
+        185,
+        181
+      ],
+      "activityId": "act_002_38_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 184,
+      "missingWordPosition": 16,
+      "options": [
+        "يُطِيقُونَهُۥ",
+        "يُبَدِّلُونَهُۥٓۚ",
+        "وَلِتُكَبِّرُواْ",
+        "وَلِتُكۡمِلُواْ"
+      ],
+      "activityId": "act_002_38_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 184,
+      "correctNextAyahNumber": 185,
+      "wrongOptionsAyahNumbers": [
+        186,
+        182
+      ],
+      "activityId": "act_002_38_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 185,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلۡفُرۡقَانِۚ",
+        "يُطِيقُونَهُۥ",
+        "يُبَدِّلُونَهُۥٓۚ",
+        "وَلِتُكَبِّرُواْ"
+      ],
+      "activityId": "act_002_38_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يشرح قرب الله وإجابته دعاء عباده، وأحكام الصيام ليلاً، ويحذر من أكل الأموال بالباطل."
+  }
+}

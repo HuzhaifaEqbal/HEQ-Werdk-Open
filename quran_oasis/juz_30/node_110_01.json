@@ -1,0 +1,118 @@
+{
+  "nodeId": "node_110_01",
+  "title": "سورة النصر: فتح مكة ودخول الناس في دين الله أفواجاً",
+  "surahId": 110,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_110_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "نَصْرُ",
+        "فَضْلُ",
+        "أَمْرُ",
+        "وَعْدُ"
+      ]
+    },
+    {
+      "activityId": "act_110_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْفَتْحُ",
+        "وَٱلْفَوْزُ",
+        "وَٱلنُّورُ",
+        "وَٱلْحَقُّ"
+      ]
+    },
+    {
+      "activityId": "act_110_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_110_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "يَدْخُلُونَ",
+        "يَسِيرُونَ",
+        "يُقْبِلُونَ",
+        "يُسَارِعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_110_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "أَفْوَاجًۭا",
+        "أَشْتَاتًا",
+        "جَمِيعًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "activityId": "act_110_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_110_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَبِّحْ",
+        "فَٱحْمَدْ",
+        "فَٱشْكُرْ",
+        "فَٱسْجُدْ"
+      ]
+    },
+    {
+      "activityId": "act_110_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱسْتَغْفِرْهُ ۚ",
+        "وَٱشْكُرْهُ",
+        "وَٱعْبُدْهُ",
+        "وَٱسْأَلْهُ"
+      ]
+    },
+    {
+      "activityId": "act_110_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "تَوَّابًۢا",
+        "غَفُورًا",
+        "رَحِيمًا",
+        "كَرِيمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النصر",
+    "juz": 30,
+    "theme": "بشارة بفتح مكة ودخول الناس في الإسلام جماعات والتوجيه بالتسبيح والاستغفار عند النعم العظام ونعي النبي ﷺ"
+  }
+}

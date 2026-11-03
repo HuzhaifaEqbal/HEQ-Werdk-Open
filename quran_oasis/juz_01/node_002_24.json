@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_24",
+  "title": "سورة البقرة - الآيات 115-119",
+  "surahId": 2,
+  "ayahStart": 115,
+  "ayahEnd": 119,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡمَشۡرِقُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "أَرۡسَلۡنَٰكَ"
+      ],
+      "activityId": "act_002_24_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_002_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 5,
+      "options": [
+        "سُبۡحَٰنَهُۥۖ",
+        "يَعۡلَمُونَ",
+        "ٱلسَّمَٰوَٰتِ",
+        "ٱلۡمَشۡرِقُ"
+      ],
+      "activityId": "act_002_24_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "wrongOptionsAyahNumbers": [
+        118,
+        114
+      ],
+      "activityId": "act_002_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "سُبۡحَٰنَهُۥۖ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_24_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "wrongOptionsAyahNumbers": [
+        119,
+        115
+      ],
+      "activityId": "act_002_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 4,
+      "options": [
+        "يَعۡلَمُونَ",
+        "أَرۡسَلۡنَٰكَ",
+        "سُبۡحَٰنَهُۥۖ",
+        "ٱلسَّمَٰوَٰتِ"
+      ],
+      "activityId": "act_002_24_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "wrongOptionsAyahNumbers": [
+        120,
+        116
+      ],
+      "activityId": "act_002_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرۡسَلۡنَٰكَ",
+        "يَعۡلَمُونَ",
+        "ٱلۡمَشۡرِقُ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يتناول وصية إبراهيم ويعقوب أبناءهما بالتوحيد، ويؤكد مسؤولية المرء عن عمله وعدم انتسابه وحده."
+  }
+}

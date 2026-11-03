@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_079_08",
+  "title": "سورة النازعات - المقطع الثامن (السؤال عن الساعة وقصر الدنيا)",
+  "surahId": 79,
+  "ayahStart": 42,
+  "ayahEnd": 46,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWord": "السَّاعَةِ",
+      "missingWordPosition": 3,
+      "options": [
+        "السَّاعَةِ",
+        "الْقِيَامَةِ",
+        "الْبَعْثِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWord": "مُرْسَاهَا",
+      "missingWordPosition": 5,
+      "options": [
+        "مُرْسَاهَا",
+        "مَوْعِدُهَا",
+        "مُنْتَهَاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWord": "ذِكْرَاهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "ذِكْرَاهَا",
+        "عِلْمِهَا",
+        "أَمْرِهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWord": "مُنتَهَاهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "مُنتَهَاهَا",
+        "مُرْسَاهَا",
+        "مَرْجِعُهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        43,
+        46
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWord": "مُنذِرُ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُنذِرُ",
+        "مُذَكِّرُ",
+        "نَذِيرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWord": "يَخْشَاهَا",
+      "missingWordPosition": 5,
+      "options": [
+        "يَخْشَاهَا",
+        "يَرْجُوهَا",
+        "يَخَافُهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        42,
+        44
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWord": "يَلْبَثُوا",
+      "missingWordPosition": 5,
+      "options": [
+        "يَلْبَثُوا",
+        "يَمْكُثُوا",
+        "يَقُومُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWord": "عَشِيَّةً",
+      "missingWordPosition": 7,
+      "options": [
+        "عَشِيَّةً",
+        "سَاعَةً",
+        "لَحْظَةً"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWord": "ضُحَاهَا",
+      "missingWordPosition": 9,
+      "options": [
+        "ضُحَاهَا",
+        "غَدَاتَهَا",
+        "صَبَاحَهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تختتم السورة ببيان تساؤل المشركين المتعنت للنبي ﷺ عن وقت قيام الساعة واستقرار موعدها (أيان مرساها)؛ فيخبر الله تعالى نبيه بأنه ليس عنده علم بوقتها حتى يخبرهم بها، بل مردّ علمها وانتهائها إلى الله وحده لا شريك له. ومهمة الرسول إنما هي إنذار وتخويف من يخاف هول ذلك اليوم وينتفع بالهدى. وحين يعاين الكافرون القيامة وما فيها من أهوال، تصغر في أعينهم كل أعمارهم في الدنيا حتى كأنهم لم يمكثوا فيها إلا قدراً يسيراً: كآخر نهار (عشية) أو صدر أوله (ضحاها)."
+  }
+}

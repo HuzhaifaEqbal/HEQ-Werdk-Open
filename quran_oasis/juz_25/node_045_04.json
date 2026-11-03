@@ -1,0 +1,109 @@
+{
+  "nodeId": "node_045_04",
+  "title": "سورة الجاثية: فضل بني إسرائيل وشريعة الإسلام وولاء المتقين وبصائر القرآن",
+  "surahId": 45,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_045_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْحُكْمَ",
+        "وَٱلْمُلْكَ",
+        "وَٱلْحِكْمَةَ",
+        "وَٱلْفُرْقَانَ"
+      ]
+    },
+    {
+      "activityId": "act_045_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_045_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 13,
+      "options": [
+        "بَغْيًۢا",
+        "ظُلْمًا",
+        "حَسَدًا",
+        "عِنَادًا"
+      ]
+    },
+    {
+      "activityId": "act_045_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_045_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "شَرِيعَةٍۢ",
+        "مِنْهَاجٍ",
+        "طَرِيقَةٍ",
+        "بَيِّنَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_045_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_045_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلصَّابِرِينَ",
+        "ٱلْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_045_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_045_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "بَصَـٰٓئِرُ",
+        "بَيَانٌ",
+        "نُورٌ",
+        "تِبْيَانٌ"
+      ]
+    }
+  ]
+}

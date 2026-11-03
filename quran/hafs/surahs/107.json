@@ -1,0 +1,87 @@
+{
+  "number": 107,
+  "name_ar": "المَاعُون",
+  "name_en": "Al-Mā‘ūn",
+  "ayahs_count": 7,
+  "page_start": 602,
+  "page_end": 602,
+  "ayahs": [
+    {
+      "id": 6198,
+      "number": 1,
+      "text_uthmani": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ ١",
+      "text_simple": "أرأيت الذي يكذب بالدين",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6199,
+      "number": 2,
+      "text_uthmani": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ ٢",
+      "text_simple": "فذلك الذي يدع اليتيم",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 9
+    },
+    {
+      "id": 6200,
+      "number": 3,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ ٣",
+      "text_simple": "ولا يحض على طعام المسكين",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    },
+    {
+      "id": 6201,
+      "number": 4,
+      "text_uthmani": "فَوَيۡلٞ لِّلۡمُصَلِّينَ ٤",
+      "text_simple": "فويل للمصلين",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 10
+    },
+    {
+      "id": 6202,
+      "number": 5,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ ٥",
+      "text_simple": "الذين هم عن صلاتهم ساهون",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    },
+    {
+      "id": 6203,
+      "number": 6,
+      "text_uthmani": "ٱلَّذِينَ هُمۡ يُرَآءُونَ ٦",
+      "text_simple": "الذين هم يراءون",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    },
+    {
+      "id": 6204,
+      "number": 7,
+      "text_uthmani": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ ٧",
+      "text_simple": "ويمنعون الماعون",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    }
+  ]
+}

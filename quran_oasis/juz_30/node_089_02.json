@@ -1,0 +1,271 @@
+{
+  "nodeId": "hifz_089_02",
+  "title": "سورة الفجر - المقطع الثاني (مصارع عاد وثمود وفرعون وإن ربك لبالمرصاد)",
+  "surahId": 89,
+  "ayahStart": 6,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "فَعَلَ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَعَلَ",
+        "صَنَعَ",
+        "أَنْزَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "بِعَادٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "بِعَادٍ",
+        "بِثَمُودَ",
+        "بِمَدْيَنَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "إِرَمَ",
+      "missingWordPosition": 1,
+      "options": [
+        "إِرَمَ",
+        "عَادٍ",
+        "ثَمُودَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلْعِمَادِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعِمَادِ",
+        "ٱلْأَوْتَادِ",
+        "ٱلْبِلَادِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "يُخْلَقْ",
+      "missingWordPosition": 3,
+      "options": [
+        "يُخْلَقْ",
+        "يُبْنَ",
+        "يُوجَدْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلْبِلَـٰدِ",
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْبِلَـٰدِ",
+        "ٱلْأَرْضِ",
+        "ٱلْقُرَى"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "وَثَمُودَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَثَمُودَ",
+        "وَعَادٍ",
+        "وَفِرْعَوْنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "جَابُوا۟",
+      "missingWordPosition": 3,
+      "options": [
+        "جَابُوا۟",
+        "قَطَعُوا",
+        "حَفَرُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلصَّخْرَ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصَّخْرَ",
+        "ٱلْجِبَالَ",
+        "ٱلْحِجَارَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "وَفِرْعَوْنَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَفِرْعَوْنَ",
+        "وَقَارُونَ",
+        "وَهَامَانَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ٱلْأَوْتَادِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَوْتَادِ",
+        "ٱلْعِمَادِ",
+        "ٱلْبِلَادِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "طَغَوْا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "طَغَوْا۟",
+        "عَثَوْا",
+        "فَسَدُوا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "فَأَكْثَرُوا۟",
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَكْثَرُوا۟",
+        "فَأَظْهَرُوا",
+        "فَنَشَرُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ٱلْفَسَادَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَسَادَ",
+        "ٱلظُّلْمَ",
+        "ٱلْكُفْرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        6,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "فَصَبَّ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَصَبَّ",
+        "فَأَنْزَلَ",
+        "فَأَرْسَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "سَوْطَ",
+      "missingWordPosition": 4,
+      "options": [
+        "سَوْطَ",
+        "نَوْعَ",
+        "أَلِيمَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "لَبِٱلْمِرْصَادِ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَبِٱلْمِرْصَادِ",
+        "لَبِٱلْعِبَادِ",
+        "لَشَدِيدُ ٱلْعِقَابِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ألم ترَ بعين بصيرتك كيف أهلك الله عاداً الأولى قبيلة إرم ذات الأبنية الشاهقة والقامة القوية التي لم يُخلق مثلها في القوة والمنعة، وقوم ثمود الذين قطعوا صخور الجبال واتخذوا منها بيوتاً في وادي القرى، وفرعون ذا الجيوش والأوتاد الكثيرة الذين تجبروا وطغوا في الأرض وأكثروا فيها الكفر والظلم والفساد؟ فأنزل الله عليهم عذاباً شديداً متتابعاً كالسوط، إن ربك بالمرصاد يرصد أعمال العباد ويملي للظالم ثم يأخذه أخذ عزيز مقتدر."
+  }
+}

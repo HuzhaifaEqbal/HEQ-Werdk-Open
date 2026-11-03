@@ -1,0 +1,105 @@
+{
+  "nodeId": "hifz_078_04",
+  "title": "سورة النبأ - المقطع الرابع (أهوال يوم الفصل والنفخ في الصور)",
+  "surahId": 78,
+  "ayahStart": 17,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "الْفَصْلِ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْفَصْلِ",
+        "الْبَعْثِ",
+        "الدِّينِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "مِيقَاتًا",
+      "missingWordPosition": 5,
+      "options": [
+        "مِيقَاتًا",
+        "مَوْعِدًا",
+        "مَشْهُودًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "الصُّورِ",
+      "missingWordPosition": 4,
+      "options": [
+        "الصُّورِ",
+        "النَّاقُورِ",
+        "الْقُبُورِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "أَفْوَاجًا",
+      "missingWordPosition": 6,
+      "options": [
+        "أَفْوَاجًا",
+        "أَزْوَاجًا",
+        "أَشْتَاتًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "أَبْوَابًا",
+      "missingWordPosition": 4,
+      "options": [
+        "أَبْوَابًا",
+        "فُرُوجًا",
+        "أَسْبَابًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        18,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "سَرَابًا",
+      "missingWordPosition": 4,
+      "options": [
+        "سَرَابًا",
+        "هَبَاءً",
+        "كَثِيبًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ينتقل السياق بعد بيان دلائل القدرة في الكون إلى تقرير حقيقة يوم القيامة؛ إن يوم الفصل بين الخلائق كان وقتاً وأجلاً موقوتاً معلوماً عند الله لا يتقدم ولا يتأخر. يوم ينفخ إسرافيل في الصور نفخة البعث، فتأتون من قبوركم زُمراً وأفواجاً من كل أمة، وتنشق السماء وتتصدع حتى تصير كأنها ذات أبواب وطرق لنزول الملائكة، وتُقلع الجبال الصلبة من أماكنها وتُنسف نسفاً حتى تغدو بعد ثباتها كأنها سراب لا حقيقة له."
+  }
+}

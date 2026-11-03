@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_27",
+  "title": "سورة الأنعام - الآيات 153-158",
+  "surahId": 6,
+  "ayahStart": 153,
+  "ayahEnd": 158,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱتَّبِعُوهُ ۖ",
+        "طَآئِفَتَيْنِ",
+        "ٱلْمَلَـٰٓئِكَةُ",
+        "دِرَاسَتِهِمْ"
+      ],
+      "activityId": "act_006_27_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 153,
+      "correctNextAyahNumber": 154,
+      "wrongOptionsAyahNumbers": [
+        155,
+        151
+      ],
+      "activityId": "act_006_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 9,
+      "options": [
+        "وَتَفْصِيلًۭا",
+        "فَٱتَّبِعُوهُ",
+        "مُسْتَقِيمًۭا",
+        "سَبِيلِهِۦ ۚ"
+      ],
+      "activityId": "act_006_27_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "wrongOptionsAyahNumbers": [
+        156,
+        152
+      ],
+      "activityId": "act_006_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱتَّبِعُوهُ",
+        "وَتَفْصِيلًۭا",
+        "مُنتَظِرُونَ",
+        "ٱنتَظِرُوٓا۟"
+      ],
+      "activityId": "act_006_27_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "wrongOptionsAyahNumbers": [
+        157,
+        153
+      ],
+      "activityId": "act_006_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 7,
+      "options": [
+        "طَآئِفَتَيْنِ",
+        "فَٱتَّبِعُوهُ",
+        "مُسْتَقِيمًۭا",
+        "وَتَفْصِيلًۭا"
+      ],
+      "activityId": "act_006_27_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "wrongOptionsAyahNumbers": [
+        158,
+        154
+      ],
+      "activityId": "act_006_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 2,
+      "options": [
+        "تَقُولُوا۟",
+        "ءَاتَيْنَا",
+        "يَنظُرُونَ",
+        "تُرْحَمُونَ"
+      ],
+      "activityId": "act_006_27_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 157,
+      "correctNextAyahNumber": 158,
+      "wrongOptionsAyahNumbers": [
+        159,
+        155
+      ],
+      "activityId": "act_006_27_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمَلَـٰٓئِكَةُ",
+        "طَآئِفَتَيْنِ",
+        "دِرَاسَتِهِمْ",
+        "سَبِيلِهِۦ ۚ"
+      ],
+      "activityId": "act_006_27_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_14",
+  "title": "سورة البقرة - الآيات 65-69",
+  "surahId": 2,
+  "ayahStart": 65,
+  "ayahEnd": 69,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱعۡتَدَوۡاْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_002_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 9,
+      "options": [
+        "لِّلۡمُتَّقِينَ",
+        "ءَاتَيۡنَٰهُمُ",
+        "أَتَتَّخِذُنَا",
+        "فَٱفۡعَلُواْ"
+      ],
+      "activityId": "act_002_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        64
+      ],
+      "activityId": "act_002_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 12,
+      "options": [
+        "أَتَتَّخِذُنَا",
+        "لِّلۡمُتَّقِينَ",
+        "ٱلنَّٰظِرِينَ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_002_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 21,
+      "options": [
+        "فَٱفۡعَلُواْ",
+        "ءَاتَيۡنَٰهُمُ",
+        "أَتَتَّخِذُنَا",
+        "لِّلۡمُتَّقِينَ"
+      ],
+      "activityId": "act_002_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_002_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلنَّٰظِرِينَ",
+        "فَٱفۡعَلُواْ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض تناقض أقوال فريق من أهل الكتاب، واغترارهم بالأماني، ويبين أن الجزاء مرتبط بالإيمان والعمل."
+  }
+}

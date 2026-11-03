@@ -1,0 +1,54 @@
+{
+  "number": 106,
+  "name_ar": "قُرَيش",
+  "name_en": "Quraish",
+  "ayahs_count": 4,
+  "page_start": 602,
+  "page_end": 602,
+  "ayahs": [
+    {
+      "id": 6194,
+      "number": 1,
+      "text_uthmani": "لِإِيلَٰفِ قُرَيۡشٍ ١",
+      "text_simple": "لإيلاف قريش",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6195,
+      "number": 2,
+      "text_uthmani": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ٢",
+      "text_simple": "إيلافهم رحلة الشتاء والصيف",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6196,
+      "number": 3,
+      "text_uthmani": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ٣",
+      "text_simple": "فليعبدوا رب هذا البيت",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6197,
+      "number": 4,
+      "text_uthmani": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ ٤",
+      "text_simple": "الذي أطعمهم من جوع وآمنهم من خوف",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 5
+    }
+  ]
+}

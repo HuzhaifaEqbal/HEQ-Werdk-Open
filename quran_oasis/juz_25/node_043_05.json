@@ -1,0 +1,109 @@
+{
+  "nodeId": "node_043_05",
+  "title": "سورة الزخرف: براءة إبراهيم عليه السلام والكلمة الباقية وموقف كفار مكة من الحق",
+  "surahId": 43,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_043_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 7,
+      "options": [
+        "بَرَآءٌۭ",
+        "بَرِىٓءٌ",
+        "مُعْرِضٌ",
+        "تَارِكٌ"
+      ]
+    },
+    {
+      "activityId": "act_043_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_043_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "فَطَرَنِى",
+        "خَلَقَنِى",
+        "أَوْجَدَنِى",
+        "صَوَّرَنِى"
+      ]
+    },
+    {
+      "activityId": "act_043_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_043_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "عَقِبِهِۦ",
+        "ذُرِّيَّتِهِۦ",
+        "قَوْمِهِۦ",
+        "أَهْلِهِۦ"
+      ]
+    },
+    {
+      "activityId": "act_043_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_043_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "مَتَّعْتُ",
+        "أَمْهَلْتُ",
+        "رَزَقْتُ",
+        "أَنْعَمْتُ"
+      ]
+    },
+    {
+      "activityId": "act_043_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_043_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "سِحْرٌۭ",
+        "إِفْكٌ",
+        "كَذِبٌ",
+        "شِعْرٌ"
+      ]
+    }
+  ]
+}

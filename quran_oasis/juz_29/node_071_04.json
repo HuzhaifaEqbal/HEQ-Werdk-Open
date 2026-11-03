@@ -1,0 +1,172 @@
+{
+  "nodeId": "node_071_04",
+  "title": "سورة نوح: آيات السماوات السبع والشمس والقمر وإنبات الأرض",
+  "surahId": 71,
+  "ayahStart": 15,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_071_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 8,
+      "options": [
+        "طِبَاقًۭا",
+        "عِظَامًا",
+        "مَّرْفُوعَةً",
+        "مَّوْزُونَةً"
+      ]
+    },
+    {
+      "activityId": "act_071_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_071_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "نُورًۭا",
+        "سِرَاجًا",
+        "ضِيَاءً",
+        "شِهَابًا"
+      ]
+    },
+    {
+      "activityId": "act_071_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 7,
+      "options": [
+        "سِرَاجًۭا",
+        "نُورًا",
+        "وَهَّاجًا",
+        "مُضِيئًا"
+      ]
+    },
+    {
+      "activityId": "act_071_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_071_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنۢبَتَكُم",
+        "خَلَقَكُم",
+        "أَخْرَجَكُم",
+        "أَنْشَأَكُم"
+      ]
+    },
+    {
+      "activityId": "act_071_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 5,
+      "options": [
+        "نَبَاتًۭا",
+        "خَلْقًا",
+        "إِنْشَاءً",
+        "إِخْرَاجًا"
+      ]
+    },
+    {
+      "activityId": "act_071_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_071_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "يُعِيدُكُمْ",
+        "يُمِيتُكُمْ",
+        "يَدْفِنُكُمْ",
+        "يَحْبِسُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_071_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 5,
+      "options": [
+        "إِخْرَاجًۭا",
+        "إِنْشَاءً",
+        "إِحْيَاءً",
+        "بَعْثًا"
+      ]
+    },
+    {
+      "activityId": "act_071_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ]
+    },
+    {
+      "activityId": "act_071_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "بِسَاطًۭا",
+        "مِهَادًا",
+        "فِرَاشًا",
+        "ذَلُولًا"
+      ]
+    },
+    {
+      "activityId": "act_071_04_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ]
+    },
+    {
+      "activityId": "act_071_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "فِجَاجًۭا",
+        "وَاسِعَةً",
+        "كَثِيرَةً",
+        "مُسْتَقِيمَةً"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "الاستدلال على قدرة الله بخلق سبع سماوات متطابقة وجعل القمر نوراً والشمس سراجاً، وبسط الأرض وتمهيد سبلها الواسعة"
+  }
+}

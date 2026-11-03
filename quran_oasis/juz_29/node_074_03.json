@@ -1,0 +1,182 @@
+{
+  "nodeId": "node_074_03",
+  "title": "سورة المدثر: جحود الوليد بن المغيرة للنعم ووعيده بالصعود",
+  "surahId": 74,
+  "ayahStart": 11,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "activityId": "act_074_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "ذَرْنِى",
+        "دَعْنِى",
+        "اتْرُكْنِى",
+        "فَذَرْهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_074_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "وَحِيدًۭا",
+        "فَرِيدًا",
+        "ضَعِيفًا",
+        "فَقِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_074_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_074_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "مَّمْدُودًۭا",
+        "كَثِيرًا",
+        "وَاسِعًا",
+        "عَظِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_074_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_074_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 2,
+      "options": [
+        "شُهُودًۭا",
+        "حُضُورًا",
+        "أَعْوَانًا",
+        "كِبَارًا"
+      ]
+    },
+    {
+      "activityId": "act_074_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ]
+    },
+    {
+      "activityId": "act_074_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 1,
+      "options": [
+        "وَمَهَّدتُّ",
+        "وَبَسَطْتُ",
+        "وَفَسَّحْتُ",
+        "وَيَسَّرْتُ"
+      ]
+    },
+    {
+      "activityId": "act_074_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ]
+    },
+    {
+      "activityId": "act_074_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 2,
+      "options": [
+        "يَطْمَعُ",
+        "يَرْجُو",
+        "يَسْأَلُ",
+        "يَطْلُبُ"
+      ]
+    },
+    {
+      "activityId": "act_074_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        13
+      ]
+    },
+    {
+      "activityId": "act_074_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "عَنِيدًۭا",
+        "مُّكَذِّبًا",
+        "جَاحِدًا",
+        "كَافِرًا"
+      ]
+    },
+    {
+      "activityId": "act_074_03_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ]
+    },
+    {
+      "activityId": "act_074_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "سَأُرْهِقُهُۥ",
+        "سَأُصْلِيهِ",
+        "سَأُذِيقُهُ",
+        "سَأُلْقِيهِ"
+      ]
+    },
+    {
+      "activityId": "act_074_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "صَعُودًا",
+        "جَحِيمًا",
+        "سَقَرَ",
+        "هَلَاكًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "تذكير الوليد بن المغيرة بنعم الله عليه من المال الممدود والبنين الحضور، ومقابلته ذلك بالعناد، وتوعده بتكليفه عقبة شاقة في النار (صعودا)"
+  }
+}

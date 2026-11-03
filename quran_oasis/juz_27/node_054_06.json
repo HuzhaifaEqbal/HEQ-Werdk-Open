@@ -1,0 +1,340 @@
+{
+  "nodeId": "node_054_06",
+  "title": "سورة القمر: هزيمة جمع قريش في بدر وخلق كل شيء بقدر ومقعد الصدق للمتقين",
+  "surahId": 54,
+  "ayahStart": 43,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "activityId": "act_054_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "أَكُفَّارُكُمْ",
+        "أَفَقَوْمُكُمْ",
+        "أَمُشْرِكُوكُمْ",
+        "أَرَجَالُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلزُّبُرِ",
+        "ٱلْكُتُبِ",
+        "ٱلْأَلْوَاحِ",
+        "ٱلصُّحُفِ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_054_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّنتَصِرٌۭ",
+        "غَالِبٌ",
+        "مَّنْصُورٌ",
+        "قَاهِرٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_054_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "سَيُهْزَمُ",
+        "سَيُهْلَكُ",
+        "سَيُغْلَبُ",
+        "سَيَتَفَرَّقُ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلدُّبُرَ",
+        "ٱلْأَدْبَارَ",
+        "ٱلْفِرَارَ",
+        "ٱلْأَعْقَابَ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_054_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "أَدْهَىٰ",
+        "أَعْظَمُ",
+        "أَشَدُّ",
+        "أَثْقَلُ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَمَرُّ",
+        "وَأَصْعَبُ",
+        "وَأَشَدُّ",
+        "وَأَظْلَمُ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_054_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 5,
+      "options": [
+        "وَسُعُرٍۢ",
+        "وَجَحِيمٍ",
+        "وَنَارٍ",
+        "وَخَسَارٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_054_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "وُجُوهِهِمْ",
+        "أَدْبَارِهِمْ",
+        "أَعْقَابِهِمْ",
+        "بُطُونِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 9,
+      "options": [
+        "سَقَرَ",
+        "جَهَنَّمَ",
+        "ٱلنَّارِ",
+        "ٱلْجَحِيمِ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_054_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 5,
+      "options": [
+        "بِقَدَرٍۢ",
+        "بِأَجَلٍ",
+        "بِحِكْمَةٍ",
+        "بِعِلْمٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_054_06_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 5,
+      "options": [
+        "كَلَمْحٍۭ",
+        "كَرَمْشَةٍ",
+        "كَطَرْفَةٍ",
+        "كَسُرْعَةِ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_054_06_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "أَشْيَاعَكُمْ",
+        "أَمْثَالَكُمْ",
+        "أَقْرَانَكُمْ",
+        "أَصْحَابَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_054_06_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّسْتَطَرٌ",
+        "مَّكْتُوبٌ",
+        "مَّحْفُوظٌ",
+        "مَّعْلُومٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_054_06_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 5,
+      "options": [
+        "وَنَهَرٍۢ",
+        "وَنَعِيمٍ",
+        "وَسُرُورٍ",
+        "وَفَرَحٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_26",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_054_06_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "صِدْقٍ",
+        "عِزٍّ",
+        "فَضْلٍ",
+        "كَرَامَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 5,
+      "options": [
+        "مَلِيكٍۢ",
+        "عَزِيزٍ",
+        "عَظِيمٍ",
+        "كَرِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_06_29",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّقْتَدِرٍۭ",
+        "قَدِيرٍ",
+        "عَلِيمٍ",
+        "حَكِيمٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القمر",
+    "juz": 27,
+    "theme": "نبوءة هزيمة مشركي مكة في بدر، وأن كل شيء في الكون مخلوق ومسطر بقدر، ومصير المتقين في مقعد صدق عند مليك مقتدر."
+  }
+}

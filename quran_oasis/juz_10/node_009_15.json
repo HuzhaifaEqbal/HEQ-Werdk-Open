@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_15",
+  "title": "سورة التوبة - الآيات 83-87",
+  "surahId": 9,
+  "ayahStart": 83,
+  "ayahEnd": 87,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱسْتَـْٔذَنُوكَ",
+        "وَأَوْلَـٰدُهُمْ ۚ",
+        "ٱلْقَـٰعِدِينَ",
+        "وَرَسُولِهِۦ"
+      ],
+      "activityId": "act_009_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_009_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 15,
+      "options": [
+        "وَرَسُولِهِۦ",
+        "بِٱلْقُعُودِ",
+        "فَٱقْعُدُوا۟",
+        "ٱلْخَوَالِفِ"
+      ],
+      "activityId": "act_009_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_009_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَوْلَـٰدُهُمْ ۚ",
+        "فَٱسْتَـْٔذَنُوكَ",
+        "ٱلْخَـٰلِفِينَ",
+        "ٱلْقَـٰعِدِينَ"
+      ],
+      "activityId": "act_009_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_009_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْقَـٰعِدِينَ",
+        "ٱلْخَـٰلِفِينَ",
+        "بِٱلْقُعُودِ",
+        "فَٱقْعُدُوا۟"
+      ],
+      "activityId": "act_009_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_009_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْخَوَالِفِ",
+        "وَرَسُولِهِۦ",
+        "بِٱلْقُعُودِ",
+        "فَٱقْعُدُوا۟"
+      ],
+      "activityId": "act_009_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

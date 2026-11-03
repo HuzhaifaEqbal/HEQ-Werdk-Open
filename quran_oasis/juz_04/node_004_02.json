@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_02",
+  "title": "سورة النساء - الآيات 6-10",
+  "surahId": 4,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 23,
+      "options": [
+        "فَلۡيَسۡتَعۡفِفۡۖ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "وَلۡيَقُولُواْ"
+      ],
+      "activityId": "act_004_02_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        4
+      ],
+      "activityId": "act_004_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلۡأَقۡرَبُونَ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "فَلۡيَسۡتَعۡفِفۡۖ"
+      ],
+      "activityId": "act_004_02_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        5
+      ],
+      "activityId": "act_004_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلۡمَسَٰكِينُ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "فَلۡيَسۡتَعۡفِفۡۖ"
+      ],
+      "activityId": "act_004_02_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ],
+      "activityId": "act_004_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 13,
+      "options": [
+        "وَلۡيَقُولُواْ",
+        "وَٱلۡمَسَٰكِينُ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_02_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ],
+      "activityId": "act_004_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 12,
+      "options": [
+        "وَسَيَصۡلَوۡنَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَلۡيَقُولُواْ"
+      ],
+      "activityId": "act_004_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 4,
+    "theme": "يتناول المقطع حفظ أموال اليتامى والوفاء بحقوقهم، ويذكر بعض أحكام الميراث والوصية."
+  }
+}

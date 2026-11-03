@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_09",
+  "title": "سورة النساء - الآيات 39-43",
+  "surahId": 4,
+  "ayahStart": 39,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَنفَقُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "تَغۡتَسِلُواْۚ"
+      ],
+      "activityId": "act_004_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_004_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 10,
+      "options": [
+        "يُضَٰعِفۡهَا",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "ٱلرَّسُولَ"
+      ],
+      "activityId": "act_004_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_004_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "بِشَهِيدٖ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "يُضَٰعِفۡهَا"
+      ],
+      "activityId": "act_004_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_004_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلرَّسُولَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "يُضَٰعِفۡهَا"
+      ],
+      "activityId": "act_004_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ],
+      "activityId": "act_004_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 19,
+      "options": [
+        "تَغۡتَسِلُواْۚ",
+        "وَأَنفَقُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذم البخل والرياء، ويذكر جزاء الإيمان، ثم يبين أحكام الصلاة عند السكر والجنابة والتيمم."
+  }
+}

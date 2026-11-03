@@ -1,0 +1,308 @@
+{
+  "nodeId": "node_055_05",
+  "title": "سورة الرحمن: جنتان لمن خاف مقام ربه وعيونهما وثمارهما وقاصرات الطرف",
+  "surahId": 55,
+  "ayahStart": 46,
+  "ayahEnd": 61,
+  "activities": [
+    {
+      "activityId": "act_055_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "خَافَ",
+        "رَجَا",
+        "عَرَفَ",
+        "ذَكَرَ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "جَنَّتَانِ",
+        "جَنَّةٌ",
+        "رَوْضَتَانِ",
+        "دَارَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_055_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_055_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 2,
+      "options": [
+        "أَفْنَانٍۢ",
+        "أَشْجَارٍ",
+        "أَغْصَانٍ",
+        "أَنْهَارٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_055_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_055_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "تَجْرِيَانِ",
+        "تَفُورَانِ",
+        "تَنْبُعَانِ",
+        "تَفِيضَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_055_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_055_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 5,
+      "options": [
+        "زَوْجَانِ",
+        "صِنْفَانِ",
+        "نَوْعَانِ",
+        "أَلْوَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        55
+      ]
+    },
+    {
+      "activityId": "act_055_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_055_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "إِسْتَبْرَقٍۢ ۚ",
+        "حَرِيرٍ",
+        "دِيبَاجٍ",
+        "سُنْدُسٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 9,
+      "options": [
+        "دَانٍۢ",
+        "قَرِيبٌ",
+        "كَثِيرٌ",
+        "طَيِّبٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_055_05_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        58
+      ]
+    },
+    {
+      "activityId": "act_055_05_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "قَـٰصِرَٰتُ",
+        "حِسَانُ",
+        "طَاهِرَاتُ",
+        "حُورُ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 5,
+      "options": [
+        "يَطْمِثْهُنَّ",
+        "يَمْسَسْهُنَّ",
+        "يَقْرَبْهُنَّ",
+        "يَرَهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    },
+    {
+      "activityId": "act_055_05_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_055_05_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَاقُوتُ",
+        "ٱللُّؤْلُؤُ",
+        "ٱلذَّهَبُ",
+        "ٱلْفِضَّةُ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْمَرْجَانُ",
+        "وَٱلدُّرُّ",
+        "وَٱلْجَوْهَرُ",
+        "وَٱلْمِسْكُ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        61
+      ]
+    },
+    {
+      "activityId": "act_055_05_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        62
+      ]
+    },
+    {
+      "activityId": "act_055_05_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْإِحْسَـٰنِ",
+        "ٱلْإِيمَانِ",
+        "ٱلْعَمَلِ",
+        "ٱلطَّاعَةِ"
+      ]
+    },
+    {
+      "activityId": "act_055_05_27",
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرحمن",
+    "juz": 27,
+    "theme": "نعيم الجنتين العاليتين لمن خاف مقام ربه: أغصانهما وعيونهما الجارية وفرشهما وحورهن كالياقوت والمرجان، وجزاء الإحسان بالإحسان."
+  }
+}

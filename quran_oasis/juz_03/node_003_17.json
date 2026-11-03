@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_17",
+  "title": "سورة آل عمران - الآيات 81-85",
+  "surahId": 3,
+  "ayahStart": 81,
+  "ayahEnd": 85,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 19,
+      "options": [
+        "وَلَتَنصُرُنَّهُۥۚ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_003_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡفَٰسِقُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلۡخَٰسِرِينَ"
+      ],
+      "activityId": "act_003_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_003_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ٱلۡفَٰسِقُونَ"
+      ],
+      "activityId": "act_003_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_003_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلۡأَسۡبَاطِ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "وَلَتَنصُرُنَّهُۥۚ"
+      ],
+      "activityId": "act_003_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_003_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلۡخَٰسِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلۡفَٰسِقُونَ"
+      ],
+      "activityId": "act_003_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يقرر أن الأنبياء أقروا بميثاق الله، ويدعو إلى الإيمان بالله والاستسلام له."
+  }
+}

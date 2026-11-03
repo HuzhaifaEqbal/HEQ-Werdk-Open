@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_099_01",
+  "title": "سورة الزلزلة - المقطع الأول (زلزلة الأرض الكبرى وإخراج أثقالها وشهادتها)",
+  "surahId": 99,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "زُلْزِلَتِ",
+      "missingWordPosition": 2,
+      "options": [
+        "زُلْزِلَتِ",
+        "مُدَّتِ",
+        "دُكَّتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْأَرْضُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَرْضُ",
+        "ٱلْجِبَالُ",
+        "ٱلسَّمَاءُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "زِلْزَالَهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "زِلْزَالَهَا",
+        "رَجْفَتَهَا",
+        "أَثْقَالَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَأَخْرَجَتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَخْرَجَتِ",
+        "وَأَلْقَتْ",
+        "وَلَفَظَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "أَثْقَالَهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "أَثْقَالَهَا",
+        "أَمْوَاتَهَا",
+        "كُنُوزَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلْإِنسَـٰنُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنُ",
+        "ٱلْكَافِرُ",
+        "ٱلْخَلْقُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "تُحَدِّثُ",
+      "missingWordPosition": 2,
+      "options": [
+        "تُحَدِّثُ",
+        "تُظْهِرُ",
+        "تُخْبِرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "أَخْبَارَهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "أَخْبَارَهَا",
+        "أَسْرَارَهَا",
+        "أَعْمَالَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "رَبَّكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَبَّكَ",
+        "ٱللَّهَ",
+        "خَالِقَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَوْحَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَوْحَىٰ",
+        "أَمَرَ",
+        "قَضَى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إذا اضطربت الأرض ورجفت رجفاً هائلاً شديداً لقيام الساعة، وألقت ما في بطنها وجوفها من الموتى والكنوز والمعادن (أثقالها)، وقال الإنسان فزعاً وذهولاً: ما لها تتزلزل وتضطرب؟! في ذلك اليوم العظيم تُخبر الأرض وتَشهد بما عُمل على ظهرها من خير أو شر؛ لأن ربك وخالقها أوحى إليها وأمرها أن تتكلم وتشهد بالحق."
+  }
+}

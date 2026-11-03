@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_29",
+  "title": "سورة النساء - الآيات 139-143",
+  "surahId": 4,
+  "ayahStart": 139,
+  "ayahEnd": 143,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ٱلۡمُنَٰفِقِينَ"
+      ],
+      "activityId": "act_004_29_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "wrongOptionsAyahNumbers": [
+        141,
+        137
+      ],
+      "activityId": "act_004_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 29,
+      "options": [
+        "ٱلۡمُنَٰفِقِينَ",
+        "ٱلۡمُؤۡمِنِينَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_29_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 140,
+      "correctNextAyahNumber": 141,
+      "wrongOptionsAyahNumbers": [
+        142,
+        138
+      ],
+      "activityId": "act_004_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 24,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَۚ",
+        "ٱلۡمُنَٰفِقِينَ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_29_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 141,
+      "correctNextAyahNumber": 142,
+      "wrongOptionsAyahNumbers": [
+        143,
+        139
+      ],
+      "activityId": "act_004_29_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡمُنَٰفِقِينَ",
+        "ٱلۡمُؤۡمِنِينَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_29_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 142,
+      "correctNextAyahNumber": 143,
+      "wrongOptionsAyahNumbers": [
+        144,
+        140
+      ],
+      "activityId": "act_004_29_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 1,
+      "options": [
+        "مُّذَبۡذَبِينَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ٱلۡمُؤۡمِنِينَۚ"
+      ],
+      "activityId": "act_004_29_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يحذر من موالاة الكافرين على حساب المؤمنين، ويصف صلاة المنافقين وطلبهم المدح من الناس."
+  }
+}

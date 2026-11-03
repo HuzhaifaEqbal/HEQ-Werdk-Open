@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_37",
+  "title": "سورة البقرة - الآيات 176-180",
+  "surahId": 2,
+  "ayahStart": 176,
+  "ayahEnd": 180,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱخۡتَلَفُواْ",
+        "بِٱلۡأُنثَىٰۚ",
+        "لِلۡوَٰلِدَيۡنِ",
+        "وَٱلضَّرَّآءِ"
+      ],
+      "activityId": "act_002_37_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 176,
+      "correctNextAyahNumber": 177,
+      "wrongOptionsAyahNumbers": [
+        178,
+        174
+      ],
+      "activityId": "act_002_37_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 177,
+      "missingWordPosition": 29,
+      "options": [
+        "وَٱلسَّآئِلِينَ",
+        "وَٱلۡأَقۡرَبِينَ",
+        "بِٱلۡمَعۡرُوفِ",
+        "وَٱلصَّٰبِرِينَ"
+      ],
+      "activityId": "act_002_37_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 177,
+      "correctNextAyahNumber": 178,
+      "wrongOptionsAyahNumbers": [
+        179,
+        175
+      ],
+      "activityId": "act_002_37_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 178,
+      "missingWordPosition": 22,
+      "options": [
+        "بِٱلۡمَعۡرُوفِ",
+        "وَٱلۡمَسَٰكِينَ",
+        "وَٱلۡمَلَٰٓئِكَةِ",
+        "وَٱلۡمُوفُونَ"
+      ],
+      "activityId": "act_002_37_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 178,
+      "correctNextAyahNumber": 179,
+      "wrongOptionsAyahNumbers": [
+        180,
+        176
+      ],
+      "activityId": "act_002_37_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 179,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلۡقِصَاصِ",
+        "بِعَهۡدِهِمۡ",
+        "بِٱلۡعَبۡدِ",
+        "فَٱتِّبَاعُۢ"
+      ],
+      "activityId": "act_002_37_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 179,
+      "correctNextAyahNumber": 180,
+      "wrongOptionsAyahNumbers": [
+        181,
+        177
+      ],
+      "activityId": "act_002_37_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 180,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلۡأَقۡرَبِينَ",
+        "وَٱلسَّآئِلِينَ",
+        "بِٱلۡمَعۡرُوفِ",
+        "وَٱلصَّٰبِرِينَ"
+      ],
+      "activityId": "act_002_37_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر أحكام القصاص والوصية، ويفصل فرض الصيام ورخصه وغاية التقوى."
+  }
+}

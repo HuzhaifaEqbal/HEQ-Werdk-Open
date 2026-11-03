@@ -1,0 +1,240 @@
+{
+  "nodeId": "node_077_02",
+  "title": "سورة المرسلات: أشراط القيامة وانفراج السماء ويوم الفصل",
+  "surahId": 77,
+  "ayahStart": 8,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_077_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنُّجُومُ",
+        "ٱلشَّمْسُ",
+        "ٱلْكَوَاكِبُ",
+        "ٱلْأَرْضُ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "طُمِسَتْ",
+        "كُوِّرَتْ",
+        "ٱنْكَدَرَتْ",
+        "خُسِفَتْ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_077_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَآءُ",
+        "ٱلْأَرْضُ",
+        "ٱلْجِبَالُ",
+        "ٱلنُّجُومُ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "فُرِجَتْ",
+        "ٱنْشَقَّتْ",
+        "فُتِحَتْ",
+        "كُشِطَتْ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_077_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "نُسِفَتْ",
+        "سُيِّرَتْ",
+        "دُكَّتْ",
+        "فُتِّتَتْ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_077_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلرُّسُلُ",
+        "ٱلْمَلَائِكَةُ",
+        "ٱلْخَلَائِقُ",
+        "ٱلْأُمَمُ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "أُقِّتَتْ",
+        "جُمِعَتْ",
+        "حُشِرَتْ",
+        "أُحْضِرَتْ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_077_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "أُجِّلَتْ",
+        "أُخِّرَتْ",
+        "حُدِّدَتْ",
+        "وُقِّتَتْ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_077_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْفَصْلِ",
+        "ٱلْحِسَابِ",
+        "ٱلْبَعْثِ",
+        "ٱلدِّينِ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        8
+      ]
+    },
+    {
+      "activityId": "act_077_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ",
+        "أَنْبَأَكَ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْفَصْلِ",
+        "ٱلدِّينِ",
+        "ٱلْقِيَامَةِ",
+        "ٱلْحِسَابِ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_077_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيْلٌۭ",
+        "هَلَاكٌ",
+        "حَسْرَةٌ",
+        "عَذَابٌ"
+      ]
+    },
+    {
+      "activityId": "act_077_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِلْكَافِرِينَ",
+        "لِلْمُجْرِمِينَ",
+        "لِلْجَاحِدِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "بيان علامات قيام الساعة بذهاب ضوء النجوم وانشقاق السماء ونسف الجبال، واجتماع الرسل للشهادة ليوم الفصل العظيم والويل للمكذبين."
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "nodeId": "node_047_05",
+  "title": "سورة محمد: هلع المنافقين عند نزول آيات القتال ووعيد قطيعة الأرحام وتدبر القرآن",
+  "surahId": 47,
+  "ayahStart": 20,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "activityId": "act_047_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْقِتَالُ ۙ",
+        "ٱلْجِهَادُ",
+        "ٱلْحَرْبُ",
+        "ٱلنَّفِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 22,
+      "options": [
+        "ٱلْمَغْشِىِّ",
+        "ٱلْخَائِفِ",
+        "ٱلْمَيِّتِ",
+        "ٱلْمَفْزُوعِ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_047_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 5,
+      "options": [
+        "عَزَمَ",
+        "جَدَّ",
+        "وَقَعَ",
+        "حَانَ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_047_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 10,
+      "options": [
+        "أَرْحَامَكُمْ",
+        "قَرَابَاتِكُمْ",
+        "أَهْلِيكُمْ",
+        "إِخْوَانَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_047_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 5,
+      "options": [
+        "فَأَصَمَّهُمْ",
+        "فَأَبْكَمَهُمْ",
+        "فَأَذَلَّهُمْ",
+        "فَأَهْلَكَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_047_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَدَبَّرُونَ",
+        "يَتَفَكَّرُونَ",
+        "يَسْمَعُونَ",
+        "يَفْقَهُونَ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 7,
+      "options": [
+        "أَقْفَالُهَآ",
+        "حُجُبُهَا",
+        "أَغْلَالُهَا",
+        "غِشَاوَتُهَا"
+      ]
+    },
+    {
+      "activityId": "act_047_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_047_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 13,
+      "options": [
+        "سَوَّلَ",
+        "زَيَّنَ",
+        "غَرَّ",
+        "خَدَعَ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_047_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "يَضْرِبُونَ",
+        "يَقْبِضُونَ",
+        "يَسْحَبُونَ",
+        "يُعَذِّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_047_05_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_047_05_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "فَأَحْبَطَ",
+        "فَأَبْطَلَ",
+        "فَأَضَاعَ",
+        "فَمَحَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "محمد",
+    "juz": 26,
+    "theme": "بيان هلع مرضى القلوب والمنافقين عند فرض القتال، والتحذير من الإفساد في الأرض وقطيعة الرحم، والأمر بتدبر القرآن، ووفاة المنافقين بضرب الملائكة."
+  }
+}

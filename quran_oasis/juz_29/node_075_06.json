@@ -1,0 +1,186 @@
+{
+  "nodeId": "node_075_06",
+  "title": "سورة القيامة: التكذيب والتولي والوعيد بأولى لك فأولى",
+  "surahId": 75,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "activityId": "act_075_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "صَدَّقَ",
+        "آمَنَ",
+        "أَسْلَمَ",
+        "أَيْقَنَ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "صَلَّىٰ",
+        "زَكَّىٰ",
+        "ٱتَّقَىٰ",
+        "أَنَابَ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_075_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 2,
+      "options": [
+        "كَذَّبَ",
+        "أَعْرَضَ",
+        "طَغَىٰ",
+        "عَصَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "وَتَوَلَّىٰ",
+        "وَٱسْتَكْبَرَ",
+        "وَأَدْبَرَ",
+        "وَفَسَقَ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_075_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 2,
+      "options": [
+        "ذَهَبَ",
+        "رَجَعَ",
+        "ٱنْقَلَبَ",
+        "مَضَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "أَهْلِهِۦ",
+        "قَوْمِهِ",
+        "عَشِيرَتِهِ",
+        "دَارِهِ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَمَطَّىٰٓ",
+        "مَسْرُورًا",
+        "مُخْتَالًا",
+        "فَرِحًا"
+      ]
+    },
+    {
+      "activityId": "act_075_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ]
+    },
+    {
+      "activityId": "act_075_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 1,
+      "options": [
+        "أَوْلَىٰ",
+        "وَيْلٌ",
+        "حَسْرَةٌ",
+        "دَمَارٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَوْلَىٰ",
+        "فَوَيْلٌ",
+        "فَهَلَاكٌ",
+        "فَثُبُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_075_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 2,
+      "options": [
+        "أَوْلَىٰ",
+        "وَيْلٌ",
+        "هَلَاكٌ",
+        "خِزْيٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "فَأَوْلَىٰٓ",
+        "فَهَلَاكٌ",
+        "فَوَيْلٌ",
+        "فَدَمَارٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "بيان حال الكافر المستكبر الذي كذب بالحق وتولى عن الطاعة واختال في مشيته، والوعيد الشديد المكرر له بالهلاك والدمار."
+  }
+}

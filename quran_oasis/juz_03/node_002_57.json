@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_57",
+  "title": "سورة البقرة - الآيات 268-272",
+  "surahId": 2,
+  "ayahStart": 268,
+  "ayahEnd": 272,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 268,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلۡفَحۡشَآءِۖ",
+        "فَلِأَنفُسِكُمۡۚ",
+        "لِلظَّٰلِمِينَ",
+        "وَتُؤۡتُوهَا"
+      ],
+      "activityId": "act_002_57_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 268,
+      "correctNextAyahNumber": 269,
+      "wrongOptionsAyahNumbers": [
+        270,
+        266
+      ],
+      "activityId": "act_002_57_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 269,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡحِكۡمَةَ",
+        "أَنفَقۡتُم",
+        "تُخۡفُوهَا",
+        "تُظۡلَمُونَ"
+      ],
+      "activityId": "act_002_57_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 269,
+      "correctNextAyahNumber": 270,
+      "wrongOptionsAyahNumbers": [
+        271,
+        267
+      ],
+      "activityId": "act_002_57_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 270,
+      "missingWordPosition": 13,
+      "options": [
+        "لِلظَّٰلِمِينَ",
+        "وَيَأۡمُرُكُم",
+        "ٱلۡفُقَرَآءَ",
+        "وَتُؤۡتُوهَا"
+      ],
+      "activityId": "act_002_57_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 270,
+      "correctNextAyahNumber": 271,
+      "wrongOptionsAyahNumbers": [
+        272,
+        268
+      ],
+      "activityId": "act_002_57_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 271,
+      "missingWordPosition": 8,
+      "options": [
+        "وَتُؤۡتُوهَا",
+        "لِلظَّٰلِمِينَ",
+        "وَيَأۡمُرُكُم",
+        "ٱلۡفُقَرَآءَ"
+      ],
+      "activityId": "act_002_57_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 271,
+      "correctNextAyahNumber": 272,
+      "wrongOptionsAyahNumbers": [
+        273,
+        269
+      ],
+      "activityId": "act_002_57_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 272,
+      "missingWordPosition": 13,
+      "options": [
+        "فَلِأَنفُسِكُمۡۚ",
+        "بِٱلۡفَحۡشَآءِۖ",
+        "لِلظَّٰلِمِينَ",
+        "وَتُؤۡتُوهَا"
+      ],
+      "activityId": "act_002_57_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يبين أن الحكمة والرزق بيد الله، ويحث على الإنفاق سرّاً وعلانية، ويذكر أجر المحتاجين المتعففين."
+  }
+}

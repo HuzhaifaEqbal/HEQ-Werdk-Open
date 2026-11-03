@@ -1,0 +1,180 @@
+{
+  "nodeId": "hifz_084_05",
+  "title": "سورة الانشقاق - المقطع الخامس (سجود التلاوة ووعيد المكذبين ونعيم الأجر غير الممنون)",
+  "surahId": 84,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "قُرِئَ",
+      "missingWordPosition": 2,
+      "options": [
+        "قُرِئَ",
+        "تُلِيَ",
+        "أُنْزِلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "ٱلْقُرْءَانُ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقُرْءَانُ",
+        "ٱلْوَحْيُ",
+        "ٱلْكِتَابُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "يَسْجُدُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْجُدُونَ",
+        "يَخْشَعُونَ",
+        "يَسْمَعُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "كَفَرُوا۟",
+      "missingWordPosition": 3,
+      "options": [
+        "كَفَرُوا۟",
+        "ظَلَمُوا",
+        "أَجْرَمُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "يُكَذِّبُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يُكَذِّبُونَ",
+        "يَسْتَكْبِرُونَ",
+        "يُعْرِضُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "أَعْلَمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَعْلَمُ",
+        "خَبِيرٌ",
+        "بَصِيرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "يُوعُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يُوعُونَ",
+        "يُخْفُونَ",
+        "يَعْلَمُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        21,
+        25
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "فَبَشِّرْهُم",
+      "missingWordPosition": 1,
+      "options": [
+        "فَبَشِّرْهُم",
+        "فَأَنْذِرْهُم",
+        "فَتَوَلَّ عَنْهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "أَلِيمٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَلِيمٍ",
+        "مُقِيمٍ",
+        "عَظِيمٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "ٱلصَّـٰلِحَـٰتِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلْخَيْرَاتِ",
+        "ٱلْحَسَنَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "أَجْرٌ",
+      "missingWordPosition": 7,
+      "options": [
+        "أَجْرٌ",
+        "ثَوَابٌ",
+        "نَعِيمٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "مَمْنُونٍۭ",
+      "missingWordPosition": 9,
+      "options": [
+        "مَمْنُونٍۭ",
+        "مَقْطُوعٍ",
+        "مَنْقُوصٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ما لهؤلاء إذا تُلي عليهم القرآن لا يخضعون لعظمته ولا يسجدون لربهم خضوعاً وإجلالاً؟! بل دأب الذين كفروا التكذيب بالحق عناداً واستكباراً، والله محيط وأعلم بما يجمعون ويضمرون في صدورهم من الشرك والعداوة والإنكار (يوعون)، فبشرهم بعذاب موجع مؤلم ينتظرهم في جهنم، لكن المؤمنين الصالحين لهم في جنات النعيم ثواب وأجر دائم غير مقطوع ولا منقوص (غير ممنون)."
+  }
+}

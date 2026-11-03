@@ -1,0 +1,43 @@
+{
+  "number": 103,
+  "name_ar": "العَصر",
+  "name_en": "Al-‘Aṣr",
+  "ayahs_count": 3,
+  "page_start": 601,
+  "page_end": 601,
+  "ayahs": [
+    {
+      "id": 6155,
+      "number": 1,
+      "text_uthmani": "وَالْعَصْرِ إِنَّ اَ۬لِانسَٰنَ لَفِے خُسْرٍ ١",
+      "text_simple": "والعصر ان الانسن لفے خسر ١",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6156,
+      "number": 2,
+      "text_uthmani": "اِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ وَتَوَاصَوْاْ بِالْحَقِّ ٢",
+      "text_simple": "الا الذين ءامنوا وعملوا الصلحت وتواصوا بالحق ٢",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 4
+    },
+    {
+      "id": 6157,
+      "number": 3,
+      "text_uthmani": "وَتَوَاصَوْاْ بِالصَّبْرِۖ ٣",
+      "text_simple": "وتواصوا بالصبر ٣",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    }
+  ]
+}

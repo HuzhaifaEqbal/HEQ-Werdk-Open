@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_077_01",
+  "title": "سورة المرسلات: القسم برياح القدر والملائكة وحتمية وقوع ما توعدون",
+  "surahId": 77,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "activityId": "act_077_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْمُرْسَلَـٰتِ",
+        "وَٱلنَّاشِرَاتِ",
+        "وَٱلصَّافَّاتِ",
+        "وَٱلذَّارِيَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "عُرْفًۭا",
+        "تَتْرَىٰ",
+        "رَحْمَةً",
+        "صِدْقًا"
+      ]
+    },
+    {
+      "activityId": "act_077_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_077_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱلْعَـٰصِفَـٰتِ",
+        "فَٱلْفَارِقَاتِ",
+        "فَٱلْمُلْقِيَاتِ",
+        "فَٱلْمُدَبِّرَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_077_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلنَّـٰشِرَٰتِ",
+        "وَٱلْمُرْسَلَاتِ",
+        "وَٱلذَّارِيَاتِ",
+        "وَٱلْمُورِيَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_077_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱلْفَـٰرِقَـٰتِ",
+        "فَٱلْعَاصِفَاتِ",
+        "فَٱلْمُلْقِيَاتِ",
+        "فَٱلسَّابِحَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_077_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱلْمُلْقِيَـٰتِ",
+        "فَٱلْمُنْزِلَاتِ",
+        "فَٱلْحَامِلَاتِ",
+        "فَٱلْمُوحِيَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "ذِكْرًا",
+        "وَحْيًا",
+        "نُورًا",
+        "هُدًى"
+      ]
+    },
+    {
+      "activityId": "act_077_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        1
+      ]
+    },
+    {
+      "activityId": "act_077_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "عُذْرًا",
+        "حُجَّةً",
+        "بَيَانًا",
+        "رَحْمَةً"
+      ]
+    },
+    {
+      "activityId": "act_077_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "نُذْرًا",
+        "تَخْوِيفًا",
+        "بَأْسًا",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_077_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "activityId": "act_077_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "تُوعَدُونَ",
+        "تُنْذَرُونَ",
+        "تَرْجُونَ",
+        "تَخَافُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "لَوَٰقِعٌۭ",
+        "لَحَقٌّ",
+        "قَرِيبٌ",
+        "آتٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "أقسام إلهية عظيمة بالرياح والملائكة التي تنزل بالوحي وتفصل بين الحق والباطل، تأكيداً لحتمية وقوع البعث والجزاء الموعود."
+  }
+}

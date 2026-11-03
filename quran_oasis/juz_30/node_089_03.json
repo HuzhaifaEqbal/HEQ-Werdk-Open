@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_089_03",
+  "title": "سورة الفجر - المقطع الثالث (ميزان الابتلاء وأكل التراث وحب المال)",
+  "surahId": 89,
+  "ayahStart": 15,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "ٱبْتَلَىٰهُ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱبْتَلَىٰهُ",
+        "اخْتَبَرَهُ",
+        "أَعْطَاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "أَكْرَمَنِ",
+      "missingWordPosition": 11,
+      "options": [
+        "أَكْرَمَنِ",
+        "فَضَّلَنِي",
+        "أَعْطَانِي"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "فَقَدَرَ",
+      "missingWordPosition": 5,
+      "options": [
+        "فَقَدَرَ",
+        "فَضَيَّقَ",
+        "فَمَنَعَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "أَهَـٰنَنِ",
+      "missingWordPosition": 10,
+      "options": [
+        "أَهَـٰنَنِ",
+        "حَرَمَنِي",
+        "عَذَّبَنِي"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "تُكْرِمُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "تُكْرِمُونَ",
+        "تُطْعِمُونَ",
+        "تَرْحَمُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ٱلْيَتِيمَ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْيَتِيمَ",
+        "ٱلْمِسْكِينَ",
+        "ٱلسَّائِلَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "تَحَـٰٓضُّونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَحَـٰٓضُّونَ",
+        "تَحُثُّونَ",
+        "تُنْفِقُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلْمِسْكِينِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمِسْكِينِ",
+        "ٱلْيَتِيمِ",
+        "ٱلْمُحْتَاجِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        15,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "ٱلتُّرَاثَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلتُّرَاثَ",
+        "ٱلْمَالَ",
+        "ٱلْحَقَّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "لَّمًّا",
+      "missingWordPosition": 4,
+      "options": [
+        "لَّمًّا",
+        "شَدِيدًا",
+        "كَثِيرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "ٱلْمَالَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَالَ",
+        "ٱلدُّنْيَا",
+        "ٱلْحَيَاةَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "جَمًّا",
+      "missingWordPosition": 4,
+      "options": [
+        "جَمًّا",
+        "عَظِيمًا",
+        "شَدِيدًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الإنسان لقصور نظره يظن سعة الرزق دليلاً على كرامته عند الله، وتضييق الرزق دليلاً على إهانته، وليس الأمر كذلك بل الغنى والفقر كلاهما ابتلاء واختبار. كلا، بل أنتم تفرطون في حقوق الضعفاء؛ فلا تحسنون لليتيم ولا تكرمونه، ولا يحث بعضكم بعضاً على إطعام المسكين، وتأكلون الميراث (التراث) أكلاً شديداً جامعاً بين الحلال والحرام بغير ورع، وتحبون جمع المال حباً مفرطاً جماً يشغلكم عن طاعة ربكم."
+  }
+}

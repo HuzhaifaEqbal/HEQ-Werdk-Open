@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_25",
+  "title": "سورة الأعراف - الآيات 142-147",
+  "surahId": 7,
+  "ayahStart": 142,
+  "ayahEnd": 147,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَتْمَمْنَـٰهَا",
+        "بِأَحْسَنِهَا ۚ",
+        "ٱلْمُؤْمِنِينَ",
+        "أَعْمَـٰلُهُمْ ۚ"
+      ],
+      "activityId": "act_007_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 142,
+      "correctNextAyahNumber": 143,
+      "wrongOptionsAyahNumbers": [
+        144,
+        140
+      ],
+      "activityId": "act_007_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 41,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُفْسِدِينَ",
+        "۞ وَوَٰعَدْنَا",
+        "وَأَتْمَمْنَـٰهَا"
+      ],
+      "activityId": "act_007_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 143,
+      "correctNextAyahNumber": 144,
+      "wrongOptionsAyahNumbers": [
+        145,
+        141
+      ],
+      "activityId": "act_007_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 144,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱصْطَفَيْتُكَ",
+        "سَأُو۟رِيكُمْ",
+        "وَتَفْصِيلًۭا",
+        "لِمِيقَـٰتِنَا"
+      ],
+      "activityId": "act_007_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 144,
+      "correctNextAyahNumber": 145,
+      "wrongOptionsAyahNumbers": [
+        146,
+        142
+      ],
+      "activityId": "act_007_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 145,
+      "missingWordPosition": 17,
+      "options": [
+        "بِأَحْسَنِهَا ۚ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُفْسِدِينَ",
+        "۞ وَوَٰعَدْنَا"
+      ],
+      "activityId": "act_007_25_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 145,
+      "correctNextAyahNumber": 146,
+      "wrongOptionsAyahNumbers": [
+        147,
+        143
+      ],
+      "activityId": "act_007_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 146,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَكَبَّرُونَ",
+        "ٱلشَّـٰكِرِينَ",
+        "ٱلْفَـٰسِقِينَ",
+        "ٱصْطَفَيْتُكَ"
+      ],
+      "activityId": "act_007_25_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 146,
+      "correctNextAyahNumber": 147,
+      "wrongOptionsAyahNumbers": [
+        148,
+        144
+      ],
+      "activityId": "act_007_25_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 147,
+      "missingWordPosition": 7,
+      "options": [
+        "أَعْمَـٰلُهُمْ ۚ",
+        "يَتَكَبَّرُونَ",
+        "ٱلْأَلْوَاحِ",
+        "لِمِيقَـٰتِنَا"
+      ],
+      "activityId": "act_007_25_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

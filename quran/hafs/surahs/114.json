@@ -1,0 +1,76 @@
+{
+  "number": 114,
+  "name_ar": "النَّاس",
+  "name_en": "An-Nās",
+  "ayahs_count": 6,
+  "page_start": 604,
+  "page_end": 604,
+  "ayahs": [
+    {
+      "id": 6231,
+      "number": 1,
+      "text_uthmani": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١",
+      "text_simple": "قل أعوذ برب الناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 6232,
+      "number": 2,
+      "text_uthmani": "مَلِكِ ٱلنَّاسِ ٢",
+      "text_simple": "ملك الناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 6233,
+      "number": 3,
+      "text_uthmani": "إِلَٰهِ ٱلنَّاسِ ٣",
+      "text_simple": "إله الناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 13
+    },
+    {
+      "id": 6234,
+      "number": 4,
+      "text_uthmani": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ٤",
+      "text_simple": "من شر الوسواس الخناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6235,
+      "number": 5,
+      "text_uthmani": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ ٥",
+      "text_simple": "الذي يوسوس في صدور الناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 14
+    },
+    {
+      "id": 6236,
+      "number": 6,
+      "text_uthmani": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ٦",
+      "text_simple": "من الجنة والناس",
+      "juz": 30,
+      "page": 604,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    }
+  ]
+}

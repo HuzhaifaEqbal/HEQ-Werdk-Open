@@ -1,0 +1,240 @@
+{
+  "nodeId": "hifz_079_07",
+  "title": "سورة النازعات - المقطع السابع (الطامة الكبرى ومآل الطاغي والمتقي)",
+  "surahId": 79,
+  "ayahStart": 34,
+  "ayahEnd": 41,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "الطَّامَّةُ",
+      "missingWordPosition": 3,
+      "options": [
+        "الطَّامَّةُ",
+        "الصَّاخَّةُ",
+        "الْقَارِعَةُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "الْكُبْرَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْكُبْرَىٰ",
+        "الْعُظْمَىٰ",
+        "الْآخِرَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "يَتَذَكَّرُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَذَكَّرُ",
+        "يَنْظُرُ",
+        "يَعْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "سَعَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "سَعَىٰ",
+        "قَدَّمَ",
+        "عَمِلَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "وَبُرِّزَتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَبُرِّزَتِ",
+        "وَأُزْلِفَتِ",
+        "وَفُتِحَتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "الْجَحِيمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجَحِيمُ",
+        "النَّارُ",
+        "جَهَنَّمُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWord": "طَغَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "طَغَىٰ",
+        "كَفَرَ",
+        "عَصَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "وَآثَرَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَآثَرَ",
+        "وَأَحَبَّ",
+        "وَاشْتَرَىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "الدُّنْيَا",
+      "missingWordPosition": 3,
+      "options": [
+        "الدُّنْيَا",
+        "الْعَاجِلَةَ",
+        "الْفَانِيَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "الْجَحِيمَ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجَحِيمَ",
+        "النَّارَ",
+        "سَقَرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "الْمَأْوَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْمَأْوَىٰ",
+        "الْمَصِيرُ",
+        "الْمُسْتَقَرُّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        38,
+        41
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "مَقَامَ",
+      "missingWordPosition": 4,
+      "options": [
+        "مَقَامَ",
+        "عَذَابَ",
+        "غَضَبَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "الْهَوَىٰ",
+      "missingWordPosition": 9,
+      "options": [
+        "الْهَوَىٰ",
+        "الشَّهَوَاتِ",
+        "الْمُنكَرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWord": "الْجَنَّةَ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجَنَّةَ",
+        "الْفِرْدَوْسَ",
+        "النَّعِيمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWord": "الْمَأْوَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْمَأْوَىٰ",
+        "الْمَآبُ",
+        "الْجَزَاءُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يصور المشهد القرآني حلول القيامة بأهوالها التي تعلو وتطمّ على كل شيء (الطامة الكبرى)؛ فيتذكر الإنسان يومها كل ما قدّم وسعى في دنياه تفصيلاً، وتُكشف نار الجحيم بارزة لكل ذي بصر. وينقسم الناس إلى صنفين لا ثالث لهما: فمن تجاوز حده في الكفر وآثر لذائذ الدنيا الفانية على طاعة ربه، فإن الجحيم مصيره ومأواه. ومن خاف جلال ربه والوقوف بين يديه للحساب، وكبح جماح نفسه الأمارة بالسوء عن اتباع الهوى الحرام، فإن جنات النعيم هي مأواه الخالد وكرامته."
+  }
+}

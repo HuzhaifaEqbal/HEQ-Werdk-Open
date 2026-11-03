@@ -1,0 +1,98 @@
+{
+  "number": 94,
+  "name_ar": "الشَّرح",
+  "name_en": "Ash-Sharḥ",
+  "ayahs_count": 8,
+  "page_start": 596,
+  "page_end": 597,
+  "ayahs": [
+    {
+      "id": 6091,
+      "number": 1,
+      "text_uthmani": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ ١",
+      "text_simple": "ألم نشرح لك صدرك",
+      "juz": 30,
+      "page": 596,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6092,
+      "number": 2,
+      "text_uthmani": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ ٢",
+      "text_simple": "ووضعنا عنك وزرك",
+      "juz": 30,
+      "page": 596,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6093,
+      "number": 3,
+      "text_uthmani": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ ٣",
+      "text_simple": "الذي أنقض ظهرك",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6094,
+      "number": 4,
+      "text_uthmani": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ ٤",
+      "text_simple": "ورفعنا لك ذكرك",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6095,
+      "number": 5,
+      "text_uthmani": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا ٥",
+      "text_simple": "فإن مع العسر يسرا",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6096,
+      "number": 6,
+      "text_uthmani": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا ٦",
+      "text_simple": "إن مع العسر يسرا",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 6097,
+      "number": 7,
+      "text_uthmani": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ ٧",
+      "text_simple": "فإذا فرغت فانصب",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 6098,
+      "number": 8,
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب ٨",
+      "text_simple": "وإلى ربك فارغب",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    }
+  ]
+}

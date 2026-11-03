@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_15",
+  "title": "سورة آل عمران - الآيات 71-75",
+  "surahId": 3,
+  "ayahStart": 71,
+  "ayahEnd": 75,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 7,
+      "options": [
+        "وَتَكۡتُمُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "بِرَحۡمَتِهِۦ"
+      ],
+      "activityId": "act_003_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_003_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱكۡفُرُوٓاْ",
+        "وَتَكۡتُمُونَ",
+        "وَيَقُولُونَ",
+        "يُحَآجُّوكُمۡ"
+      ],
+      "activityId": "act_003_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_003_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 19,
+      "options": [
+        "يُحَآجُّوكُمۡ",
+        "وَٱكۡفُرُوٓاْ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_003_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 2,
+      "options": [
+        "بِرَحۡمَتِهِۦ",
+        "وَتَكۡتُمُونَ",
+        "وَيَقُولُونَ",
+        "وَٱكۡفُرُوٓاْ"
+      ],
+      "activityId": "act_003_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_003_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 31,
+      "options": [
+        "وَيَقُولُونَ",
+        "بِرَحۡمَتِهِۦ",
+        "يُحَآجُّوكُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يدعو إلى الوفاء بالعهد وتقوى الله، ويبين أن من أهل الكتاب أمناء ومنهم من يخون الأمانة."
+  }
+}

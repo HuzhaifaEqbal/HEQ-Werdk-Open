@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_13",
+  "title": "سورة الأعراف - الآيات 73-78",
+  "surahId": 7,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 32,
+      "options": [
+        "فَيَأْخُذَكُمْ",
+        "فَأَخَذَتْهُمُ",
+        "أَتَعْلَمُونَ",
+        "فَأَصْبَحُوا۟"
+      ],
+      "activityId": "act_007_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_007_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 15,
+      "options": [
+        "وَتَنْحِتُونَ",
+        "فَيَأْخُذَكُمْ",
+        "أَتَعْلَمُونَ",
+        "فَأَصْبَحُوا۟"
+      ],
+      "activityId": "act_007_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_007_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسْتَكْبَرُوا۟",
+        "ٱلْمُرْسَلِينَ",
+        "فَٱذْكُرُوٓا۟",
+        "وَتَنْحِتُونَ"
+      ],
+      "activityId": "act_007_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_007_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱسْتَكْبَرُوٓا۟",
+        "ٱسْتُضْعِفُوا۟",
+        "ٱلْمُرْسَلِينَ",
+        "وَٱذْكُرُوٓا۟"
+      ],
+      "activityId": "act_007_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_007_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "ٱسْتَكْبَرُوا۟",
+        "ٱسْتُضْعِفُوا۟",
+        "فَأَخَذَتْهُمُ"
+      ],
+      "activityId": "act_007_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_007_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَصْبَحُوا۟",
+        "فَٱذْكُرُوٓا۟",
+        "وَتَنْحِتُونَ",
+        "وَٱذْكُرُوٓا۟"
+      ],
+      "activityId": "act_007_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

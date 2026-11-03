@@ -1,0 +1,286 @@
+{
+  "nodeId": "node_052_05",
+  "title": "سورة الطور: الحجج العقلية الملزمة وسقوط أوهام الشرك والربوبية",
+  "surahId": 52,
+  "ayahStart": 35,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "activityId": "act_052_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْخَـٰلِقُونَ",
+        "ٱلْقَادِرُونَ",
+        "ٱلْمَالِكُونَ",
+        "ٱلْحَاكِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_052_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلْأَرْضَ",
+        "ٱلْخَلْقَ",
+        "ٱلْكَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 7,
+      "options": [
+        "يُوقِنُونَ",
+        "يَعْلَمُونَ",
+        "يُؤْمِنُونَ",
+        "يَعْقِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_052_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "خَزَآئِنُ",
+        "أَمْوَالُ",
+        "مَفَاتِيحُ",
+        "رَحْمَةُ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُصَۣيْطِرُونَ",
+        "ٱلْقَادِرُونَ",
+        "ٱلْحَاكِمُونَ",
+        "ٱلْمَالِكُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_052_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 3,
+      "options": [
+        "سُلَّمٌۭ",
+        "طَرِيقٌ",
+        "بَابٌ",
+        "مِرْقَاةٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 8,
+      "options": [
+        "بِسُلْطَـٰنٍۢ",
+        "بِبَيِّنَةٍ",
+        "بِكِتَابٍ",
+        "بِآيَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_052_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبَنَـٰتُ",
+        "ٱلشُّرَكَاءُ",
+        "ٱلْأَوْلَادُ",
+        "ٱلْأَنْدَادُ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْبَنُونَ",
+        "ٱلرِّجَالُ",
+        "ٱلْأَوْلَادُ",
+        "ٱلذُّكُورُ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_052_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "أَجْرًۭا",
+        "مَالًا",
+        "جَزَاءً",
+        "فِدْيَةً"
+      ]
+    },
+    {
+      "activityId": "act_052_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّثْقَلُونَ",
+        "مَّعْذُورُونَ",
+        "مَّشْغُولُونَ",
+        "مَّغْلُوبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_052_05_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْغَيْبُ",
+        "ٱلْعِلْمُ",
+        "ٱلْكِتَابُ",
+        "ٱلْقَدَرُ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_052_05_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "كَيْدًۭا ۖ",
+        "مَكْرًا",
+        "شَرًّا",
+        "ضَرَرًا"
+      ]
+    },
+    {
+      "activityId": "act_052_05_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَكِيدُونَ",
+        "ٱلْخَاسِرُونَ",
+        "ٱلْمَهْزُومُونَ",
+        "ٱلْمَغْلُوبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_052_05_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 6,
+      "options": [
+        "سُبْحَـٰنَ",
+        "تَبَارَكَ",
+        "تَعَالَىٰ",
+        "عَزَّ"
+      ]
+    },
+    {
+      "activityId": "act_052_05_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "يُشْرِكُونَ",
+        "يَعْبُدُونَ",
+        "يَزْعُمُونَ",
+        "يَصِفُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطور",
+    "juz": 27,
+    "theme": "سلسلة من التساؤلات العقلية المفحمة التي تقطع حجج المشركين وتثبت تفرد الله بالخلق والربوبية والتدبير."
+  }
+}

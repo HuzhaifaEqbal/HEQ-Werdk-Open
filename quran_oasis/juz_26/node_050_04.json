@@ -1,0 +1,145 @@
+{
+  "nodeId": "node_050_04",
+  "title": "سورة ق: قرب الله من الإنسان ورقابة الملكين وسكرة الموت والنفخ في الصور",
+  "surahId": 50,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_050_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "تُوَسْوِسُ",
+        "تُحَدِّثُ",
+        "تُضْمِرُ",
+        "تُخْفِى"
+      ]
+    },
+    {
+      "activityId": "act_048_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْوَرِيدِ",
+        "ٱلْفُؤَادِ",
+        "ٱلْقَلْبِ",
+        "ٱلرَّقَبَةِ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_050_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 8,
+      "options": [
+        "قَعِيدٌۭ",
+        "حَفِيظٌ",
+        "شَهِيدٌ",
+        "وَكِيلٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_050_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "يَلْفِظُ",
+        "يَنْطِقُ",
+        "يَتَكَلَّمُ",
+        "يَقُولُ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "عَتِيدٌۭ",
+        "حَفِيظٌ",
+        "قَرِيبٌ",
+        "شَهِيدٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_050_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "سَكْرَةُ",
+        "غَمْرَةُ",
+        "شِدَّةُ",
+        "كَرْبُ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 9,
+      "options": [
+        "تَحِيدُ",
+        "تَفِرُّ",
+        "تَهْرُبُ",
+        "تَخَافُ"
+      ]
+    },
+    {
+      "activityId": "act_050_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_050_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْوَعِيدِ",
+        "ٱلْحِسَابِ",
+        "ٱلْفَصْلِ",
+        "ٱلْجَزَآءِ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "node_070_05",
+  "title": "سورة المعارج: طبيعة خلق الإنسان والمداومة على الصلاة",
+  "surahId": 70,
+  "ayahStart": 19,
+  "ayahEnd": 23,
+  "activities": [
+    {
+      "activityId": "act_070_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "هَلُوعًا",
+        "جَزُوعًا",
+        "مَنُوعًا",
+        "عَجُولًا"
+      ]
+    },
+    {
+      "activityId": "act_070_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_070_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "جَزُوعًۭا",
+        "مَنُوعًا",
+        "هَلُوعًا",
+        "يَئُوسًا"
+      ]
+    },
+    {
+      "activityId": "act_070_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_070_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "مَنُوعًا",
+        "جَزُوعًا",
+        "بَخِيلًا",
+        "فَخُورًا"
+      ]
+    },
+    {
+      "activityId": "act_070_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_070_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُصَلِّينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلصَّـٰبِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_070_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 5,
+      "options": [
+        "دَآئِمُونَ",
+        "خَاشِعُونَ",
+        "مُحَافِظُونَ",
+        "قَائِمُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "طبيعة الإنسان النفسية من شدة الهلع والجزع عند المكروه والبخل عند النعمة، واستثناء المصلين الدائمين على صلاتهم"
+  }
+}

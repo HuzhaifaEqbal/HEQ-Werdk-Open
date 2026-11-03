@@ -1,0 +1,169 @@
+{
+  "nodeId": "hifz_082_04",
+  "title": "سورة الانفطار - المقطع الرابع (عظمة يوم الدين والأمر لله وحده)",
+  "surahId": 82,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَصْلَوْنَهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "يَصْلَوْنَهَا",
+        "يَدْخُلُونَهَا",
+        "يَرَوْنَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "الدِّينِ",
+      "missingWordPosition": 3,
+      "options": [
+        "الدِّينِ",
+        "الْفَصْلِ",
+        "الْحِسَابِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "بِغَائِبِينَ",
+      "missingWordPosition": 4,
+      "options": [
+        "بِغَائِبِينَ",
+        "بِمُبْعَدِينَ",
+        "بِمُعْجِزِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "أَدْرَاكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَاكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "الدِّينِ",
+      "missingWordPosition": 5,
+      "options": [
+        "الدِّينِ",
+        "الْفَصْلِ",
+        "الْقِيَامَةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        16,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ثُمَّ",
+      "missingWordPosition": 1,
+      "options": [
+        "ثُمَّ",
+        "بَلْ",
+        "وَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "الدِّينِ",
+      "missingWordPosition": 6,
+      "options": [
+        "الدِّينِ",
+        "الْحِسَابِ",
+        "الْجَزَاءِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        15,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "تَمْلِكُ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَمْلِكُ",
+        "تَقْدِرُ",
+        "تَنْفَعُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "شَيْئًا",
+      "missingWordPosition": 6,
+      "options": [
+        "شَيْئًا",
+        "نَفْعًا",
+        "شَفَاعَةً"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "وَالْأَمْرُ",
+      "missingWordPosition": 7,
+      "options": [
+        "وَالْأَمْرُ",
+        "وَالْمُلْكُ",
+        "وَالْحُكْمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "لِّلَّهِ",
+      "missingWordPosition": 9,
+      "options": [
+        "لِّلَّهِ",
+        "لِلرَّحْمَٰنِ",
+        "لِلْوَاحِدِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تختتم السورة بتعظيم شأن يوم القيامة؛ يصلى الفجار نار الجحيم ويذوقون سعيرها في يوم الجزاء (يوم الدين)، وما هم بخارجين منها ولا غائبين عن عذابها أبداً. ثم يعظم الله هول هذا اليوم بالاستفهام التهويلي المكرر: وما أعلمك أي هول عظيم هو يوم الدين؟ ثم ما أعلمك ما يوم الدين؟ يوم لا يقدر فيه أحد على نفع أحد أو دفع ضر عنه، وتنقطع الشفاعات إلا بإذن الله، والأمر والملك والحكم في ذلك اليوم جلي وظاهر لله الواحد القهار وحده."
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "nodeId": "node_068_10",
+  "title": "سورة القلم: الأمر بالصبر كصاحب الحوت وعيون الكائدين والذكر للعالمين",
+  "surahId": 68,
+  "ayahStart": 48,
+  "ayahEnd": 52,
+  "activities": [
+    {
+      "activityId": "act_068_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْبِرْ",
+        "فَٱسْتَقِمْ",
+        "فَٱحْكُمْ",
+        "فَٱعْرِضْ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "كَصَاحِبِ",
+        "كَنَبِىِّ",
+        "كَرَسُولِ",
+        "كَشَاهِدِ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحُوتِ",
+        "ٱلْفِيلِ",
+        "ٱلْجَبَلِ",
+        "ٱلْغَارِ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 11,
+      "options": [
+        "مَكْظُومٌۭ",
+        "مَحْزُونٌ",
+        "مَغْمُومٌ",
+        "مَكْلُومٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_068_10_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 3,
+      "options": [
+        "تَدَٰرَكَهُۥ",
+        "أَصَابَهُۥ",
+        "نَالَهُۥ",
+        "أَنْقَذَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْعَرَآءِ",
+        "بِٱلْيَمِّ",
+        "بِٱلْبَحْرِ",
+        "بِٱلْأَرْضِ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 10,
+      "options": [
+        "مَذْمُومٌۭ",
+        "مَلُومٌ",
+        "مَطْرُودٌ",
+        "مَهِينٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_068_10_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱجْتَبَـٰهُ",
+        "فَٱخْتَارَهُۥ",
+        "فَٱصْطَفَاهُ",
+        "فَنَجَّاهُ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُخْلَصِينَ",
+        "ٱلْمُقَرَّبِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ]
+    },
+    {
+      "activityId": "act_068_10_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 5,
+      "options": [
+        "لَيُزْلِقُونَكَ",
+        "لَيَصْرَعُونَكَ",
+        "لَيُهْلِكُونَكَ",
+        "لَيَرْمُونَكَ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 12,
+      "options": [
+        "لَمَجْنُونٌۭ",
+        "لَسَاحِرٌ",
+        "لَكَـٰذِبٌ",
+        "لَشَاعِرٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_068_10_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 4,
+      "options": [
+        "ذِكْرٌۭ",
+        "نُورٌ",
+        "هُدًى",
+        "شِفَاءٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_10_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 5,
+      "options": [
+        "لِّلْعَـٰلَمِينَ",
+        "لِّلْمُتَّقِينَ",
+        "لِّلْمُؤْمِنِينَ",
+        "لِلنَّاسِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "أمر النبي ﷺ بالصبر وعدم الضجر كيونس عليه السلام، وبيان شدة عداوة وحسد الكفار بأعينهم، وخاتمة القرآن ذكر للعالمين"
+  }
+}

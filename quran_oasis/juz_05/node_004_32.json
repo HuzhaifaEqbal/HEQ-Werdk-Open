@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_32",
+  "title": "سورة النساء - الآيات 154-158",
+  "surahId": 4,
+  "ayahStart": 154,
+  "ayahEnd": 158,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 4,
+      "options": [
+        "بِمِيثَٰقِهِمۡ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَبِكُفۡرِهِمۡ"
+      ],
+      "activityId": "act_004_32_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "wrongOptionsAyahNumbers": [
+        156,
+        152
+      ],
+      "activityId": "act_004_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلۡأَنۢبِيَآءَ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِمِيثَٰقِهِمۡ"
+      ],
+      "activityId": "act_004_32_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "wrongOptionsAyahNumbers": [
+        157,
+        153
+      ],
+      "activityId": "act_004_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 1,
+      "options": [
+        "وَبِكُفۡرِهِمۡ",
+        "ٱخۡتَلَفُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_32_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "wrongOptionsAyahNumbers": [
+        158,
+        154
+      ],
+      "activityId": "act_004_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱخۡتَلَفُواْ",
+        "بِمِيثَٰقِهِمۡ",
+        "وَبِكُفۡرِهِمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_32_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 157,
+      "correctNextAyahNumber": 158,
+      "wrongOptionsAyahNumbers": [
+        159,
+        155
+      ],
+      "activityId": "act_004_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 7,
+      "options": [
+        "عَزِيزًا",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ٱخۡتَلَفُواْ"
+      ],
+      "activityId": "act_004_32_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر اختلاف الناس في عيسى عليه السلام، ويقرر أن الرسل بشر أرسلهم الله بالهدى."
+  }
+}

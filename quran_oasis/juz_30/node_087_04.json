@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_087_04",
+  "title": "سورة الأعلى - المقطع الرابع (فلاح التزكية وإيثار الآخرة وصحف إبراهيم وموسى)",
+  "surahId": 87,
+  "ayahStart": 14,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "أَفْلَحَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَفْلَحَ",
+        "فَازَ",
+        "نَجَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "تَزَكَّىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "تَزَكَّىٰ",
+        "تَابَ",
+        "أَسْلَمَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "وَذَكَرَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَذَكَرَ",
+        "وَسَبَّحَ",
+        "وَعَبَدَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "فَصَلَّىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَصَلَّىٰ",
+        "فَدَعَا",
+        "فَسَجَدَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "تُؤْثِرُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "تُؤْثِرُونَ",
+        "تُحِبُّونَ",
+        "تَرْجُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "ٱلدُّنْيَا",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلدُّنْيَا",
+        "ٱلْأُولَى",
+        "ٱلْعَاجِلَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "خَيْرٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَيْرٌ",
+        "أَفْضَلُ",
+        "أَعْظَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "وَأَبْقَىٰٓ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَأَبْقَىٰٓ",
+        "وَأَدْوَمُ",
+        "وَأَكْبَرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلصُّحُفِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصُّحُفِ",
+        "ٱلْكُتُبِ",
+        "ٱلْأَلْوَاحِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلْأُولَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأُولَىٰ",
+        "ٱلْقَدِيمَةِ",
+        "ٱلسَّابِقَةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "إِبْرَٰهِيمَ",
+      "missingWordPosition": 2,
+      "options": [
+        "إِبْرَٰهِيمَ",
+        "نُوحٍ",
+        "دَاوُودَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "وَمُوسَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَمُوسَىٰ",
+        "وَعِيسَى",
+        "وَإِسْمَاعِيلَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "قد ظفر بالفوز والنجاة والسعادة من طهّر نفسه من الشرك والمعاصي وحلّاها بالأعمال الصالحة، وذكر عظمة ربه في قلبه ولسانه فأقام الصلاة بخشوع لله، ولكنكم - أيها الغافلون - تقدمون زينة الحياة الدنيا الفانية على نعيم الآخرة، والدار الآخرة خير بنعيمها وأدوم بقاءً وسرمدية، وإن هذا المعنى العظيم والوصايا الجليلة لمكتوبة وثابتة في الصحف الأولى المنزلة: صحف خليل الرحمن إبراهيم وكليم الله موسى عليهما السلام."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_008_10",
+  "title": "سورة الأنفال - الآيات 53-58",
+  "surahId": 8,
+  "ayahStart": 53,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 14,
+      "options": [
+        "بِأَنفُسِهِمْ ۙ",
+        "ٱلْخَآئِنِينَ",
+        "فَأَهْلَكْنَـٰهُم",
+        "تَثْقَفَنَّهُمْ"
+      ],
+      "activityId": "act_008_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_008_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 10,
+      "options": [
+        "فَأَهْلَكْنَـٰهُم",
+        "بِأَنفُسِهِمْ ۙ",
+        "ٱلْخَآئِنِينَ",
+        "تَثْقَفَنَّهُمْ"
+      ],
+      "activityId": "act_008_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        52
+      ],
+      "activityId": "act_008_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلدَّوَآبِّ",
+        "فِرْعَوْنَ ۙ",
+        "قَبْلِهِمْ ۚ",
+        "يُغَيِّرُوا۟"
+      ],
+      "activityId": "act_008_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        53
+      ],
+      "activityId": "act_008_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 5,
+      "options": [
+        "يَنقُضُونَ",
+        "أَنْعَمَهَا",
+        "وَٱلَّذِينَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_008_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_008_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 2,
+      "options": [
+        "تَثْقَفَنَّهُمْ",
+        "وَأَغْرَقْنَآ",
+        "بِذُنُوبِهِمْ",
+        "ٱلدَّوَآبِّ"
+      ],
+      "activityId": "act_008_10_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_008_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْخَآئِنِينَ",
+        "بِأَنفُسِهِمْ ۙ",
+        "فَأَهْلَكْنَـٰهُم",
+        "وَأَغْرَقْنَآ"
+      ],
+      "activityId": "act_008_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنفال",
+    "juz": 10,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

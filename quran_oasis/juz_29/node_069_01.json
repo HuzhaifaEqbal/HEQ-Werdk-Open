@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_069_01",
+  "title": "سورة الحاقة: هول يوم القيامة ومصارع ثمود وعاد",
+  "surahId": 69,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_069_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْحَآقَّةُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلْوَاقِعَةُ",
+        "ٱلصَّآخَّةُ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_069_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "مَا",
+        "هَلِ",
+        "كَيْفَ",
+        "مَاذَا"
+      ]
+    },
+    {
+      "activityId": "act_069_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_069_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "يُدْرِيكَ",
+        "أَنْبَأَكَ",
+        "عَلَّمَكَ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_069_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "ثَمُودُ",
+        "قُرَيْشٌ",
+        "فِرْعَوْنُ",
+        "مَدْيَنُ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلْقَارِعَةِ",
+        "بِٱلْحَآقَّةِ",
+        "بِٱلسَّاعَةِ",
+        "بِٱلْبَعْثِ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ]
+    },
+    {
+      "activityId": "act_069_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلطَّاغِيَةِ",
+        "بِٱلصَّيْحَةِ",
+        "بِٱلرَّجْفَةِ",
+        "بِٱلصَّاعِقَةِ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ]
+    },
+    {
+      "activityId": "act_069_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "صَرْصَرٍ",
+        "عَقِيمٍ",
+        "شَدِيدَةٍ",
+        "قَاصِفٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "عَاتِيَةٍۢ",
+        "مُدَمِّرَةٍ",
+        "مُهْلِكَةٍ",
+        "شَدِيدَةٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "تهويل يوم القيامة الثابت الوقوع، وتذكير قريش بهلاك ثمود بالصيحة الطاغية وهلاك عاد بالريح الصرصر العاتية"
+  }
+}

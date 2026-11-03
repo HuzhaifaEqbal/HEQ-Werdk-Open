@@ -1,0 +1,133 @@
+{
+  "nodeId": "node_043_13",
+  "title": "سورة الزخرف: صحاف الذهب في الجنة وعذاب المجرمين ونداء مالك خازن النار",
+  "surahId": 43,
+  "ayahStart": 71,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "activityId": "act_043_13_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 3,
+      "options": [
+        "بِصِحَافٍۢ",
+        "بِآنِيَةٍ",
+        "بِأَطْبَاقٍ",
+        "بِكُئُوسٍ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 11,
+      "options": [
+        "وَتَلَذُّ",
+        "وَتَقَرُّ",
+        "وَتَسُرُّ",
+        "وَتَفْرَحُ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        74
+      ]
+    },
+    {
+      "activityId": "act_043_13_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْكَافِرِينَ",
+        "ٱلظَّالِمِينَ",
+        "ٱلْفَاسِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        77
+      ]
+    },
+    {
+      "activityId": "act_043_13_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 6,
+      "options": [
+        "مُبْلِسُونَ",
+        "يَائِسُونَ",
+        "مُعَذَّبُونَ",
+        "صَاغِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        78
+      ]
+    },
+    {
+      "activityId": "act_043_13_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 2,
+      "options": [
+        "يَـٰمَـٰلِكُ",
+        "يَـٰرَبَّنَا",
+        "يَا خَازِنُ",
+        "يَا رَبِّ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 8,
+      "options": [
+        "مَّـٰكِثُونَ",
+        "خَالِدُونَ",
+        "مُعَذَّبُونَ",
+        "مُقِيمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_13_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        80
+      ]
+    },
+    {
+      "activityId": "act_043_13_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 7,
+      "options": [
+        "كَـٰرِهُونَ",
+        "مُعْرِضُونَ",
+        "مُنْكِرُونَ",
+        "مُكَذِّبُونَ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_12",
+  "title": "سورة النساء - الآيات 54-58",
+  "surahId": 4,
+  "ayahStart": 54,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 16,
+      "options": [
+        "وَءَاتَيۡنَٰهُم",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        52
+      ],
+      "activityId": "act_004_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 5,
+      "options": [
+        "وَمِنۡهُم",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        53
+      ],
+      "activityId": "act_004_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 14,
+      "options": [
+        "لِيَذُوقُواْ",
+        "أَبۡنَآئِكُمُ",
+        "سَنُدۡخِلُهُمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_004_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 5,
+      "options": [
+        "سَنُدۡخِلُهُمۡ",
+        "لِيَذُوقُواْ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_004_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 3,
+      "options": [
+        "يَأۡمُرُكُمۡ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "وَمِنۡهُم"
+      ],
+      "activityId": "act_004_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يعرض المقطع حسد بعض أهل الكتاب، ويأمر بأداء الأمانات والعدل، ويبين أثر الإيمان والكفر."
+  }
+}

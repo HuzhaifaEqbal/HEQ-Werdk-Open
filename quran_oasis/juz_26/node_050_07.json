@@ -1,0 +1,157 @@
+{
+  "nodeId": "node_050_07",
+  "title": "سورة ق: تقريب الجنة للمتقين وصفاتهم ونعيم يوم الخلود",
+  "surahId": 50,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "activityId": "act_050_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأُزْلِفَتِ",
+        "وَقُرِّبَتِ",
+        "وَأُدْنِيَتِ",
+        "وَفُتِحَتِ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_050_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 5,
+      "options": [
+        "أَوَّابٍ",
+        "تَوَّابٍ",
+        "مُّؤْمِنٍ",
+        "مُّتَّقٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "حَفِيظٍۢ",
+        "مُّنِيبٍ",
+        "سَلِيمٍ",
+        "عَلِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_050_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 2,
+      "options": [
+        "خَشِىَ",
+        "خَافَ",
+        "اتَّقَى",
+        "رَاقَبَ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّنِيبٍ",
+        "سَلِيمٍ",
+        "تَقِىٍّ",
+        "خَاشِعٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_050_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "بِسَلَـٰمٍۢ ۖ",
+        "بِأَمْنٍ",
+        "بِفَرَحٍ",
+        "بِرَحْمَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْخُلُودِ",
+        "ٱلْفَوْزِ",
+        "ٱلْبَقَاءِ",
+        "ٱلنَّعِيمِ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_050_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "يَشَآءُونَ",
+        "يَشْتَهُونَ",
+        "يُرِيدُونَ",
+        "يَطْلُبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_050_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "مَزِيدٌۭ",
+        "نَعِيمٌ",
+        "ثَوَابٌ",
+        "فَضْلٌ"
+      ]
+    }
+  ]
+}

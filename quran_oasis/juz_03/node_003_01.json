@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_01",
+  "title": "سورة آل عمران - الآيات 1-5",
+  "surahId": 3,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "الٓمٓ",
+        "ءَالِ",
+        "أَجۡرُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_003_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡقَيُّومُ",
+        "ءَاخِرَهُۥ",
+        "ٱلسَّمَآءِ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_003_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلۡإِنجِيلَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_003_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡفُرۡقَانَۗ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ٱلۡقَيُّومُ"
+      ],
+      "activityId": "act_003_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_003_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "ءَاخِرَهُۥ",
+        "ٱلۡقَيُّومُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يفتتح المقطع ببيان أن الله أنزل الكتاب بالحق مصدقاً لما سبقه، وأنه أنزل التوراة والإنجيل هدى للناس."
+  }
+}

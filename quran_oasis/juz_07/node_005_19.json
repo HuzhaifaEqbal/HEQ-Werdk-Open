@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_19",
+  "title": "سورة المائدة - الآيات 87-91",
+  "surahId": 5,
+  "ayahStart": 87,
+  "ayahEnd": 91,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْمُعْتَدِينَ",
+        "فَٱجْتَنِبُوهُ",
+        "وَٱلْأَنصَابُ",
+        "وَٱلْبَغْضَآءَ"
+      ],
+      "activityId": "act_005_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_005_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱتَّقُوا۟",
+        "أَهْلِيكُمْ",
+        "بِٱللَّغْوِ",
+        "تَشْكُرُونَ"
+      ],
+      "activityId": "act_005_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_005_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 2,
+      "options": [
+        "يُؤَاخِذُكُمُ",
+        "وَٱلْمَيْسِرُ",
+        "ٱلصَّلَوٰةِ ۖ",
+        "تَعْتَدُوٓا۟ ۚ"
+      ],
+      "activityId": "act_005_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_005_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْأَنصَابُ",
+        "ٱلْمُعْتَدِينَ",
+        "وَٱلْبَغْضَآءَ",
+        "وَٱحْفَظُوٓا۟"
+      ],
+      "activityId": "act_005_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_005_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلْبَغْضَآءَ",
+        "فَٱجْتَنِبُوهُ",
+        "ٱلْمُعْتَدِينَ",
+        "وَٱلْأَنصَابُ"
+      ],
+      "activityId": "act_005_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_33",
+  "title": "سورة آل عمران - الآيات 158-162",
+  "surahId": 3,
+  "ayahStart": 158,
+  "ayahEnd": 162,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 7,
+      "options": [
+        "تُحۡشَرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "وَمَأۡوَىٰهُ"
+      ],
+      "activityId": "act_003_33_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "wrongOptionsAyahNumbers": [
+        160,
+        156
+      ],
+      "activityId": "act_003_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 30,
+      "options": [
+        "ٱلۡمُتَوَكِّلِينَ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_33_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "wrongOptionsAyahNumbers": [
+        161,
+        157
+      ],
+      "activityId": "act_003_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلۡمُؤۡمِنُونَ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "ٱلۡمُتَوَكِّلِينَ"
+      ],
+      "activityId": "act_003_33_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "wrongOptionsAyahNumbers": [
+        162,
+        158
+      ],
+      "activityId": "act_003_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلۡقِيَٰمَةِۚ",
+        "تُحۡشَرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_33_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "wrongOptionsAyahNumbers": [
+        163,
+        159
+      ],
+      "activityId": "act_003_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 10,
+      "options": [
+        "وَمَأۡوَىٰهُ",
+        "ٱلۡقِيَٰمَةِۚ",
+        "تُحۡشَرُونَ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر أثر عفو الله ورحمته في لين النبي وشوراه لأصحابه، ثم يأمر بالتوكل."
+  }
+}

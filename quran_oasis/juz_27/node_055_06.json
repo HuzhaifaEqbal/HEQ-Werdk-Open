@@ -1,0 +1,320 @@
+{
+  "nodeId": "node_055_06",
+  "title": "سورة الرحمن: الجنتان الأخريان وخيرات حسان والحور في الخيام وتبارك اسم ربك",
+  "surahId": 55,
+  "ayahStart": 62,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "activityId": "act_055_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 3,
+      "options": [
+        "جَنَّتَانِ",
+        "رَوْضَتَانِ",
+        "دَارَانِ",
+        "نَعِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        65
+      ]
+    },
+    {
+      "activityId": "act_055_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        66
+      ]
+    },
+    {
+      "activityId": "act_055_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 1,
+      "options": [
+        "مُدْهَآمَّتَانِ",
+        "مُخْضَرَّتَانِ",
+        "مُشْرِقَتَانِ",
+        "مُزْهِرَتَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        67
+      ]
+    },
+    {
+      "activityId": "act_055_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        68
+      ]
+    },
+    {
+      "activityId": "act_055_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 3,
+      "options": [
+        "نَضَّاخَتَانِ",
+        "تَجْرِيَانِ",
+        "تَفُورَانِ",
+        "تَنْبُعَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        69
+      ]
+    },
+    {
+      "activityId": "act_055_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        70
+      ]
+    },
+    {
+      "activityId": "act_055_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرُمَّانٌۭ",
+        "وَأَعْنَابٌ",
+        "وَزَيْتُونٌ",
+        "وَتِينٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        71
+      ]
+    },
+    {
+      "activityId": "act_055_06_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        72
+      ]
+    },
+    {
+      "activityId": "act_055_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 2,
+      "options": [
+        "خَيْرَٰتٌ",
+        "أَزْوَاجٌ",
+        "نِسَاءٌ",
+        "حُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 3,
+      "options": [
+        "حِسَانٌۭ",
+        "أَتْرَابٌ",
+        "مُّطَهَّرَاتٌ",
+        "كَوَاعِبُ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        73
+      ]
+    },
+    {
+      "activityId": "act_055_06_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        74
+      ]
+    },
+    {
+      "activityId": "act_055_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 2,
+      "options": [
+        "مَّقْصُورَٰتٌۭ",
+        "مُّسْتَوْرَاتٌ",
+        "مَّحْفُوظَاتٌ",
+        "مُّطَهَّرَاتٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْخِيَامِ",
+        "ٱلْقُصُورِ",
+        "ٱلْغُرُفَاتِ",
+        "ٱلْجِنَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        75
+      ]
+    },
+    {
+      "activityId": "act_055_06_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        76
+      ]
+    },
+    {
+      "activityId": "act_055_06_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        77
+      ]
+    },
+    {
+      "activityId": "act_055_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 3,
+      "options": [
+        "رَفْرَفٍ",
+        "سُرُرٍ",
+        "فُرُشٍ",
+        "أَرَائِكَ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 5,
+      "options": [
+        "وَعَبْقَرِىٍّ",
+        "وَزَرَابِىَّ",
+        "وَنَمَارِقَ",
+        "وَسُنْدُسٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        74,
+        75
+      ]
+    },
+    {
+      "activityId": "act_055_06_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        75,
+        76
+      ]
+    },
+    {
+      "activityId": "act_055_06_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 1,
+      "options": [
+        "تَبَـٰرَكَ",
+        "تَعَالَىٰ",
+        "سُبْحَانَ",
+        "تَقَدَّسَ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْجَلَـٰلِ",
+        "ٱلْعِزَّةِ",
+        "ٱلْقُوَّةِ",
+        "ٱلْعَظَمَةِ"
+      ]
+    },
+    {
+      "activityId": "act_055_06_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْإِكْرَامِ",
+        "وَٱلْإِنْعَامِ",
+        "وَٱلْفَضْلِ",
+        "وَٱلْجُودِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرحمن",
+    "juz": 27,
+    "theme": "نعيم الجنتين الأخريين لأهل اليمين، شدة خضرتهما وعيونهما النضاختين، والحور المقصورات في الخيام، وخاتمة السورة بالثناء على ذي الجلال والإكرام."
+  }
+}

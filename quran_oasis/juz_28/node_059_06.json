@@ -1,0 +1,154 @@
+{
+  "nodeId": "node_059_06",
+  "title": "سورة الحشر: محاسبة النفس والتحذير من نسيان الله ومصير الفريقين",
+  "surahId": 59,
+  "ayahStart": 18,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_059_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱتَّقُوا۟",
+        "ٱخْشَوْا۟",
+        "رَاقِبُوا۟",
+        "ٱعْبُدُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "وَلْتَنظُرْ",
+        "وَلْتُحَاسِبْ",
+        "وَلْتَفْحَصْ",
+        "وَلْتَذْكُرْ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 9,
+      "options": [
+        "قَدَّمَتْ",
+        "كَسَبَتْ",
+        "أَسْلَفَتْ",
+        "عَمِلَتْ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 10,
+      "options": [
+        "لِغَدٍۢ ۖ",
+        "لِلْحِسَابِ",
+        "لِلْمَعَادِ",
+        "لِلْقِيَامَةِ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 15,
+      "options": [
+        "خَبِيرٌۢ",
+        "عَلِيمٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        18
+      ]
+    },
+    {
+      "activityId": "act_059_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "نَسُوا۟",
+        "تَرَكُوا۟",
+        "أَضَاعُوا۟",
+        "غَفَلُوا عَنِ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأَنسَىٰهُمْ",
+        "فَصَرَفَهُمْ عَنْ",
+        "فَحَرَمَهُمْ",
+        "فَأَبْعَدَهُمْ عَنْ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْفَـٰسِقُونَ",
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْغَـٰفِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_059_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْتَوِىٓ",
+        "يَتَمَاثَلُ",
+        "يَتَشَابَهُ",
+        "يَلْتَقِى"
+      ]
+    },
+    {
+      "activityId": "act_059_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْفَآئِزُونَ",
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْمُكْرَمُونَ",
+        "ٱلْمَنْصُورُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "الأمر بتقوى الله ومحاسبة النفس على ما قدمته ليوم القيامة، والتحذير من التشبه بمن نسوا الله فأنساهم أنفسهم، وبيان الفارق العظيم بين أصحاب النار وأصحاب الجنة الفائزين."
+  }
+}

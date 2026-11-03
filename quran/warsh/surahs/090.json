@@ -1,0 +1,230 @@
+{
+  "number": 90,
+  "name_ar": "البَلَد",
+  "name_en": "Al-Balad",
+  "ayahs_count": 20,
+  "page_start": 594,
+  "page_end": 595,
+  "ayahs": [
+    {
+      "id": 6001,
+      "number": 1,
+      "text_uthmani": "لَآ أُقْسِمُ بِهَٰذَا اَ۬لْبَلَدِ ١",
+      "text_simple": "لآ اقسم بهذا البلد ١",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6002,
+      "number": 2,
+      "text_uthmani": "وَأَنتَ حِلُّۢ بِهَٰذَا اَ۬لْبَلَدِ ٢",
+      "text_simple": "وانت حل بهذا البلد ٢",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6003,
+      "number": 3,
+      "text_uthmani": "وَوَالِدٖ وَمَا وَلَدَ ٣",
+      "text_simple": "ووالدٖ وما ولد ٣",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6004,
+      "number": 4,
+      "text_uthmani": "لَقَدْ خَلَقْنَا اَ۬لِانسَٰنَ فِے كَبَدٍۖ ٤",
+      "text_simple": "لقد خلقنا الانسن فے كبد ٤",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    },
+    {
+      "id": 6005,
+      "number": 5,
+      "text_uthmani": "اَيَحْسِبُ أَن لَّنْ يَّقْدِرَ عَلَيْهِ أَحَدٞ ٥",
+      "text_simple": "ايحسب ان لن يقدر عليه احدٞ ٥",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 10
+    },
+    {
+      "id": 6006,
+      "number": 6,
+      "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالاٗ لُّبَداًۖ ٦",
+      "text_simple": "يقول اهلكت مالاٗ لبدا ٦",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    },
+    {
+      "id": 6007,
+      "number": 7,
+      "text_uthmani": "اَيَحْسِبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌۖ ٧",
+      "text_simple": "ايحسب ان لم يرهٓ احد ٧",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    },
+    {
+      "id": 6008,
+      "number": 8,
+      "text_uthmani": "اَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ ٨",
+      "text_simple": "الم نجعل له عينين ٨",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    },
+    {
+      "id": 6009,
+      "number": 9,
+      "text_uthmani": "وَلِسَاناٗ وَشَفَتَيْنِ ٩",
+      "text_simple": "ولساناٗ وشفتين ٩",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    },
+    {
+      "id": 6010,
+      "number": 10,
+      "text_uthmani": "وَهَدَيْنَٰهُ اُ۬لنَّجْدَيْنِۖ ١٠",
+      "text_simple": "وهدينه النجدين ١٠",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 12
+    },
+    {
+      "id": 6011,
+      "number": 11,
+      "text_uthmani": "فَلَا اَ۪قْتَحَمَ اَ۬لْعَقَبَةَۖ ١١",
+      "text_simple": "فلا اقتحم العقبه ١١",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 6012,
+      "number": 12,
+      "text_uthmani": "وَمَآ أَدْر۪يٰكَ مَا اَ۬لْعَقَبَةُۖ ١٢",
+      "text_simple": "ومآ ادريك ما العقبه ١٢",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 6013,
+      "number": 13,
+      "text_uthmani": "فَكُّ رَقَبَةٍ ١٣",
+      "text_simple": "فك رقبه ١٣",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6014,
+      "number": 14,
+      "text_uthmani": "اَوِ اِطْعَامٞ فِے يَوْمٖ ذِے مَسْغَبَةٖ ١٤",
+      "text_simple": "او اطعامٞ فے يومٖ ذے مسغبهٖ ١٤",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6015,
+      "number": 15,
+      "text_uthmani": "يَتِيماٗ ذَا مَقْرَبَةٍ ١٥",
+      "text_simple": "يتيماٗ ذا مقربه ١٥",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6016,
+      "number": 16,
+      "text_uthmani": "اَوْ مِسْكِيناٗ ذَا مَتْرَبَةٖۖ ١٦",
+      "text_simple": "او مسكيناٗ ذا متربهٖ ١٦",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6017,
+      "number": 17,
+      "text_uthmani": "ثُمَّ كَانَ مِنَ اَ۬لذِينَ ءَامَنُواْ وَتَوَاصَوْاْ بِالصَّبْرِ وَتَوَاصَوْاْ بِالْمَرْحَمَةِۖ ١٧",
+      "text_simple": "ثم كان من الذين ءامنوا وتواصوا بالصبر وتواصوا بالمرحمه ١٧",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 15
+    },
+    {
+      "id": 6018,
+      "number": 18,
+      "text_uthmani": "أُوْلَٰٓئِكَ أَصْحَٰبُ اُ۬لْمَيْمَنَةِۖ ١٨",
+      "text_simple": "اولٓئك اصحب الميمنه ١٨",
+      "juz": 30,
+      "page": 594,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6019,
+      "number": 19,
+      "text_uthmani": "وَالذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمُۥٓ أَصْحَٰبُ اُ۬لْمَشْـَٔمَةِۖ ١٩",
+      "text_simple": "والذين كفروا بـٔايتنا همٓ اصحب المشـٔمه ١٩",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6020,
+      "number": 20,
+      "text_uthmani": "عَلَيْهِمْ نَارٞ مُّوصَدَةٞۖ ٢٠",
+      "text_simple": "عليهم نارٞ موصدهٞ ٢٠",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    }
+  ]
+}

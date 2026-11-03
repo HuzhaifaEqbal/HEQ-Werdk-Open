@@ -1,0 +1,310 @@
+{
+  "nodeId": "node_056_02",
+  "title": "سورة الواقعة: نعيم السابقين المقربين والسرر الموضونة والولدان وحور العين",
+  "surahId": 56,
+  "ayahStart": 11,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_056_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُقَرَّبُونَ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلْفَـٰئِزُونَ",
+        "ٱلْمُفْلِحُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_056_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلنَّعِيمِ",
+        "ٱلْفِرْدَوْسِ",
+        "ٱلْخُلْدِ",
+        "ٱلْمَأْوَى"
+      ]
+    },
+    {
+      "activityId": "act_056_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_056_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "ثُلَّةٌۭ",
+        "جَمْعٌ",
+        "فَوْجٌ",
+        "فَرِيقٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_056_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 1,
+      "options": [
+        "وَقَلِيلٌۭ",
+        "وَكَثِيرٌ",
+        "وَجَمْعٌ",
+        "وَثُلَّةٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_056_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّوْضُونَةٍۢ",
+        "مَّصْفُوفَةٍ",
+        "مَّرْفُوعَةٍ",
+        "مَّنْسُوجَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_056_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 3,
+      "options": [
+        "مُتَقَـٰبِلِينَ",
+        "مُّتَّكِئِينَ",
+        "فَرِحِينَ",
+        "مُّسْتَبْشِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_056_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّخَلَّدُونَ",
+        "مُّكْرَمُونَ",
+        "مُّطَهَّرُونَ",
+        "مُّقَرَّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_056_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 5,
+      "options": [
+        "مَّعِينٍۢ",
+        "تَسْنِيمٍ",
+        "سَلْسَبِيلٍ",
+        "كَافُورٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_056_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "يُصَدَّعُونَ",
+        "يُسْكَرُونَ",
+        "يَأْثَمُونَ",
+        "يَغْفُلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "يُنزِفُونَ",
+        "يَسْكَرُونَ",
+        "يَهْذُونَ",
+        "يَضْعُفُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_056_02_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_056_02_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_056_02_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَكْنُونِ",
+        "ٱلْمَصُونِ",
+        "ٱلْمَنْثُورِ",
+        "ٱلْجَمِيلِ"
+      ]
+    },
+    {
+      "activityId": "act_056_02_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_056_02_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_056_02_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "لَغْوًۭا",
+        "كِذْبًا",
+        "بَاطِلًا",
+        "سَفَهًا"
+      ]
+    },
+    {
+      "activityId": "act_056_02_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 6,
+      "options": [
+        "تَأْثِيمًا",
+        "تَكْذِيبًا",
+        "فِسْقًا",
+        "خَوْضًا"
+      ]
+    },
+    {
+      "activityId": "act_056_02_27",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "بيان نعيم السابقين المقربين في جنات النعيم على سرر منسوجة بالذهب، وخدمة الغلمان بكؤوس الخمر المنزهة، وحور عين كاللؤلؤ المكنون."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "nodeId": "hifz_098_02",
+  "title": "سورة البينة - المقطع الثاني (جزاء شر البرية ومآل خير البرية ورضوان الله)",
+  "surahId": 98,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "جَهَنَّمَ",
+      "missingWordPosition": 10,
+      "options": [
+        "جَهَنَّمَ",
+        "ٱلسَّعِيرِ",
+        "ٱلْجَحِيمِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "خَـٰلِدِينَ",
+      "missingWordPosition": 11,
+      "options": [
+        "خَـٰلِدِينَ",
+        "مُعَذَّبِينَ",
+        "مُقِيمِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "شَرُّ",
+      "missingWordPosition": 15,
+      "options": [
+        "شَرُّ",
+        "خَسَارَةُ",
+        "أَظْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ٱلْبَرِيَّةِ",
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْبَرِيَّةِ",
+        "ٱلْخَلِيقَةِ",
+        "ٱلْعَالَمِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلصَّـٰلِحَـٰتِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلْخَيْرَاتِ",
+        "ٱلْحَسَنَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "خَيْرُ",
+      "missingWordPosition": 8,
+      "options": [
+        "خَيْرُ",
+        "أَفْضَلُ",
+        "أَكْرَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلْبَرِيَّةِ",
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْبَرِيَّةِ",
+        "ٱلْخَلْقِ",
+        "ٱلْعِبَادِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "عَدْنٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "عَدْنٍ",
+        "فِرْدَوْسٍ",
+        "نَعِيمٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "أَبَدًا",
+      "missingWordPosition": 12,
+      "options": [
+        "أَبَدًا",
+        "دَائِمًا",
+        "سَرْمَدًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "رَّضِىَ",
+      "missingWordPosition": 13,
+      "options": [
+        "رَّضِىَ",
+        "تَفَضَّلَ",
+        "أَنْعَمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "خَشِىَ",
+      "missingWordPosition": 20,
+      "options": [
+        "خَشِىَ",
+        "أَطَاعَ",
+        "عَرَفَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الذين كفروا من اليهود والنصارى والمشركين مصيرهم إلى نار جهنم ماكثين فيها أبداً، أولئك هم شر الخليقة لترجيحهم الباطل على الحق بعد وضوح البينة، وأما الذين آمنوا بالله ورسوله وعملوا الصالحات فأولئك هم خير الخليقة عند الله وأكرمهم، جزاؤهم عند ربهم جنات إقامة دائمة (جنات عدن) تجري من تحت قصورها الأنهار خالدين فيها أبداً، رضي الله عنهم لطاعتهم ورضوا عنه بما أغدق عليهم من الكرامة، ذلك الجزاء العظيم لمن خاف ربه واتقاه بالغيب."
+  }
+}

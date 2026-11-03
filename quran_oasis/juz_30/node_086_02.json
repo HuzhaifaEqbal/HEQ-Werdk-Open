@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_086_02",
+  "title": "سورة الطارق - المقطع الثاني (أطوار خلق الإنسان ويوم تبلى السرائر)",
+  "surahId": 86,
+  "ayahStart": 5,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "فَلْيَنظُرِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَلْيَنظُرِ",
+        "فَلْيَعْلَمِ",
+        "فَلْيَفْكُرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "خُلِقَ",
+      "missingWordPosition": 4,
+      "options": [
+        "خُلِقَ",
+        "بُدِئَ",
+        "أُنْشِئَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "مَّآءٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "مَّآءٍ",
+        "طِينٍ",
+        "عَلَقٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "دَافِقٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "دَافِقٍ",
+        "مَهِينٍ",
+        "مَسْكُوبٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلصُّلْبِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصُّلْبِ",
+        "ٱلظَّهْرِ",
+        "ٱلْجَسَدِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "وَٱلتَّرَآئِبِ",
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلتَّرَآئِبِ",
+        "وَٱلْعِظَامِ",
+        "وَٱلصُّدُورِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "رَجْعِهِۦ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَجْعِهِۦ",
+        "بَعْثِهِ",
+        "خَلْقِهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "لَقَادِرٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَقَادِرٌ",
+        "لَعَلِيمٌ",
+        "لَشَاهِدٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "تُبْلَى",
+      "missingWordPosition": 2,
+      "options": [
+        "تُبْلَى",
+        "تُكْشَفُ",
+        "تُظْهَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلسَّرَآئِرُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّرَآئِرُ",
+        "ٱلْأَعْمَالُ",
+        "ٱلصَّحَائِفُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "قُوَّةٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "قُوَّةٍ",
+        "حِيلَةٍ",
+        "شَفِيعٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "نَاصِرٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "نَاصِرٍ",
+        "مُنْقِذٍ",
+        "مُعِينٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "فليتفكر الإنسان المنكر للبعث في أصل نشأته: مم خلقه الله؟ خُلق من ماء يتدفق في الرحم، يخرج من بين صلب الرجل (عظام ظهره) وترائب المرأة (عظام صدرها). إن الخالق القادر على ابتداء خلقه من هذه النطفة الضعيفة لقادر بيسر وسهولة على إعادته وبعثه حياً بعد الموت، في يوم عظيم تُختبر فيه الضمائر وتنكشف خفايا القلوب وأسرارها، فما للإنسان حينئذ من قوة يمتنع بها ولا ناصر ينصره من عذاب الله."
+  }
+}

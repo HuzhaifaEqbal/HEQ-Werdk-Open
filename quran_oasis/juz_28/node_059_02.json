@@ -1,0 +1,250 @@
+{
+  "nodeId": "node_059_02",
+  "title": "سورة الحشر: حكمة قطع النخل وأحكام قسمة الفيء والتزام أمر الرسول",
+  "surahId": 59,
+  "ayahStart": 5,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "activityId": "act_059_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "لِّينَةٍ",
+        "نَخْلَةٍ",
+        "شَجَرَةٍ",
+        "ثَمَرَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 7,
+      "options": [
+        "قَآئِمَةً",
+        "ثَابِتَةً",
+        "بَاسِقَةً",
+        "نَابِتَةً"
+      ]
+    },
+    {
+      "activityId": "act_059_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "أُصُولِهَا",
+        "سُوقِهَا",
+        "جُذُوعِهَا",
+        "أَرْضِهَا"
+      ]
+    },
+    {
+      "activityId": "act_059_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "وَلِيُخْزِىَ",
+        "وَلِيُهْلِكَ",
+        "وَلِيُعَذِّبَ",
+        "وَلِيَفْضَحَ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        5
+      ]
+    },
+    {
+      "activityId": "act_059_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "أَفَآءَ",
+        "أَعْطَى",
+        "رَدَّ",
+        "قَسَمَ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْجَفْتُمْ",
+        "أَسْرَعْتُمْ",
+        "سِرْتُمْ",
+        "حَمَلْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 11,
+      "options": [
+        "خَيْلٍۢ",
+        "جَيْشٍ",
+        "سِلَاحٍ",
+        "جُنْدٍ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 13,
+      "options": [
+        "رِكَابٍۢ",
+        "إِبِلٍ",
+        "أَنْعَامٍ",
+        "دَوَابٍّ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 16,
+      "options": [
+        "يُسَلِّطُ",
+        "يَنْصُرُ",
+        "يُظْهِرُ",
+        "يُعِزُّ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 25,
+      "options": [
+        "قَدِيرٌۭ",
+        "عَلِيمٌ",
+        "حَكِيمٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_059_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْقُرَىٰ",
+        "ٱلْحُصُونِ",
+        "ٱلْبِلَادِ",
+        "ٱلْأَرْضِ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلْيَتَـٰمَىٰ",
+        "وَٱلضُّعَفَاءِ",
+        "وَٱلْأَرَامِلِ",
+        "وَٱلْأَسْرَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 20,
+      "options": [
+        "دُولَةًۢ",
+        "مِلْكًا",
+        "حَقًّا",
+        "مَالًا"
+      ]
+    },
+    {
+      "activityId": "act_059_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 22,
+      "options": [
+        "ٱلْأَغْنِيَآءِ",
+        "ٱلْكُبَرَاءِ",
+        "ٱلْمُلُوكِ",
+        "ٱلتُّجَّارِ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 27,
+      "options": [
+        "فَخُذُوهُ",
+        "فَٱلْزَمُوهُ",
+        "فَٱقْبَلُوهُ",
+        "فَٱعْمَلُوا بِهِ"
+      ]
+    },
+    {
+      "activityId": "act_059_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 31,
+      "options": [
+        "فَٱنتَهُوا۟ ۚ",
+        "فَٱحْذَرُوا۟",
+        "فَٱجْتَنِبُوا۟",
+        "فَٱتْرُكُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 37,
+      "options": [
+        "ٱلْعِقَابِ",
+        "ٱلْعَذَابِ",
+        "ٱلْبَأْسِ",
+        "ٱلْحِسَابِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "مشروعية قطع نخيل العدو أو إبقائه نكاية بهم وإذلالاً لهم، وبيان أحكام أموال الفيء ومصارفها العادلة لئلا تكون متداولة بين الأغنياء فقط، ووجوب الأخذ بكل ما أمر به الرسول."
+  }
+}

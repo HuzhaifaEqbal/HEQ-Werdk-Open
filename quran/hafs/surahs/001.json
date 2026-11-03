@@ -1,0 +1,87 @@
+{
+  "number": 1,
+  "name_ar": "الفَاتِحة",
+  "name_en": "Al-Fātiḥah",
+  "ayahs_count": 7,
+  "page_start": 1,
+  "page_end": 1,
+  "ayahs": [
+    {
+      "id": 1,
+      "number": 1,
+      "text_uthmani": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ ١",
+      "text_simple": "بسم الله الرحمن الرحيم",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "text_uthmani": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ ٢",
+      "text_simple": "الحمد لله رب العالمين",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "text_uthmani": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ ٣",
+      "text_simple": "الرحمن الرحيم",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "text_uthmani": "مَٰلِكِ يَوۡمِ ٱلدِّينِ ٤",
+      "text_simple": "مالك يوم الدين",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "text_uthmani": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ ٥",
+      "text_simple": "إياك نعبد وإياك نستعين",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "text_uthmani": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ ٦",
+      "text_simple": "اهدنا الصراط المستقيم",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 6
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "text_uthmani": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ ٧",
+      "text_simple": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين",
+      "juz": 1,
+      "page": 1,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 8
+    }
+  ]
+}

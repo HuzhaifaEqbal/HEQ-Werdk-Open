@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_42",
+  "title": "سورة البقرة - الآيات 201-205",
+  "surahId": 2,
+  "ayahStart": 201,
+  "ayahEnd": 205,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 201,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلدُّنۡيَا",
+        "تُحۡشَرُونَ",
+        "مَّعۡدُودَٰتٖۚ",
+        "وَٱلنَّسۡلَۚ"
+      ],
+      "activityId": "act_002_42_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 201,
+      "correctNextAyahNumber": 202,
+      "wrongOptionsAyahNumbers": [
+        203,
+        199
+      ],
+      "activityId": "act_002_42_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 202,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلۡحِسَابِ",
+        "ٱلدُّنۡيَا",
+        "ٱلۡأٓخِرَةِ",
+        "ٱلۡحَيَوٰةِ"
+      ],
+      "activityId": "act_002_42_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 202,
+      "correctNextAyahNumber": 203,
+      "wrongOptionsAyahNumbers": [
+        204,
+        200
+      ],
+      "activityId": "act_002_42_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 203,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَٱذۡكُرُواْ",
+        "وَٱعۡلَمُوٓاْ",
+        "ٱلۡحِسَابِ",
+        "ٱلۡخِصَامِ"
+      ],
+      "activityId": "act_002_42_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 203,
+      "correctNextAyahNumber": 204,
+      "wrongOptionsAyahNumbers": [
+        205,
+        201
+      ],
+      "activityId": "act_002_42_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 204,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡحَيَوٰةِ",
+        "ٱلۡفَسَادَ",
+        "تُحۡشَرُونَ",
+        "مَّعۡدُودَٰتٖۚ"
+      ],
+      "activityId": "act_002_42_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 204,
+      "correctNextAyahNumber": 205,
+      "wrongOptionsAyahNumbers": [
+        206,
+        202
+      ],
+      "activityId": "act_002_42_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 205,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلنَّسۡلَۚ",
+        "وَٱتَّقُواْ",
+        "ٱلدُّنۡيَا",
+        "ٱلۡأٓخِرَةِ"
+      ],
+      "activityId": "act_002_42_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر الدعاء بخيري الدنيا والآخرة، ويحذر من الإفساد والجدال، ويدعو إلى دخول السلم."
+  }
+}

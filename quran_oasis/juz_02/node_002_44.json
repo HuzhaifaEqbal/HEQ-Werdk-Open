@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_44",
+  "title": "سورة البقرة - الآيات 211-215",
+  "surahId": 2,
+  "ayahStart": 211,
+  "ayahEnd": 215,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 211,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَاتَيۡنَٰهُم",
+        "وَزُلۡزِلُواْ",
+        "وَمُنذِرِينَ",
+        "وَيَسۡخَرُونَ"
+      ],
+      "activityId": "act_002_44_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 211,
+      "correctNextAyahNumber": 212,
+      "wrongOptionsAyahNumbers": [
+        213,
+        209
+      ],
+      "activityId": "act_002_44_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 212,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَسۡخَرُونَ",
+        "وَٱلۡيَتَٰمَىٰ",
+        "ٱخۡتَلَفُواْ",
+        "ٱلۡبَأۡسَآءُ"
+      ],
+      "activityId": "act_002_44_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 212,
+      "correctNextAyahNumber": 213,
+      "wrongOptionsAyahNumbers": [
+        214,
+        210
+      ],
+      "activityId": "act_002_44_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 213,
+      "missingWordPosition": 9,
+      "options": [
+        "وَمُنذِرِينَ",
+        "وَزُلۡزِلُواْ",
+        "وَيَسۡخَرُونَ",
+        "وَٱلضَّرَّآءُ"
+      ],
+      "activityId": "act_002_44_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 213,
+      "correctNextAyahNumber": 214,
+      "wrongOptionsAyahNumbers": [
+        215,
+        211
+      ],
+      "activityId": "act_002_44_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 214,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلۡبَأۡسَآءُ",
+        "وَمُنذِرِينَ",
+        "وَٱلۡيَتَٰمَىٰ",
+        "ٱخۡتَلَفُواْ"
+      ],
+      "activityId": "act_002_44_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 214,
+      "correctNextAyahNumber": 215,
+      "wrongOptionsAyahNumbers": [
+        216,
+        212
+      ],
+      "activityId": "act_002_44_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 215,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلۡأَقۡرَبِينَ",
+        "فَلِلۡوَٰلِدَيۡنِ",
+        "وَٱلۡمَسَٰكِينِ",
+        "ٱلۡبَأۡسَآءُ"
+      ],
+      "activityId": "act_002_44_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر اختلاف الناس بعد البينات، وابتلاء المؤمنين، وينظم وجوه الإنفاق والبر."
+  }
+}

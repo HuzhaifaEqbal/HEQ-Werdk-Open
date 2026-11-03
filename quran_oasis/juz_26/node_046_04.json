@@ -1,0 +1,132 @@
+{
+  "nodeId": "node_046_04",
+  "title": "سورة الأحقاف: الوصية بالوالدين ومشقة الحمل وبلوغ الأربعين وقبول صالح العمل",
+  "surahId": 46,
+  "ayahStart": 15,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "activityId": "act_046_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "وَوَصَّيْنَا",
+        "وَأَمَرْنَا",
+        "وَفَرَضْنَا",
+        "وَكَتَبْنَا"
+      ]
+    },
+    {
+      "activityId": "act_046_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "حَمَلَتْهُ",
+        "خَيْرًا",
+        "بِرًّا",
+        "مَعْرُوفًا"
+      ]
+    },
+    {
+      "activityId": "act_046_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "كُرْهًۭا",
+        "كُرْهًا",
+        "مَشَقَّةً",
+        "تَعَبًا"
+      ]
+    },
+    {
+      "activityId": "act_046_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 14,
+      "options": [
+        "حَتَّىٰٓ",
+        "عِشْرُونَ",
+        "أَرْبَعُونَ",
+        "سِتُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_046_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 20,
+      "options": [
+        "سَنَةًۭ",
+        "ثَلَاثِينَ",
+        "خَمْسِينَ",
+        "سِتِّينَ"
+      ]
+    },
+    {
+      "activityId": "act_046_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 22,
+      "options": [
+        "رَبِّ",
+        "أَلْهِمْنِى",
+        "وَفِّقْنِى",
+        "أَعِنِّى"
+      ]
+    },
+    {
+      "activityId": "act_046_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_046_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 3,
+      "options": [
+        "نَتَقَبَّلُ",
+        "نُثِيبُ",
+        "نَجْزِى",
+        "نُحْسِنُ"
+      ]
+    },
+    {
+      "activityId": "act_046_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 7,
+      "options": [
+        "عَمِلُوا۟",
+        "وَنَغْفِرُ",
+        "وَنَمْحُو",
+        "وَنَعْفُو"
+      ]
+    },
+    {
+      "activityId": "act_046_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 12,
+      "options": [
+        "أَصْحَـٰبِ",
+        "ٱلْفَوْزِ",
+        "ٱلنَّعِيمِ",
+        "ٱلْكَرَامَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "الوصية ببر الوالدين وذكر مشقة الأم في الحمل والفصال في ثلاثين شهراً، ودعاء بلوغ سن الأربعين، ومغفرة السيئات وقبول الطاعات لأصحاب الجنة."
+  }
+}

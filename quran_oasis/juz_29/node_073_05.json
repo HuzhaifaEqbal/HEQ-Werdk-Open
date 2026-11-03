@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_073_05",
+  "title": "سورة المزمل: التخفيف في قيام الليل والصلاة والزكاة والاستغفار",
+  "surahId": 73,
+  "ayahStart": 20,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_073_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 6,
+      "options": [
+        "أَدْنَىٰ",
+        "أَكْثَرَ",
+        "نِصْفَ",
+        "قَرِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_073_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 8,
+      "options": [
+        "ثُلُثَىِ",
+        "نِصْفِ",
+        "ثُلُثِ",
+        "رُبُعِ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 12,
+      "options": [
+        "وَطَآئِفَةٌۭ",
+        "وَجَمَاعَةٌ",
+        "وَفَرِيقٌ",
+        "وَقَوْمٌ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 17,
+      "options": [
+        "يُقَدِّرُ",
+        "يَعْلَمُ",
+        "يَخْلُقُ",
+        "يُدَبِّرُ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 23,
+      "options": [
+        "تُحْصُوهُ",
+        "تُطِيقُوهُ",
+        "تَبْلُغُوهُ",
+        "تَعْلَمُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 28,
+      "options": [
+        "تَيَسَّرَ",
+        "أَمْكَنَ",
+        "قَدَرْتُمْ",
+        "حَفِظْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 35,
+      "options": [
+        "مَّرْضَىٰ",
+        "ضُعَفَاءُ",
+        "مُسَافِرُونَ",
+        "عَاجِزُونَ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 37,
+      "options": [
+        "يَضْرِبُونَ",
+        "يَسِيرُونَ",
+        "يَمْشُونَ",
+        "يَسْعَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 45,
+      "options": [
+        "يُقَـٰتِلُونَ",
+        "يُجَاهِدُونَ",
+        "يَصْبِرُونَ",
+        "يَسْعَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 54,
+      "options": [
+        "ٱلصَّلَوٰةَ",
+        "ٱلدِّينَ",
+        "ٱلْحَقَّ",
+        "ٱلْفَرَائِضَ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 56,
+      "options": [
+        "ٱلزَّكَوٰةَ",
+        "ٱلصَّدَقَةَ",
+        "ٱلْحَقَّ",
+        "ٱلْمَعْرُوفَ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 60,
+      "options": [
+        "حَسَنًۭا",
+        "طَيِّبًا",
+        "كَثِيرًا",
+        "عَظِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_073_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 72,
+      "options": [
+        "أَجْرًۭا",
+        "فَضْلًا",
+        "ثَوَابًا",
+        "جَزَاءً"
+      ]
+    },
+    {
+      "activityId": "act_073_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 73,
+      "options": [
+        "وَٱسْتَغْفِرُوا۟",
+        "وَٱشْكُرُوا",
+        "وَٱحْمَدُوا",
+        "وَٱسْأَلُوا"
+      ]
+    },
+    {
+      "activityId": "act_073_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 77,
+      "options": [
+        "غَفُورٌۭ",
+        "كَرِيمٌ",
+        "تَوَّابٌ",
+        "حَلِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_073_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 78,
+      "options": [
+        "رَّحِيمٌۢ",
+        "عَلِيمٌ",
+        "قَدِيرٌ",
+        "حَكِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المزمل",
+    "juz": 29,
+    "theme": "رحمة الله بالأمة والتخفيف في قيام الليل لمراعاة المرضى والمسافرين في طلب الرزق والمجاهدين، والأمر بإقامة الصلاة وإيتاء الزكاة والصدقة والاستغفار"
+  }
+}

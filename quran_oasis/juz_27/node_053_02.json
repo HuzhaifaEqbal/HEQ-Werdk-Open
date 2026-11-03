@@ -1,0 +1,216 @@
+{
+  "nodeId": "node_053_02",
+  "title": "سورة النجم: سدرة المنتهى وجنة المأوى ومشاهد المعراج العظمى",
+  "surahId": 53,
+  "ayahStart": 11,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "activityId": "act_053_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفُؤَادُ",
+        "ٱلْبَصَرُ",
+        "ٱلسَّمْعُ",
+        "ٱلْعَقْلُ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_053_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَتُمَـٰرُونَهُۥ",
+        "أَفَتُكَذِّبُونَهُ",
+        "أَفَتُجَادِلُونَهُ",
+        "أَفَتَشُكُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_053_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "نَزْلَةً",
+        "مَرَّةً",
+        "تَارَةً",
+        "كَرَّةً"
+      ]
+    },
+    {
+      "activityId": "act_053_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "أُخْرَىٰ",
+        "ثَانِيَةً",
+        "سَابِقَةً",
+        "بَاقِيَةً"
+      ]
+    },
+    {
+      "activityId": "act_053_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_053_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "سِدْرَةِ",
+        "شَجَرَةِ",
+        "رَوْضَةِ",
+        "عَرْشِ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُنتَهَىٰ",
+        "ٱلْأَسْمَى",
+        "ٱلْعُلَى",
+        "ٱلْجَلَالِ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_053_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَأْوَىٰٓ",
+        "ٱلْفِرْدَوْسِ",
+        "ٱلنَّعِيمِ",
+        "ٱلْخُلْدِ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_053_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "يَغْشَى",
+        "يُحِيطُ",
+        "يَنْزِلُ",
+        "يَسْتُرُ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_053_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "زَاغَ",
+        "مَالَ",
+        "حَادَ",
+        "ضَلَّ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 5,
+      "options": [
+        "طَغَىٰ",
+        "عَصَى",
+        "تَعَدَّى",
+        "جَارَ"
+      ]
+    },
+    {
+      "activityId": "act_053_02_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_053_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْكُبْرَىٰٓ",
+        "ٱلْعُظْمَى",
+        "ٱلْبَاهِرَةَ",
+        "ٱلْعَجِيبَةَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النجم",
+    "juz": 27,
+    "theme": "بيان ما شاهده النبي ﷺ ليلة الإسراء والمعراج عند سدرة المنتهى وأدبه الرفيع وتأييد نبوته بالآيات الكبرى."
+  }
+}

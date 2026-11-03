@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_109_01",
+  "title": "سورة الكافرون: البراءة الصريحة والتامة من الشرك وأهله",
+  "surahId": 109,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_109_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْمُشْرِكُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْغَـٰفِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_109_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "أَعْبُدُ",
+        "أُشْرِكُ",
+        "أَرْضَىٰ",
+        "أَتَّبِعُ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "تَعْبُدُونَ",
+        "تَدْعُونَ",
+        "تَزْعُمُونَ",
+        "تَفْتَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_109_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "عَـٰبِدُونَ",
+        "قَـٰئِمُونَ",
+        "مُخْلِصُونَ",
+        "تَابِعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_109_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "عَابِدٌۭ",
+        "شَارِكٌ",
+        "رَاضٍ",
+        "قَابِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "عَبَدتُّمْ",
+        "أَشْرَكْتُمْ",
+        "دَعَوْتُمْ",
+        "صَنَعْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        3
+      ]
+    },
+    {
+      "activityId": "act_109_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        4,
+        3
+      ]
+    },
+    {
+      "activityId": "act_109_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "دِينُكُمْ",
+        "شِرْكُكُمْ",
+        "أَمْرُكُمْ",
+        "مَالُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_109_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "دِينِ",
+        "عَمَلِى",
+        "حَقِّى",
+        "إِيمَانِى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكافرون",
+    "juz": 30,
+    "theme": "إعلان التوحيد الخالص وقطع المداهنة مع المشركين وإفراد الله بالعبادة دون سواه"
+  }
+}

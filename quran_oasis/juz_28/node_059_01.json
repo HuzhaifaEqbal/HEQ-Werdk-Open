@@ -1,0 +1,248 @@
+{
+  "nodeId": "node_059_01",
+  "title": "سورة الحشر: تسبيح الكائنات وإجلاء بني النضير وعاقبة المشاقة",
+  "surahId": 59,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_059_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "سَبَّحَ",
+        "يُسَبِّحُ",
+        "سَبَّحَتِ",
+        "تُسَبِّحُ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْغَفُورُ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلْعَلِيمُ",
+        "ٱلرَّحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_059_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "أَخْرَجَ",
+        "أَنْزَلَ",
+        "أَهْلَكَ",
+        "عَاقَبَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْكِتَـٰبِ",
+        "ٱلْقَرْيَةِ",
+        "ٱلْمَدِينَةِ",
+        "ٱلْيَهُودِ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْحَشْرِ ۚ",
+        "ٱلْفَتْحِ",
+        "ٱلْهَلَاكِ",
+        "ٱلْجَلَاءِ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 20,
+      "options": [
+        "حُصُونُهُم",
+        "أَمْوَالُهُم",
+        "جُيُوشُهُم",
+        "أَنْصَارُهُم"
+      ]
+    },
+    {
+      "activityId": "act_059_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 32,
+      "options": [
+        "ٱلرُّعْبَ ۚ",
+        "ٱلْخَوْفَ",
+        "ٱلْفَزَعَ",
+        "ٱلْهَلَعَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 33,
+      "options": [
+        "يُخْرِبُونَ",
+        "يَهْدِمُونَ",
+        "يَنْقُضُونَ",
+        "يَحْرِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 38,
+      "options": [
+        "فَٱعْتَبِرُوا۟",
+        "فَٱتَّقُوا۟",
+        "فَٱنْظُرُوا۟",
+        "فَٱذْكُرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 40,
+      "options": [
+        "ٱلْأَبْصَـٰرِ",
+        "ٱلْأَلْبَابِ",
+        "ٱلْعُقُولِ",
+        "ٱلنُّهَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_059_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "كَتَبَ",
+        "قَضَى",
+        "حَكَمَ",
+        "أَرَادَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْجَلَآءَ",
+        "ٱلْهَلَاكَ",
+        "ٱلْعَذَابَ",
+        "ٱلْقَتْلَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلنَّارِ",
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ",
+        "سَقَرَ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_059_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "شَآقُّوا۟",
+        "عَادَوْا۟",
+        "خَالَفُوا۟",
+        "كَفَرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_01_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "شَدِيدُ",
+        "أَلِيمُ",
+        "عَظِيمُ",
+        "قَوِيُّ"
+      ]
+    },
+    {
+      "activityId": "act_059_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْعِقَابِ",
+        "ٱلْعَذَابِ",
+        "ٱلْبَأْسِ",
+        "ٱلْجَزَاءِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "تسبيح ما في السماوات والأرض لله العزيز الحكيم، وقص نبأ إجلاء يهود بني النضير من ديارهم وقذف الرعب في قلوبهم وأمر أولي الأبصار بالاعتبار."
+  }
+}

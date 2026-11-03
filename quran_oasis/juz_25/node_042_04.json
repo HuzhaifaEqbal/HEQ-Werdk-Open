@@ -1,0 +1,133 @@
+{
+  "nodeId": "node_042_04",
+  "title": "سورة الشورى: إنزال الكتاب والميزان وقرب الساعة ولطف الله وحرث الآخرة والدنيا",
+  "surahId": 42,
+  "ayahStart": 17,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "activityId": "act_042_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْمِيزَانَ ۗ",
+        "وَٱلْحِكْمَةَ",
+        "وَٱلْفُرْقَانَ",
+        "وَٱلْهُدَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_042_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 9,
+      "options": [
+        "مُشْفِقُونَ",
+        "خَائِفُونَ",
+        "وَجِلُونَ",
+        "رَاجُونَ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 17,
+      "options": [
+        "يُمَارُونَ",
+        "يَشُكُّونَ",
+        "يَجْحَدُونَ",
+        "يَخُوضُونَ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_042_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "لَطِيفٌۢ",
+        "رَحِيمٌ",
+        "رَءُوفٌ",
+        "كَرِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_042_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "حَرْثَ",
+        "ثَوَابَ",
+        "أَجْرَ",
+        "نَعِيمَ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 22,
+      "options": [
+        "نَّصِيبٍ",
+        "خَلَاقٍ",
+        "ثَوَابٍ",
+        "جَزَاءٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_042_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْفَصْلِ",
+        "ٱلْحَقِّ",
+        "ٱلْعَدْلِ",
+        "ٱلْحُكْمِ"
+      ]
+    }
+  ]
+}

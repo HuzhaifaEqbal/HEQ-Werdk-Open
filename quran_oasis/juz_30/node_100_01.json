@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_100_01",
+  "title": "سورة العاديات - المقطع الأول (القَسَم بخيل الجهاد وسرعتها وإثارتها الغبار)",
+  "surahId": 100,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلْعَـٰدِيَـٰتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْعَـٰدِيَـٰتِ",
+        "وَٱلْمُورِيَاتِ",
+        "وَٱلنَّازِعَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ضَبْحًا",
+      "missingWordPosition": 2,
+      "options": [
+        "ضَبْحًا",
+        "قَدْحًا",
+        "صُبْحًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "فٱلْمُورِيَـٰتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فٱلْمُورِيَـٰتِ",
+        "فٱلْمُغِيرَاتِ",
+        "فٱلْعَادِيَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "قَدْحًا",
+      "missingWordPosition": 2,
+      "options": [
+        "قَدْحًا",
+        "ضَبْحًا",
+        "نَقْعًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "فٱلْمُغِيرَٰتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فٱلْمُغِيرَٰتِ",
+        "فٱلْمُورِيَاتِ",
+        "فٱلْعَادِيَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "صُبْحًا",
+      "missingWordPosition": 2,
+      "options": [
+        "صُبْحًا",
+        "فَجْرًا",
+        "مَسَاءً"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "فَأَثَرْنَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَثَرْنَ",
+        "فَرَفَعْنَ",
+        "فَأَوْقَدْنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "نَقْعًا",
+      "missingWordPosition": 3,
+      "options": [
+        "نَقْعًا",
+        "غُبَارًا",
+        "جَمْعًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "فَوَسَطْنَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَوَسَطْنَ",
+        "فَدَخَلْنَ",
+        "فَقَطَعْنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "جَمْعًا",
+      "missingWordPosition": 3,
+      "options": [
+        "جَمْعًا",
+        "نَقْعًا",
+        "صَفًّا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بخيل المجاهدين تعدو مسرعة نحو العدو ويُسمع صوت نفسها وتردد أنفاسها في صدورها من شدة العدو (ضبحاً)، فالتي توقد النار وتقدح الشرر بحوافرها إذا صكت الحجارة والصخور (قدحاً)، فالتي تغير على الأعداء مباغتةً في وقت الصباح، فهيّجت ورَفعت بعدوها السريع غباراً كثيفاً (نقعاً)، فتوسطت بفرسانها قلب جموع الأعداء شجاعةً وإقداماً في سبيل الله."
+  }
+}

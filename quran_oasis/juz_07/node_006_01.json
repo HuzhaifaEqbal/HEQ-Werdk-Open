@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_01",
+  "title": "سورة الأنعام - الآيات 1-6",
+  "surahId": 6,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلنُّورَ ۖ",
+        "وَأَنشَأْنَا",
+        "بِذُنُوبِهِمْ",
+        "وَأَرْسَلْنَا"
+      ],
+      "activityId": "act_006_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_006_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "عِندَهُۥ ۖ",
+        "ءَاخَرِينَ",
+        "تَأْتِيهِم",
+        "أَهْلَكْنَا"
+      ],
+      "activityId": "act_006_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_006_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلظُّلُمَـٰتِ",
+        "ٱلْأَنْهَـٰرَ",
+        "جَآءَهُمْ ۖ"
+      ],
+      "activityId": "act_006_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_006_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "تَأْتِيهِم",
+        "عِندَهُۥ ۖ",
+        "تَكْسِبُونَ",
+        "تَمْتَرُونَ"
+      ],
+      "activityId": "act_006_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_006_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "يَسْتَهْزِءُونَ",
+        "فَأَهْلَكْنَـٰهُم",
+        "وَٱلنُّورَ ۖ",
+        "بِذُنُوبِهِمْ"
+      ],
+      "activityId": "act_006_01_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ],
+      "activityId": "act_006_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 25,
+      "options": [
+        "فَأَهْلَكْنَـٰهُم",
+        "يَسْتَهْزِءُونَ",
+        "وَٱلنُّورَ ۖ",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_006_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

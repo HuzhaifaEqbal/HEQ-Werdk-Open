@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_23",
+  "title": "سورة النساء - الآيات 109-113",
+  "surahId": 4,
+  "ayahStart": 109,
+  "ayahEnd": 113,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡحَيَوٰةِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "يَسۡتَغۡفِرِ"
+      ],
+      "activityId": "act_004_23_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_004_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 8,
+      "options": [
+        "يَسۡتَغۡفِرِ",
+        "يَكۡسِبُهُۥ",
+        "ٱلۡحَيَوٰةِ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_23_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_004_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 5,
+      "options": [
+        "يَكۡسِبُهُۥ",
+        "ءَاتَيۡنَآ",
+        "يَسۡتَغۡفِرِ",
+        "ٱلۡحَيَوٰةِ"
+      ],
+      "activityId": "act_004_23_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_004_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱحۡتَمَلَ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "يَكۡسِبُهُۥ"
+      ],
+      "activityId": "act_004_23_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_004_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 5,
+      "options": [
+        "وَرَحۡمَتُهُۥ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_23_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يأمر بالعدل في الحكم، وينهى عن الدفاع عن الخائنين، ويفتح باب الاستغفار لمن أخطأ."
+  }
+}

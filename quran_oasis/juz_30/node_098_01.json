@@ -1,0 +1,191 @@
+{
+  "nodeId": "hifz_098_01",
+  "title": "سورة البينة - المقطع الأول (مجيء البينة بالرسول والقرآن وإخلاص الدين لله)",
+  "surahId": 98,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "مُنفَكِّينَ",
+      "missingWordPosition": 9,
+      "options": [
+        "مُنفَكِّينَ",
+        "مُنْتَهِينَ",
+        "مُتَفَرِّقِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْبَيِّنَةُ",
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْبَيِّنَةُ",
+        "ٱلْحُجَّةُ",
+        "ٱلْآيَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "رَسُولٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "رَسُولٌ",
+        "نَبِيٌّ",
+        "كِتَابٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "صُحُفًا",
+      "missingWordPosition": 5,
+      "options": [
+        "صُحُفًا",
+        "كُتُبًا",
+        "آيَاتٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "مُّطَهَّرَةً",
+      "missingWordPosition": 6,
+      "options": [
+        "مُّطَهَّرَةً",
+        "مُّكَرَّمَةً",
+        "مَّرْفُوعَةً"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "كُتُبٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "كُتُبٌ",
+        "آيَاتٌ",
+        "أَحْكَامٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "قَيِّمَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "قَيِّمَةٌ",
+        "مُسْتَقِيمَةٌ",
+        "عَظِيمَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "تَفَرَّقَ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَفَرَّقَ",
+        "ٱخْتَلَفَ",
+        "تَنَازَعَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْبَيِّنَةُ",
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْبَيِّنَةُ",
+        "ٱلْحَقُّ",
+        "ٱلْقُرْآنُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "مُخْلِصِينَ",
+      "missingWordPosition": 6,
+      "options": [
+        "مُخْلِصِينَ",
+        "صَادِقِينَ",
+        "مُتَّقِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "حُنَفَآءَ",
+      "missingWordPosition": 9,
+      "options": [
+        "حُنَفَآءَ",
+        "مُؤْمِنِينَ",
+        "مُسْلِمِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلصَّلَوٰةَ",
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلصَّلَوٰةَ",
+        "ٱلدِّينَ",
+        "ٱلْحُدُودَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلْقَيِّمَةِ",
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْقَيِّمَةِ",
+        "ٱلْحَقِّ",
+        "ٱلْإِسْلَامِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "لم يكن الكفار من أهل الكتاب ومشركو العرب ليفارقوا كفرهم وضلالهم حتى تأتيهم الحجة الواضحة والبرهان الساطع (البينة): وهو رسول عظيم من عند الله يتلو عليهم قرآناً في صحف مطهرة من الدنس والباطل، فيها أخبار صادقة وأحكام عادلة مستقيمة (كتب قيّمة)، وما اختلف أهل الكتاب وتفرقوا في شأن النبي إلا من بعد ما تبيّن لهم صدقه وبشارته في كتبهم بغياً وحسداً، وما أُمروا في التوراة والإنجيل وسائر الشرائع إلا بعبادة الله وحده مخلصين له الطاعة مائلين عن الشرك (حنفاء) ومقيمين للصلاة ومؤتين للزكاة؛ وذلك هو الدين المستقيم دين الملة القويمة."
+  }
+}

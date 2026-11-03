@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_36",
+  "title": "سورة آل عمران - الآيات 173-177",
+  "surahId": 3,
+  "ayahStart": 173,
+  "ayahEnd": 177,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱخۡشَوۡهُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "بِٱلۡإِيمَٰنِ"
+      ],
+      "activityId": "act_003_36_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "wrongOptionsAyahNumbers": [
+        175,
+        171
+      ],
+      "activityId": "act_003_36_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱنقَلَبُواْ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "بِٱلۡأَسۡحَارِ"
+      ],
+      "activityId": "act_003_36_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "wrongOptionsAyahNumbers": [
+        176,
+        172
+      ],
+      "activityId": "act_003_36_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 5,
+      "options": [
+        "أَوۡلِيَآءَهُۥ",
+        "فَٱنقَلَبُواْ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "بِٱلۡأَسۡحَارِ"
+      ],
+      "activityId": "act_003_36_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "wrongOptionsAyahNumbers": [
+        177,
+        173
+      ],
+      "activityId": "act_003_36_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 4,
+      "options": [
+        "يُسَٰرِعُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "فَٱخۡشَوۡهُمۡ"
+      ],
+      "activityId": "act_003_36_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 176,
+      "correctNextAyahNumber": 177,
+      "wrongOptionsAyahNumbers": [
+        178,
+        174
+      ],
+      "activityId": "act_003_36_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 177,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلۡإِيمَٰنِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "فَٱخۡشَوۡهُمۡ"
+      ],
+      "activityId": "act_003_36_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يبشر المقطع الشهداء بحياتهم عند ربهم، ويذكر فرحهم واستبشارهم بإخوانهم."
+  }
+}

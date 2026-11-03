@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_002_51",
+  "title": "سورة البقرة - الآيات 244-246",
+  "surahId": 2,
+  "ayahStart": 244,
+  "ayahEnd": 246,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 244,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱعۡلَمُوٓاْ",
+        "فَيُضَٰعِفَهُۥ",
+        "أَضۡعَافٗا",
+        "أُخۡرِجۡنَا"
+      ],
+      "activityId": "act_002_51_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 244,
+      "correctNextAyahNumber": 245,
+      "wrongOptionsAyahNumbers": [
+        246,
+        242
+      ],
+      "activityId": "act_002_51_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 245,
+      "missingWordPosition": 8,
+      "options": [
+        "فَيُضَٰعِفَهُۥ",
+        "وَٱعۡلَمُوٓاْ",
+        "إِسۡرَٰٓءِيلَ",
+        "تُرۡجَعُونَ"
+      ],
+      "activityId": "act_002_51_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 245,
+      "correctNextAyahNumber": 246,
+      "wrongOptionsAyahNumbers": [
+        247,
+        243
+      ],
+      "activityId": "act_002_51_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 246,
+      "missingWordPosition": 43,
+      "options": [
+        "وَأَبۡنَآئِنَاۖ",
+        "بِٱلظَّٰلِمِينَ",
+        "فَيُضَٰعِفَهُۥ",
+        "وَٱعۡلَمُوٓاْ"
+      ],
+      "activityId": "act_002_51_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يأمر بالقتال في سبيل الله، ويذكر القرض الحسن، ثم دعاء بني إسرائيل أن يبعث لهم ملكاً."
+  }
+}

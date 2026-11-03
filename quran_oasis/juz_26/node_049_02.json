@@ -1,0 +1,149 @@
+{
+  "nodeId": "node_049_02",
+  "title": "سورة الحجرات: التثبت من الأخبار وفضل الإيمان وتزيينه في القلوب",
+  "surahId": 49,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_049_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "فَاسِقٌۢ",
+        "مُنَافِقٌ",
+        "كَذَّابٌ",
+        "ضَالٌّ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "فَتَبَيَّنُوٓا۟",
+        "فَتَثَبَّتُوٓا۟",
+        "فَٱحْذَرُوٓا۟",
+        "فَٱسْأَلُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 12,
+      "options": [
+        "بِجَهَـٰلَةٍۢ",
+        "بِظُلْمٍ",
+        "بِخَطَإٍ",
+        "بِعُدْوَانٍ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "نَـٰدِمِينَ",
+        "خَاسِرِينَ",
+        "آثِمِينَ",
+        "مَفْتُونِينَ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_049_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "لَعَنِتُّمْ",
+        "لَهَلَكْتُمْ",
+        "لَضَلَلْتُمْ",
+        "لَخَسِرْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 15,
+      "options": [
+        "حَبَّبَ",
+        "أَلْقَىٰ",
+        "أَوْرَثَ",
+        "قَرَّبَ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 21,
+      "options": [
+        "وَكَرَّهَ",
+        "وَأَبْغَضَ",
+        "وَبَاعَدَ",
+        "وَحَرَّمَ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 28,
+      "options": [
+        "ٱلرَّٰشِدُونَ",
+        "ٱلْمُفْلِحُونَ",
+        "ٱلصَّـٰلِحُونَ",
+        "ٱلْمُؤْمِنُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_049_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 1,
+      "options": [
+        "فَضْلًۭا",
+        "رَحْمَةًۭ",
+        "إِحْسَانًا",
+        "رِزْقًا"
+      ]
+    },
+    {
+      "activityId": "act_049_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "حَكِيمٌۭ",
+        "قَدِيرٌۭ",
+        "غَفُورٌۭ",
+        "خَبِيرٌۭ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_06",
+  "title": "سورة الأعراف - الآيات 31-36",
+  "surahId": 7,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُسْرِفِينَ",
+        "يَسْتَأْخِرُونَ",
+        "يَسْتَقْدِمُونَ",
+        "يَأْتِيَنَّكُمْ"
+      ],
+      "activityId": "act_007_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_007_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "لِعِبَادِهِۦ",
+        "وَٱشْرَبُوا۟",
+        "تُسْرِفُوٓا۟ ۚ",
+        "يَأْتِيَنَّكُمْ"
+      ],
+      "activityId": "act_007_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_007_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْفَوَٰحِشَ",
+        "ءَايَـٰتِى ۙ",
+        "۞ يَـٰبَنِىٓ",
+        "زِينَتَكُمْ"
+      ],
+      "activityId": "act_007_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_007_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 8,
+      "options": [
+        "يَسْتَأْخِرُونَ",
+        "ٱلْمُسْرِفِينَ",
+        "ٱلْقِيَـٰمَةِ ۗ",
+        "وَٱسْتَكْبَرُوا۟"
+      ],
+      "activityId": "act_007_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_007_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "يَأْتِيَنَّكُمْ",
+        "وَٱلطَّيِّبَـٰتِ",
+        "لِعِبَادِهِۦ",
+        "ٱلْقِيَـٰمَةِ ۗ"
+      ],
+      "activityId": "act_007_06_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_007_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱسْتَكْبَرُوا۟",
+        "يَسْتَأْخِرُونَ",
+        "يَسْتَقْدِمُونَ",
+        "ٱلْمُسْرِفِينَ"
+      ],
+      "activityId": "act_007_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

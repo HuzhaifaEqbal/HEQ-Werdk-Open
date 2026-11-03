@@ -1,0 +1,250 @@
+{
+  "nodeId": "node_060_02",
+  "title": "سورة الممتحنة: الأسوة الحسنة في إبراهيم عليه السلام والبراءة من الشرك",
+  "surahId": 60,
+  "ayahStart": 4,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_060_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "أُسْوَةٌ",
+        "قُدْوَةٌ",
+        "عِبْرَةٌ",
+        "آيَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "حَسَنَةٌۭ",
+        "طَيِّبَةٌ",
+        "عَظِيمَةٌ",
+        "مُّبَارَكَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "بُرَءَٰٓؤُا۟",
+        "خَالُونَ",
+        "بَعِيدُونَ",
+        "مُنْفَصِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 26,
+      "options": [
+        "ٱلْعَدَٰوَةُ",
+        "ٱلْخُصُومَةُ",
+        "ٱلْحَرْبُ",
+        "ٱلشِّقَاقُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 27,
+      "options": [
+        "وَٱلْبَغْضَآءُ",
+        "وَٱلشَّحْنَاءُ",
+        "وَٱلْمَقْتُ",
+        "وَٱلْكَرَاهِيَةُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 32,
+      "options": [
+        "وَحْدَهُۥٓ",
+        "لَا شَرِيكَ لَهُ",
+        "مُخْلِصِينَ",
+        "مُؤْمِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 48,
+      "options": [
+        "تَوَكَّلْنَا",
+        "ٱعْتَمَدْنَا",
+        "فَوَّضْنَا",
+        "أَسْلَمْنَا"
+      ]
+    },
+    {
+      "activityId": "act_060_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 50,
+      "options": [
+        "أَنَبْنَا",
+        "رَجَعْنَا",
+        "تُبْنَا",
+        "لَجَأْنَا"
+      ]
+    },
+    {
+      "activityId": "act_060_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 52,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمَرْجِعُ",
+        "ٱلْمُنْتَهَىٰ",
+        "ٱلْمَآبُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        4
+      ]
+    },
+    {
+      "activityId": "act_060_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "فِتْنَةًۭ",
+        "بَلَاءً",
+        "مِحْنَةً",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_060_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "لَنَا",
+        "ذُنُوبَنَا",
+        "خَطَايَانَا",
+        "تَقْصِيرَنَا"
+      ]
+    },
+    {
+      "activityId": "act_060_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْقَوِىُّ",
+        "ٱلْغَفُورُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلرَّحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_060_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 9,
+      "options": [
+        "يَرْجُوا۟",
+        "يَخَافُ",
+        "يَطْلُبُ",
+        "يَخْشَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْـَٔاخِرَ ۚ",
+        "ٱلْمَعَادَ",
+        "ٱلْقِيَامَةَ",
+        "ٱلْحِسَابَ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 14,
+      "options": [
+        "يَتَوَلَّ",
+        "يُعْرِضْ",
+        "يَفْسُقْ",
+        "يَكْفُرْ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْغَنِىُّ",
+        "ٱلْكَرِيمُ",
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_060_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْحَمِيدُ",
+        "ٱلْمَجِيدُ",
+        "ٱلْعَلِيمُ",
+        "ٱلشَّكُورُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الممتحنة",
+    "juz": 28,
+    "theme": "الأمر بالاقتداء بإبراهيم عليه السلام والأنبياء معه في إعلان البراءة التامة من المشركين وأوثانهم، وتفويض الأمر لله بالتوكل والإنابة والدعاء الجامع بالحفظ من الفتنة."
+  }
+}

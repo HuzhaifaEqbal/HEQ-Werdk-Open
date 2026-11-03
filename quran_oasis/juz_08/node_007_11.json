@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_11",
+  "title": "سورة الأعراف - الآيات 61-66",
+  "surahId": 7,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "أَوَعَجِبْتُمْ",
+        "وَلِتَتَّقُوا۟",
+        "ٱلْكَـٰذِبِينَ"
+      ],
+      "activityId": "act_007_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_007_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 11,
+      "options": [
+        "تَعْلَمُونَ",
+        "تُرْحَمُونَ",
+        "وَٱلَّذِينَ",
+        "غَيْرُهُۥٓ ۚ"
+      ],
+      "activityId": "act_007_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_007_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 10,
+      "options": [
+        "لِيُنذِرَكُمْ",
+        "وَأَغْرَقْنَا",
+        "ٱلْعَـٰلَمِينَ",
+        "فَأَنجَيْنَـٰهُ"
+      ],
+      "activityId": "act_007_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_007_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 2,
+      "options": [
+        "فَأَنجَيْنَـٰهُ",
+        "لِيُنذِرَكُمْ",
+        "أَوَعَجِبْتُمْ",
+        "وَلِتَتَّقُوا۟"
+      ],
+      "activityId": "act_007_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_007_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱعْبُدُوا۟",
+        "تَعْلَمُونَ",
+        "فَكَذَّبُوهُ",
+        "أُبَلِّغُكُمْ"
+      ],
+      "activityId": "act_007_11_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_007_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْكَـٰذِبِينَ",
+        "بِـَٔايَـٰتِنَآ ۚ",
+        "ٱلْعَـٰلَمِينَ",
+        "فَأَنجَيْنَـٰهُ"
+      ],
+      "activityId": "act_007_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

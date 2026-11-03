@@ -1,0 +1,238 @@
+{
+  "nodeId": "node_059_03",
+  "title": "سورة الحشر: مناقب المهاجرين وإيثار الأنصار ودعاء المؤمنين بسلامة الصدور",
+  "surahId": 59,
+  "ayahStart": 8,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_059_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُهَـٰجِرِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلصَّـٰلِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "أُخْرِجُوا۟",
+        "طُرِدُوا۟",
+        "هَاجَرُوا۟",
+        "فَرُّوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "دِيَـٰرِهِمْ",
+        "أَوْطَانِهِمْ",
+        "بِلَادِهِمْ",
+        "مَنَازِلِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 9,
+      "options": [
+        "فَضْلًۭا",
+        "أَجْرًا",
+        "رِزْقًا",
+        "ثَوَابًا"
+      ]
+    },
+    {
+      "activityId": "act_059_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 12,
+      "options": [
+        "وَرِضْوَٰنًۭا",
+        "وَرَحْمَةً",
+        "وَمَغْفِرَةً",
+        "وَجَنَّةً"
+      ]
+    },
+    {
+      "activityId": "act_059_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلصَّـٰدِقُونَ",
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْفَائِزُونَ",
+        "ٱلْمُتَّقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        8
+      ]
+    },
+    {
+      "activityId": "act_059_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلدَّارَ",
+        "ٱلْمَدِينَةَ",
+        "ٱلْقَرْيَةَ",
+        "ٱلْأَرْضَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "يُحِبُّونَ",
+        "يُكْرِمُونَ",
+        "يَنْصُرُونَ",
+        "يُؤْوُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 15,
+      "options": [
+        "حَاجَةًۭ",
+        "حَسَدًا",
+        "ضِيقًا",
+        "غِلًّا"
+      ]
+    },
+    {
+      "activityId": "act_059_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 18,
+      "options": [
+        "وَيُؤْثِرُونَ",
+        "وَيُقَدِّمُونَ",
+        "وَيَبْذُلُونَ",
+        "وَيُعْطُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 24,
+      "options": [
+        "خَصَاصَةٌۭ ۚ",
+        "فَاقَةٌ",
+        "فَقْرٌ",
+        "حَاجَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 27,
+      "options": [
+        "شُحَّ",
+        "بُخْلَ",
+        "طَمَعَ",
+        "هَوَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 31,
+      "options": [
+        "ٱلْمُفْلِحُونَ",
+        "ٱلصَّـٰدِقُونَ",
+        "ٱلْفَائِزُونَ",
+        "ٱلْمُتَّقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "جَآءُو",
+        "أَتَوْا۟",
+        "قَدِمُوا۟",
+        "تَبِعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_03_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_059_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "سَبَقُونَا",
+        "قَدِمُونَا",
+        "فَضَلُونَا",
+        "هَدَوْنَا"
+      ]
+    },
+    {
+      "activityId": "act_059_03_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 17,
+      "options": [
+        "غِلًّۭا",
+        "حِقْدًا",
+        "حَسَدًا",
+        "شَرًّا"
+      ]
+    },
+    {
+      "activityId": "act_059_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 22,
+      "options": [
+        "رَءُوفٌۭ",
+        "غَفُورٌ",
+        "كَرِيمٌ",
+        "تَوَّابٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "بيان استحقاق فقراء المهاجرين الصادقين للفيء، وثناء الله العاطر على الأنصار ومحبتهم للمهاجرين وإيثارهم رغم الخصاصة، ودعاء التابعين لهم بإحسان بنقاء القلوب من الغل."
+  }
+}

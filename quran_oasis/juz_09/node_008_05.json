@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_008_05",
+  "title": "سورة الأنفال - الآيات 25-30",
+  "surahId": 8,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱعْلَمُوٓا۟",
+        "لِيُثْبِتُوكَ",
+        "وَتَخُونُوٓا۟",
+        "وَيَمْكُرُونَ"
+      ],
+      "activityId": "act_008_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_008_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّسْتَضْعَفُونَ",
+        "وَأَوْلَـٰدُكُمْ",
+        "ٱلْمَـٰكِرِينَ",
+        "وَٱعْلَمُوٓا۟"
+      ],
+      "activityId": "act_008_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_008_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلرَّسُولَ",
+        "وَٱذْكُرُوٓا۟",
+        "يُخْرِجُوكَ ۚ",
+        "يَتَخَطَّفَكُمُ"
+      ],
+      "activityId": "act_008_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_008_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَوْلَـٰدُكُمْ",
+        "وَٱلرَّسُولَ",
+        "يَتَخَطَّفَكُمُ",
+        "ٱلْمَـٰكِرِينَ"
+      ],
+      "activityId": "act_008_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_008_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُوٓا۟",
+        "بِنَصْرِهِۦ",
+        "تَشْكُرُونَ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_008_05_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_008_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "لِيُثْبِتُوكَ",
+        "وَتَخُونُوٓا۟",
+        "وَٱذْكُرُوٓا۟",
+        "وَٱعْلَمُوٓا۟"
+      ],
+      "activityId": "act_008_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنفال",
+    "juz": 9,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

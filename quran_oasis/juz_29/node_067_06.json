@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_067_06",
+  "title": "سورة الملك: اختصاص الله بعلم الساعة وسوء وجوه الكافرين وحقيقة الماء المعين",
+  "surahId": 67,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_067_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعِلْمُ",
+        "ٱلْأَمْرُ",
+        "ٱلْغَيْبُ",
+        "ٱلْحُكْمُ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "نَذِيرٌۭ",
+        "رَسُولٌ",
+        "شَاهِدٌ",
+        "مُبَلِّغٌ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_067_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "زُلْفَةًۭ",
+        "قَرِيبًا",
+        "عَيَانًا",
+        "حَقًّا"
+      ]
+    },
+    {
+      "activityId": "act_067_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "سِيٓـَٔتْ",
+        "اسْوَدَّتْ",
+        "حَزِنَتْ",
+        "خَشَعَتْ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 13,
+      "options": [
+        "تَدَّعُونَ",
+        "تَسْتَعْجِلُونَ",
+        "تَكْذِبُونَ",
+        "تُنْكِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_067_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 11,
+      "options": [
+        "يُجِيرُ",
+        "يَمْنَعُ",
+        "يُنْقِذُ",
+        "يَعْصِمُ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ]
+    },
+    {
+      "activityId": "act_067_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 7,
+      "options": [
+        "تَوَكَّلْنَا",
+        "اعْتَمَدْنَا",
+        "أَنَبْنَا",
+        "أَسْلَمْنَا"
+      ]
+    },
+    {
+      "activityId": "act_067_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 12,
+      "options": [
+        "ضَلَـٰلٍۢ",
+        "خُسْرَانٍ",
+        "شِقَاقٍ",
+        "غَيٍّ"
+      ]
+    },
+    {
+      "activityId": "act_067_06_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_067_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "غَوْرًۭا",
+        "يَبَسًا",
+        "مِلْحًا",
+        "أُجَاجًا"
+      ]
+    },
+    {
+      "activityId": "act_067_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 10,
+      "options": [
+        "مَّعِينٍۭ",
+        "فُرَاتٍ",
+        "طَهُورٍ",
+        "سَلْسَبِيلٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "علم وقت القيامة عند الله وحده، واسوداد وجوه الكفار عند معاينة العذاب، والتوكل على الرحمن، وآية الماء المعين الجاري"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "nodeId": "node_042_08",
+  "title": "سورة الشورى: أحكام الانتصار من البغي والعفو وفضل الصبر والمغفرة",
+  "surahId": 42,
+  "ayahStart": 39,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "activityId": "act_042_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَغْىُ",
+        "ٱلظُّلْمُ",
+        "ٱلْعُدْوَانُ",
+        "ٱلْأَذَى"
+      ]
+    },
+    {
+      "activityId": "act_042_08_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_042_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 6,
+      "options": [
+        "عَفَا",
+        "صَفَحَ",
+        "سَامَحَ",
+        "تَجَاوَزَ"
+      ]
+    },
+    {
+      "activityId": "act_042_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_042_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱنتَصَرَ",
+        "أَخَذَ حَقَّهُ",
+        "قَاصَّ",
+        "دَفَعَ"
+      ]
+    },
+    {
+      "activityId": "act_042_08_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_042_08_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "وَيَبْغُونَ",
+        "وَيُفْسِدُونَ",
+        "وَيَعْتَدُونَ",
+        "وَيَطْغَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_042_08_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_042_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 7,
+      "options": [
+        "عَزْمِ",
+        "حَقِّ",
+        "خَيْرِ",
+        "أَفْضَلِ"
+      ]
+    }
+  ]
+}

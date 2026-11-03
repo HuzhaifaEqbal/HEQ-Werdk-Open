@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_11",
+  "title": "سورة آل عمران - الآيات 51-55",
+  "surahId": 3,
+  "ayahStart": 51,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱعۡبُدُوهُۚ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "تَخۡتَلِفُونَ"
+      ],
+      "activityId": "act_003_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_003_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلۡحَوَارِيُّونَ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "فَٱعۡبُدُوهُۚ"
+      ],
+      "activityId": "act_003_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_003_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱتَّبَعۡنَا",
+        "ٱلۡمَٰكِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_003_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡمَٰكِرِينَ",
+        "وَٱتَّبَعۡنَا",
+        "تَخۡتَلِفُونَ",
+        "فَٱعۡبُدُوهُۚ"
+      ],
+      "activityId": "act_003_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        52
+      ],
+      "activityId": "act_003_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 30,
+      "options": [
+        "تَخۡتَلِفُونَ",
+        "وَٱتَّبَعۡنَا",
+        "ٱلۡمَٰكِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يدعو عيسى إلى عبادة الله وحده، ويذكر استجابة الحواريين، ومكر المكذبين وتدبير الله."
+  }
+}

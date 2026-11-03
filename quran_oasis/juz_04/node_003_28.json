@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_28",
+  "title": "سورة آل عمران - الآيات 133-137",
+  "surahId": 3,
+  "ayahStart": 133,
+  "ayahEnd": 137,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَسَارِعُوٓاْ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "وَلَأُدۡخِلَنَّهُمۡ"
+      ],
+      "activityId": "act_003_28_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "wrongOptionsAyahNumbers": [
+        135,
+        131
+      ],
+      "activityId": "act_003_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلۡكَٰظِمِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلۡمُكَذِّبِينَ"
+      ],
+      "activityId": "act_003_28_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 134,
+      "correctNextAyahNumber": 135,
+      "wrongOptionsAyahNumbers": [
+        136,
+        132
+      ],
+      "activityId": "act_003_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱسۡتَغۡفَرُواْ",
+        "۞ وَسَارِعُوٓاْ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "وَلَأُدۡخِلَنَّهُمۡ"
+      ],
+      "activityId": "act_003_28_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "wrongOptionsAyahNumbers": [
+        137,
+        133
+      ],
+      "activityId": "act_003_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلۡعَٰمِلِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَٱلۡكَٰظِمِينَ"
+      ],
+      "activityId": "act_003_28_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "wrongOptionsAyahNumbers": [
+        138,
+        134
+      ],
+      "activityId": "act_003_28_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلۡمُكَذِّبِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "وَٱلۡكَٰظِمِينَ"
+      ],
+      "activityId": "act_003_28_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكّر بسنن الله في الأمم، ويبين أن تداول الأيام ابتلاء وتمحيص للمؤمنين."
+  }
+}

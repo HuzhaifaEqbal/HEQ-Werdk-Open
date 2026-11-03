@@ -1,0 +1,127 @@
+{
+  "nodeId": "hifz_087_03",
+  "title": "سورة الأعلى - المقطع الثالث (خشية المتقين وشقاء المعرضين ومصير النار الكبرى)",
+  "surahId": 87,
+  "ayahStart": 10,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "سَيَذَّكَّرُ",
+      "missingWordPosition": 1,
+      "options": [
+        "سَيَذَّكَّرُ",
+        "سَيُؤْمِنُ",
+        "سَيَهْتَدِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "يَخْشَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَخْشَىٰ",
+        "يَتَّقِي",
+        "يَرْجُو"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "وَيَتَجَنَّبُهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَتَجَنَّبُهَا",
+        "وَيُعْرِضُ عَنْهَا",
+        "وَيَنْفِرُ مِنْهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلْأَشْقَى",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَشْقَى",
+        "ٱلْأَعْمَى",
+        "ٱلْكَافِرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        10,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "يَصْلَى",
+      "missingWordPosition": 2,
+      "options": [
+        "يَصْلَى",
+        "يَدْخُلُ",
+        "يَرِدُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ٱلْكُبْرَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْكُبْرَىٰ",
+        "ٱلْعُظْمَى",
+        "ٱلْمُوقَدَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "يَمُوتُ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَمُوتُ",
+        "يَهْلِكُ",
+        "يَفْنَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "يَحْيَىٰ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَحْيَىٰ",
+        "يَبْقَى",
+        "يَسْتَرِيحُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "سيتعظ بالموعظة ويتدبر القرآن من يخاف الله ويخشى عقابه، ويبتعد وينفر عن التذكرة الكافر البالغ أقصى الشقاء والعناد (الأشقى)، الذي مصيره دخول نار جهنم الكبرى العظيمة الشديدة التوقد، ثم لا يموت فيها فيستريح من العذاب، ولا يحيا حياة كريمة هنيئة، بل هو في عذاب سرمدي دائم متجدد."
+  }
+}

@@ -1,0 +1,1034 @@
+{
+  "riwayah": "warsh",
+  "edition": "King Fahd Glorious Quran Printing Complex (KFGQPC)",
+  "total_surahs": 114,
+  "total_ayahs": 6214,
+  "surahs": [
+    {
+      "number": 1,
+      "name_ar": "الفَاتِحة",
+      "name_en": "Al-Fātiḥah",
+      "ayahs_count": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "file": "surahs/001.json"
+    },
+    {
+      "number": 2,
+      "name_ar": "البَقَرَة",
+      "name_en": "Al-Baqarah",
+      "ayahs_count": 285,
+      "page_start": 2,
+      "page_end": 49,
+      "file": "surahs/002.json"
+    },
+    {
+      "number": 3,
+      "name_ar": "آل عِمران",
+      "name_en": "Āl-‘Imrān",
+      "ayahs_count": 200,
+      "page_start": 50,
+      "page_end": 76,
+      "file": "surahs/003.json"
+    },
+    {
+      "number": 4,
+      "name_ar": "النِّسَاء",
+      "name_en": "An-Nisā’",
+      "ayahs_count": 175,
+      "page_start": 77,
+      "page_end": 106,
+      "file": "surahs/004.json"
+    },
+    {
+      "number": 5,
+      "name_ar": "المَائدة",
+      "name_en": "Al-Mā’idah",
+      "ayahs_count": 122,
+      "page_start": 106,
+      "page_end": 127,
+      "file": "surahs/005.json"
+    },
+    {
+      "number": 6,
+      "name_ar": "الأنعَام",
+      "name_en": "Al-An‘ām",
+      "ayahs_count": 167,
+      "page_start": 128,
+      "page_end": 150,
+      "file": "surahs/006.json"
+    },
+    {
+      "number": 7,
+      "name_ar": "الأعرَاف",
+      "name_en": "Al-A‘rāf",
+      "ayahs_count": 206,
+      "page_start": 151,
+      "page_end": 176,
+      "file": "surahs/007.json"
+    },
+    {
+      "number": 8,
+      "name_ar": "الأنفَال",
+      "name_en": "Al-Anfāl",
+      "ayahs_count": 76,
+      "page_start": 177,
+      "page_end": 186,
+      "file": "surahs/008.json"
+    },
+    {
+      "number": 9,
+      "name_ar": "التوبَة",
+      "name_en": "At-Taubah",
+      "ayahs_count": 130,
+      "page_start": 187,
+      "page_end": 207,
+      "file": "surahs/009.json"
+    },
+    {
+      "number": 10,
+      "name_ar": "يُونس",
+      "name_en": "Yūnus",
+      "ayahs_count": 109,
+      "page_start": 208,
+      "page_end": 221,
+      "file": "surahs/010.json"
+    },
+    {
+      "number": 11,
+      "name_ar": "هُود",
+      "name_en": "Hūd",
+      "ayahs_count": 121,
+      "page_start": 221,
+      "page_end": 235,
+      "file": "surahs/011.json"
+    },
+    {
+      "number": 12,
+      "name_ar": "يُوسُف",
+      "name_en": "Yūsuf",
+      "ayahs_count": 111,
+      "page_start": 235,
+      "page_end": 248,
+      "file": "surahs/012.json"
+    },
+    {
+      "number": 13,
+      "name_ar": "الرَّعد",
+      "name_en": "Ar-Ra‘d",
+      "ayahs_count": 44,
+      "page_start": 249,
+      "page_end": 255,
+      "file": "surahs/013.json"
+    },
+    {
+      "number": 14,
+      "name_ar": "إبراهِيم",
+      "name_en": "Ibrāhīm",
+      "ayahs_count": 54,
+      "page_start": 255,
+      "page_end": 261,
+      "file": "surahs/014.json"
+    },
+    {
+      "number": 15,
+      "name_ar": "الحِجر",
+      "name_en": "Al-Ḥijr",
+      "ayahs_count": 99,
+      "page_start": 262,
+      "page_end": 267,
+      "file": "surahs/015.json"
+    },
+    {
+      "number": 16,
+      "name_ar": "النَّحل",
+      "name_en": "An-Naḥl",
+      "ayahs_count": 128,
+      "page_start": 267,
+      "page_end": 281,
+      "file": "surahs/016.json"
+    },
+    {
+      "number": 17,
+      "name_ar": "الإسرَاء",
+      "name_en": "Al-Isrā’",
+      "ayahs_count": 110,
+      "page_start": 282,
+      "page_end": 293,
+      "file": "surahs/017.json"
+    },
+    {
+      "number": 18,
+      "name_ar": "الكَهف",
+      "name_en": "Al-Kahf",
+      "ayahs_count": 105,
+      "page_start": 293,
+      "page_end": 304,
+      "file": "surahs/018.json"
+    },
+    {
+      "number": 19,
+      "name_ar": "مَريَم",
+      "name_en": "Maryam",
+      "ayahs_count": 99,
+      "page_start": 305,
+      "page_end": 312,
+      "file": "surahs/019.json"
+    },
+    {
+      "number": 20,
+      "name_ar": "طه",
+      "name_en": "Ṭā-Hā",
+      "ayahs_count": 134,
+      "page_start": 312,
+      "page_end": 321,
+      "file": "surahs/020.json"
+    },
+    {
+      "number": 21,
+      "name_ar": "الأنبيَاء",
+      "name_en": "Al-Anbiyā’",
+      "ayahs_count": 111,
+      "page_start": 322,
+      "page_end": 331,
+      "file": "surahs/021.json"
+    },
+    {
+      "number": 22,
+      "name_ar": "الحج",
+      "name_en": "Al-Ḥajj",
+      "ayahs_count": 76,
+      "page_start": 332,
+      "page_end": 341,
+      "file": "surahs/022.json"
+    },
+    {
+      "number": 23,
+      "name_ar": "المؤمنُون",
+      "name_en": "Al-Mu’minūn",
+      "ayahs_count": 119,
+      "page_start": 342,
+      "page_end": 349,
+      "file": "surahs/023.json"
+    },
+    {
+      "number": 24,
+      "name_ar": "النور",
+      "name_en": "An-Nūr",
+      "ayahs_count": 62,
+      "page_start": 350,
+      "page_end": 359,
+      "file": "surahs/024.json"
+    },
+    {
+      "number": 25,
+      "name_ar": "الفُرقَان",
+      "name_en": "Al-Furqān",
+      "ayahs_count": 77,
+      "page_start": 359,
+      "page_end": 366,
+      "file": "surahs/025.json"
+    },
+    {
+      "number": 26,
+      "name_ar": "الشعراء",
+      "name_en": "Ash-Shu‘arā’",
+      "ayahs_count": 226,
+      "page_start": 367,
+      "page_end": 376,
+      "file": "surahs/026.json"
+    },
+    {
+      "number": 27,
+      "name_ar": "النَّمل",
+      "name_en": "An-Naml",
+      "ayahs_count": 95,
+      "page_start": 377,
+      "page_end": 385,
+      "file": "surahs/027.json"
+    },
+    {
+      "number": 28,
+      "name_ar": "القَصَص",
+      "name_en": "Al-Qaṣaṣ",
+      "ayahs_count": 88,
+      "page_start": 385,
+      "page_end": 396,
+      "file": "surahs/028.json"
+    },
+    {
+      "number": 29,
+      "name_ar": "العَنكبُوت",
+      "name_en": "Al-‘Ankabūt",
+      "ayahs_count": 69,
+      "page_start": 396,
+      "page_end": 404,
+      "file": "surahs/029.json"
+    },
+    {
+      "number": 30,
+      "name_ar": "الرُّوم",
+      "name_en": "Ar-Rūm",
+      "ayahs_count": 59,
+      "page_start": 404,
+      "page_end": 410,
+      "file": "surahs/030.json"
+    },
+    {
+      "number": 31,
+      "name_ar": "لُقمَان",
+      "name_en": "Luqmān",
+      "ayahs_count": 33,
+      "page_start": 411,
+      "page_end": 414,
+      "file": "surahs/031.json"
+    },
+    {
+      "number": 32,
+      "name_ar": "السَّجدة",
+      "name_en": "As-Sajdah",
+      "ayahs_count": 30,
+      "page_start": 415,
+      "page_end": 417,
+      "file": "surahs/032.json"
+    },
+    {
+      "number": 33,
+      "name_ar": "الأحزَاب",
+      "name_en": "Al-Aḥzāb",
+      "ayahs_count": 73,
+      "page_start": 418,
+      "page_end": 427,
+      "file": "surahs/033.json"
+    },
+    {
+      "number": 34,
+      "name_ar": "سَبإ",
+      "name_en": "Saba’",
+      "ayahs_count": 54,
+      "page_start": 428,
+      "page_end": 434,
+      "file": "surahs/034.json"
+    },
+    {
+      "number": 35,
+      "name_ar": "فَاطِر",
+      "name_en": "Fāṭir",
+      "ayahs_count": 46,
+      "page_start": 434,
+      "page_end": 440,
+      "file": "surahs/035.json"
+    },
+    {
+      "number": 36,
+      "name_ar": "يسٓ",
+      "name_en": "Yā-Sīn",
+      "ayahs_count": 82,
+      "page_start": 440,
+      "page_end": 445,
+      "file": "surahs/036.json"
+    },
+    {
+      "number": 37,
+      "name_ar": "الصَّافَات",
+      "name_en": "Aṣ-Ṣāffāt",
+      "ayahs_count": 182,
+      "page_start": 446,
+      "page_end": 452,
+      "file": "surahs/037.json"
+    },
+    {
+      "number": 38,
+      "name_ar": "صٓ",
+      "name_en": "Ṣād",
+      "ayahs_count": 86,
+      "page_start": 453,
+      "page_end": 458,
+      "file": "surahs/038.json"
+    },
+    {
+      "number": 39,
+      "name_ar": "الزُّمَر",
+      "name_en": "Az-Zumar",
+      "ayahs_count": 72,
+      "page_start": 458,
+      "page_end": 467,
+      "file": "surahs/039.json"
+    },
+    {
+      "number": 40,
+      "name_ar": "غَافِر",
+      "name_en": "Ghāfir",
+      "ayahs_count": 84,
+      "page_start": 467,
+      "page_end": 476,
+      "file": "surahs/040.json"
+    },
+    {
+      "number": 41,
+      "name_ar": "فُصِّلَت",
+      "name_en": "Fuṣṣilat",
+      "ayahs_count": 53,
+      "page_start": 477,
+      "page_end": 482,
+      "file": "surahs/041.json"
+    },
+    {
+      "number": 42,
+      "name_ar": "الشُّوري",
+      "name_en": "Ash-Shūra",
+      "ayahs_count": 50,
+      "page_start": 483,
+      "page_end": 489,
+      "file": "surahs/042.json"
+    },
+    {
+      "number": 43,
+      "name_ar": "الزُّخرُف",
+      "name_en": "Az-Zukhruf",
+      "ayahs_count": 89,
+      "page_start": 489,
+      "page_end": 495,
+      "file": "surahs/043.json"
+    },
+    {
+      "number": 44,
+      "name_ar": "الدُّخان",
+      "name_en": "Ad-Dukhān",
+      "ayahs_count": 56,
+      "page_start": 496,
+      "page_end": 498,
+      "file": "surahs/044.json"
+    },
+    {
+      "number": 45,
+      "name_ar": "الجاثِية",
+      "name_en": "Al-Jāthiyah",
+      "ayahs_count": 36,
+      "page_start": 499,
+      "page_end": 502,
+      "file": "surahs/045.json"
+    },
+    {
+      "number": 46,
+      "name_ar": "الأحقَاف",
+      "name_en": "Al-Aḥqāf",
+      "ayahs_count": 34,
+      "page_start": 502,
+      "page_end": 506,
+      "file": "surahs/046.json"
+    },
+    {
+      "number": 47,
+      "name_ar": "مُحمد",
+      "name_en": "Muḥammad",
+      "ayahs_count": 39,
+      "page_start": 507,
+      "page_end": 510,
+      "file": "surahs/047.json"
+    },
+    {
+      "number": 48,
+      "name_ar": "الفَتح",
+      "name_en": "Al-Fatḥ",
+      "ayahs_count": 29,
+      "page_start": 511,
+      "page_end": 515,
+      "file": "surahs/048.json"
+    },
+    {
+      "number": 49,
+      "name_ar": "الحُجُرَات",
+      "name_en": "Al-Ḥujurāt",
+      "ayahs_count": 18,
+      "page_start": 515,
+      "page_end": 517,
+      "file": "surahs/049.json"
+    },
+    {
+      "number": 50,
+      "name_ar": "قٓ",
+      "name_en": "Qāf",
+      "ayahs_count": 45,
+      "page_start": 518,
+      "page_end": 520,
+      "file": "surahs/050.json"
+    },
+    {
+      "number": 51,
+      "name_ar": "الذَّاريَات",
+      "name_en": "Adh-Dhāriyāt",
+      "ayahs_count": 60,
+      "page_start": 520,
+      "page_end": 523,
+      "file": "surahs/051.json"
+    },
+    {
+      "number": 52,
+      "name_ar": "الطُّور",
+      "name_en": "Aṭ-Ṭūr",
+      "ayahs_count": 47,
+      "page_start": 523,
+      "page_end": 525,
+      "file": "surahs/052.json"
+    },
+    {
+      "number": 53,
+      "name_ar": "النَّجم",
+      "name_en": "An-Najm",
+      "ayahs_count": 61,
+      "page_start": 526,
+      "page_end": 528,
+      "file": "surahs/053.json"
+    },
+    {
+      "number": 54,
+      "name_ar": "القَمَر",
+      "name_en": "Al-Qamar",
+      "ayahs_count": 55,
+      "page_start": 528,
+      "page_end": 531,
+      "file": "surahs/054.json"
+    },
+    {
+      "number": 55,
+      "name_ar": "الرَّحمٰن",
+      "name_en": "Ar-Raḥmān",
+      "ayahs_count": 77,
+      "page_start": 531,
+      "page_end": 534,
+      "file": "surahs/055.json"
+    },
+    {
+      "number": 56,
+      "name_ar": "الوَاقِعة",
+      "name_en": "Al-Wāqi‘ah",
+      "ayahs_count": 99,
+      "page_start": 534,
+      "page_end": 537,
+      "file": "surahs/056.json"
+    },
+    {
+      "number": 57,
+      "name_ar": "الحدِيد",
+      "name_en": "Al-Ḥadīd",
+      "ayahs_count": 28,
+      "page_start": 537,
+      "page_end": 541,
+      "file": "surahs/057.json"
+    },
+    {
+      "number": 58,
+      "name_ar": "المُجَادلة",
+      "name_en": "Al-Mujādilah",
+      "ayahs_count": 21,
+      "page_start": 542,
+      "page_end": 545,
+      "file": "surahs/058.json"
+    },
+    {
+      "number": 59,
+      "name_ar": "الحَشر",
+      "name_en": "Al-Ḥashr",
+      "ayahs_count": 24,
+      "page_start": 545,
+      "page_end": 548,
+      "file": "surahs/059.json"
+    },
+    {
+      "number": 60,
+      "name_ar": "المُمتَحنَة",
+      "name_en": "Al-Mumtaḥanah",
+      "ayahs_count": 13,
+      "page_start": 549,
+      "page_end": 551,
+      "file": "surahs/060.json"
+    },
+    {
+      "number": 61,
+      "name_ar": "الصَّف",
+      "name_en": "Aṣ-Ṣaff",
+      "ayahs_count": 14,
+      "page_start": 551,
+      "page_end": 552,
+      "file": "surahs/061.json"
+    },
+    {
+      "number": 62,
+      "name_ar": "الجُمعَة",
+      "name_en": "Al-Jumu‘ah",
+      "ayahs_count": 11,
+      "page_start": 553,
+      "page_end": 554,
+      "file": "surahs/062.json"
+    },
+    {
+      "number": 63,
+      "name_ar": "المُنَافِقُونَ",
+      "name_en": "Al-Munāfiqūn",
+      "ayahs_count": 11,
+      "page_start": 554,
+      "page_end": 555,
+      "file": "surahs/063.json"
+    },
+    {
+      "number": 64,
+      "name_ar": "التغَابُن",
+      "name_en": "At-Taghābun",
+      "ayahs_count": 18,
+      "page_start": 556,
+      "page_end": 557,
+      "file": "surahs/064.json"
+    },
+    {
+      "number": 65,
+      "name_ar": "الطَّلَاق",
+      "name_en": "Aṭ-Ṭalāq",
+      "ayahs_count": 12,
+      "page_start": 558,
+      "page_end": 559,
+      "file": "surahs/065.json"
+    },
+    {
+      "number": 66,
+      "name_ar": "التَّحرِيم",
+      "name_en": "At-Taḥrīm",
+      "ayahs_count": 12,
+      "page_start": 560,
+      "page_end": 561,
+      "file": "surahs/066.json"
+    },
+    {
+      "number": 67,
+      "name_ar": "المُلك",
+      "name_en": "Al-Mulk",
+      "ayahs_count": 31,
+      "page_start": 562,
+      "page_end": 564,
+      "file": "surahs/067.json"
+    },
+    {
+      "number": 68,
+      "name_ar": "القَلَم",
+      "name_en": "Al-Qalam",
+      "ayahs_count": 52,
+      "page_start": 564,
+      "page_end": 566,
+      "file": "surahs/068.json"
+    },
+    {
+      "number": 69,
+      "name_ar": "الحَاقة",
+      "name_en": "Al-Ḥāqqah",
+      "ayahs_count": 52,
+      "page_start": 566,
+      "page_end": 568,
+      "file": "surahs/069.json"
+    },
+    {
+      "number": 70,
+      "name_ar": "المَعَارج",
+      "name_en": "Al-Ma‘ārij",
+      "ayahs_count": 44,
+      "page_start": 568,
+      "page_end": 570,
+      "file": "surahs/070.json"
+    },
+    {
+      "number": 71,
+      "name_ar": "نُوح",
+      "name_en": "Nūḥ",
+      "ayahs_count": 30,
+      "page_start": 570,
+      "page_end": 571,
+      "file": "surahs/071.json"
+    },
+    {
+      "number": 72,
+      "name_ar": "الجِن",
+      "name_en": "Al-Jinn",
+      "ayahs_count": 28,
+      "page_start": 572,
+      "page_end": 573,
+      "file": "surahs/072.json"
+    },
+    {
+      "number": 73,
+      "name_ar": "المُزمل",
+      "name_en": "Al-Muzzammil",
+      "ayahs_count": 18,
+      "page_start": 574,
+      "page_end": 575,
+      "file": "surahs/073.json"
+    },
+    {
+      "number": 74,
+      "name_ar": "المُدثر",
+      "name_en": "Al-Muddaththir",
+      "ayahs_count": 55,
+      "page_start": 575,
+      "page_end": 577,
+      "file": "surahs/074.json"
+    },
+    {
+      "number": 75,
+      "name_ar": "القِيَامة",
+      "name_en": "Al-Qiyāmah",
+      "ayahs_count": 39,
+      "page_start": 577,
+      "page_end": 578,
+      "file": "surahs/075.json"
+    },
+    {
+      "number": 76,
+      "name_ar": "الإنسَان",
+      "name_en": "Al-Insān",
+      "ayahs_count": 31,
+      "page_start": 578,
+      "page_end": 580,
+      "file": "surahs/076.json"
+    },
+    {
+      "number": 77,
+      "name_ar": "المُرسَلات",
+      "name_en": "Al-Mursalāt",
+      "ayahs_count": 50,
+      "page_start": 580,
+      "page_end": 581,
+      "file": "surahs/077.json"
+    },
+    {
+      "number": 78,
+      "name_ar": "النَّبَإ",
+      "name_en": "An-Naba’",
+      "ayahs_count": 40,
+      "page_start": 582,
+      "page_end": 583,
+      "file": "surahs/078.json"
+    },
+    {
+      "number": 79,
+      "name_ar": "النَّازعَات",
+      "name_en": "An-Nāzi‘āt",
+      "ayahs_count": 45,
+      "page_start": 583,
+      "page_end": 584,
+      "file": "surahs/079.json"
+    },
+    {
+      "number": 80,
+      "name_ar": "عَبَسَ",
+      "name_en": "‘Abasa",
+      "ayahs_count": 42,
+      "page_start": 585,
+      "page_end": 586,
+      "file": "surahs/080.json"
+    },
+    {
+      "number": 81,
+      "name_ar": "التَّكوير",
+      "name_en": "At-Takwīr",
+      "ayahs_count": 29,
+      "page_start": 586,
+      "page_end": 586,
+      "file": "surahs/081.json"
+    },
+    {
+      "number": 82,
+      "name_ar": "الانفِطَار",
+      "name_en": "Al-Infiṭār",
+      "ayahs_count": 19,
+      "page_start": 587,
+      "page_end": 587,
+      "file": "surahs/082.json"
+    },
+    {
+      "number": 83,
+      "name_ar": "المُطَففين",
+      "name_en": "Al-Muṭaffifīn",
+      "ayahs_count": 36,
+      "page_start": 587,
+      "page_end": 589,
+      "file": "surahs/083.json"
+    },
+    {
+      "number": 84,
+      "name_ar": "الانشِقَاق",
+      "name_en": "Al-Inshiqāq",
+      "ayahs_count": 25,
+      "page_start": 589,
+      "page_end": 590,
+      "file": "surahs/084.json"
+    },
+    {
+      "number": 85,
+      "name_ar": "البُرُوج",
+      "name_en": "Al-Burūj",
+      "ayahs_count": 22,
+      "page_start": 590,
+      "page_end": 590,
+      "file": "surahs/085.json"
+    },
+    {
+      "number": 86,
+      "name_ar": "الطَّارق",
+      "name_en": "Aṭ-Ṭāriq",
+      "ayahs_count": 17,
+      "page_start": 591,
+      "page_end": 591,
+      "file": "surahs/086.json"
+    },
+    {
+      "number": 87,
+      "name_ar": "الأعلى",
+      "name_en": "Al-A‘lā",
+      "ayahs_count": 19,
+      "page_start": 591,
+      "page_end": 592,
+      "file": "surahs/087.json"
+    },
+    {
+      "number": 88,
+      "name_ar": "الغَاشِية",
+      "name_en": "Al-Ghāshiyah",
+      "ayahs_count": 26,
+      "page_start": 592,
+      "page_end": 593,
+      "file": "surahs/088.json"
+    },
+    {
+      "number": 89,
+      "name_ar": "الفَجر",
+      "name_en": "Al-Fajr",
+      "ayahs_count": 32,
+      "page_start": 593,
+      "page_end": 594,
+      "file": "surahs/089.json"
+    },
+    {
+      "number": 90,
+      "name_ar": "البَلَد",
+      "name_en": "Al-Balad",
+      "ayahs_count": 20,
+      "page_start": 594,
+      "page_end": 595,
+      "file": "surahs/090.json"
+    },
+    {
+      "number": 91,
+      "name_ar": "الشَّمس",
+      "name_en": "Ash-Shams",
+      "ayahs_count": 15,
+      "page_start": 595,
+      "page_end": 595,
+      "file": "surahs/091.json"
+    },
+    {
+      "number": 92,
+      "name_ar": "اللَّيل",
+      "name_en": "Al-Lail",
+      "ayahs_count": 21,
+      "page_start": 595,
+      "page_end": 596,
+      "file": "surahs/092.json"
+    },
+    {
+      "number": 93,
+      "name_ar": "الضُّحى",
+      "name_en": "Aḍ-Ḍuḥā",
+      "ayahs_count": 11,
+      "page_start": 596,
+      "page_end": 596,
+      "file": "surahs/093.json"
+    },
+    {
+      "number": 94,
+      "name_ar": "الشَّرح",
+      "name_en": "Ash-Sharḥ",
+      "ayahs_count": 8,
+      "page_start": 596,
+      "page_end": 597,
+      "file": "surahs/094.json"
+    },
+    {
+      "number": 95,
+      "name_ar": "التِّين",
+      "name_en": "At-Tīn",
+      "ayahs_count": 8,
+      "page_start": 597,
+      "page_end": 597,
+      "file": "surahs/095.json"
+    },
+    {
+      "number": 96,
+      "name_ar": "العَلَق",
+      "name_en": "Al-‘Alaq",
+      "ayahs_count": 20,
+      "page_start": 597,
+      "page_end": 598,
+      "file": "surahs/096.json"
+    },
+    {
+      "number": 97,
+      "name_ar": "القَدر",
+      "name_en": "Al-Qadr",
+      "ayahs_count": 5,
+      "page_start": 598,
+      "page_end": 598,
+      "file": "surahs/097.json"
+    },
+    {
+      "number": 98,
+      "name_ar": "البَينَة",
+      "name_en": "Al-Bayyinah",
+      "ayahs_count": 8,
+      "page_start": 598,
+      "page_end": 599,
+      "file": "surahs/098.json"
+    },
+    {
+      "number": 99,
+      "name_ar": "الزَّلزَلة",
+      "name_en": "Az-Zalzalah",
+      "ayahs_count": 9,
+      "page_start": 599,
+      "page_end": 599,
+      "file": "surahs/099.json"
+    },
+    {
+      "number": 100,
+      "name_ar": "العَاديَات",
+      "name_en": "Al-‘Ādiyāt",
+      "ayahs_count": 11,
+      "page_start": 599,
+      "page_end": 600,
+      "file": "surahs/100.json"
+    },
+    {
+      "number": 101,
+      "name_ar": "القَارعَة",
+      "name_en": "Al-Qāri‘ah",
+      "ayahs_count": 10,
+      "page_start": 600,
+      "page_end": 600,
+      "file": "surahs/101.json"
+    },
+    {
+      "number": 102,
+      "name_ar": "التَّكاثُر",
+      "name_en": "At-Takāthur",
+      "ayahs_count": 8,
+      "page_start": 600,
+      "page_end": 600,
+      "file": "surahs/102.json"
+    },
+    {
+      "number": 103,
+      "name_ar": "العَصر",
+      "name_en": "Al-‘Aṣr",
+      "ayahs_count": 3,
+      "page_start": 601,
+      "page_end": 601,
+      "file": "surahs/103.json"
+    },
+    {
+      "number": 104,
+      "name_ar": "الهُمَزة",
+      "name_en": "Al-Humazah",
+      "ayahs_count": 9,
+      "page_start": 601,
+      "page_end": 601,
+      "file": "surahs/104.json"
+    },
+    {
+      "number": 105,
+      "name_ar": "الفِيل",
+      "name_en": "Al-Fīl",
+      "ayahs_count": 5,
+      "page_start": 601,
+      "page_end": 601,
+      "file": "surahs/105.json"
+    },
+    {
+      "number": 106,
+      "name_ar": "قُرَيش",
+      "name_en": "Quraish",
+      "ayahs_count": 5,
+      "page_start": 602,
+      "page_end": 602,
+      "file": "surahs/106.json"
+    },
+    {
+      "number": 107,
+      "name_ar": "المَاعُون",
+      "name_en": "Al-Mā‘ūn",
+      "ayahs_count": 6,
+      "page_start": 602,
+      "page_end": 602,
+      "file": "surahs/107.json"
+    },
+    {
+      "number": 108,
+      "name_ar": "الكَوثر",
+      "name_en": "Al-Kauthar",
+      "ayahs_count": 3,
+      "page_start": 602,
+      "page_end": 602,
+      "file": "surahs/108.json"
+    },
+    {
+      "number": 109,
+      "name_ar": "الكافِرون",
+      "name_en": "Al-Kāfirūn",
+      "ayahs_count": 6,
+      "page_start": 603,
+      "page_end": 603,
+      "file": "surahs/109.json"
+    },
+    {
+      "number": 110,
+      "name_ar": "النَّصر",
+      "name_en": "An-Naṣr",
+      "ayahs_count": 3,
+      "page_start": 603,
+      "page_end": 603,
+      "file": "surahs/110.json"
+    },
+    {
+      "number": 111,
+      "name_ar": "المَسَد",
+      "name_en": "Al-Masad",
+      "ayahs_count": 5,
+      "page_start": 603,
+      "page_end": 603,
+      "file": "surahs/111.json"
+    },
+    {
+      "number": 112,
+      "name_ar": "الإخلَاص",
+      "name_en": "Al-Ikhlāṣ",
+      "ayahs_count": 4,
+      "page_start": 604,
+      "page_end": 604,
+      "file": "surahs/112.json"
+    },
+    {
+      "number": 113,
+      "name_ar": "الفَلَق",
+      "name_en": "Al-Falaq",
+      "ayahs_count": 5,
+      "page_start": 604,
+      "page_end": 604,
+      "file": "surahs/113.json"
+    },
+    {
+      "number": 114,
+      "name_ar": "النَّاس",
+      "name_en": "An-Nās",
+      "ayahs_count": 6,
+      "page_start": 604,
+      "page_end": 604,
+      "file": "surahs/114.json"
+    }
+  ]
+}

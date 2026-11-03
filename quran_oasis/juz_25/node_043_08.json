@@ -1,0 +1,109 @@
+{
+  "nodeId": "node_043_08",
+  "title": "سورة الزخرف: وعد الانتقام والاستمساك بالوحي وإجماع الرسل على التوحيد",
+  "surahId": 43,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "activityId": "act_043_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "نَذْهَبَنَّ",
+        "نَقْبِضَنَّ",
+        "نَتَوَفَّيَنَّ",
+        "نُمِيتَنَّ"
+      ]
+    },
+    {
+      "activityId": "act_043_08_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_043_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّقْتَدِرُونَ",
+        "قَادِرُونَ",
+        "غَالِبُونَ",
+        "شَاهِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_043_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱسْتَمْسِكْ",
+        "فَٱتَّبِعْ",
+        "فَٱعْمَلْ",
+        "فَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_043_08_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_043_08_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "لَذِكْرٌۭ",
+        "لَشَرَفٌ",
+        "لَنُورٌ",
+        "لَهُدًى"
+      ]
+    },
+    {
+      "activityId": "act_043_08_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_043_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 12,
+      "options": [
+        "ءَالِهَةًۭ",
+        "أَرْبَابًا",
+        "شُرَكَاءَ",
+        "أَنْدَادًا"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "number": 111,
+  "name_ar": "المَسَد",
+  "name_en": "Al-Masad",
+  "ayahs_count": 5,
+  "page_start": 603,
+  "page_end": 603,
+  "ayahs": [
+    {
+      "id": 6195,
+      "number": 1,
+      "text_uthmani": "تَبَّتْ يَدَآ أَبِے لَهَبٖ وَتَبَّۖ ١",
+      "text_simple": "تبت يدآ ابے لهبٖ وتب ١",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6196,
+      "number": 2,
+      "text_uthmani": "مَآ أَغْن۪ىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَۖ ٢",
+      "text_simple": "مآ اغني عنه ماله وما كسب ٢",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6197,
+      "number": 3,
+      "text_uthmani": "سَيَصْلَىٰ نَاراٗ ذَاتَ لَهَبٖ ٣",
+      "text_simple": "سيصلي ناراٗ ذات لهبٖ ٣",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6198,
+      "number": 4,
+      "text_uthmani": "وَامْرَأَتُهُۥۖ حَمَّالَةُ اُ۬لْحَطَبِ ٤",
+      "text_simple": "وامراته حماله الحطب ٤",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6199,
+      "number": 5,
+      "text_uthmani": "فِے جِيدِهَا حَبْلٞ مِّن مَّسَدٖۖ ٥",
+      "text_simple": "فے جيدها حبلٞ من مسدٖ ٥",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    }
+  ]
+}

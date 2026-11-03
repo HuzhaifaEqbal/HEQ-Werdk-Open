@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_074_05",
+  "title": "سورة المدثر: وصف نار سقر وخزنتها التسعة عشر",
+  "surahId": 74,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "activityId": "act_074_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "سَأُصْلِيهِ",
+        "سَأُلْقِيهِ",
+        "سَأُدْخِلُهُ",
+        "سَأَطْرَحُهُ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "سَقَرَ",
+        "ٱلْجَحِيمَ",
+        "ٱلسَّعِيرَ",
+        "ٱلْحُطَمَةَ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_074_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "يُدْرِيكَ",
+        "أَنْبَأَكَ",
+        "عَلَّمَكَ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_074_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 2,
+      "options": [
+        "تُبْقِى",
+        "تَفْتُرُ",
+        "تَرْحَمُ",
+        "تَهْدَأُ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "تَذَرُ",
+        "تَتْرُكُ",
+        "تَنْسَى",
+        "تَغْفُلُ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ]
+    },
+    {
+      "activityId": "act_074_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "لَوَّاحَةٌۭ",
+        "مُحْرِقَةٌ",
+        "شَدِيدَةٌ",
+        "مُؤْصَدَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "لِّلْبَشَرِ",
+        "لِّلْجُلُودِ",
+        "لِّلْأَبْدَانِ",
+        "لِّلْوُجُوهِ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_074_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "تِسْعَةَ",
+        "سَبْعَةَ",
+        "ثَمَانِيَةَ",
+        "عَشَرَةَ"
+      ]
+    },
+    {
+      "activityId": "act_074_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "عَشَرَ",
+        "عِشْرِينَ",
+        "أَلْفًا",
+        "مَلَكًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "تهويل نار سقر التي تأكل اللحم والعظم فلا تبقي ولا تذر، وتغير البشرة وتحرقها، ووصف ملائكتها التسعة عشر القائمين عليها"
+  }
+}

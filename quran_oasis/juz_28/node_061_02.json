@@ -1,0 +1,168 @@
+{
+  "nodeId": "node_061_02",
+  "title": "سورة الصف: أذى بني إسرائيل لموسى وبشارة عيسى بالنبي أحمد ﷺ",
+  "surahId": 61,
+  "ayahStart": 5,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_061_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 7,
+      "options": [
+        "تُؤْذُونَنِى",
+        "تَعْصُونَنِى",
+        "تُخَالِفُونَنِى",
+        "تَكْرَهُونَنِى"
+      ]
+    },
+    {
+      "activityId": "act_061_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 11,
+      "options": [
+        "رَسُولُ",
+        "نَبِيُّ",
+        "مَبْعُوثُ",
+        "خَلِيلُ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 15,
+      "options": [
+        "زَاغُوٓا۟",
+        "مَالُوا۟",
+        "ضَلُّوا۟",
+        "كَفَرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_061_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 16,
+      "options": [
+        "أَزَاغَ",
+        "صَرَفَ",
+        "طَبَعَ",
+        "خَتَمَ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        5
+      ]
+    },
+    {
+      "activityId": "act_061_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 12,
+      "options": [
+        "مُّصَدِّقًۭا",
+        "شَاهِدًا",
+        "مُؤَيِّدًا",
+        "مُتَّبِعًا"
+      ]
+    },
+    {
+      "activityId": "act_061_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلتَّوْرَىٰةِ",
+        "ٱلْإِنْجِيلِ",
+        "ٱلْفُرْقَانِ",
+        "ٱلزَّبُورِ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 18,
+      "options": [
+        "وَمُبَشِّرًۢا",
+        "وَمُنْذِرًا",
+        "وَدَاعِيًا",
+        "وَهَادِيًا"
+      ]
+    },
+    {
+      "activityId": "act_061_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 24,
+      "options": [
+        "أَحْمَدُ ۖ",
+        "مُحَمَّدُ",
+        "ٱلْأَمِينُ",
+        "ٱلْمُصْطَفَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 27,
+      "options": [
+        "بِٱلْبَيِّنَـٰتِ",
+        "بِٱلْآيَاتِ",
+        "بِٱلْهُدَىٰ",
+        "بِٱلْحَقِّ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 30,
+      "options": [
+        "سِحْرٌۭ",
+        "إِفْكٌ",
+        "بَاطِلٌ",
+        "كَذِبٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 31,
+      "options": [
+        "مُّبِينٌۭ",
+        "ظَاهِرٌ",
+        "عَظِيمٌ",
+        "قَدِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصف",
+    "juz": 28,
+    "theme": "تذكير المسلمين بأذى بني إسرائيل لنبيهم موسى فزاغت قلوبهم، وبشارة عيسى بن مريم عليه السلام بنبوة محمد ﷺ باسمه 'أحمد'، وتكذيب الكفار للآيات البينات."
+  }
+}

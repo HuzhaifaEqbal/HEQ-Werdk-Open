@@ -1,0 +1,169 @@
+{
+  "nodeId": "node_048_05",
+  "title": "سورة الفتح: وعد المغانم وكف أيدي الناس وسنة الله في النصر",
+  "surahId": 48,
+  "ayahStart": 20,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "activityId": "act_048_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 9,
+      "options": [
+        "وَكَفَّ",
+        "وَمَنَعَ",
+        "وَصَرَفَ",
+        "وَرَدَّ"
+      ]
+    },
+    {
+      "activityId": "act_048_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 14,
+      "options": [
+        "ءَايَةًۭ",
+        "عِبْرَةً",
+        "بَيِّنَةً",
+        "بُرْهَانًا"
+      ]
+    },
+    {
+      "activityId": "act_048_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_048_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "تَقْدِرُوا۟",
+        "تَسْتَطِيعُوا۟",
+        "تَبْلُغُوا۟",
+        "تَنَالُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_048_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "أَحَاطَ",
+        "أَعَدَّ",
+        "قَدَّرَ",
+        "كَتَبَ"
+      ]
+    },
+    {
+      "activityId": "act_048_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_048_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْأَدْبَـٰرَ",
+        "ٱلْهَزِيمَةَ",
+        "ٱلْفِرَارَ",
+        "ٱلرُّجُوعَ"
+      ]
+    },
+    {
+      "activityId": "act_048_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "نَصِيرًۭا",
+        "مُعِينًا",
+        "شَفِيعًا",
+        "حَمِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_048_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_048_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 1,
+      "options": [
+        "سُنَّةَ",
+        "شَرِيعَةَ",
+        "قَدَرَ",
+        "حُكْمَ"
+      ]
+    },
+    {
+      "activityId": "act_048_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 12,
+      "options": [
+        "تَبْدِيلًۭا",
+        "تَحْوِيلًا",
+        "تَغْيِيرًا",
+        "فَسَادًا"
+      ]
+    },
+    {
+      "activityId": "act_048_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_048_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "بِبَطْنِ",
+        "بِأَرْضِ",
+        "بِوَادِى",
+        "بِحَرَمِ"
+      ]
+    },
+    {
+      "activityId": "act_048_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 13,
+      "options": [
+        "أَظْفَرَكُمْ",
+        "نَصَرَكُمْ",
+        "أَيَّدَكُمْ",
+        "مَكَّنَكُمْ"
+      ]
+    }
+  ]
+}

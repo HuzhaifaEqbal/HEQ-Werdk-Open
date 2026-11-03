@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_068_01",
+  "title": "سورة القلم: القسم بالقلم وتزكية خُلق النبي ﷺ",
+  "surahId": 68,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_068_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلْقَلَمِ",
+        "وَٱلْكِتَـٰبِ",
+        "وَٱلصُّحُفِ",
+        "وَٱلطُّورِ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "يَسْطُرُونَ",
+        "يَكْتُبُونَ",
+        "يَعْلَمُونَ",
+        "يَصْنَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_068_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "بِمَجْنُونٍۢ",
+        "بِكَـٰذِبٍ",
+        "بِضَآلٍّ",
+        "بِسَاحِرٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_068_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "مَمْنُونٍۢ",
+        "مَقْطُوعٍ",
+        "مَنْقُوصٍ",
+        "مَحْدُودٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_068_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "خُلُقٍ",
+        "دِينٍ",
+        "فَضْلٍ",
+        "صِرَاطٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "عَظِيمٍۢ",
+        "كَرِيمٍ",
+        "حَكِيمٍ",
+        "قَوِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ]
+    },
+    {
+      "activityId": "act_068_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَتُبْصِرُ",
+        "فَسَتَعْلَمُ",
+        "فَسَتَرَىٰ",
+        "فَسَتَشْهَدُ"
+      ]
+    },
+    {
+      "activityId": "act_068_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ]
+    },
+    {
+      "activityId": "act_068_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَفْتُونُ",
+        "ٱلْمَجْنُونُ",
+        "ٱلْكَـٰذِبُ",
+        "ٱلْمَغْرُورُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "القسم بالقلم وما يسطره الكاتبون على براءة النبي ﷺ من الجنون، وإثبات خلقه العظيم وأجره الدائم"
+  }
+}

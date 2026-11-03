@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_078_02",
+  "title": "سورة النبأ - المقطع الثاني (دلائل القدرة والإنعام)",
+  "surahId": 78,
+  "ayahStart": 6,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "مِهَادًا",
+      "missingWordPosition": 4,
+      "options": [
+        "مِهَادًا",
+        "قَرَارًا",
+        "فِرَاشًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "أَوْتَادًا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَوْتَادًا",
+        "رَوَاسِيَ",
+        "أَمْوَاتًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "أَزْوَاجًا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَزْوَاجًا",
+        "أَشْتَاتًا",
+        "أَفْوَاجًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "سُبَاتًا",
+      "missingWordPosition": 3,
+      "options": [
+        "سُبَاتًا",
+        "لِبَاسًا",
+        "مَعَاشًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        8,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "لِبَاسًا",
+      "missingWordPosition": 3,
+      "options": [
+        "لِبَاسًا",
+        "سُبَاتًا",
+        "مَعَاشًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "مَعَاشًا",
+      "missingWordPosition": 3,
+      "options": [
+        "مَعَاشًا",
+        "لِبَاسًا",
+        "سُبَاتًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يلفت الله تعالى أنظار المنكرين للبعث إلى دلائل قدرته العظيمة وعجائب خلقه ونعمه المتوالية في الكون؛ فقد جعل الأرض ممهدة ميسرة للاستقرار عليها كالمهاد، وثبّتها بالجبال الراسية كالأوتاد حتى لا تميد، وخلق البشر أزواجاً ذكوراً وإناثاً لاستمرار التناسل والأنس، وجعل النوم قطعاً للحركة وراحة للأبدان (سباتاً)، والليل ساتراً بالظلام كاللباس، والنهار مضيئاً لابتغاء الرزق والمعاش."
+  }
+}

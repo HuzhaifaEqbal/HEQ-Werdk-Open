@@ -1,0 +1,180 @@
+{
+  "nodeId": "hifz_095_01",
+  "title": "سورة التين - المقطع الأول (القَسَم بالمواطن المقدسة وخلق الإنسان في أحسن تقويم)",
+  "surahId": 95,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلتِّينِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلتِّينِ",
+        "وَٱلنَّخْلِ",
+        "وَٱلْأَعْنَابِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلزَّيْتُونِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلزَّيْتُونِ",
+        "وَٱلرُّمَّانِ",
+        "وَٱلْأَعْنَابِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَطُورِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَطُورِ",
+        "وَجَبَلِ",
+        "وَوَادِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "سِينِينَ",
+      "missingWordPosition": 2,
+      "options": [
+        "سِينِينَ",
+        "سَيْنَاءَ",
+        "حِرَاءَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلْبَلَدِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْبَلَدِ",
+        "ٱلْحَرَمِ",
+        "ٱلْبَيْتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلْأَمِينِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَمِينِ",
+        "ٱلْعَظِيمِ",
+        "ٱلْحَرَامِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْبَشَرَ",
+        "ٱلْخَلْقَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "أَحْسَنِ",
+      "missingWordPosition": 5,
+      "options": [
+        "أَحْسَنِ",
+        "أَكْمَلِ",
+        "أَفْضَلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "تَقْوِيمٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "تَقْوِيمٍ",
+        "تَصْوِيرٍ",
+        "تَقْدِيرٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "رَدَدْنَـٰهُ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَدَدْنَـٰهُ",
+        "جَعَلْنَاهُ",
+        "صَيَّرْنَاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَسْفَلَ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَسْفَلَ",
+        "أَدْنَى",
+        "أَرْذَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "سَـٰفِلِينَ",
+      "missingWordPosition": 4,
+      "options": [
+        "سَـٰفِلِينَ",
+        "خَاسِرِينَ",
+        "شَقِيِّينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بأماكن مهابط الوحي ورسالات الأنبياء الكبرى: بالتين والزيتون في بيت المقدس وأرض الشام مبعث عيسى عليه السلام، وبطور سيناء الجبل الذي كلّم الله عليه موسى تكليماً، وبهذا البلد الأمين مكة المكرمة مبعث خاتم الأنبياء محمد ﷺ؛ جواب هذا القسم: لقد خلقنا الإنسان في أعدل خِلقة وأكمل صورة وحسن تقويم، ثم رددناه إلى أسفل دركات النار وسوء العاقبة إن كفر وفسق، أو إلى أرذل العمر هرماً وضعفاً."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_34",
+  "title": "سورة الأعراف - الآيات 196-201",
+  "surahId": 7,
+  "ayahStart": 196,
+  "ayahEnd": 201,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 196,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْجَـٰهِلِينَ",
+        "يَسْمَعُوا۟ ۖ",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_007_34_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 196,
+      "correctNextAyahNumber": 197,
+      "wrongOptionsAyahNumbers": [
+        198,
+        194
+      ],
+      "activityId": "act_007_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 197,
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْجَـٰهِلِينَ",
+        "يَسْمَعُوا۟ ۖ"
+      ],
+      "activityId": "act_007_34_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 197,
+      "correctNextAyahNumber": 198,
+      "wrongOptionsAyahNumbers": [
+        199,
+        195
+      ],
+      "activityId": "act_007_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 198,
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْمَعُوا۟ ۖ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْجَـٰهِلِينَ",
+        "ٱلشَّيْطَـٰنِ"
+      ],
+      "activityId": "act_007_34_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 198,
+      "correctNextAyahNumber": 199,
+      "wrongOptionsAyahNumbers": [
+        200,
+        196
+      ],
+      "activityId": "act_007_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 199,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْجَـٰهِلِينَ",
+        "ٱلصَّـٰلِحِينَ",
+        "يَسْمَعُوا۟ ۖ",
+        "ٱلْكِتَـٰبَ ۖ"
+      ],
+      "activityId": "act_007_34_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 199,
+      "correctNextAyahNumber": 200,
+      "wrongOptionsAyahNumbers": [
+        201,
+        197
+      ],
+      "activityId": "act_007_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 200,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنزَغَنَّكَ",
+        "تَذَكَّرُوا۟",
+        "مُّبْصِرُونَ",
+        "وَتَرَىٰهُمْ"
+      ],
+      "activityId": "act_007_34_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 200,
+      "correctNextAyahNumber": 201,
+      "wrongOptionsAyahNumbers": [
+        202,
+        198
+      ],
+      "activityId": "act_007_34_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 201,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلشَّيْطَـٰنِ",
+        "يَنزَغَنَّكَ",
+        "أَنفُسَهُمْ",
+        "بِٱللَّهِ ۚ"
+      ],
+      "activityId": "act_007_34_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "nodeId": "node_053_04",
+  "title": "سورة النجم: شروط الشفاعة وسعة المغفرة واجتناب كبائر الإثم",
+  "surahId": 53,
+  "ayahStart": 26,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "activityId": "act_053_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّلَكٍۢ",
+        "نَبِىٍّ",
+        "عَبْدٍ",
+        "رَسُولٍ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "شَفَـٰعَتُهُمْ",
+        "طَاعَتُهُمْ",
+        "دَعْوَتُهُمْ",
+        "قُوَّتُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 14,
+      "options": [
+        "يَأْذَنَ",
+        "يَقْضِىَ",
+        "يَحْكُمَ",
+        "يُرِيدَ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_053_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأُنثَىٰ",
+        "ٱلذُّكُورِ",
+        "ٱلْبَنِينَ",
+        "ٱلْمَلَائِكَةِ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_053_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلظَّنَّ ۖ",
+        "ٱلْهَوَى",
+        "ٱلْكَذِبَ",
+        "ٱلْبَاطِلَ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْحَقِّ",
+        "ٱلصِّدْقِ",
+        "ٱلْيَقِينِ",
+        "ٱلْعِلْمِ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_053_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَعْرِضْ",
+        "فَٱصْبِرْ",
+        "فَٱهْجُرْ",
+        "فَٱتْرُكْ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلدُّنْيَا",
+        "ٱلْفَانِيَةَ",
+        "ٱلْقَرِيبَةَ",
+        "ٱلْأُولَى"
+      ]
+    },
+    {
+      "activityId": "act_053_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_053_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "مَبْلَغُهُم",
+        "غَايَتُهُمْ",
+        "نِهَايَتُهُمْ",
+        "حَظُّهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱهْتَدَىٰ",
+        "ٱتَّقَى",
+        "أَصْلَحَ",
+        "ءَامَنَ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_053_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 16,
+      "options": [
+        "بِٱلْحُسْنَى",
+        "بِٱلْجَنَّةِ",
+        "بِٱلنَّعِيمِ",
+        "بِٱلْفَوْزِ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_053_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "كَبَـٰٓئِرَ",
+        "عَظَائِمَ",
+        "مُوبِقَاتِ",
+        "مُهْلِكَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱللَّمَمَ ۚ",
+        "ٱلصَّغَائِرَ",
+        "ٱلْخَطَأَ",
+        "ٱلنِّسْيَانَ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٰسِعُ",
+        "عَظِيمُ",
+        "شَدِيدُ",
+        "سَرِيعُ"
+      ]
+    },
+    {
+      "activityId": "act_053_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 26,
+      "options": [
+        "تُزَكُّوٓا۟",
+        "تَمْدَحُوا",
+        "تُعَظِّمُوا",
+        "تَرْفَعُوا"
+      ]
+    },
+    {
+      "activityId": "act_053_04_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 31,
+      "options": [
+        "ٱتَّقَىٰٓ",
+        "أَحْسَنَ",
+        "ءَامَنَ",
+        "أَسْلَمَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النجم",
+    "juz": 27,
+    "theme": "شروط الشفاعة الإلهية، والنهي عن تسمية الملائكة إناثاً، وبيان سعة مغفرة الله للمتقين الذين يجتنبون كبائر الذنوب."
+  }
+}

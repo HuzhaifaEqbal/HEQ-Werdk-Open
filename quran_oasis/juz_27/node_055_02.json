@@ -1,0 +1,280 @@
+{
+  "nodeId": "node_055_02",
+  "title": "سورة الرحمن: أطوار خلق الثقلين ورب المشرقين والمغربين والتقاء البحرين",
+  "surahId": 55,
+  "ayahStart": 14,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_055_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "صَلْصَـٰلٍۢ",
+        "طِينٍ",
+        "حَمَإٍ",
+        "تُرَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "كَٱلْفَخَّارِ",
+        "كَٱلطِّينِ",
+        "كَٱلْحِجَارَةِ",
+        "كَٱلرَّمَادِ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_055_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 4,
+      "options": [
+        "مَّارِجٍۢ",
+        "لَهَبٍ",
+        "شُوَاظٍ",
+        "شِهَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_055_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_055_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَشْرِقَيْنِ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلْأَرْضِ",
+        "ٱلْعَالَمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَغْرِبَيْنِ",
+        "ٱلْأَرْضَيْنِ",
+        "ٱلْقِبْلَتَيْنِ",
+        "ٱلْبَحْرَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_055_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_055_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "مَرَجَ",
+        "خَلَقَ",
+        "فَجَّرَ",
+        "أَرْسَلَ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "يَلْتَقِيَانِ",
+        "يَجْرِيَانِ",
+        "يَفْتَرِقَانِ",
+        "يَمُوجَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_055_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "بَرْزَخٌۭ",
+        "حَاجِزٌ",
+        "سَدٌّ",
+        "فَصْلٌ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "يَبْغِيَانِ",
+        "يَخْتَلِطَانِ",
+        "يَفْسُدَانِ",
+        "يَفِيضَانِ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_055_02_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_055_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱللُّؤْلُؤُ",
+        "ٱلدُّرُّ",
+        "ٱلْجَوْهَرُ",
+        "ٱلْحِلْيَةُ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْمَرْجَانُ",
+        "وَٱلذَّهَبُ",
+        "وَٱلْفِضَّةُ",
+        "وَٱلْيَاقُوتُ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_055_02_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_055_02_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْجَوَارِ",
+        "ٱلسُّفُنُ",
+        "ٱلْفُلْكُ",
+        "ٱلْقَوَارِبُ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "كَٱلْأَعْلَـٰمِ",
+        "كَٱلْجِبَالِ",
+        "كَٱلْأَوْتَادِ",
+        "كَٱلْبُرُوجِ"
+      ]
+    },
+    {
+      "activityId": "act_055_02_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرحمن",
+    "juz": 27,
+    "theme": "بيان خلق الإنسان من صلصال والجان من نار، والتقاء البحار ببرزخ إلهي واستخراج اللؤلؤ والمرجان وجريان السفن كالأعلام."
+  }
+}

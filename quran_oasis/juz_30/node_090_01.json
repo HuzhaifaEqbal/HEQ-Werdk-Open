@@ -1,0 +1,209 @@
+{
+  "nodeId": "hifz_090_01",
+  "title": "سورة البلد - المقطع الأول (القَسَم بمكة ومكابدة الإنسان واغتراره)",
+  "surahId": 90,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "أُقْسِمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أُقْسِمُ",
+        "أَحْلِفُ",
+        "أَعْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْبَلَدِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَلَدِ",
+        "ٱلْحَرَمِ",
+        "ٱلْبَيْتِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "حِلٌّۢ",
+      "missingWordPosition": 2,
+      "options": [
+        "حِلٌّۢ",
+        "مُقِيمٌ",
+        "سَاكِنٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَوَالِدٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَوَالِدٍ",
+        "وَآدَمَ",
+        "وَإِبْرَاهِيمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَلَدَ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَلَدَ",
+        "خَلَقَ",
+        "نَشَأَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْخَلْقَ",
+        "ٱلْبَشَرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "كَبَدٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "كَبَدٍ",
+        "تَعَبٍ",
+        "شَقَاءٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَيَحْسَبُ",
+      "missingWordPosition": 1,
+      "options": [
+        "أَيَحْسَبُ",
+        "أَيَظُنُّ",
+        "أَيَعْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "يَقْدِرَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَقْدِرَ",
+        "يَغْلِبَ",
+        "يَقْهَرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        1,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "أَهْلَكْتُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَهْلَكْتُ",
+        "أَنْفَقْتُ",
+        "جَمَعْتُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "لُّبَدًا",
+      "missingWordPosition": 4,
+      "options": [
+        "لُّبَدًا",
+        "كَثِيرًا",
+        "جَمًّا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يَرَهُۥٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَرَهُۥٓ",
+        "يَعْلَمْهُ",
+        "يَحْسِبْهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "أَحَدٌ",
+      "missingWordPosition": 5,
+      "options": [
+        "أَحَدٌ",
+        "رَبُّهُ",
+        "شَاهِدٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بمكة المكرمة البلد الحرام تشريفاً لها، وأنت يا محمد مقيم فيها ومُحَلٌّ لك ما تصنع لدعوة الحق، وأقسم بآدم وذريته من بعده؛ لقد خلقنا الإنسان في مشقة ومكابدة ومجاهدة لشدائد الدنيا والآخرة، أيظن هذا الإنسان المغتر بقوته أن لن يقدر على محاسبته وعقابه أحد؟! يقول مفاخراً ومرائياً: أنفقت مالاً كثيراً متراكماً في عداوة النبي ومحاربة دعوته، أيظن بجهله أن الله لم يره ولم يحصِ عليه عمله ونيته؟!"
+  }
+}

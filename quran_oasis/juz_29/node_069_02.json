@@ -1,0 +1,172 @@
+{
+  "nodeId": "node_069_02",
+  "title": "سورة الحاقة: صرعى عاد وإهلاك فرعون ونجاة سفينة نوح",
+  "surahId": 69,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "activityId": "act_069_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "سَبْعَ",
+        "سِتَّ",
+        "تِسْعَ",
+        "عَشْرَ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "وَثَمَـٰنِيَةَ",
+        "وَسَبْعَةَ",
+        "وَتِسْعَةَ",
+        "وَعَشَرَةَ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "حُسُومًۭا",
+        "مُتَتَابِعَةً",
+        "شَدِيدَةً",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_069_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 15,
+      "options": [
+        "خَاوِيَةٍۢ",
+        "مُنْقَعِرٍ",
+        "يَابِسَةٍ",
+        "مَهْدُومَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_069_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "بَاقِيَةٍۢ",
+        "نَافِعَةٍ",
+        "مُعِينَةٍ",
+        "شَاهِدَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_069_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْمُؤْتَفِكَـٰتُ",
+        "وَٱلْمُكَذِّبُونَ",
+        "وَٱلظَّـٰلِمُونَ",
+        "وَٱلْمُجْرِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ]
+    },
+    {
+      "activityId": "act_069_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "رَّابِيَةً",
+        "شَدِيدَةً",
+        "أَلِيمَةً",
+        "قَاصِمَةً"
+      ]
+    },
+    {
+      "activityId": "act_069_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        8
+      ]
+    },
+    {
+      "activityId": "act_069_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْجَارِيَةِ",
+        "ٱلسَّفِينَةِ",
+        "ٱلْفُلْكِ",
+        "ٱلْأَرْضِ"
+      ]
+    },
+    {
+      "activityId": "act_069_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        9
+      ]
+    },
+    {
+      "activityId": "act_069_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٰعِيَةٌۭ",
+        "سَامِعَةٌ",
+        "حَافِظَةٌ",
+        "عَالِمَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "إبادة قوم عاد بالريح ثمانية أيام حسوماً، وإهلاك فرعون وقرى قوم لوط، وحمل ذرية نوح في السفينة الجارية موعظة للأذن الواعية"
+  }
+}

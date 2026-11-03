@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_068_08",
+  "title": "سورة القلم: إبطال عهود المشركين وهول يوم يكشف عن ساق",
+  "surahId": 68,
+  "ayahStart": 39,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "activityId": "act_068_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "أَيْمَـٰنٌ",
+        "عُهُودٌ",
+        "وُعُودٌ",
+        "مِيثَاقٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "بَـٰلِغَةٌ",
+        "مُؤَكَّدَةٌ",
+        "وَاجِبَةٌ",
+        "مَوْثُوقَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_068_08_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "زَعِيمٌ",
+        "كَفِيلٌ",
+        "شَهِيدٌ",
+        "نَصِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_068_08_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "شُرَكَآءُ",
+        "أَوْلِيَاءُ",
+        "شُفَعَاءُ",
+        "أَنْصَارٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ]
+    },
+    {
+      "activityId": "act_068_08_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 4,
+      "options": [
+        "سَاقٍۢ",
+        "أَمْرٍ",
+        "هَوْلٍ",
+        "كَرْبٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسُّجُودِ",
+        "ٱلْحِسَابِ",
+        "ٱلْعَرْضِ",
+        "ٱلْجَزَاءِ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ]
+    },
+    {
+      "activityId": "act_068_08_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "خَـٰشِعَةً",
+        "ذَلِيلَةً",
+        "بَاكِيَةً",
+        "حَزِينَةً"
+      ]
+    },
+    {
+      "activityId": "act_068_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "ذِلَّةٌۭ",
+        "حَسْرَةٌ",
+        "نَدَامَةٌ",
+        "كآبَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_068_08_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 11,
+      "options": [
+        "سَـٰلِمُونَ",
+        "قَادِرُونَ",
+        "أَحْيَاءُ",
+        "صِحَاحٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "تحدي المشركين بتقديم كفيل لعهودهم أو شركاء يشفعون لهم، ووصف هول يوم القيامة وعجز الكفار عن السجود بعد أن دعوا إليه في الدنيا وهم سالمون"
+  }
+}

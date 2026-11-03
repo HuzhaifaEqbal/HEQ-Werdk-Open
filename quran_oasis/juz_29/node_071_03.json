@@ -1,0 +1,138 @@
+{
+  "nodeId": "node_071_03",
+  "title": "سورة نوح: بركات الاستغفار وأطوار خلق الإنسان",
+  "surahId": 71,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_071_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسْتَغْفِرُوا۟",
+        "ٱعْبُدُوا",
+        "ٱتَّقُوا",
+        "ٱشْكُرُوا"
+      ]
+    },
+    {
+      "activityId": "act_071_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "غَفَّارًۭا",
+        "تَوَّابًا",
+        "رَحِيمًا",
+        "كَرِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_071_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_071_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "مِّدْرَارًۭا",
+        "مُتَتَابِعًا",
+        "غَزِيرًا",
+        "مُبَارَكًا"
+      ]
+    },
+    {
+      "activityId": "act_071_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_071_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيُمْدِدْكُم",
+        "وَيَرْزُقْكُمْ",
+        "وَيُعْطِيَكُمْ",
+        "وَيَزِدْكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_071_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 9,
+      "options": [
+        "أَنْهَـٰرًۭا",
+        "عُيُونًا",
+        "أَمْوَالًا",
+        "نِعَمًا"
+      ]
+    },
+    {
+      "activityId": "act_071_03_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        10
+      ]
+    },
+    {
+      "activityId": "act_071_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "وَقَارًۭا",
+        "تَعْظِيمًا",
+        "إِجْلَالًا",
+        "مَخَافَةً"
+      ]
+    },
+    {
+      "activityId": "act_071_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ]
+    },
+    {
+      "activityId": "act_071_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 3,
+      "options": [
+        "أَطْوَارًا",
+        "أَصْنَافًا",
+        "أَحْوَالًا",
+        "دَرَجَاتٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "بيان فضائل وثمرات الاستغفار العاجلة من المطر الغزير والأموال والبنين والبساتين، وتذكيرهم بتعظيم الله وخلقه الإنسان أطواراً"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_30",
+  "title": "سورة الأعراف - الآيات 172-177",
+  "surahId": 7,
+  "ayahStart": 172,
+  "ayahEnd": 177,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 10,
+      "options": [
+        "وَأَشْهَدَهُمْ",
+        "يَتَفَكَّرُونَ",
+        "وَأَنفُسَهُمْ",
+        "ءَابَآؤُنَا"
+      ],
+      "activityId": "act_007_30_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 172,
+      "correctNextAyahNumber": 173,
+      "wrongOptionsAyahNumbers": [
+        174,
+        170
+      ],
+      "activityId": "act_007_30_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 12,
+      "options": [
+        "أَفَتُهْلِكُنَا",
+        "وَأَشْهَدَهُمْ",
+        "بِـَٔايَـٰتِنَا ۚ",
+        "ٱلْغَاوِينَ"
+      ],
+      "activityId": "act_007_30_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "wrongOptionsAyahNumbers": [
+        175,
+        171
+      ],
+      "activityId": "act_007_30_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 4,
+      "options": [
+        "وَلَعَلَّهُمْ",
+        "ءَاتَيْنَـٰهُ",
+        "بِرَبِّكُمْ ۖ",
+        "ٱلشَّيْطَـٰنُ"
+      ],
+      "activityId": "act_007_30_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "wrongOptionsAyahNumbers": [
+        176,
+        172
+      ],
+      "activityId": "act_007_30_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْغَاوِينَ",
+        "ءَابَآؤُنَا",
+        "وَأَنفُسَهُمْ",
+        "وَأَشْهَدَهُمْ"
+      ],
+      "activityId": "act_007_30_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "wrongOptionsAyahNumbers": [
+        177,
+        173
+      ],
+      "activityId": "act_007_30_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 26,
+      "options": [
+        "بِـَٔايَـٰتِنَا ۚ",
+        "ٱلْغَاوِينَ",
+        "وَأَشْهَدَهُمْ",
+        "وَأَنفُسَهُمْ"
+      ],
+      "activityId": "act_007_30_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 176,
+      "correctNextAyahNumber": 177,
+      "wrongOptionsAyahNumbers": [
+        178,
+        174
+      ],
+      "activityId": "act_007_30_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 177,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَنفُسَهُمْ",
+        "يَتَفَكَّرُونَ",
+        "بِـَٔايَـٰتِنَا ۚ",
+        "ءَابَآؤُنَا"
+      ],
+      "activityId": "act_007_30_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

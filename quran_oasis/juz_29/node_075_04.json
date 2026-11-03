@@ -1,0 +1,196 @@
+{
+  "nodeId": "node_075_04",
+  "title": "سورة القيامة: إيثار العاجلة والوجوه الناضرة والوجوه الباسرة",
+  "surahId": 75,
+  "ayahStart": 20,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_075_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 3,
+      "options": [
+        "تُحِبُّونَ",
+        "تَبْغُونَ",
+        "تَطْلُبُونَ",
+        "تُؤْثِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَاجِلَةَ",
+        "ٱلدُّنْيَا",
+        "ٱلْحَيَاةَ",
+        "ٱلْفَانِيَةَ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_075_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "وَتَذَرُونَ",
+        "وَتَتْرُكُونَ",
+        "وَتَنْسَوْنَ",
+        "وَتُهْمِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْـَٔاخِرَةَ",
+        "ٱلْمَعَادَ",
+        "ٱلْقِيَامَةَ",
+        "ٱلْبَاقِيَةَ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_075_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 1,
+      "options": [
+        "وُجُوهٌۭ",
+        "قُلُوبٌ",
+        "أَبْصَارٌ",
+        "نُفُوسٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "نَّاضِرَةٌ",
+        "مُّسْفِرَةٌ",
+        "ضَاحِكَةٌ",
+        "فَرِحَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_075_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّهَا",
+        "خَالِقِهَا",
+        "إِلَٰهِهَا",
+        "مَوْلَاهَا"
+      ]
+    },
+    {
+      "activityId": "act_075_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "نَاظِرَةٌۭ",
+        "شَاكِرَةٌ",
+        "رَاغِبَةٌ",
+        "شَاهِدَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        20
+      ]
+    },
+    {
+      "activityId": "act_075_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "بَاسِرَةٌۭ",
+        "غَابِرَةٌ",
+        "خَاشِعَةٌ",
+        "ذَلِيلَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_075_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "تَظُنُّ",
+        "تَعْلَمُ",
+        "تَوْقِنُ",
+        "تَخَافُ"
+      ]
+    },
+    {
+      "activityId": "act_075_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "فَاقِرَةٌۭ",
+        "قَاصِمَةٌ",
+        "دَاهِيَةٌ",
+        "عَظِيمَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "ذم إيثار الحياة الفانية على الدار الباقية، ومقارنة مشهد وجوه المؤمنين الناضرة برؤية ربها بوجوه الكافرين الباسرة المتوقعة للهلاك."
+  }
+}

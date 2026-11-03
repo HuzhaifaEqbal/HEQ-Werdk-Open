@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_043_12",
+  "title": "سورة الزخرف: دعوة عيسى للتوحيد ومباغتة الساعة ونعيم المتقين وأزواجهم يحبرون",
+  "surahId": 43,
+  "ayahStart": 63,
+  "ayahEnd": 70,
+  "activities": [
+    {
+      "activityId": "act_043_12_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْحِكْمَةِ",
+        "بِٱلْفُرْقَانِ",
+        "بِٱلنُّورِ",
+        "بِٱلْكِتَابِ"
+      ]
+    },
+    {
+      "activityId": "act_043_12_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        66
+      ]
+    },
+    {
+      "activityId": "act_043_12_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱعْبُدُوهُ ۚ",
+        "فَٱتَّقُوهُ",
+        "فَٱطِيعُوهُ",
+        "فَٱسْجُدُوا۟ لَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_043_12_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        67
+      ]
+    },
+    {
+      "activityId": "act_043_12_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَحْزَابُ",
+        "ٱلْفِرَقُ",
+        "ٱلْأُمَمُ",
+        "ٱلنَّاسُ"
+      ]
+    },
+    {
+      "activityId": "act_043_12_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        68
+      ]
+    },
+    {
+      "activityId": "act_043_12_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 7,
+      "options": [
+        "بَغْتَةًۭ",
+        "فَجْأَةً",
+        "سَرِيعًا",
+        "قَرِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_043_12_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        69
+      ]
+    },
+    {
+      "activityId": "act_043_12_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْأَخِلَّآءُ",
+        "ٱلْأَصْحَابُ",
+        "ٱلْأَقْرَبُونَ",
+        "ٱلْأَحْبَابُ"
+      ]
+    },
+    {
+      "activityId": "act_043_12_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        70
+      ]
+    },
+    {
+      "activityId": "act_043_12_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 5,
+      "options": [
+        "تُحْبَرُونَ",
+        "تُكْرَمُونَ",
+        "تُنَعَّمُونَ",
+        "تُسَرُّونَ"
+      ]
+    }
+  ]
+}

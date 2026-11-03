@@ -1,0 +1,152 @@
+{
+  "nodeId": "node_073_02",
+  "title": "سورة المزمل: فضل ناشئة الليل والانقطاع إلى الله والتوكل عليه",
+  "surahId": 73,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_073_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "نَاشِئَةَ",
+        "صَلَاةَ",
+        "سَاعَاتِ",
+        "ظُلْمَةَ"
+      ]
+    },
+    {
+      "activityId": "act_073_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "وَطْـًۭٔا",
+        "أَثَرًا",
+        "خُشُوعًا",
+        "ثَبَاتًا"
+      ]
+    },
+    {
+      "activityId": "act_073_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَقْوَمُ",
+        "وَأَصْدَقُ",
+        "وَأَوْضَحُ",
+        "وَأَحْسَنُ"
+      ]
+    },
+    {
+      "activityId": "act_073_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_073_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "سَبْحًۭا",
+        "سَعْيًا",
+        "عَمَلًا",
+        "شُغْلًا"
+      ]
+    },
+    {
+      "activityId": "act_073_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "طَوِيلًۭا",
+        "كَبِيرًا",
+        "كَثِيرًا",
+        "شَدِيدًا"
+      ]
+    },
+    {
+      "activityId": "act_073_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        6
+      ]
+    },
+    {
+      "activityId": "act_073_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "وَتَبَتَّلْ",
+        "وَتَوَكَّلْ",
+        "وَأَنِبْ",
+        "وَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_073_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "تَبْتِيلًۭا",
+        "تَسْلِيمًا",
+        "تَوْحِيدًا",
+        "تَفْوِيضًا"
+      ]
+    },
+    {
+      "activityId": "act_073_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        7
+      ]
+    },
+    {
+      "activityId": "act_073_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَشْرِقِ",
+        "ٱلسَّمَاءِ",
+        "ٱلْأَرْضِ",
+        "ٱلْعَرْشِ"
+      ]
+    },
+    {
+      "activityId": "act_073_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "وَكِيلًۭا",
+        "نَصِيرًا",
+        "حَفِيظًا",
+        "مُّعِينًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المزمل",
+    "juz": 29,
+    "theme": "أثر عبادة الليل في مواطأة القلب للسان، وتفرغ النهار للمعاش وتبليغ الدعوة، والأمر بالتبتل إلى الله واتخاذه وكيلاً"
+  }
+}

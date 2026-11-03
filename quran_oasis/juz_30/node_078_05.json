@@ -1,0 +1,156 @@
+{
+  "nodeId": "hifz_078_05",
+  "title": "سورة النبأ - المقطع الخامس (مصير الطاغين في جهنم)",
+  "surahId": 78,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "مِرْصَادًا",
+      "missingWordPosition": 4,
+      "options": [
+        "مِرْصَادًا",
+        "مَآبًا",
+        "مِهَادًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "لِّلطَّاغِينَ",
+      "missingWordPosition": 1,
+      "options": [
+        "لِّلطَّاغِينَ",
+        "لِلْكَافِرِينَ",
+        "لِلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "مَآبًا",
+      "missingWordPosition": 2,
+      "options": [
+        "مَآبًا",
+        "مِرْصَادًا",
+        "مَقَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "أَحْقَابًا",
+      "missingWordPosition": 3,
+      "options": [
+        "أَحْقَابًا",
+        "أَبَدًا",
+        "أَعْوَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "بَرْدًا",
+      "missingWordPosition": 4,
+      "options": [
+        "بَرْدًا",
+        "نَوْمًا",
+        "رَوْحًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "شَرَابًا",
+      "missingWordPosition": 6,
+      "options": [
+        "شَرَابًا",
+        "طَعَامًا",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        23,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "حَمِيمًا",
+      "missingWordPosition": 2,
+      "options": [
+        "حَمِيمًا",
+        "زَقُّومًا",
+        "صَدِيدًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "وَغَسَّاقًا",
+      "missingWordPosition": 3,
+      "options": [
+        "وَغَسَّاقًا",
+        "وَصَدِيدًا",
+        "وَضَرِيعًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "وِفَاقًا",
+      "missingWordPosition": 2,
+      "options": [
+        "وِفَاقًا",
+        "مُضَاعَفًا",
+        "أَلِيمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يصف القرآن الكريم عاقبة المتجاوزين لحدود الله الكافرين بيوم الحساب (الطاغين)؛ فجهنم ترصدهم وتترقبهم لتكون مرجعهم ومأواهم (مآباً)، يمكثون فيها دهوراً وأزماناً متتابعة لا تنقطع (أحقاباً). لا يذوقون فيها نسيم هواء يبرد حرارة أجسادهم ولا ما يروي ظمأهم، إلا ماءً بالغ الغليان يشوي الأمعاء (حميماً)، وصديداً منتناً يسيل من جلود المعذبين (غساقاً)، جزاءً عادلاً موافقاً تماماً لكفرهم وظلمهم في الدنيا (جزاءً وفاقاً)."
+  }
+}

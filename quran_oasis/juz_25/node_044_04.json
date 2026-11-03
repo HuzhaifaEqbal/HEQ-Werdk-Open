@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_044_04",
+  "title": "سورة الدخان: مصير آل فرعون وعدم بكاء السماء والأرض وإنجاء بني إسرائيل",
+  "surahId": 44,
+  "ayahStart": 25,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "activityId": "act_044_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "وَعُيُونٍۢ",
+        "وَأَنْهَارٍ",
+        "وَأَشْجَارٍ",
+        "وَأَمْوَالٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_044_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "وَمَقَامٍۢ",
+        "وَمَنْزِلٍ",
+        "وَمَسْكَنٍ",
+        "وَبُنْيَانٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_044_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "فَـٰكِهِينَ",
+        "نَاعِمِينَ",
+        "مُتْرَفِينَ",
+        "فَرِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_044_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_044_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "مُنظَرِينَ",
+        "مُمْهَلِينَ",
+        "مُؤَخَّرِينَ",
+        "مُنْقَذِينَ"
+      ]
+    },
+    {
+      "activityId": "act_044_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_044_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 5,
+      "options": [
+        "عَالِيًۭا",
+        "جَبَّارًا",
+        "طَاغِيًا",
+        "مُتَكَبِّرًا"
+      ]
+    },
+    {
+      "activityId": "act_044_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_044_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "بَلَـٰٓؤٌۭا۟",
+        "ٱبْتِلَآءٌ",
+        "امْتِحَانٌ",
+        "عِبْرَةٌ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_07",
+  "title": "سورة الأعراف - الآيات 37-42",
+  "surahId": 7,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 20,
+      "options": [
+        "يَتَوَفَّوْنَهُمْ",
+        "ٱلْمُجْرِمِينَ",
+        "وَٱسْتَكْبَرُوا۟",
+        "لِأُخْرَىٰهُمْ"
+      ],
+      "activityId": "act_007_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_007_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱدَّارَكُوا۟",
+        "ٱلْخِيَاطِ ۚ",
+        "ٱلظَّـٰلِمِينَ",
+        "بِـَٔايَـٰتِهِۦٓ ۚ"
+      ],
+      "activityId": "act_007_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_007_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "لِأُخْرَىٰهُمْ",
+        "لِأُولَىٰهُمْ",
+        "ٱدَّارَكُوا۟",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_007_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_007_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱسْتَكْبَرُوا۟",
+        "يَتَوَفَّوْنَهُمْ",
+        "بِـَٔايَـٰتِهِۦٓ ۚ",
+        "لِأُخْرَىٰهُمْ"
+      ],
+      "activityId": "act_007_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_007_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "لِأُولَىٰهُمْ",
+        "ٱدَّارَكُوا۟",
+        "ٱلْخِيَاطِ ۚ"
+      ],
+      "activityId": "act_007_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_007_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُوا۟",
+        "فَذُوقُوا۟",
+        "نَصِيبُهُم",
+        "وَٱلْإِنسِ"
+      ],
+      "activityId": "act_007_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "nodeId": "hifz_084_02",
+  "title": "سورة الانشقاق - المقطع الثاني (أصحاب اليمين والحساب اليسير)",
+  "surahId": 84,
+  "ayahStart": 7,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "كِتَـٰبَهُۥ",
+      "missingWordPosition": 4,
+      "options": [
+        "كِتَـٰبَهُۥ",
+        "صَحِيفَتَهُ",
+        "أَجْرَهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "بِيَمِينِهِۦ",
+      "missingWordPosition": 5,
+      "options": [
+        "بِيَمِينِهِۦ",
+        "بِشِمَالِهِ",
+        "وَرَاءَ ظَهْرِهِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "يُحَاسَبُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُحَاسَبُ",
+        "يُجْزَى",
+        "يُسْأَلُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "يَسِيرًا",
+      "missingWordPosition": 4,
+      "options": [
+        "يَسِيرًا",
+        "عَسِيرًا",
+        "شَدِيدًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "وَيَنقَلِبُ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَنقَلِبُ",
+        "وَيَرْجِعُ",
+        "وَيَمْشِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "أَهْلِهِۦ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَهْلِهِۦ",
+        "قَوْمِهِ",
+        "دَارِهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "مَسْرُورًا",
+      "missingWordPosition": 4,
+      "options": [
+        "مَسْرُورًا",
+        "فَرِحًا",
+        "مُسْتَبْشِرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "وَرَآءَ",
+      "missingWordPosition": 5,
+      "options": [
+        "وَرَآءَ",
+        "بِشِمَالِهِ",
+        "تِلْقَاءَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ظَهْرِهِۦ",
+      "missingWordPosition": 6,
+      "options": [
+        "ظَهْرِهِۦ",
+        "يَدِهِ",
+        "صَدْرِهِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "فأما المؤمن الذي يُعطى صحيفة أعماله بيمينه إكراماً وتبشيراً بالفوز، فسوف يحاسبه ربه حساباً سهلاً يسيراً وهو العَرْض الذي يُقرره فيه بذنوبه ثم يغفرها له ويتجاوز عنه، ويرجع إلى أهله في الجنة مسروراً فرحاً بما نال من الفضل والكرامة، وأما الكافر الشقي فيُعطى كتابه بشماله من وراء ظهره خِزياً وإذلالاً."
+  }
+}

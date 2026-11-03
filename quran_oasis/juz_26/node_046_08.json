@@ -1,0 +1,154 @@
+{
+  "nodeId": "node_046_08",
+  "title": "سورة الأحقاف: قدرة الإحياء وأمر النبي بالصبر كصبر أولي العزم من الرسل",
+  "surahId": 46,
+  "ayahStart": 33,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "activityId": "act_046_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلَمْ",
+        "يَتْعَبْ",
+        "يَعْجَزْ",
+        "يَفْتُرْ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 14,
+      "options": [
+        "أَن",
+        "ٱلْأَمْوَاتَ",
+        "ٱلْخَلْقَ",
+        "ٱلنَّاسَ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        32
+      ]
+    },
+    {
+      "activityId": "act_046_08_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 12,
+      "options": [
+        "وَرَبِّنَا ۚ",
+        "حَقٌّ",
+        "صِدْقٌ",
+        "وَاقِعٌ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 18,
+      "options": [
+        "تَكْفُرُونَ",
+        "تَفْسُقُونَ",
+        "تَجْحَدُونَ",
+        "تُكَذِّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_046_08_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْبِرْ",
+        "فَٱسْتَقِمْ",
+        "فَٱصْدَعْ",
+        "فَتَوَكَّلْ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "أُو۟لُوا۟",
+        "أَصْحَابُ",
+        "أَهْلُ",
+        "رِجَالُ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَزْمِ",
+        "ٱلصَّبْرِ",
+        "ٱلْقُوَّةِ",
+        "ٱلْفَضْلِ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 22,
+      "options": [
+        "بَلَـٰغٌۭ ۚ",
+        "سَاعَةً",
+        "يَوْمًا",
+        "لَحْظَةً"
+      ]
+    },
+    {
+      "activityId": "act_046_08_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 24,
+      "options": [
+        "يُهْلَكُ",
+        "نَذِيرٌ",
+        "بَيَانٌ",
+        "حِكْمَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_046_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 27,
+      "options": [
+        "ٱلْفَـٰسِقُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْمُجْرِمُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "إثبات قدرة الله على إحياء الموتى بخلق السماوات والأرض، وأمر النبي ﷺ بالصبر الجميل على أذى قومه اقتداءً بأولي العزم من الرسل."
+  }
+}

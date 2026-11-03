@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مستعرض وتتبع صفحات المصحف الشريف | منصة HEQ WERDK الرسمية</title>
+  
+  <!-- Fonts matching HEQ WERDK Portal -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Cairo:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  
+  <style>
+    /* ==========================================================================
+       HEQ WERDK Design System & Stylesheet (Integrated from Portal)
+       Brand Color: #088178 (Deep Teal-Green)
+       Accent Color: #D97706 / #F59E0B (Golden Amber)
+       Strict Dark & Light Official Themes
+       ========================================================================== */
+
+    @font-face {
+      font-family: 'Uthmani';
+      src: url('https://heq-cdn.b-cdn.net/assets/fonts/UthmanicHafs_V20.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    :root {
+      --brand-teal: #088178;
+      --brand-teal-hover: #06665f;
+      --brand-teal-light: rgba(8, 129, 120, 0.08);
+      --brand-teal-border: rgba(8, 129, 120, 0.25);
+      --brand-teal-glow: rgba(8, 129, 120, 0.2);
+
+      --seasonal-amber: #D97706;
+      --seasonal-amber-hover: #B45309;
+      --seasonal-amber-light: rgba(217, 119, 6, 0.08);
+      --seasonal-amber-border: rgba(217, 119, 6, 0.25);
+
+      --font-main: 'Cairo', system-ui, -apple-system, sans-serif;
+      --font-quran: 'Uthmani', 'Amiri Quran', serif;
+      --font-mono: 'JetBrains Mono', monospace;
+
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 16px;
+      --radius-full: 9999px;
+
+      --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* Dark Theme (Official Pitch Black) */
+    [data-theme="dark"] {
+      --bg-primary: #000000;
+      --bg-secondary: #0A0D10;
+      --bg-surface: #0E1217;
+      --bg-subtle: #141A22;
+
+      --border-light: #1A212B;
+      --border-medium: #263140;
+      --border-dark: #37475A;
+
+      --text-primary: #FFFFFF;
+      --text-secondary: #CBD5E1;
+      --text-muted: #8492A6;
+
+      --header-bg: rgba(10, 13, 16, 0.85);
+      --header-border: rgba(38, 49, 64, 0.65);
+
+      --mushaf-page-bg: #fffbf2;
+      --mushaf-page-border: #d97706;
+      --mushaf-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(217, 119, 6, 0.2);
+
+      --highlight-fill: rgba(8, 129, 120, 0.28);
+      --highlight-stroke: #088178;
+      --highlight-hover: rgba(217, 119, 6, 0.35);
+      --highlight-hover-stroke: #D97706;
+    }
+
+    /* Light Theme (Clean Pure White) */
+    [data-theme="light"] {
+      --bg-primary: #FFFFFF;
+      --bg-secondary: #F8FAFC;
+      --bg-surface: #FFFFFF;
+      --bg-subtle: #F1F5F9;
+
+      --border-light: #E2E8F0;
+      --border-medium: #CBD5E1;
+      --border-dark: #94A3B8;
+
+      --text-primary: #0F172A;
+      --text-secondary: #334155;
+      --text-muted: #64748B;
+
+      --header-bg: rgba(255, 255, 255, 0.85);
+      --header-border: rgba(226, 232, 240, 0.85);
+
+      --mushaf-page-bg: #fffdf7;
+      --mushaf-page-border: #b45309;
+      --mushaf-shadow: 0 15px 35px rgba(15, 23, 42, 0.1), 0 0 0 1px rgba(217, 119, 6, 0.2);
+
+      --highlight-fill: rgba(8, 129, 120, 0.25);
+      --highlight-stroke: #088178;
+      --highlight-hover: rgba(217, 119, 6, 0.32);
+      --highlight-hover-stroke: #D97706;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-main);
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.6;
+      transition: background-color var(--transition), color var(--transition);
+    }
+
+    /* Top Navigation matching Portal Header */
+    header {
+      background-color: var(--header-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--header-border);
+      padding: 0.85rem 2rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1.25rem;
+    }
+
+    .brand-section {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      text-decoration: none;
+    }
+
+    .brand-icon {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--brand-teal), #0d9488);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #FFFFFF;
+      font-weight: 900;
+      font-size: 1.1rem;
+      box-shadow: 0 4px 12px var(--brand-teal-glow);
+    }
+
+    .brand-title {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-title h1 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+    }
+
+    .brand-title span {
+      font-size: 0.72rem;
+      color: var(--brand-teal);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .riwayah-pill {
+      background: var(--brand-teal-light);
+      border: 1px solid var(--brand-teal-border);
+      color: var(--brand-teal);
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 0.25rem 0.75rem;
+      border-radius: var(--radius-full);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .controls-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.65rem;
+    }
+
+    .control-group {
+      display: flex;
+      align-items: center;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-medium);
+      border-radius: var(--radius-md);
+      padding: 0.2rem 0.5rem;
+      gap: 0.4rem;
+    }
+
+    .control-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      padding-right: 0.3rem;
+    }
+
+    select, input {
+      font-family: inherit;
+      font-size: 0.85rem;
+      background: transparent;
+      color: var(--text-primary);
+      border: none;
+      outline: none;
+      padding: 0.35rem 0.5rem;
+      font-weight: 600;
+    }
+
+    select option {
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+    }
+
+    .btn {
+      font-family: inherit;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 0.5rem 0.95rem;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      border: 1px solid transparent;
+      transition: all var(--transition);
+      outline: none;
+    }
+
+    .btn-teal {
+      background: var(--brand-teal);
+      color: #FFFFFF;
+      box-shadow: 0 2px 8px var(--brand-teal-glow);
+    }
+
+    .btn-teal:hover {
+      background: var(--brand-teal-hover);
+      transform: translateY(-1px);
+    }
+
+    .btn-secondary {
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      border-color: var(--border-medium);
+    }
+
+    .btn-secondary:hover {
+      background: var(--bg-subtle);
+      color: var(--text-primary);
+      border-color: var(--border-dark);
+    }
+
+    .theme-toggle-btn {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-medium);
+      color: var(--text-primary);
+      width: 38px;
+      height: 38px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.05rem;
+      transition: all var(--transition);
+    }
+
+    .theme-toggle-btn:hover {
+      border-color: var(--brand-teal);
+      color: var(--brand-teal);
+    }
+
+    /* Main Grid Layout */
+    main {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr 420px;
+      gap: 1.75rem;
+      padding: 1.75rem 2rem;
+      max-width: 1680px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    @media (max-width: 1150px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Mushaf Stage */
+    .mushaf-stage {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-lg);
+      padding: 2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 850px;
+      position: relative;
+    }
+
+    .stage-header {
+      position: absolute;
+      top: 1rem;
+      left: 1.5rem;
+      right: 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      pointer-events: none;
+    }
+
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.78rem;
+      font-weight: 700;
+      padding: 0.3rem 0.8rem;
+      border-radius: var(--radius-full);
+      background: var(--brand-teal-light);
+      border: 1px solid var(--brand-teal-border);
+      color: var(--brand-teal);
+      pointer-events: auto;
+    }
+
+    .status-badge.loading {
+      background: var(--seasonal-amber-light);
+      border-color: var(--seasonal-amber-border);
+      color: var(--seasonal-amber);
+    }
+
+    .mushaf-frame {
+      position: relative;
+      width: 100%;
+      max-width: 590px;
+      aspect-ratio: 1 / 1.55;
+      background-color: var(--mushaf-page-bg);
+      border: 2px solid var(--mushaf-page-border);
+      border-radius: var(--radius-md);
+      box-shadow: var(--mushaf-shadow);
+      overflow: hidden;
+      margin-top: 1.5rem;
+    }
+
+    .mushaf-layer {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .mushaf-layer svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .ayah-polygon {
+      fill: transparent;
+      stroke: transparent;
+      stroke-width: 1.5;
+      cursor: pointer;
+      transition: fill 0.2s ease, stroke 0.2s ease;
+      pointer-events: all;
+    }
+
+    .ayah-polygon:hover {
+      fill: var(--highlight-hover);
+      stroke: var(--highlight-hover-stroke);
+      stroke-width: 1.75;
+    }
+
+    .ayah-polygon.active {
+      fill: var(--highlight-fill);
+      stroke: var(--highlight-stroke);
+      stroke-width: 2.2;
+    }
+
+    /* Sidebar & Detail Cards */
+    .detail-sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    .portal-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-lg);
+      padding: 1.4rem;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+      position: relative;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .card-header h2 {
+      font-size: 1rem;
+      font-weight: 800;
+      color: var(--brand-teal);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .card-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 0.2rem 0.55rem;
+      border-radius: var(--radius-full);
+      background: var(--bg-subtle);
+      color: var(--text-muted);
+      border: 1px solid var(--border-medium);
+    }
+
+    .ayah-reader-box {
+      font-family: var(--font-quran);
+      font-size: 1.45rem;
+      line-height: 2.3;
+      color: var(--text-primary);
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-light);
+      border-right: 4px solid var(--brand-teal);
+      border-radius: var(--radius-md);
+      padding: 1.25rem;
+      min-height: 120px;
+      text-align: justify;
+      position: relative;
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.65rem;
+      margin-top: 1rem;
+    }
+
+    .meta-item {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-sm);
+      padding: 0.6rem 0.85rem;
+    }
+
+    .meta-item span {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .meta-item strong {
+      font-size: 0.95rem;
+      font-weight: 800;
+      color: var(--brand-teal);
+    }
+
+    .code-box {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-light);
+      border-radius: var(--radius-md);
+      padding: 0.85rem;
+      font-family: var(--font-mono);
+      font-size: 0.76rem;
+      color: #38bdf8;
+      direction: ltr;
+      text-align: left;
+      white-space: pre-wrap;
+      max-height: 160px;
+      overflow-y: auto;
+    }
+
+    .bunny-card {
+      border-color: var(--seasonal-amber-border);
+      background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-subtle) 100%);
+    }
+
+    .bunny-card h2 {
+      color: var(--seasonal-amber);
+    }
+
+    .bunny-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      font-size: 0.82rem;
+    }
+
+    .bunny-list-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
+    .bunny-list-item span {
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .bunny-list-item code {
+      background: var(--bg-secondary);
+      padding: 0.35rem 0.6rem;
+      border-radius: var(--radius-sm);
+      font-family: var(--font-mono);
+      color: var(--seasonal-amber);
+      font-size: 0.75rem;
+      border: 1px solid var(--border-light);
+      direction: ltr;
+      text-align: left;
+      word-break: break-all;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--brand-teal);
+      color: #FFFFFF;
+      padding: 0.65rem 1.4rem;
+      border-radius: var(--radius-full);
+      font-weight: 700;
+      font-size: 0.85rem;
+      box-shadow: 0 8px 24px rgba(8, 129, 120, 0.4);
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      z-index: 1000;
+      pointer-events: none;
+    }
+
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Official HEQ WERDK Header -->
+  <header>
+    <div class="brand-section">
+      <a href="https://heqwerdk.com" class="brand-logo" target="_blank" title="منصة HEQ WERDK الرسمية">
+        <div class="brand-icon">W</div>
+        <div class="brand-title">
+          <h1>HEQ WERDK</h1>
+          <span>مستعرض المصحف وتتبع الآيات</span>
+        </div>
+      </a>
+      <span class="riwayah-pill" id="riwayahPill">
+        <span>●</span> <span id="riwayahPillText">رواية حفص عن عاصم</span>
+      </span>
+    </div>
+
+    <div class="controls-toolbar">
+      <div class="control-group">
+        <span class="control-label">الرواية:</span>
+        <select id="riwayahSelect">
+          <option value="hafs" selected>حفص عن عاصم (مجمع الملك فهد)</option>
+          <option value="warsh">ورش عن نافع (طريق الأزرق)</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <span class="control-label">السورة:</span>
+        <select id="surahSelect">
+          <option value="1">001. الفاتحة</option>
+        </select>
+      </div>
+
+      <div class="control-group">
+        <span class="control-label">الصفحة:</span>
+        <input type="number" id="pageInput" min="1" max="604" value="1" style="width: 65px;">
+      </div>
+
+      <button id="prevBtn" class="btn btn-secondary" title="الصفحة السابقة">◀ السابقة</button>
+      <button id="nextBtn" class="btn btn-secondary" title="الصفحة التالية">التالية ▶</button>
+      <button id="reloadBtn" class="btn btn-teal">تحديث ⟳</button>
+
+      <button id="themeToggleBtn" class="theme-toggle-btn" title="تبديل المظهر (ليلي / نهاري)">
+        <span id="themeIcon">☀️</span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- Stage Area -->
+    <div class="mushaf-stage">
+      <div class="stage-header">
+        <div id="statusIndicator" class="status-badge loading">
+          <span>●</span> جارٍ التحميل...
+        </div>
+        <div class="status-badge" style="background: var(--bg-subtle); border-color: var(--border-medium); color: var(--text-muted);">
+          مصحف المدينة المنورة الرسمي (Vector SVG)
+        </div>
+      </div>
+
+      <div class="mushaf-frame" id="mushafFrame">
+        <div class="mushaf-layer" id="mushafLayer"></div>
+      </div>
+    </div>
+
+    <!-- Sidebar Info Cards -->
+    <div class="detail-sidebar">
+      
+      <!-- Selected Ayah Card -->
+      <div class="portal-card">
+        <div class="card-header">
+          <h2>📖 الآية المحددة بالصفحة</h2>
+          <span class="card-badge" id="badgeAyahStatus">تفاعلي</span>
+        </div>
+        
+        <div class="ayah-reader-box" id="ayahText">
+          اضغط أو حرّك الفأرة فوق أي آية بالصفحة لتتبعها وتظليلها بالرسم العثماني...
+        </div>
+
+        <div class="meta-grid">
+          <div class="meta-item">
+            <span>السورة</span>
+            <strong id="metaSurah">الفَاتِحة (1)</strong>
+          </div>
+          <div class="meta-item">
+            <span>رقم الآية</span>
+            <strong id="metaAyah">1</strong>
+          </div>
+          <div class="meta-item">
+            <span>الجزء</span>
+            <strong id="metaJuz">1</strong>
+          </div>
+          <div class="meta-item">
+            <span>الصفحة</span>
+            <strong id="metaPage">1</strong>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ayah Coordinate Polygons Card -->
+      <div class="portal-card">
+        <div class="card-header">
+          <h2>📐 إحداثيات التتبع (Ayah Polygon)</h2>
+          <button id="copyCoordsBtn" class="btn btn-secondary" style="padding: 0.2rem 0.6rem; font-size: 0.72rem;">نسخ JSON</button>
+        </div>
+        <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.6rem;">
+          مضلع إحداثيات الآية بالـ SVG لتحديد مكانها وتظليلها في تطبيقات الويب والموبايل:
+        </p>
+        <div class="code-box" id="coordsPreview">// Coordinates will appear here</div>
+      </div>
+
+      <!-- BunnyCDN Integration Card -->
+      <div class="portal-card bunny-card">
+        <div class="card-header">
+          <h2>☁️ الربط بسيرفر BunnyCDN</h2>
+          <span class="card-badge" style="color: var(--seasonal-amber); border-color: var(--seasonal-amber-border);">heqwerdk.com</span>
+        </div>
+        
+        <div class="bunny-list">
+          <div class="bunny-list-item">
+            <span>مسار الصفحة المتجهة (SVG):</span>
+            <code id="bunnySvgPath">https://heq-cdn.b-cdn.net/mushaf/hafs/svg/001.svg</code>
+          </div>
+          <div class="bunny-list-item">
+            <span>مسار إحداثيات التتبع (JSON):</span>
+            <code id="bunnyCoordsPath">https://heq-cdn.b-cdn.net/mushaf/hafs/coordinates/001.json</code>
+          </div>
+          <div class="bunny-list-item">
+            <span>أداة الرفع الفوري:</span>
+            <code style="color: var(--brand-teal);">python scripts/upload_to_bunny.py</code>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <div class="toast" id="toastBox">تم النسخ بنجاح!</div>
+
+  <script>
+    const state = {
+      riwayah: 'hafs',
+      currentPage: 1,
+      theme: 'dark',
+      surahsManifest: [],
+      surahCache: {},
+      coordsCache: {},
+      svgCache: {},
+      activeAyahKey: null
+    };
+
+    const dom = {
+      riwayahSelect: document.getElementById('riwayahSelect'),
+      riwayahPillText: document.getElementById('riwayahPillText'),
+      surahSelect: document.getElementById('surahSelect'),
+      pageInput: document.getElementById('pageInput'),
+      prevBtn: document.getElementById('prevBtn'),
+      nextBtn: document.getElementById('nextBtn'),
+      reloadBtn: document.getElementById('reloadBtn'),
+      themeToggleBtn: document.getElementById('themeToggleBtn'),
+      themeIcon: document.getElementById('themeIcon'),
+      statusIndicator: document.getElementById('statusIndicator'),
+      mushafLayer: document.getElementById('mushafLayer'),
+      ayahText: document.getElementById('ayahText'),
+      metaSurah: document.getElementById('metaSurah'),
+      metaAyah: document.getElementById('metaAyah'),
+      metaJuz: document.getElementById('metaJuz'),
+      metaPage: document.getElementById('metaPage'),
+      coordsPreview: document.getElementById('coordsPreview'),
+      copyCoordsBtn: document.getElementById('copyCoordsBtn'),
+      bunnySvgPath: document.getElementById('bunnySvgPath'),
+      bunnyCoordsPath: document.getElementById('bunnyCoordsPath'),
+      toastBox: document.getElementById('toastBox')
+    };
+
+    function pad(n) {
+      return String(n).padStart(3, '0');
+    }
+
+    function showToast(msg) {
+      dom.toastBox.textContent = msg;
+      dom.toastBox.classList.add('show');
+      setTimeout(() => dom.toastBox.classList.remove('show'), 2200);
+    }
+
+    function toggleTheme() {
+      state.theme = state.theme === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', state.theme);
+      dom.themeIcon.textContent = state.theme === 'dark' ? '☀️' : '🌙';
+    }
+
+    async function init() {
+      setupEvents();
+      await loadManifest();
+      await loadPage(state.currentPage);
+    }
+
+    function setupEvents() {
+      dom.themeToggleBtn.addEventListener('click', toggleTheme);
+
+      dom.riwayahSelect.addEventListener('change', async (e) => {
+        state.riwayah = e.target.value;
+        dom.riwayahPillText.textContent = state.riwayah === 'hafs' ? 'رواية حفص عن عاصم' : 'رواية ورش عن نافع';
+        updateBunnyPaths();
+        await loadManifest();
+        await loadPage(state.currentPage);
+      });
+
+      dom.surahSelect.addEventListener('change', async (e) => {
+        const surahNum = parseInt(e.target.value, 10);
+        const surah = state.surahsManifest.find(s => s.number === surahNum);
+        if (surah) {
+          state.currentPage = surah.page_start;
+          dom.pageInput.value = state.currentPage;
+          await loadPage(state.currentPage);
+        }
+      });
+
+      dom.pageInput.addEventListener('change', async (e) => {
+        let p = parseInt(e.target.value, 10);
+        if (p < 1) p = 1;
+        if (p > 604) p = 604;
+        state.currentPage = p;
+        dom.pageInput.value = p;
+        await loadPage(p);
+      });
+
+      dom.prevBtn.addEventListener('click', async () => {
+        if (state.currentPage > 1) {
+          state.currentPage--;
+          dom.pageInput.value = state.currentPage;
+          await loadPage(state.currentPage);
+        }
+      });
+
+      dom.nextBtn.addEventListener('click', async () => {
+        if (state.currentPage < 604) {
+          state.currentPage++;
+          dom.pageInput.value = state.currentPage;
+          await loadPage(state.currentPage);
+        }
+      });
+
+      dom.reloadBtn.addEventListener('click', async () => {
+        await loadPage(state.currentPage, true);
+      });
+
+      dom.copyCoordsBtn.addEventListener('click', () => {
+        navigator.clipboard.writeText(dom.coordsPreview.textContent);
+        showToast('تم نسخ إحداثيات الآية!');
+      });
+    }
+
+    function updateBunnyPaths() {
+      const p = pad(state.currentPage);
+      dom.bunnySvgPath.textContent = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/svg/${p}.svg`;
+      dom.bunnyCoordsPath.textContent = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/coordinates/${p}.json`;
+    }
+
+    async function safeFetchJson(localPath, fallbackUrl) {
+      if (window.location.protocol !== 'file:') {
+        try {
+          const res = await fetch(localPath);
+          if (res.ok) return await res.json();
+        } catch (e) {
+          console.warn('Local JSON fetch error, falling back...', e);
+        }
+      }
+      if (fallbackUrl) {
+        try {
+          const res = await fetch(fallbackUrl);
+          if (res.ok) return await res.json();
+        } catch (e) {
+          console.warn('Fallback JSON fetch error:', e);
+        }
+      }
+      return null;
+    }
+
+    async function safeFetchText(localPath, fallbackUrl) {
+      if (window.location.protocol !== 'file:') {
+        try {
+          const res = await fetch(localPath);
+          if (res.ok) return await res.text();
+        } catch (e) {
+          console.warn('Local text fetch error, falling back...', e);
+        }
+      }
+      if (fallbackUrl) {
+        try {
+          const res = await fetch(fallbackUrl);
+          if (res.ok) return await res.text();
+        } catch (e) {
+          console.warn('Fallback text fetch error:', e);
+        }
+      }
+      return null;
+    }
+
+    async function loadManifest() {
+      const localPath = `./${state.riwayah}/manifest.json`;
+      const fallbackUrl = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/manifest.json`;
+      const data = await safeFetchJson(localPath, fallbackUrl);
+
+      if (data && data.surahs) {
+        state.surahsManifest = data.surahs;
+        dom.surahSelect.innerHTML = '';
+        state.surahsManifest.forEach(s => {
+          const opt = document.createElement('option');
+          opt.value = s.number;
+          opt.textContent = `${pad(s.number)}. ${s.name_ar} (صفحة ${s.page_start})`;
+          dom.surahSelect.appendChild(opt);
+        });
+      }
+    }
+
+    async function fetchCoordinates(pageNum) {
+      const p = pad(pageNum);
+      const cacheKey = `${state.riwayah}_${p}`;
+      if (state.coordsCache[cacheKey]) return state.coordsCache[cacheKey];
+
+      const localPath = `./${state.riwayah}/coordinates/${p}.json`;
+      const fallbackUrl = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/coordinates/${p}.json`;
+
+      const data = await safeFetchJson(localPath, fallbackUrl);
+      if (data) {
+        state.coordsCache[cacheKey] = data;
+        return data;
+      }
+      return [];
+    }
+
+    async function fetchSvgArtwork(pageNum) {
+      const p = pad(pageNum);
+      const cacheKey = `${state.riwayah}_${p}`;
+      if (state.svgCache[cacheKey]) return state.svgCache[cacheKey];
+
+      const localPath = `./${state.riwayah}/svg/${p}.svg`;
+      const fallbackUrl = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/svg/${p}.svg`;
+
+      const text = await safeFetchText(localPath, fallbackUrl);
+      if (text) {
+        state.svgCache[cacheKey] = text;
+        return text;
+      }
+      return null;
+    }
+
+    async function fetchSurahData(surahNum) {
+      const s = pad(surahNum);
+      const cacheKey = `${state.riwayah}_surah_${s}`;
+      if (state.surahCache[cacheKey]) return state.surahCache[cacheKey];
+
+      const localPath = `./${state.riwayah}/surahs/${s}.json`;
+      const fallbackUrl = `https://heq-cdn.b-cdn.net/mushaf/${state.riwayah}/surahs/${s}.json`;
+
+      const data = await safeFetchJson(localPath, fallbackUrl);
+      if (data) {
+        state.surahCache[cacheKey] = data;
+        return data;
+      }
+      return null;
+    }
+
+    async function loadPage(pageNum, force = false) {
+      dom.statusIndicator.className = 'status-badge loading';
+      dom.statusIndicator.innerHTML = `<span>●</span> جارٍ جلب صفحة ${pageNum}...`;
+      dom.metaPage.textContent = pageNum;
+      updateBunnyPaths();
+
+      const [coords, svgText] = await Promise.all([
+        fetchCoordinates(pageNum),
+        fetchSvgArtwork(pageNum)
+      ]);
+
+      if (svgText) {
+        renderInteractiveSvg(svgText, coords);
+        dom.statusIndicator.className = 'status-badge';
+        dom.statusIndicator.innerHTML = `<span>●</span> صفحة ${pageNum} جاهزة (${coords.length} آية)`;
+      } else {
+        dom.mushafLayer.innerHTML = `
+          <div style="padding: 3rem 1.5rem; text-align: center; color: var(--text-muted); font-family: var(--font-main);">
+            <h3 style="color: var(--seasonal-amber); margin-bottom: 0.5rem;">صفحة ${pageNum} غير متوفرة</h3>
+            <p style="font-size: 0.85rem;">تأكد من تنزيل ملف الـ SVG أو الاتصال بالإنترنت.</p>
+          </div>
+        `;
+        dom.statusIndicator.className = 'status-badge loading';
+        dom.statusIndicator.innerHTML = `<span>●</span> تعذر جلب صفحة ${pageNum}`;
+      }
+    }
+
+    function renderInteractiveSvg(svgRaw, coords) {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(svgRaw, 'image/svg+xml');
+      const svgEl = doc.querySelector('svg');
+
+      if (!svgEl) {
+        dom.mushafLayer.innerHTML = svgRaw;
+        return;
+      }
+
+      // Add Ayah Polygon Overlay
+      const overlayGroup = doc.createElementNS('http://www.w3.org/2000/svg', 'g');
+      overlayGroup.setAttribute('id', 'ayahHighlightLayer');
+
+      coords.forEach(item => {
+        const polyStr = (item.polygon || '').trim();
+        let el;
+        if (polyStr.startsWith('M') || polyStr.includes('L') || polyStr.includes('Z')) {
+          el = doc.createElementNS('http://www.w3.org/2000/svg', 'path');
+          el.setAttribute('d', polyStr);
+        } else {
+          el = doc.createElementNS('http://www.w3.org/2000/svg', 'polygon');
+          el.setAttribute('points', polyStr);
+        }
+        el.setAttribute('class', 'ayah-polygon');
+        el.setAttribute('data-surah', item.surahNumber);
+        el.setAttribute('data-ayah', item.ayahNumber);
+        el.setAttribute('data-poly', polyStr);
+        overlayGroup.appendChild(el);
+      });
+
+      svgEl.appendChild(overlayGroup);
+      dom.mushafLayer.innerHTML = '';
+      dom.mushafLayer.appendChild(svgEl);
+
+      const renderedPolys = dom.mushafLayer.querySelectorAll('.ayah-polygon');
+      renderedPolys.forEach(el => {
+        el.addEventListener('mouseenter', () => handleAyahHover(el));
+        el.addEventListener('click', () => handleAyahClick(el));
+      });
+
+      if (renderedPolys.length > 0) {
+        handleAyahClick(renderedPolys[0]);
+      }
+    }
+
+    async function handleAyahHover(el) {
+      const surahNum = parseInt(el.getAttribute('data-surah'), 10);
+      const ayahNum = parseInt(el.getAttribute('data-ayah'), 10);
+      highlightAyah(surahNum, ayahNum, el.getAttribute('data-poly'), false);
+    }
+
+    async function handleAyahClick(el) {
+      const surahNum = parseInt(el.getAttribute('data-surah'), 10);
+      const ayahNum = parseInt(el.getAttribute('data-ayah'), 10);
+      highlightAyah(surahNum, ayahNum, el.getAttribute('data-poly'), true);
+    }
+
+    async function highlightAyah(surahNum, ayahNum, polyString, isClick = false) {
+      const key = `${surahNum}_${ayahNum}`;
+      state.activeAyahKey = key;
+
+      dom.mushafLayer.querySelectorAll('.ayah-polygon').forEach(p => {
+        if (parseInt(p.getAttribute('data-surah'), 10) === surahNum &&
+            parseInt(p.getAttribute('data-ayah'), 10) === ayahNum) {
+          p.classList.add('active');
+        } else {
+          p.classList.remove('active');
+        }
+      });
+
+      dom.metaSurah.textContent = surahNum;
+      dom.metaAyah.textContent = ayahNum;
+      dom.coordsPreview.textContent = JSON.stringify({
+        riwayah: state.riwayah,
+        page: state.currentPage,
+        surah: surahNum,
+        ayah: ayahNum,
+        polygon: polyString
+      }, null, 2);
+
+      const surahData = await fetchSurahData(surahNum);
+      if (surahData && surahData.ayahs) {
+        const ayahItem = surahData.ayahs.find(a => a.number === ayahNum);
+        if (ayahItem) {
+          dom.ayahText.textContent = ayahItem.text_uthmani;
+          dom.metaJuz.textContent = ayahItem.juz || '1';
+          dom.metaSurah.textContent = `${surahData.name_ar} (${surahNum})`;
+          return;
+        }
+      }
+      dom.ayahText.textContent = `[سورة ${surahNum} : الآية ${ayahNum}] - جارٍ جلب النص...`;
+    }
+
+    window.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>

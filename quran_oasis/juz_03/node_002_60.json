@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_002_60",
+  "title": "سورة البقرة - الآيات 283-286",
+  "surahId": 2,
+  "ayahStart": 283,
+  "ayahEnd": 286,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 283,
+      "missingWordPosition": 9,
+      "options": [
+        "مَّقۡبُوضَةٞۖ",
+        "أَخۡطَأۡنَاۚ",
+        "أَمَٰنَتَهُۥ",
+        "أَنفُسِكُمۡ"
+      ],
+      "activityId": "act_002_60_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 283,
+      "correctNextAyahNumber": 284,
+      "wrongOptionsAyahNumbers": [
+        285,
+        281
+      ],
+      "activityId": "act_002_60_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 284,
+      "missingWordPosition": 15,
+      "options": [
+        "يُحَاسِبۡكُم",
+        "تُؤَاخِذۡنَآ",
+        "فَٱنصُرۡنَا",
+        "وَٱرۡحَمۡنَآۚ"
+      ],
+      "activityId": "act_002_60_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 284,
+      "correctNextAyahNumber": 285,
+      "wrongOptionsAyahNumbers": [
+        286,
+        282
+      ],
+      "activityId": "act_002_60_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 285,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلۡمُؤۡمِنُونَۚ",
+        "وَمَلَٰٓئِكَتِهِۦ",
+        "يُحَاسِبۡكُم",
+        "تُؤَاخِذۡنَآ"
+      ],
+      "activityId": "act_002_60_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 285,
+      "correctNextAyahNumber": 286,
+      "wrongOptionsAyahNumbers": [
+        283,
+        282
+      ],
+      "activityId": "act_002_60_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 286,
+      "missingWordPosition": 15,
+      "options": [
+        "تُؤَاخِذۡنَآ",
+        "فَٱنصُرۡنَا",
+        "وَٱرۡحَمۡنَآۚ",
+        "يُحَاسِبۡكُم"
+      ],
+      "activityId": "act_002_60_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يذكر حفظ الأمانة والرهن والشهادة، ثم يختم السورة بالإيمان بالوحي والدعاء بالعفو والرحمة والنصر."
+  }
+}

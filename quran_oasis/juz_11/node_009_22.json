@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_22",
+  "title": "سورة التوبة - الآيات 120-124",
+  "surahId": 9,
+  "ayahStart": 120,
+  "ayahEnd": 124,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 52,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "وَلِيُنذِرُوا۟",
+        "ٱلْمُؤْمِنُونَ",
+        "يَسْتَبْشِرُونَ"
+      ],
+      "activityId": "act_009_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_009_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 13,
+      "options": [
+        "لِيَجْزِيَهُمُ",
+        "يَتَخَلَّفُوا۟",
+        "بِأَنفُسِهِمْ",
+        "فَزَادَتْهُمْ"
+      ],
+      "activityId": "act_009_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_009_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُؤْمِنُونَ",
+        "ٱلْمُحْسِنِينَ",
+        "يَسْتَبْشِرُونَ",
+        "لِيَجْزِيَهُمُ"
+      ],
+      "activityId": "act_009_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "wrongOptionsAyahNumbers": [
+        124,
+        120
+      ],
+      "activityId": "act_009_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلْيَجِدُوا۟",
+        "لِيَنفِرُوا۟",
+        "ٱلْأَعْرَابِ",
+        "ٱلْمَدِينَةِ"
+      ],
+      "activityId": "act_009_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "wrongOptionsAyahNumbers": [
+        125,
+        121
+      ],
+      "activityId": "act_009_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 18,
+      "options": [
+        "يَسْتَبْشِرُونَ",
+        "لِّيَتَفَقَّهُوا۟",
+        "وَلِيُنذِرُوا۟",
+        "ٱلْمُؤْمِنُونَ"
+      ],
+      "activityId": "act_009_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 11,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

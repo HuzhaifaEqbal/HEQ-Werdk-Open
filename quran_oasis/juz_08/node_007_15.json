@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_007_15",
+  "title": "سورة الأعراف - الآيات 83-87",
+  "surahId": 7,
+  "ayahStart": 83,
+  "ayahEnd": 87,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱمْرَأَتَهُۥ",
+        "فَٱصْبِرُوا۟",
+        "وَأَمْطَرْنَا",
+        "وَٱذْكُرُوٓا۟"
+      ],
+      "activityId": "act_007_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_007_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "وَتَبْغُونَهَا",
+        "ٱلْمُفْسِدِينَ",
+        "وَٱلْمِيزَانَ"
+      ],
+      "activityId": "act_007_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_007_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 21,
+      "options": [
+        "وَٱلْمِيزَانَ",
+        "ٱلْمُجْرِمِينَ",
+        "وَتَبْغُونَهَا",
+        "ٱلْمُفْسِدِينَ"
+      ],
+      "activityId": "act_007_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_007_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 13,
+      "options": [
+        "وَتَبْغُونَهَا",
+        "ٱلْمُجْرِمِينَ",
+        "وَٱلْمِيزَانَ",
+        "أَشْيَآءَهُمْ"
+      ],
+      "activityId": "act_007_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_007_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 12,
+      "options": [
+        "فَٱصْبِرُوا۟",
+        "ٱمْرَأَتَهُۥ",
+        "وَٱنظُرُوا۟",
+        "ٱلْغَـٰبِرِينَ"
+      ],
+      "activityId": "act_007_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

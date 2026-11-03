@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_081_01",
+  "title": "سورة التكوير - المقطع الأول (الانقلاب الكوني ومشاهد القيامة)",
+  "surahId": 81,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "الشَّمْسُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الشَّمْسُ",
+        "السَّمَاءُ",
+        "الْأَرْضُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "كُوِّرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "كُوِّرَتْ",
+        "خُسِفَتْ",
+        "أُظْلِمَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "النُّجُومُ",
+      "missingWordPosition": 2,
+      "options": [
+        "النُّجُومُ",
+        "الْكَوَاكِبُ",
+        "السَّمَاءُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "انكَدَرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "انكَدَرَتْ",
+        "انتَثَرَتْ",
+        "طُمِسَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "الْجِبَالُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجِبَالُ",
+        "الْبِحَارُ",
+        "الْأَرْضُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "سُيِّرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "سُيِّرَتْ",
+        "نُسِفَتْ",
+        "قُلِعَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "الْعِشَارُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْعِشَارُ",
+        "الدِّيَارُ",
+        "الْأَمْوَالُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "عُطِّلَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "عُطِّلَتْ",
+        "تُرِكَتْ",
+        "أُهْمِلَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "الْوُحُوشُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْوُحُوشُ",
+        "الدَّوَابُّ",
+        "الْأَنْعَامُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "حُشِرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "حُشِرَتْ",
+        "جُمِعَتْ",
+        "سِيقَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "الْبِحَارُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْبِحَارُ",
+        "الْأَنْهَارُ",
+        "الْعُيُونُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "سُجِّرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "سُجِّرَتْ",
+        "فُجِّرَتْ",
+        "مُلِئَتْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تستفتح السورة ببيان الانقلاب الكوني الهائل عند قيام الساعة؛ إذا الشمس جُمع ضياؤها ولُفّت فذهب نورها (كُوّرت)، والنجوم تناثرت وتساقطت من مداراتها (انكدرت)، والجبال نُسفت عن وجه الأرض وسُيرت كالسحاب، والنوق الحوامل النفيسة أُهملت وتُركت بلا راعٍ لشدة الذهول (العشار عُطّلت)، وحيوانات البر جُمعت واختلطت من هول الفزع (الوحوش حُشرت)، والبحار العظيمة أوقدت حتى صارت نيراناً تتأجج (سُجّرت)."
+  }
+}

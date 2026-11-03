@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_03",
+  "title": "سورة البقرة - الآيات 11-15",
+  "surahId": 2,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "تُفۡسِدُواْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "يَسۡتَهۡزِئُ"
+      ],
+      "activityId": "act_002_03_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        9
+      ],
+      "activityId": "act_002_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلۡمُفۡسِدُونَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "مُسۡتَهۡزِءُونَ"
+      ],
+      "activityId": "act_002_03_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        10
+      ],
+      "activityId": "act_002_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلسُّفَهَآءُۗ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "تُفۡسِدُواْ"
+      ],
+      "activityId": "act_002_03_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ],
+      "activityId": "act_002_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 16,
+      "options": [
+        "مُسۡتَهۡزِءُونَ",
+        "ٱلۡمُفۡسِدُونَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ"
+      ],
+      "activityId": "act_002_03_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ],
+      "activityId": "act_002_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسۡتَهۡزِئُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "تُفۡسِدُواْ"
+      ],
+      "activityId": "act_002_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يكشف المقطع فساد المنافقين وادعاءهم الإصلاح، ويبين ما يترتب على إعراضهم عن الحق."
+  }
+}

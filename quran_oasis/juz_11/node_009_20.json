@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_009_20",
+  "title": "سورة التوبة - الآيات 110-114",
+  "surahId": 9,
+  "ayahStart": 110,
+  "ayahEnd": 114,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 12,
+      "options": [
+        "قُلُوبُهُمْ ۗ",
+        "فَيَقْتُلُونَ",
+        "ٱلتَّوْرَىٰةِ",
+        "ٱلرَّٰكِعُونَ"
+      ],
+      "activityId": "act_009_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_009_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 23,
+      "options": [
+        "وَٱلْقُرْءَانِ ۚ",
+        "وَٱلْحَـٰفِظُونَ",
+        "لِلْمُشْرِكِينَ",
+        "يَسْتَغْفِرُوا۟"
+      ],
+      "activityId": "act_009_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_009_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْمَعْرُوفِ",
+        "ٱلْمُؤْمِنِينَ",
+        "وَيُقْتَلُونَ ۖ",
+        "وَٱلْإِنجِيلِ"
+      ],
+      "activityId": "act_009_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_009_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 7,
+      "options": [
+        "يَسْتَغْفِرُوا۟",
+        "بِٱلْمَعْرُوفِ",
+        "وَٱلنَّاهُونَ",
+        "وَيُقْتَلُونَ ۖ"
+      ],
+      "activityId": "act_009_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_009_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱسْتِغْفَارُ",
+        "قُلُوبُهُمْ ۗ",
+        "وَأَمْوَٰلَهُم",
+        "ٱلسَّـٰجِدُونَ"
+      ],
+      "activityId": "act_009_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 11,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

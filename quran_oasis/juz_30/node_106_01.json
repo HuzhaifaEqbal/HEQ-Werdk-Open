@@ -1,0 +1,164 @@
+{
+  "nodeId": "node_106_01",
+  "title": "سورة قريش: نعمة الأمن وإطعام الطعام ووجوب عبادة رب البيت",
+  "surahId": 106,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_106_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "لِإِيلَـٰفِ",
+        "لِإِكْرَامِ",
+        "لِحِمَايَةِ",
+        "لِأَمْنِ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "قُرَيْشٍ",
+        "ٱلْعَرَبِ",
+        "مَكَّةَ",
+        "ٱلْحَرَمِ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_106_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلشِّتَآءِ",
+        "ٱلصَّيْفِ",
+        "ٱلْخَرِيفِ",
+        "ٱلرَّبِيعِ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلصَّيْفِ",
+        "وَٱلشِّتَآءِ",
+        "وَٱلْغَدَاةِ",
+        "وَٱلْعَشِىِّ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_106_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "فَلْيَعْبُدُوا۟",
+        "فَلْيَشْكُرُوا۟",
+        "فَلْيَذْكُرُوا۟",
+        "فَلْيُسَبِّحُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_106_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَيْتِ",
+        "ٱلْبَلَدِ",
+        "ٱلْحَرَمِ",
+        "ٱلْمَقَامِ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_106_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "أَطْعَمَهُم",
+        "رَزَقَهُم",
+        "كَفَاهُم",
+        "سَقَاهُم"
+      ]
+    },
+    {
+      "activityId": "act_106_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "جُوعٍۢ",
+        "فَقْرٍ",
+        "ضُرٍّ",
+        "عَطَشٍ"
+      ]
+    },
+    {
+      "activityId": "act_106_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "وَءَامَنَهُم",
+        "وَسَلَّمَهُم",
+        "وَحَفِظَهُم",
+        "وَنَصَرَهُم"
+      ]
+    },
+    {
+      "activityId": "act_106_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 7,
+      "options": [
+        "خَوْفٍۭ",
+        "فَزَعٍ",
+        "حَزَنٍ",
+        "عَذَابٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "قريش",
+    "juz": 30,
+    "theme": "امتنان الله على قريش بتيسير رحلتي الشتاء والصيف والأمن من الخوف وإطعامهم في الحرم، ودعوتهم لإفراد الله بالعبادة"
+  }
+}

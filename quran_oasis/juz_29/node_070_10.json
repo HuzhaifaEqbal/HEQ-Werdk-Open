@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_070_10",
+  "title": "سورة المعارج: رب المشارق والمغارب ويوم الخروج سراعاً من الأجداث",
+  "surahId": 70,
+  "ayahStart": 40,
+  "ayahEnd": 44,
+  "activities": [
+    {
+      "activityId": "act_070_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَشَـٰرِقِ",
+        "ٱلسَّمَاوَاتِ",
+        "ٱلْبِلَادِ",
+        "ٱلْعَالَمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْمَغَـٰرِبِ",
+        "وَٱلْأَرْضِ",
+        "وَٱلْجِبَالِ",
+        "وَٱلنُّجُومِ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_070_10_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "خَيْرًۭا",
+        "أَحْسَنَ",
+        "أَكْثَرَ",
+        "أَقْوَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 8,
+      "options": [
+        "بِمَسْبُوقِينَ",
+        "بِعَاجِزِينَ",
+        "بِمَغْلُوبِينَ",
+        "بِمُعْجِزِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_070_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "يَخُوضُوا۟",
+        "يَمْكُرُوا",
+        "يَكْفُرُوا",
+        "يَسْتَكْبِرُوا"
+      ]
+    },
+    {
+      "activityId": "act_070_10_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "وَيَلْعَبُوا۟",
+        "وَيَمْرَحُوا",
+        "وَيَفْرَحُوا",
+        "وَيَطْغَوْا"
+      ]
+    },
+    {
+      "activityId": "act_070_10_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ]
+    },
+    {
+      "activityId": "act_070_10_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَجْدَاثِ",
+        "ٱلْقُبُورِ",
+        "ٱلْأَرْضِ",
+        "ٱلْمَقَابِرِ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "سِرَاعًۭا",
+        "فِزَاعًا",
+        "خِفَافًا",
+        "أَشْتَاتًا"
+      ]
+    },
+    {
+      "activityId": "act_070_10_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 8,
+      "options": [
+        "نُصُبٍۢ",
+        "وَثَنٍ",
+        "صَنَمٍ",
+        "عَلَمٍ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "يُوفِضُونَ",
+        "يُسْرِعُونَ",
+        "يَرْكُضُونَ",
+        "يَقْصِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_10_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_070_10_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "خَـٰشِعَةً",
+        "ذَلِيلَةً",
+        "بَاكِيَةً",
+        "حَزِينَةً"
+      ]
+    },
+    {
+      "activityId": "act_070_10_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "ذِلَّةٌۭ",
+        "حَسْرَةٌ",
+        "نَدَامَةٌ",
+        "كآبَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "قسم الله بقدرته على إفناء المكذبين واستبدال قوم خير منهم، ووصف خروجهم السريع من القبور أذلاء خاشعة أبصارهم يوم الميعاد"
+  }
+}

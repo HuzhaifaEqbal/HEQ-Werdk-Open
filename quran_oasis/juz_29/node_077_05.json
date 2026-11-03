@@ -1,0 +1,184 @@
+{
+  "nodeId": "node_077_05",
+  "title": "سورة المرسلات: يوم الصمت وانقطاع المعاذير وجمع الأولين والآخرين للفصل",
+  "surahId": 77,
+  "ayahStart": 35,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "activityId": "act_077_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "لَا",
+        "يَتَكَلَّمُونَ",
+        "يَسْمَعُونَ",
+        "يُجِيبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_077_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "يُؤْذَنُ",
+        "يُسْمَحُ",
+        "يُطْلَقُ",
+        "يُقْبَلُ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "فَيَعْتَذِرُونَ",
+        "فَيَشْتَكُونَ",
+        "فَيَرْجِعُونَ",
+        "فَيُنْجَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_077_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِلْكَافِرِينَ",
+        "لِلْمُعْرِضِينَ",
+        "لِلظَّالِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_077_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَصْلِ ۖ",
+        "ٱلْحِسَابِ",
+        "ٱلْجَزَاءِ",
+        "ٱلدِّينِ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "جَمَعْنَـٰكُمْ",
+        "حَشَرْنَاكُمْ",
+        "أَحْضَرْنَاكُمْ",
+        "بَعَثْنَاكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْأَوَّلِينَ",
+        "وَٱلْآخِرِينَ",
+        "وَٱلْأُمَمَ",
+        "وَٱلْخَلَائِقَ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        35
+      ]
+    },
+    {
+      "activityId": "act_077_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "كَيْدٌۭ",
+        "مَكْرٌ",
+        "حِيلَةٌ",
+        "سُلْطَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_077_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "فَكِيدُونِ",
+        "فَٱمْكُرُوا",
+        "فَٱنْجُوا",
+        "فَٱحْذَرُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_05_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_077_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيْلٌۭ",
+        "ثُبُورٌ",
+        "هَلَاكٌ",
+        "خِزْىٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "سكوت المكذبين في مواقف الحساب لعظم الهول وانقطاع معاذيرهم، وجمع الخلائق أجمعين في يوم الفصل الحاسم وتحديهم إن كان لهم كيد."
+  }
+}

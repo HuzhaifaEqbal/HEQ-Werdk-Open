@@ -1,0 +1,152 @@
+{
+  "nodeId": "node_057_03",
+  "title": "سورة الحديد: الدعوة للبذل والإنفاق وفضل السبق بالجهاد قبل الفتح",
+  "surahId": 57,
+  "ayahStart": 7,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_057_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "فِيهِ ۖ",
+        "مُّسَلَّطِينَ",
+        "مَّالِكِينَ",
+        "مُؤْتَمَنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 15,
+      "options": [
+        "كَبِيرٌۭ",
+        "عَظِيمٌ",
+        "كَرِيمٌ",
+        "ثَابِتٌ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_057_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 12,
+      "options": [
+        "مِيثَـٰقَكُمْ",
+        "عَهْدَكُمْ",
+        "وَعْدَكُمْ",
+        "إِيمَانَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_057_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 6,
+      "options": [
+        "ءَايَـٰتٍۭ",
+        "وَاضِحَاتٍ",
+        "مُّبِينَاتٍ",
+        "مُّفَصَّلَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلظُّلُمَـٰتِ",
+        "ٱلضَّلَالِ",
+        "ٱلْكُفْرِ",
+        "ٱلْجَهْلِ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلنُّورِ ۚ",
+        "ٱلْحَقِّ",
+        "ٱلْإِيمَانِ",
+        "ٱلْهُدَى"
+      ]
+    },
+    {
+      "activityId": "act_057_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_057_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "مُلْكُ",
+        "خَزَائِنُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 20,
+      "options": [
+        "وَقَـٰتَلَ ۚ",
+        "ٱلْحُدَيْبِيَةِ",
+        "بَدْرٍ",
+        "ٱلنَّصْرِ"
+      ]
+    },
+    {
+      "activityId": "act_057_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 33,
+      "options": [
+        "ٱلْحُسْنَىٰ ۚ",
+        "ٱلْجَنَّةَ",
+        "ٱلْمَغْفِرَةَ",
+        "ٱلْفَوْزَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحديد",
+    "juz": 27,
+    "theme": "الحث على الإيمان بالله ورسوله والإنفاق مما استخلف الله العباد فيه، وتفضيل درجة من أنفق وقاتل قبل فتح مكة."
+  }
+}

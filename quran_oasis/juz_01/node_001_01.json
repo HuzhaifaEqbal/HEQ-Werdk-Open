@@ -1,0 +1,140 @@
+{
+  "nodeId": "hifz_001_01",
+  "title": "سورة الفاتحة - أم الكتاب والسبع المثاني",
+  "surahId": 1,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرَّحْمَـٰنِ",
+        "نَسْتَعِينُ",
+        "ٱلدِّينِ",
+        "ٱلصِّرَٰطَ"
+      ],
+      "activityId": "act_001_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_001_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَٰلَمِينَ",
+        "ٱلضَّآلِّينَ",
+        "ٱلْمَغْضُوبِ",
+        "ٱلرَّحْمَـٰنِ"
+      ],
+      "activityId": "act_001_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_001_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْحَمْدُ",
+        "ٱلصِّرَٰطَ",
+        "نَعْبُدُ"
+      ],
+      "activityId": "act_001_01_05"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "نَسْتَعِينُ",
+        "ٱلرَّحْمَـٰنِ",
+        "ٱلْعَٰلَمِينَ",
+        "ٱلدِّينِ"
+      ],
+      "activityId": "act_001_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلصِّرَٰطَ",
+        "ٱلْحَمْدُ",
+        "ٱلدِّينِ",
+        "نَعْبُدُ"
+      ],
+      "activityId": "act_001_01_07"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُسْتَقِيمَ",
+        "ٱلضَّآلِّينَ",
+        "ٱلْعَٰلَمِينَ",
+        "ٱلْمَغْضُوبِ"
+      ],
+      "activityId": "act_001_01_08"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_001_01_09"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمَغْضُوبِ",
+        "ٱلضَّآلِّينَ",
+        "ٱلْعَٰلَمِينَ",
+        "ٱلْمُسْتَقِيمَ"
+      ],
+      "activityId": "act_001_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلضَّآلِّينَ",
+        "ٱلْمَغْضُوبِ",
+        "ٱلْعَٰلَمِينَ",
+        "نَسْتَعِينُ"
+      ],
+      "activityId": "act_001_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفاتحة",
+    "juz": 1,
+    "theme": "تفتتح سورة الفاتحة بحمد الله والثناء عليه، وتعرّف العبد بربه الرحمن ومالك يوم الدين. ثم تعلّم إخلاص العبادة والاستعانة بالله، وتسأل الهداية إلى الصراط المستقيم، طريق من أنعم الله عليهم، مع الاستعاذة من سلوك طريق المغضوب عليهم والضالين."
+  }
+}

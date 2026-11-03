@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_009_07",
+  "title": "سورة التوبة - الآيات 37-42",
+  "surahId": 9,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 12,
+      "options": [
+        "وَيُحَرِّمُونَهُۥ",
+        "وَسَيَحْلِفُونَ",
+        "بِأَمْوَٰلِكُمْ",
+        "ٱلْـَٔاخِرَةِ ۚ"
+      ],
+      "activityId": "act_009_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_009_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱثَّاقَلْتُمْ",
+        "وَأَنفُسِكُمْ",
+        "يُحِلُّونَهُۥ",
+        "ٱلسُّفْلَىٰ ۗ"
+      ],
+      "activityId": "act_009_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_009_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَسْتَبْدِلْ",
+        "لَّٱتَّبَعُوكَ",
+        "ٱلْكَـٰفِرِينَ",
+        "بِٱلْحَيَوٰةِ"
+      ],
+      "activityId": "act_009_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_009_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 26,
+      "options": [
+        "سَكِينَتَهُۥ",
+        "ٱسْتَطَعْنَا",
+        "ٱثَّاقَلْتُمْ",
+        "وَيَسْتَبْدِلْ"
+      ],
+      "activityId": "act_009_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_009_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "بِأَمْوَٰلِكُمْ",
+        "أَعْمَـٰلِهِمْ ۗ",
+        "لِّيُوَاطِـُٔوا۟",
+        "سَكِينَتَهُۥ"
+      ],
+      "activityId": "act_009_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_009_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 12,
+      "options": [
+        "وَسَيَحْلِفُونَ",
+        "وَيُحَرِّمُونَهُۥ",
+        "ٱلْعُلْيَا ۗ",
+        "بِأَمْوَٰلِكُمْ"
+      ],
+      "activityId": "act_009_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

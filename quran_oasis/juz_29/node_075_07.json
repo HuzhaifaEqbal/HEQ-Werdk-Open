@@ -1,0 +1,234 @@
+{
+  "nodeId": "node_075_07",
+  "title": "سورة القيامة: أطوار خلق الإنسان وقدرة الله على إحياء الموتى",
+  "surahId": 75,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "activityId": "act_075_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 1,
+      "options": [
+        "أَيَحْسَبُ",
+        "أَيَظُنُّ",
+        "أَيَعْلَمُ",
+        "أَيَطْمَعُ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنُ",
+        "ٱلْكَافِرُ",
+        "ٱلْمُجْرِمُ",
+        "ٱلظَّالِمُ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "سُدًى",
+        "عَبَثًا",
+        "بَاطِلًا",
+        "هَبَاءً"
+      ]
+    },
+    {
+      "activityId": "act_075_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_075_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "نُطْفَةًۭ",
+        "عَلَقَةً",
+        "مُضْغَةً",
+        "طِينًا"
+      ]
+    },
+    {
+      "activityId": "act_075_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "مَّنِىٍّۢ",
+        "مَاءٍ",
+        "طِينٍ",
+        "تُرَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 6,
+      "options": [
+        "يُمْنَىٰ",
+        "تُخْلَقُ",
+        "تُصَبُّ",
+        "تُهْرَاقُ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_075_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 3,
+      "options": [
+        "عَلَقَةًۭ",
+        "مُضْغَةً",
+        "نُطْفَةً",
+        "عِظَامًا"
+      ]
+    },
+    {
+      "activityId": "act_075_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "فَخَلَقَ",
+        "فَصَوَّرَ",
+        "فَعَدَلَ",
+        "فَأَنْشَأَ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "فَسَوَّىٰ",
+        "فَعَدَلَ",
+        "فَهَدَىٰ",
+        "فَأَحْكَمَ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ]
+    },
+    {
+      "activityId": "act_075_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلزَّوْجَيْنِ",
+        "ٱلصِّنْفَيْنِ",
+        "ٱلْخَلْقَ",
+        "ٱلْأَزْوَاجَ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلذَّكَرَ",
+        "ٱلْإِنْسَانَ",
+        "ٱلْبَشَرَ",
+        "ٱلْخَلِيقَةَ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْأُنثَىٰٓ",
+        "وَٱلْأُنثَيَيْنِ",
+        "وَٱلْأَزْوَاجَ",
+        "وَٱلصِّنْفَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_075_07_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "بِقَـٰدِرٍ",
+        "بِعَالِمٍ",
+        "بِصَادِقٍ",
+        "بِحَكِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 6,
+      "options": [
+        "يُحْـِۧىَ",
+        "يَبْعَثَ",
+        "يَخْلُقَ",
+        "يُعِيدَ"
+      ]
+    },
+    {
+      "activityId": "act_075_07_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَوْتَىٰ",
+        "ٱلْخَلْقَ",
+        "ٱلْعِبَادَ",
+        "ٱلْأَجْسَادَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "الاستدلال بأطوار خلق الإنسان العجيبة من نطفة فعلقة ثم تسويته ذكراً وأنثى، على كمال قدرة الله سبحانه على بعث الموتى وإحيائهم."
+  }
+}

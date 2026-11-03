@@ -1,0 +1,296 @@
+{
+  "nodeId": "node_059_07",
+  "title": "سورة الحشر: خشوع الجبال للقرآن وعظمة أسماء الله الحسنى وصفاته العلى",
+  "surahId": 59,
+  "ayahStart": 21,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "activityId": "act_059_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "جَبَلٍۢ",
+        "حَجَرٍ",
+        "أَرْضٍ",
+        "صَخْرٍ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 8,
+      "options": [
+        "خَـٰشِعًۭا",
+        "ذَلِيلًا",
+        "سَاجِدًا",
+        "مُنْقَادًا"
+      ]
+    },
+    {
+      "activityId": "act_059_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 9,
+      "options": [
+        "مُّتَصَدِّعًۭا",
+        "مُتَفَتِّتًا",
+        "مُنْشَقًّا",
+        "هَابِطًا"
+      ]
+    },
+    {
+      "activityId": "act_059_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 11,
+      "options": [
+        "خَشْيَةِ",
+        "مَخَافَةِ",
+        "هَيْبَةِ",
+        "إِجْلَالِ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 18,
+      "options": [
+        "يَتَفَكَّرُونَ",
+        "يَتَذَكَّرُونَ",
+        "يَخْشَعُونَ",
+        "يَهْتَدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_059_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 5,
+      "options": [
+        "إِلَـٰهَ",
+        "رَبَّ",
+        "خَالِقَ",
+        "مَعْبُودَ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 8,
+      "options": [
+        "عَـٰلِمُ",
+        "خَالِقُ",
+        "مَالِكُ",
+        "شَاهِدُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلشَّهَـٰدَةِ ۖ",
+        "وَٱلْعَلَانِيَةِ",
+        "وَٱلسِّرِّ",
+        "وَٱلْأَمْرِ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        21
+      ]
+    },
+    {
+      "activityId": "act_059_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمَلِكُ",
+        "ٱلْحَاكِمُ",
+        "ٱلْقَادِرُ",
+        "ٱلْأَوَّلُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْقُدُّوسُ",
+        "ٱلطَّاهِرُ",
+        "ٱلْمُنَزَّهُ",
+        "ٱلْعَظِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلسَّلَـٰمُ",
+        "ٱلْكَرِيمُ",
+        "ٱلْوَافِى",
+        "ٱلْحَبِيبُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْمُؤْمِنُ",
+        "ٱلصَّادِقُ",
+        "ٱلْأَمِينُ",
+        "ٱلْمُحْسِنُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْمُهَيْمِنُ",
+        "ٱلشَّهِيدُ",
+        "ٱلْحَفِيظُ",
+        "ٱلرَّقِيبُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُتَكَبِّرُ ۚ",
+        "ٱلْعَظِيمُ",
+        "ٱلْقَاهِرُ",
+        "ٱلْمَاجِدُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 19,
+      "options": [
+        "يُشْرِكُونَ",
+        "يَصِفُونَ",
+        "يَفْتَرُونَ",
+        "يَزْعُمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_059_07_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْخَـٰلِقُ",
+        "ٱلْفَاطِرُ",
+        "ٱلْمُبْدِعُ",
+        "ٱلْأَوَّلُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَارِئُ",
+        "ٱلْمُنْشِئُ",
+        "ٱلْوَاهِبُ",
+        "ٱلْمُقَدِّرُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُصَوِّرُ ۖ",
+        "ٱلْمُبْدِعُ",
+        "ٱلْمُحْسِنُ",
+        "ٱلْمُنَظِّمُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْحُسْنَىٰ ۚ",
+        "ٱلْعُظْمَىٰ",
+        "ٱلْمُبَارَكَةُ",
+        "ٱلْجَلِيلَةُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْغَفُورُ",
+        "ٱلْعَلِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_059_07_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلْعَلِيمُ",
+        "ٱلرَّحِيمُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "عظمة تأثير القرآن وهيبته لو نزل على الجبال الصم لتصدعت من خشية الله، وختام السورة العظيم بآيات أسماء الله الحسنى وصفاته الجامعة للكمال والجلال والتسبيح المطلق له."
+  }
+}

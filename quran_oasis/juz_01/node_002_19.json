@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_19",
+  "title": "سورة البقرة - الآيات 90-94",
+  "surahId": 2,
+  "ayahStart": 90,
+  "ayahEnd": 94,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 25,
+      "options": [
+        "وَلِلۡكَٰفِرِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_002_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 13,
+      "options": [
+        "وَيَكۡفُرُونَ",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاذَانِهِم",
+        "بِٱلۡبَيِّنَٰتِ"
+      ],
+      "activityId": "act_002_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_002_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلۡبَيِّنَٰتِ",
+        "وَيَكۡفُرُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_002_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَاتَيۡنَٰكُم",
+        "ءَاذَانِهِم",
+        "بِٱلۡبَيِّنَٰتِ",
+        "وَيَكۡفُرُونَ"
+      ],
+      "activityId": "act_002_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_002_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡأٓخِرَةُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض أحوال من أوتوا الكتاب ثم أعرضوا عنه، ويبين أن الأعمال لا تضيع وأن الله محيط بما يعملون."
+  }
+}

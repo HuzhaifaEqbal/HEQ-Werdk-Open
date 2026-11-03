@@ -1,0 +1,282 @@
+{
+  "nodeId": "node_065_03",
+  "title": "سورة الطلاق: مصير القرى العاتية ورسالة النور وعظمة خلق السماوات",
+  "surahId": 65,
+  "ayahStart": 8,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "activityId": "act_065_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "عَتَتْ",
+        "عَصَتْ",
+        "خَالَفَتْ",
+        "تَمَرَّدَتْ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "شَدِيدًۭا",
+        "عَسِيرًا",
+        "أَلِيمًا",
+        "عَظِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_065_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 14,
+      "options": [
+        "نُّكْرًۭا",
+        "شَدِيدًا",
+        "أَلِيمًا",
+        "عَظِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_065_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_065_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "وَبَالَ",
+        "سُوءَ",
+        "شُؤْمَ",
+        "عِقَابَ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "خُسْرًا",
+        "دَمَارًا",
+        "هَلَاكًا",
+        "بَوَارًا"
+      ]
+    },
+    {
+      "activityId": "act_065_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_065_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 1,
+      "options": [
+        "أَعَدَّ",
+        "هَيَّأَ",
+        "جَعَلَ",
+        "قَضَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَلْبَـٰبِ",
+        "ٱلْعُقُولِ",
+        "ٱلْبَصَائِرِ",
+        "ٱلنُّهَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "ذِكْرًۭا",
+        "نُورًا",
+        "كِتَابًا",
+        "هُدًى"
+      ]
+    },
+    {
+      "activityId": "act_065_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        8
+      ]
+    },
+    {
+      "activityId": "act_065_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "مُبَيِّنَـٰتٍۢ",
+        "وَاضِحَاتٍ",
+        "مُّحْكَمَاتٍ",
+        "ظَاهِرَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "لِّيُخْرِجَ",
+        "لِّيَهْدِىَ",
+        "لِّيُنْقِذَ",
+        "لِّيُعِينَ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلظُّلُمَـٰتِ",
+        "ٱلْبَاطِلِ",
+        "ٱلْكُفْرِ",
+        "ٱلضَّلَالِ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلنُّورِ ۚ",
+        "ٱلْحَقِّ",
+        "ٱلْهُدَىٰ",
+        "ٱلْإِيمَانِ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 26,
+      "options": [
+        "ٱلْأَنْهَـٰرُ",
+        "ٱلْعُيُونُ",
+        "ٱلنَّعِيمُ",
+        "ٱلثِّمَارُ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 34,
+      "options": [
+        "رِزْقًا",
+        "فَضْلًا",
+        "ثَوَابًا",
+        "جَزَاءً"
+      ]
+    },
+    {
+      "activityId": "act_065_03_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_065_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "سَبْعَ",
+        "تِسْعَ",
+        "خَمْسَ",
+        "أَرْبَعَ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْأَمْرُ",
+        "ٱلْوَحْىُ",
+        "ٱلْقَدَرُ",
+        "ٱلْحُكْمُ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 18,
+      "options": [
+        "قَدِيرٌۭ",
+        "عَلِيمٌ",
+        "عَظِيمٌ",
+        "خَبِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 22,
+      "options": [
+        "أَحَاطَ",
+        "عَلِمَ",
+        "شَهِدَ",
+        "أَبْصَرَ"
+      ]
+    },
+    {
+      "activityId": "act_065_03_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 25,
+      "options": [
+        "عِلْمًۢا",
+        "حِكْمَةً",
+        "قُدْرَةً",
+        "سُلْطَانًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطلاق",
+    "juz": 28,
+    "theme": "العظة بمصير القرى التي تمردت وعصت أمر ربها ورسله فعذبها الله، وإنزال الذكر وإرسال الرسول لإخراج المؤمنين من الظلمات إلى النور، وخلق السماوات السبع وإحاطة علم الله بكل شيء."
+  }
+}

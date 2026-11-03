@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_089_01",
+  "title": "سورة الفجر - المقطع الأول (القَسَم بالفجر والليال العشر والشفع والوتر)",
+  "surahId": 89,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلْفَجْرِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْفَجْرِ",
+        "وَٱلشَّمْسِ",
+        "وَٱلْعَصْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَلَيَالٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَيَالٍ",
+        "وَأَيَّامٍ",
+        "وَسِنِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "عَشْرٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "عَشْرٍ",
+        "سَبْعٍ",
+        "أَرْبَعٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَٱلشَّفْعِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلشَّفْعِ",
+        "وَٱلْفَرْدِ",
+        "وَٱلْجَمْعِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَٱلْوَتْرِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلْوَتْرِ",
+        "وَٱلْفَجْرِ",
+        "وَٱلْيَوْمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَٱلَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلَّيْلِ",
+        "وَٱلصُّبْحِ",
+        "وَٱلنَّهَارِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "يَسْرِ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَسْرِ",
+        "يَغْشَى",
+        "سَجَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "قَسَمٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "قَسَمٌ",
+        "عِبْرَةٌ",
+        "آيَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "حِجْرٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "حِجْرٍ",
+        "عَقْلٍ",
+        "لُبٍّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بوقت انفجار الصبح ونوره المبدد لظلام الليل، وبالليالي العشر الفاضلة المباركة (عشر ذي الحجة)، وبكل زوج وفرد من الخلق والخالق، وبالليل إذا يسري بظلامه ثم يزول ويذهب؛ أليس في هذا القسم العظيم مقنع وكفاية لصاحب عقل ولبّ سليم يتدبر آيات الله ويزدجر بها عن المعاصي؟!"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_22",
+  "title": "سورة الأنعام - الآيات 123-128",
+  "surahId": 6,
+  "ayahStart": 123,
+  "ayahEnd": 128,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 7,
+      "options": [
+        "مُجْرِمِيهَا",
+        "ٱلسَّمَآءِ ۚ",
+        "لِلْإِسْلَـٰمِ ۖ",
+        "جَآءَتْهُمْ"
+      ],
+      "activityId": "act_006_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "wrongOptionsAyahNumbers": [
+        125,
+        121
+      ],
+      "activityId": "act_006_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 18,
+      "options": [
+        "رِسَالَتَهُۥ ۗ",
+        "ٱسْتَكْثَرْتُم",
+        "أَوْلِيَآؤُهُم",
+        "مُسْتَقِيمًۭا ۗ"
+      ],
+      "activityId": "act_006_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "wrongOptionsAyahNumbers": [
+        126,
+        122
+      ],
+      "activityId": "act_006_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 8,
+      "options": [
+        "لِلْإِسْلَـٰمِ ۖ",
+        "بِأَنفُسِهِمْ",
+        "لِيَمْكُرُوا۟",
+        "مُجْرِمِيهَا"
+      ],
+      "activityId": "act_006_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_006_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 4,
+      "options": [
+        "مُسْتَقِيمًۭا ۗ",
+        "رِسَالَتَهُۥ ۗ",
+        "أَوْلِيَآؤُهُم",
+        "ٱسْتَكْثَرْتُم"
+      ],
+      "activityId": "act_006_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_006_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 10,
+      "options": [
+        "يَعْمَلُونَ",
+        "أَجْرَمُوا۟",
+        "يَشْعُرُونَ",
+        "يَمْكُرُونَ"
+      ],
+      "activityId": "act_006_22_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "wrongOptionsAyahNumbers": [
+        129,
+        125
+      ],
+      "activityId": "act_006_22_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱسْتَكْثَرْتُم",
+        "رِسَالَتَهُۥ ۗ",
+        "مُسْتَقِيمًۭا ۗ",
+        "بِأَنفُسِهِمْ"
+      ],
+      "activityId": "act_006_22_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

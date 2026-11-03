@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_21",
+  "title": "سورة الأعراف - الآيات 118-123",
+  "surahId": 7,
+  "ayahStart": 118,
+  "ayahEnd": 123,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 6,
+      "options": [
+        "يَعْمَلُونَ",
+        "أَهْلَهَا ۖ",
+        "تَعْلَمُونَ",
+        "فَغُلِبُوا۟"
+      ],
+      "activityId": "act_007_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "wrongOptionsAyahNumbers": [
+        120,
+        116
+      ],
+      "activityId": "act_007_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱنقَلَبُوا۟",
+        "لِتُخْرِجُوا۟",
+        "مَّكَرْتُمُوهُ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_007_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "wrongOptionsAyahNumbers": [
+        121,
+        117
+      ],
+      "activityId": "act_007_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّحَرَةُ",
+        "يَعْمَلُونَ",
+        "ءَامَنتُم",
+        "أَهْلَهَا ۖ"
+      ],
+      "activityId": "act_007_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_007_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْمَدِينَةِ",
+        "مَّكَرْتُمُوهُ",
+        "لِتُخْرِجُوا۟"
+      ],
+      "activityId": "act_007_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_007_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 3,
+      "options": [
+        "وَهَـٰرُونَ",
+        "سَـٰجِدِينَ",
+        "صَـٰغِرِينَ",
+        "فِرْعَوْنُ"
+      ],
+      "activityId": "act_007_21_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "wrongOptionsAyahNumbers": [
+        124,
+        120
+      ],
+      "activityId": "act_007_21_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 12,
+      "options": [
+        "مَّكَرْتُمُوهُ",
+        "ٱلْعَـٰلَمِينَ",
+        "وَٱنقَلَبُوا۟",
+        "ٱلسَّحَرَةُ"
+      ],
+      "activityId": "act_007_21_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_21",
+  "title": "سورة المائدة - الآيات 97-101",
+  "surahId": 5,
+  "ayahStart": 97,
+  "ayahEnd": 101,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلْقَلَـٰٓئِدَ ۚ",
+        "ٱلْخَبِيثِ ۚ",
+        "ٱلْقُرْءَانُ",
+        "ٱلْأَلْبَـٰبِ"
+      ],
+      "activityId": "act_005_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_005_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعِقَابِ",
+        "ءَامَنُوا۟",
+        "ٱلرَّسُولِ",
+        "ٱلْحَرَامَ"
+      ],
+      "activityId": "act_005_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_005_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرَّسُولِ",
+        "ٱلْخَبِيثُ",
+        "ٱلْعِقَابِ",
+        "تُفْلِحُونَ"
+      ],
+      "activityId": "act_005_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_005_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْخَبِيثِ ۚ",
+        "لِتَعْلَمُوٓا۟",
+        "ٱلْقُرْءَانُ",
+        "تَكْتُمُونَ"
+      ],
+      "activityId": "act_005_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_005_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْقُرْءَانُ",
+        "ٱلْخَبِيثِ ۚ",
+        "لِتَعْلَمُوٓا۟",
+        "وَٱلطَّيِّبُ"
+      ],
+      "activityId": "act_005_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

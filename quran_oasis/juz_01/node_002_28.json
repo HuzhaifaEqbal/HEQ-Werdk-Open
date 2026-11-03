@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_002_28",
+  "title": "سورة البقرة - الآيات 135-138",
+  "surahId": 2,
+  "ayahStart": 135,
+  "ayahEnd": 138,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلۡمُشۡرِكِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "وَٱلۡأَسۡبَاطِ"
+      ],
+      "activityId": "act_002_28_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "wrongOptionsAyahNumbers": [
+        137,
+        133
+      ],
+      "activityId": "act_002_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلۡأَسۡبَاطِ",
+        "ٱلۡمُشۡرِكِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ"
+      ],
+      "activityId": "act_002_28_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "wrongOptionsAyahNumbers": [
+        138,
+        134
+      ],
+      "activityId": "act_002_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 15,
+      "options": [
+        "فَسَيَكۡفِيكَهُمُ",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "وَٱلۡأَسۡبَاطِ"
+      ],
+      "activityId": "act_002_28_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 137,
+      "correctNextAyahNumber": 138,
+      "wrongOptionsAyahNumbers": [
+        139,
+        135
+      ],
+      "activityId": "act_002_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 10,
+      "options": [
+        "عَٰبِدُونَ",
+        "ءَامَنَّا",
+        "ءَايَٰتِكَ",
+        "ٱلۡمُشۡرِكِينَ"
+      ],
+      "activityId": "act_002_28_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يأمر الله المؤمنين بالإيمان الجامع بالأنبياء والكتب، ويصف صبغة الله التي تميز أهل الإيمان."
+  }
+}

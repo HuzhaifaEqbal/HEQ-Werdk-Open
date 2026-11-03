@@ -1,0 +1,72 @@
+[
+  {
+    "id": 102,
+    "name": "ماهر المعيقلي",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server12.mp3quran.net/maher/",
+    "image_path": "assets/images/reciters/maher.png"
+  },
+  {
+    "id": 107,
+    "name": "محمد اللحيدان",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server8.mp3quran.net/lhdan/",
+    "image_path": "assets/images/reciters/luhaidan.png"
+  },
+  {
+    "id": 12,
+    "name": "إدريس أبكر",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server6.mp3quran.net/abkr/",
+    "image_path": "assets/images/reciters/idris.png"
+  },
+  {
+    "id": 123,
+    "name": "مشاري العفاسي",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server8.mp3quran.net/afs/",
+    "image_path": "assets/images/reciters/alafasy.png"
+  },
+  {
+    "id": 221,
+    "name": "رعد محمد الكردي",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server6.mp3quran.net/kurdi/",
+    "image_path": "assets/images/reciters/raad.png"
+  },
+  {
+    "id": 231,
+    "name": "هزاع البلوشي",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server11.mp3quran.net/hazza/",
+    "image_path": "assets/images/reciters/hazza.png"
+  },
+  {
+    "id": 31,
+    "name": "سعود الشريم",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server7.mp3quran.net/shur/",
+    "image_path": "assets/images/reciters/shuraim.png"
+  },
+  {
+    "id": 92,
+    "name": "ياسر الدوسري",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server11.mp3quran.net/yasser/",
+    "image_path": "assets/images/reciters/dosari.png"
+  },
+  {
+    "id": 137,
+    "name": "أحمد طالب بن حميد",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server16.mp3quran.net/a_binhameed/Rewayat-Hafs-A-n-Assem/",
+    "image_path": "assets/images/reciters/ahmad_taleb.png"
+  },
+  {
+    "id": 53,
+    "name": "ناصر القطامي",
+    "rewaya": "حفص عن عاصم",
+    "server": "https://server6.mp3quran.net/qtm/",
+    "image_path": "assets/images/reciters/qatami.png"
+  }
+]

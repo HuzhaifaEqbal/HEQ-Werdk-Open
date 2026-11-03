@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_093_01",
+  "title": "سورة الضحى - المقطع الأول (القَسَم بالضحى والليل ورعاية الله لنبيه وبشارة العطاء)",
+  "surahId": 93,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلضُّحَىٰ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلضُّحَىٰ",
+        "وَٱلْفَجْرِ",
+        "وَٱلْعَصْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَٱلَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلَّيْلِ",
+        "وَٱلنَّهَارِ",
+        "وَٱلصُّبْحِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "سَجَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "سَجَىٰ",
+        "يَغْشَى",
+        "يَسْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَدَّعَكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَدَّعَكَ",
+        "تَرَكَكَ",
+        "نَسِيَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "قَلَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "قَلَىٰ",
+        "أَبْغَضَ",
+        "سَخِطَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "خَيْرٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَيْرٌ",
+        "أَفْضَلُ",
+        "أَعْظَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْأُولَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأُولَىٰ",
+        "ٱلدُّنْيَا",
+        "ٱلْعَاجِلَةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "يُعْطِيكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُعْطِيكَ",
+        "يَجْزِيكَ",
+        "يُؤْتِيكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "فَتَرْضَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَتَرْضَىٰ",
+        "فَتَفْرَحَ",
+        "فَتَفُوزَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بوقت الضحى وإشراق ضيائه، وبالليل إذا سكن واشتد ظلامه؛ ما تركك ربك يا محمد وما أبغضك كما زعم المشركون عند فتور الوحي، وللدار الآخرة وما أعد الله لك فيها من المقامات العالية والشفاعة خير لك من هذه الدار الفانية، ولسوف يعطيك ربك من خيري الدنيا والآخرة والكرامة والشفاعة لأمتك حتى ترضى ويقرّ خاطرك الشريف."
+  }
+}

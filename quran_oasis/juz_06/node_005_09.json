@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_09",
+  "title": "سورة المائدة - الآيات 41-45",
+  "surahId": 5,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 31,
+      "options": [
+        "مَوَاضِعِهِۦ ۖ",
+        "وَٱلْأَحْبَارُ",
+        "ٱسْتُحْفِظُوا۟",
+        "ٱلْمُقْسِطِينَ"
+      ],
+      "activityId": "act_005_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_005_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 26,
+      "options": [
+        "ٱلْمُقْسِطِينَ",
+        "فَٱحْذَرُوا۟ ۚ",
+        "مَوَاضِعِهِۦ ۖ",
+        "وَٱلْأَحْبَارُ"
+      ],
+      "activityId": "act_005_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ],
+      "activityId": "act_005_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 15,
+      "options": [
+        "بِٱلْمُؤْمِنِينَ",
+        "وَٱلرَّبَّـٰنِيُّونَ",
+        "فَٱحْذَرُوا۟ ۚ",
+        "مَوَاضِعِهِۦ ۖ"
+      ],
+      "activityId": "act_005_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_005_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلرَّبَّـٰنِيُّونَ",
+        "بِٱلْمُؤْمِنِينَ",
+        "ٱلْمُقْسِطِينَ",
+        "فَٱحْذَرُوا۟ ۚ"
+      ],
+      "activityId": "act_005_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_005_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 15,
+      "options": [
+        "وَٱلْجُرُوحَ",
+        "بِٱلْقِسْطِ ۚ",
+        "قُلُوبُهُمْ ۛ",
+        "ٱلتَّوْرَىٰةُ"
+      ],
+      "activityId": "act_005_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

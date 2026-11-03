@@ -1,0 +1,134 @@
+{
+  "nodeId": "node_074_06",
+  "title": "سورة المدثر: حكمة عدد ملائكة سقر وجنود الرب التي لا يعلمها إلا هو",
+  "surahId": 74,
+  "ayahStart": 31,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "activityId": "act_074_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "مَلَـٰٓئِكَةًۭ",
+        "جِنًّا",
+        "بَشَرًا",
+        "حُرَّاسًا"
+      ]
+    },
+    {
+      "activityId": "act_074_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 9,
+      "options": [
+        "عِدَّتَهُمْ",
+        "خَلْقَهُمْ",
+        "قُوَّتَهُمْ",
+        "بَأْسَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 11,
+      "options": [
+        "فِتْنَةًۭ",
+        "عَذَابًا",
+        "حُجَّةً",
+        "بَلَاءً"
+      ]
+    },
+    {
+      "activityId": "act_074_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 14,
+      "options": [
+        "لِيَسْتَيْقِنَ",
+        "لِيَعْلَمَ",
+        "لِيُؤْمِنَ",
+        "لِيَفْقَهَ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 18,
+      "options": [
+        "وَيَزْدَادَ",
+        "وَيَثْبُتَ",
+        "وَيَقْوَى",
+        "وَيَعْظُمَ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 23,
+      "options": [
+        "يَرْتَابَ",
+        "يَشُكَّ",
+        "يَخْتَلِفَ",
+        "يَتَرَدَّدَ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 32,
+      "options": [
+        "مَّرَضٌۭ",
+        "نِفَاقٌ",
+        "شَكٌّ",
+        "كُفْرٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 40,
+      "options": [
+        "يُضِلُّ",
+        "يَهْدِى",
+        "يُعَاقِبُ",
+        "يَخْذُلُ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 49,
+      "options": [
+        "جُنُودَ",
+        "أَمْرَ",
+        "خَلْقَ",
+        "مَلَائِكَةَ"
+      ]
+    },
+    {
+      "activityId": "act_074_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 56,
+      "options": [
+        "ذِكْرَىٰ",
+        "عَذَابٌ",
+        "نُورٌ",
+        "هُدًى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "الحكمة الإلهية في جعل خزنة النار تسعة عشر ملكاً: فتنة للكفار، ويقيناً لأهل الكتاب، وزيادة في إيمان المؤمنين، وبيان أن جنود الله لا يعلم كثرتها إلا هو"
+  }
+}

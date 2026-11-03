@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_054_03",
+  "title": "سورة القمر: ريح صرصر عاتية تقتلع قوم عاد كأعجاز نخل منقعر",
+  "surahId": 54,
+  "ayahStart": 18,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "activityId": "act_054_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "عَادٌۭ",
+        "ثَمُودُ",
+        "قَوْمُ لُوطٍ",
+        "فِرْعَوْنُ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "وَنُذُرِ",
+        "وَبَأْسِى",
+        "وَبَطْشِى",
+        "وَعِقَابِى"
+      ]
+    },
+    {
+      "activityId": "act_054_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_054_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "صَرْصَرًۭا",
+        "عَقِيمًا",
+        "عَاصِفًا",
+        "شَدِيدًا"
+      ]
+    },
+    {
+      "activityId": "act_054_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 8,
+      "options": [
+        "نَحْسٍۢ",
+        "شُؤْمٍ",
+        "عَذَابٍ",
+        "هَلَاكٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 9,
+      "options": [
+        "مُّسْتَمِرٍّۢ",
+        "مُّتَتَابِعٍ",
+        "شَدِيدٍ",
+        "أَلِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_054_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 1,
+      "options": [
+        "تَنزِعُ",
+        "تَقْلَعُ",
+        "تَصْرَعُ",
+        "تَهْلِكُ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "أَعْجَازُ",
+        "أُصُولُ",
+        "جُذُوعُ",
+        "فُرُوعُ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّنقَعِرٍۢ",
+        "خَاوِيَةٍ",
+        "مُنْكَسِرٍ",
+        "يَابِسٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_054_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "عَذَابِى",
+        "بَأْسِى",
+        "بَطْشِى",
+        "سَخَطِى"
+      ]
+    },
+    {
+      "activityId": "act_054_03_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_054_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "مِن",
+        "مُّتَّعِظٍ",
+        "مُّسْتَبْصِرٍ",
+        "مُّفَكِّرٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القمر",
+    "juz": 27,
+    "theme": "إهلاك قبيلة عاد بريح صرصر عاتية اقتلعتهم من الأرض كجذوع النخل المنقلع، وتكرار آية تيسير القرآن."
+  }
+}

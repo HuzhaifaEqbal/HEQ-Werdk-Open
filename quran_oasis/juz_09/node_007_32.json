@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_32",
+  "title": "سورة الأعراف - الآيات 184-189",
+  "surahId": 7,
+  "ayahStart": 184,
+  "ayahEnd": 189,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 184,
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَفَكَّرُوا۟ ۗ",
+        "لَٱسْتَكْثَرْتُ",
+        "ٱلشَّـٰكِرِينَ",
+        "مُرْسَىٰهَا ۖ"
+      ],
+      "activityId": "act_007_32_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 184,
+      "correctNextAyahNumber": 185,
+      "wrongOptionsAyahNumbers": [
+        186,
+        182
+      ],
+      "activityId": "act_007_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 185,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنظُرُوا۟",
+        "ٱلسَّاعَةِ",
+        "إِلَيْهَا ۖ",
+        "تَأْتِيكُمْ"
+      ],
+      "activityId": "act_007_32_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 185,
+      "correctNextAyahNumber": 186,
+      "wrongOptionsAyahNumbers": [
+        187,
+        183
+      ],
+      "activityId": "act_007_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 186,
+      "missingWordPosition": 7,
+      "options": [
+        "وَيَذَرُهُمْ",
+        "أَجَلُهُمْ ۖ",
+        "تَغَشَّىٰهَا",
+        "لِوَقْتِهَآ"
+      ],
+      "activityId": "act_007_32_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 186,
+      "correctNextAyahNumber": 187,
+      "wrongOptionsAyahNumbers": [
+        188,
+        184
+      ],
+      "activityId": "act_007_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 187,
+      "missingWordPosition": 5,
+      "options": [
+        "مُرْسَىٰهَا ۖ",
+        "ءَاتَيْتَنَا",
+        "بِصَاحِبِهِم",
+        "ٱلشَّـٰكِرِينَ"
+      ],
+      "activityId": "act_007_32_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 187,
+      "correctNextAyahNumber": 188,
+      "wrongOptionsAyahNumbers": [
+        189,
+        185
+      ],
+      "activityId": "act_007_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 188,
+      "missingWordPosition": 16,
+      "options": [
+        "لَٱسْتَكْثَرْتُ",
+        "يَتَفَكَّرُوا۟ ۗ",
+        "وَٱلْأَرْضِ ۚ",
+        "مُرْسَىٰهَا ۖ"
+      ],
+      "activityId": "act_007_32_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 188,
+      "correctNextAyahNumber": 189,
+      "wrongOptionsAyahNumbers": [
+        190,
+        186
+      ],
+      "activityId": "act_007_32_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 189,
+      "missingWordPosition": 25,
+      "options": [
+        "ءَاتَيْتَنَا",
+        "بِصَاحِبِهِم",
+        "وَٱلْأَرْضِ ۚ",
+        "مُرْسَىٰهَا ۖ"
+      ],
+      "activityId": "act_007_32_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

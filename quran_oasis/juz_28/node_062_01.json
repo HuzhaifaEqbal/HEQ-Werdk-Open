@@ -1,0 +1,224 @@
+{
+  "nodeId": "node_062_01",
+  "title": "سورة الجمعة: تسبيح الكون وبعثة النبي الأمي والفضل العظيم",
+  "surahId": 62,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_062_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "يُسَبِّحُ",
+        "سَبَّحَ",
+        "يُسَبِّحُونَ",
+        "تُسَبِّحُ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمَلِكِ",
+        "ٱلْحَاكِمِ",
+        "ٱلْقَادِرِ",
+        "ٱلْأَوَّلِ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْقُدُّوسِ",
+        "ٱلسَّلَامِ",
+        "ٱلْمُؤْمِنِ",
+        "ٱلْكَبِيرِ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْعَزِيزِ",
+        "ٱلْقَدِيرِ",
+        "ٱلْعَلِيمِ",
+        "ٱلْغَفُورِ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_062_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "بَعَثَ",
+        "أَرْسَلَ",
+        "جَعَلَ",
+        "أَنْزَلَ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأُمِّيِّـۧنَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلنَّاسِ",
+        "ٱلْقُرَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "يَتْلُوا۟",
+        "يَقْرَأُ",
+        "يُرَتِّلُ",
+        "يُبَيِّنُ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "وَيُزَكِّيهِمْ",
+        "وَيُطَهِّرُهُمْ",
+        "وَيَهْدِيهِمْ",
+        "وَيُصْلِحُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلْحِكْمَةَ",
+        "وَٱلسُّنَّةَ",
+        "وَٱلْفِقْهَ",
+        "وَٱلنُّورَ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 21,
+      "options": [
+        "مُّبِينٍۢ",
+        "ظَاهِرٍ",
+        "شَدِيدٍ",
+        "قَدِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_062_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "وَءَاخَرِينَ",
+        "وَأَقْوَامٍ",
+        "وَنَاسٍ",
+        "وَخَلْقٍ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "يَلْحَقُوا۟",
+        "يَشْهَدُوا۟",
+        "يُدْرِكُوا۟",
+        "يَتَّبِعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_062_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "فَضْلُ",
+        "عَطَاءُ",
+        "إِحْسَانُ",
+        "رَحْمَةُ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْتِيهِ",
+        "يَمْنَحُهُ",
+        "يَخْتَصُّ بِهِ",
+        "يُفِيضُهُ عَلَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_062_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَظِيمِ",
+        "ٱلْوَاسِعِ",
+        "ٱلْكَبِيرِ",
+        "ٱلْجَلِيلِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجمعة",
+    "juz": 28,
+    "theme": "تسبيح الكائنات لله الملك القدوس العزيز الحكيم، والامتنان ببعثة النبي محمد ﷺ في الأميين يتلو الآيات ويزكي النفوس ويعلم الكتاب والحكمة وشمول فضل الله لسائر الأقوام."
+  }
+}

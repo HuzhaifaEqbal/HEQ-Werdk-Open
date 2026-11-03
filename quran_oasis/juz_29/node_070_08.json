@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_070_08",
+  "title": "سورة المعارج: رعاية الأمانات والشهادات وإكرام جنات النعيم",
+  "surahId": 70,
+  "ayahStart": 32,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "activityId": "act_070_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "لِأَمَـٰنَـٰتِهِمْ",
+        "لِأَمْوَالِهِمْ",
+        "لِدُيُونِهِمْ",
+        "لِعُهُودِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 4,
+      "options": [
+        "وَعَهْدِهِمْ",
+        "وَمِيثَاقِهِمْ",
+        "وَوَعْدِهِمْ",
+        "وَأَمْرِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 5,
+      "options": [
+        "رَٰعُونَ",
+        "حَافِظُونَ",
+        "مُوفُونَ",
+        "قَائِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_070_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "بِشَهَـٰدَٰتِهِمْ",
+        "بِأَقْوَالِهِمْ",
+        "بِأَيْمَانِهِمْ",
+        "بِحُقُوقِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "قَآئِمُونَ",
+        "صَادِقُونَ",
+        "عَادِلُونَ",
+        "حَافِظُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        32
+      ]
+    },
+    {
+      "activityId": "act_070_08_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "يُحَافِظُونَ",
+        "دَائِمُونَ",
+        "خَاشِعُونَ",
+        "قَائِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        33
+      ]
+    },
+    {
+      "activityId": "act_070_08_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "جَنَّـٰتٍۢ",
+        "نَعِيمٍ",
+        "فِرْدَوْسٍ",
+        "مَقَامٍ"
+      ]
+    },
+    {
+      "activityId": "act_070_08_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّكْرَمُونَ",
+        "فَرِحُونَ",
+        "خَالِدُونَ",
+        "آمِنُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "أداء الأمانات والوفاء بالعهود، والقيام بالشهادة بالقسط، والمحافظة التامة على الصلاة، وجزاء هؤلاء الأبرار بالإكرام في الجنات"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_002_50",
+  "title": "سورة البقرة - الآيات 241-243",
+  "surahId": 2,
+  "ayahStart": 241,
+  "ayahEnd": 243,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 241,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلۡمَعۡرُوفِۖ",
+        "وَلِلۡمُطَلَّقَٰتِ",
+        "ٱلۡمُتَّقِينَ",
+        "ءَايَٰتِهِۦ"
+      ],
+      "activityId": "act_002_50_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 241,
+      "correctNextAyahNumber": 242,
+      "wrongOptionsAyahNumbers": [
+        243,
+        239
+      ],
+      "activityId": "act_002_50_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 242,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَايَٰتِهِۦ",
+        "تَعۡقِلُونَ",
+        "يَشۡكُرُونَ",
+        "أَحۡيَٰهُمۡۚ"
+      ],
+      "activityId": "act_002_50_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 242,
+      "correctNextAyahNumber": 243,
+      "wrongOptionsAyahNumbers": [
+        244,
+        240
+      ],
+      "activityId": "act_002_50_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 243,
+      "missingWordPosition": 28,
+      "options": [
+        "يَشۡكُرُونَ",
+        "ءَايَٰتِهِۦ",
+        "تَعۡقِلُونَ",
+        "خَرَجُواْ"
+      ],
+      "activityId": "act_002_50_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر متاع المطلقة والوصية بالنساء، وقصة أناس خرجوا من ديارهم خوف الموت."
+  }
+}

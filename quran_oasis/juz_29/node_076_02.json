@@ -1,0 +1,258 @@
+{
+  "nodeId": "node_076_02",
+  "title": "سورة الإنسان: عين عباد الله وإطعام الطعام لوجه الله والخوف من اليوم العبوس",
+  "surahId": 76,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_076_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "عَيْنًۭا",
+        "نَهْرًا",
+        "رَوْضَةً",
+        "جَنَّةً"
+      ]
+    },
+    {
+      "activityId": "act_076_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "عِبَادُ",
+        "أَوْلِيَاءُ",
+        "عِبَادِى",
+        "أَهْلُ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱللَّهِ",
+        "يُجْرُونَهَا",
+        "يَسُوقُونَهَا",
+        "يَفْتَحُونَهَا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_076_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 1,
+      "options": [
+        "يُوفُونَ",
+        "يَقْضُونَ",
+        "يَرْعَوْنَ",
+        "يَحْفَظُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلنَّذْرِ",
+        "بِٱلْعَهْدِ",
+        "بِٱلْوَعْدِ",
+        "بِٱلْأَمَانَةِ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "شَرُّهُۥ",
+        "عَذَابُهُ",
+        "بَأْسُهُ",
+        "هَوْلُهُ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "مُسْتَطِيرًۭا",
+        "عَظِيمًا",
+        "شَدِيدًا",
+        "مُّبِينًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_076_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلطَّعَامَ",
+        "ٱلْمَالَ",
+        "ٱلْخَيْرَ",
+        "ٱلرِّزْقَ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "مِسْكِينًۭا",
+        "فَقِيرًا",
+        "مُحْتَاجًا",
+        "سَائِلًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَتِيمًۭا",
+        "وَقَرِيبًا",
+        "وَضَعِيفًا",
+        "وَابْنَ السَّبِيلِ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَسِيرًا",
+        "وَغَرِيمًا",
+        "وَمَمْلُوكًا",
+        "وَمَحْرُومًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ]
+    },
+    {
+      "activityId": "act_076_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "لِوَجْهِ",
+        "لِمَرْضَاةِ",
+        "لِثَوَابِ",
+        "لِأَمْرِ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "مِنكُمْ",
+        "أَجْرًا",
+        "مَالًا",
+        "عِوَضًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلَا",
+        "مَدْحًا",
+        "ثَنَاءً",
+        "ذِكْرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_076_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "نَخَافُ",
+        "نَرْجُو",
+        "نَحْذَرُ",
+        "نَخْشَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_076_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "يَوْمًا",
+        "مَهِيبًا",
+        "عَصِيبًا",
+        "ثَقِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_076_02_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "عَبُوسًۭا",
+        "مُسْتَطِيرًا",
+        "شَدِيدًا",
+        "مُّبِينًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإنسان",
+    "juz": 29,
+    "theme": "صفات عباد الله الأبرار: تفجير عيون الجنة، الوفاء بالنذر، الخوف من أهوال القيامة، وإطعام الطعام للمسكين واليتيم والأسير ابتغاء وجه الله دون جزاء ولا شكور."
+  }
+}

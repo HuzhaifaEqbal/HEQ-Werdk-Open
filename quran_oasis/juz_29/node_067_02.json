@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_067_02",
+  "title": "سورة الملك: مصير الكافرين واعترافهم في جهنم",
+  "surahId": 67,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_067_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "جَهَنَّمَ",
+        "ٱلسَّعِيرِ",
+        "ٱلْحُطَمَةِ",
+        "ٱلْهَاوِيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمَقَامُ",
+        "ٱلْمَأْوَىٰ",
+        "ٱلْمُنْقَلَبُ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_067_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "شَهِيقًۭا",
+        "زَفِيرًا",
+        "صُرَاخًا",
+        "عَوِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_067_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "تَفُورُ",
+        "تَغْلِى",
+        "تَثُورُ",
+        "تَتَوَقَّدُ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_067_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "تَمَيَّزُ",
+        "تَتَقَطَّعُ",
+        "تَتَفَجَّرُ",
+        "تَنشَقُّ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْغَيْظِ",
+        "ٱلْغَضَبِ",
+        "ٱلْحَرِّ",
+        "ٱلضِّيقِ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 10,
+      "options": [
+        "خَزَنَتُهَآ",
+        "مَلَـٰٓئِكَتُهَا",
+        "حَرَسُهَا",
+        "زَبَانِيَتُهَا"
+      ]
+    },
+    {
+      "activityId": "act_067_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ]
+    },
+    {
+      "activityId": "act_067_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "نَذِيرٌۭ",
+        "رَسُولٌ",
+        "بَشِيرٌ",
+        "كِتَـٰبٌ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 17,
+      "options": [
+        "ضَلَـٰلٍۢ",
+        "خُسْرَانٍ",
+        "عَذَابٍ",
+        "غَيٍّ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ]
+    },
+    {
+      "activityId": "act_067_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "نَسْمَعُ",
+        "نُبْصِرُ",
+        "نَفْقَهُ",
+        "نَعْلَمُ"
+      ]
+    },
+    {
+      "activityId": "act_067_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "نَعْقِلُ",
+        "نُوقِنُ",
+        "نُؤْمِنُ",
+        "نَتَّقِى"
+      ]
+    },
+    {
+      "activityId": "act_067_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلسَّعِيرِ",
+        "ٱلْجَحِيمِ",
+        "ٱلنَّارِ",
+        "ٱلْهَاوِيَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "بيان عذاب جهنم وشدة غيظها على الكافرين، وحوار خزنة النار معهم واعترافهم بتعطيل أسماعهم وعقولهم"
+  }
+}

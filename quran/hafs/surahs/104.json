@@ -1,0 +1,109 @@
+{
+  "number": 104,
+  "name_ar": "الهُمَزة",
+  "name_en": "Al-Humazah",
+  "ayahs_count": 9,
+  "page_start": 601,
+  "page_end": 601,
+  "ayahs": [
+    {
+      "id": 6180,
+      "number": 1,
+      "text_uthmani": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ ١",
+      "text_simple": "ويل لكل همزة لمزة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6181,
+      "number": 2,
+      "text_uthmani": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ ٢",
+      "text_simple": "الذي جمع مالا وعدده",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6182,
+      "number": 3,
+      "text_uthmani": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ ٣",
+      "text_simple": "يحسب أن ماله أخلده",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6183,
+      "number": 4,
+      "text_uthmani": "كـَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ ٤",
+      "text_simple": "كلا لينبذن في الحطمة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6184,
+      "number": 5,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ ٥",
+      "text_simple": "وما أدراك ما الحطمة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    },
+    {
+      "id": 6185,
+      "number": 6,
+      "text_uthmani": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ ٦",
+      "text_simple": "نار الله الموقدة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 9
+    },
+    {
+      "id": 6186,
+      "number": 7,
+      "text_uthmani": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ ٧",
+      "text_simple": "التي تطلع على الأفئدة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 10
+    },
+    {
+      "id": 6187,
+      "number": 8,
+      "text_uthmani": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ ٨",
+      "text_simple": "إنها عليهم مؤصدة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    },
+    {
+      "id": 6188,
+      "number": 9,
+      "text_uthmani": "فِي عَمَدٖ مُّمَدَّدَةِۭ ٩",
+      "text_simple": "في عمد ممددة",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    }
+  ]
+}

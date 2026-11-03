@@ -1,0 +1,122 @@
+{
+  "nodeId": "node_061_05",
+  "title": "سورة الصف: الأمر بنصرة دين الله كما نصر الحواريون عيسى عليه السلام",
+  "surahId": 61,
+  "ayahStart": 14,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_061_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنصَارَ",
+        "أَوْلِيَاءَ",
+        "جُنْدَ",
+        "حِزْبَ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 12,
+      "options": [
+        "لِلْحَوَارِيِّـۧنَ",
+        "لِأَصْحَابِهِ",
+        "لِقَوْمِهِ",
+        "لِأُمَّتِهِ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 14,
+      "options": [
+        "أَنصَارِىٓ",
+        "نَصِيرِى",
+        "مُعِينِى",
+        "ظَهِيرِى"
+      ]
+    },
+    {
+      "activityId": "act_061_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 20,
+      "options": [
+        "أَنصَارُ",
+        "جُنْدُ",
+        "أَوْلِيَاءُ",
+        "أَحْبَابُ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 23,
+      "options": [
+        "طَّآئِفَةٌۭ",
+        "فِرْقَةٌ",
+        "جَمَاعَةٌ",
+        "قَوْمٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 28,
+      "options": [
+        "طَّآئِفَةٌۭ ۖ",
+        "فِرْقَةٌ",
+        "أَكْثَرُهُمْ",
+        "فَرِيقٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 29,
+      "options": [
+        "فَأَيَّدْنَا",
+        "فَنَصَرْنَا",
+        "فَقَوَّيْنَا",
+        "فَأَعْزَزْنَا"
+      ]
+    },
+    {
+      "activityId": "act_061_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 33,
+      "options": [
+        "عَدُوِّهِمْ",
+        "مُخَالِفِيهِمْ",
+        "خُصَمَائِهِمْ",
+        "ٱلْكَافِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_061_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 35,
+      "options": [
+        "ظَـٰهِرِينَ",
+        "غَالِبِينَ",
+        "فَائِزِينَ",
+        "مَنْصُورِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصف",
+    "juz": 28,
+    "theme": "نداء المؤمنين ليكونوا أنصاراً لدين الله ورسوله اقتداءً بالحواريين الذين استجابوا لعيسى عليه السلام، وبيان تأييد الله للذين آمنوا وظهورهم وغلبهم على عدوهم."
+  }
+}

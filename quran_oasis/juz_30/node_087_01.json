@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_087_01",
+  "title": "سورة الأعلى - المقطع الأول (تسبيح الرب الأعلى ودلائل قدرته في الخلق)",
+  "surahId": 87,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "سَبِّحِ",
+      "missingWordPosition": 1,
+      "options": [
+        "سَبِّحِ",
+        "ٱذْكُرِ",
+        "ٱحْمَدِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْأَعْلَى",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَعْلَى",
+        "ٱلْعَظِيمِ",
+        "ٱلْأَكْرَمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "خَلَقَ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَلَقَ",
+        "بَرَأَ",
+        "صَوَّرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "فَسَوَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَسَوَّىٰ",
+        "فَهَدَىٰ",
+        "فَأَحْكَمَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "قَدَّرَ",
+      "missingWordPosition": 2,
+      "options": [
+        "قَدَّرَ",
+        "خَلَقَ",
+        "أَمَرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "فَهَدَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَهَدَىٰ",
+        "فَسَوَّىٰ",
+        "فَحَكَمَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "أَخْرَجَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَخْرَجَ",
+        "أَنْبَتَ",
+        "خَلَقَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ٱلْمَرْعَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَرْعَىٰ",
+        "ٱلْحَبَّ",
+        "ٱلشَّجَرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "غُثَآءً",
+      "missingWordPosition": 2,
+      "options": [
+        "غُثَآءً",
+        "هَشِيمًا",
+        "حُطَامًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَحْوَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَحْوَىٰ",
+        "أَصْفَرَ",
+        "يَابِسًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "نزّه وقدّس اسم ربك الأعلى عن كل نقص ومثيل، الذي أبدع خلق الكائنات فأحكم صنعها وسواها على أكمل هيئة، والذي قدّر لكل مخلوق أجله ورزقه وهداه لما يصلحه في معاشه، والذي أنبت من الأرض العشب الأخضر الرطب ترعاه الأنعام، ثم صيّره بعد خضرته ونضارته يابساً هشيماً مسوداً (غثاءً أحوى) كدليل على فناء الدنيا وقدرة الله على البعث."
+  }
+}

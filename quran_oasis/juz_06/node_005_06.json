@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_06",
+  "title": "سورة المائدة - الآيات 26-30",
+  "surahId": 5,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْفَـٰسِقِينَ",
+        "لِأَقْتُلَكَ ۖ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْخَـٰسِرِينَ"
+      ],
+      "activityId": "act_005_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_005_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 18,
+      "options": [
+        "لَأَقْتُلَنَّكَ ۖ",
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْفَـٰسِقِينَ",
+        "لِتَقْتُلَنِى"
+      ],
+      "activityId": "act_005_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_005_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "لِتَقْتُلَنِى",
+        "ٱلْمُتَّقِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْخَـٰسِرِينَ"
+      ],
+      "activityId": "act_005_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_005_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "لِأَقْتُلَكَ ۖ",
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْفَـٰسِقِينَ"
+      ],
+      "activityId": "act_005_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_005_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْخَـٰسِرِينَ",
+        "لِتَقْتُلَنِى",
+        "ٱلْمُتَّقِينَ",
+        "لِأَقْتُلَكَ ۖ"
+      ],
+      "activityId": "act_005_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

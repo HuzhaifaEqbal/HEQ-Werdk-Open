@@ -1,0 +1,191 @@
+{
+  "nodeId": "hifz_097_01",
+  "title": "سورة القدر كاملة (نزول القرآن العظيم وفضل ليلة القدر وتنزل الملائكة)",
+  "surahId": 97,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "أَنزَلْنَـٰهُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَنزَلْنَـٰهُ",
+        "أَوْحَيْنَاهُ",
+        "بَعَثْنَاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْقَدْرِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقَدْرِ",
+        "ٱلْبَرَكَةِ",
+        "ٱلْفَضْلِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "أَدْرَىٰكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "لَيْلَةُ",
+      "missingWordPosition": 4,
+      "options": [
+        "لَيْلَةُ",
+        "سَاعَةُ",
+        "شَهْرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "خَيْرٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "خَيْرٌ",
+        "أَفْضَلُ",
+        "أَعْظَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "أَلْفِ",
+      "missingWordPosition": 5,
+      "options": [
+        "أَلْفِ",
+        "مِائَةِ",
+        "سَبْعِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "شَهْرٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "شَهْرٍ",
+        "عَامٍ",
+        "سَنَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "تَنَزَّلُ",
+      "missingWordPosition": 1,
+      "options": [
+        "تَنَزَّلُ",
+        "تَهْبِطُ",
+        "تَأْتِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَٱلرُّوحُ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلرُّوحُ",
+        "وَجِبْرِيلُ",
+        "وَٱلْمَلَكُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "أَمْرٍ",
+      "missingWordPosition": 9,
+      "options": [
+        "أَمْرٍ",
+        "شَأْنٍ",
+        "قَضَاءٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "سَلَـٰمٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "سَلَـٰمٌ",
+        "أَمَانٌ",
+        "خَيْرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "مَطْلَعِ",
+      "missingWordPosition": 4,
+      "options": [
+        "مَطْلَعِ",
+        "طُلُوعِ",
+        "انْفِجَارِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلْفَجْرِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْفَجْرِ",
+        "ٱلصُّبْحِ",
+        "ٱلنَّهَارِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إنا ابتدأنا إنزال القرآن الكريم جملة واحدة من اللوح المحفوظ إلى بيت العزة في السماء الدنيا في ليلة مباركة ذات شرف عظيم ومقدار جليل (ليلة القدر) في شهر رمضان، وما أعلمك يا محمد ما عظم شأن وفضل هذه الليلة المباركة! إن العمل الصالح والعبادة فيها خير من عبادة ألف شهر ليس فيها ليلة القدر، تهبط فيها الملائكة الكرام وجبريل عليه السلام (الروح) بأمر ربهم بكل أمر قدّره وقضاه لتلك السنة، وهي ليلة أمان وسلام وخير وبركة كلها على أهل الإيمان حتى مطلع الفجر."
+  }
+}

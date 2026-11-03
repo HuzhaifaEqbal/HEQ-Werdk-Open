@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_007_35",
+  "title": "سورة الأعراف - الآيات 202-206",
+  "surahId": 7,
+  "ayahStart": 202,
+  "ayahEnd": 206,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 202,
+      "missingWordPosition": 2,
+      "options": [
+        "يَمُدُّونَهُمْ",
+        "وَٱلْـَٔاصَالِ",
+        "ٱلْغَـٰفِلِينَ",
+        "عِبَادَتِهِۦ"
+      ],
+      "activityId": "act_007_35_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 202,
+      "correctNextAyahNumber": 203,
+      "wrongOptionsAyahNumbers": [
+        204,
+        200
+      ],
+      "activityId": "act_007_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 203,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱجْتَبَيْتَهَا ۚ",
+        "وَيُسَبِّحُونَهُۥ",
+        "يَسْتَكْبِرُونَ",
+        "فَٱسْتَمِعُوا۟"
+      ],
+      "activityId": "act_007_35_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 203,
+      "correctNextAyahNumber": 204,
+      "wrongOptionsAyahNumbers": [
+        205,
+        201
+      ],
+      "activityId": "act_007_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 204,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱسْتَمِعُوا۟",
+        "يَسْجُدُونَ ۩",
+        "يَسْتَكْبِرُونَ",
+        "يَمُدُّونَهُمْ"
+      ],
+      "activityId": "act_007_35_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 204,
+      "correctNextAyahNumber": 205,
+      "wrongOptionsAyahNumbers": [
+        206,
+        202
+      ],
+      "activityId": "act_007_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 205,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلْـَٔاصَالِ",
+        "وَإِخْوَٰنُهُمْ",
+        "وَأَنصِتُوا۟",
+        "ٱلْقُرْءَانُ"
+      ],
+      "activityId": "act_007_35_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 205,
+      "correctNextAyahNumber": 206,
+      "wrongOptionsAyahNumbers": [
+        203,
+        202
+      ],
+      "activityId": "act_007_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 206,
+      "missingWordPosition": 9,
+      "options": [
+        "وَيُسَبِّحُونَهُۥ",
+        "ٱجْتَبَيْتَهَا ۚ",
+        "فَٱسْتَمِعُوا۟",
+        "وَإِخْوَٰنُهُمْ"
+      ],
+      "activityId": "act_007_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

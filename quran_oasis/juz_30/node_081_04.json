@@ -1,0 +1,251 @@
+{
+  "nodeId": "hifz_081_04",
+  "title": "سورة التكوير - المقطع الرابع (براءة النبي ﷺ ومشيئة رب العالمين)",
+  "surahId": 81,
+  "ayahStart": 22,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "صَاحِبُكُم",
+      "missingWordPosition": 2,
+      "options": [
+        "صَاحِبُكُم",
+        "رَسُولُكُم",
+        "نَبِيُّكُم"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "بِمَجْنُونٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِمَجْنُونٍ",
+        "بِشَاعِرٍ",
+        "بِكَاهِنٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "رَآهُ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَآهُ",
+        "كَلَّمَهُ",
+        "لَقِيَهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "بِالْأُفُقِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِالْأُفُقِ",
+        "بِالْغَيْبِ",
+        "بِالسَّمَاءِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "الْمُبِينِ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْمُبِينِ",
+        "الْأَعْلَى",
+        "الْعَظِيمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "الْغَيْبِ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْغَيْبِ",
+        "الْوَحْيِ",
+        "الْحَقِّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "بِضَنِينٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "بِضَنِينٍ",
+        "بِظَنِينٍ",
+        "بِبَخِيلٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "شَيْطَانٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "شَيْطَانٍ",
+        "شَاعِرٍ",
+        "كَاهِنٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "رَّجِيمٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "رَّجِيمٍ",
+        "مَّرِيدٍ",
+        "أَثِيمٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "تَذْهَبُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَذْهَبُونَ",
+        "تُعْرِضُونَ",
+        "تَصْدِفُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "ذِكْرٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "ذِكْرٌ",
+        "نُورٌ",
+        "هُدًى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "لِّلْعَالَمِينَ",
+      "missingWordPosition": 5,
+      "options": [
+        "لِّلْعَالَمِينَ",
+        "لِلْمُؤْمِنِينَ",
+        "لِلنَّاسِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        26,
+        29
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "يَسْتَقِيمَ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَسْتَقِيمَ",
+        "يَهْتَدِيَ",
+        "يُؤْمِنَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "تَشَاءُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَشَاءُونَ",
+        "تَقْدِرُونَ",
+        "تَمْلِكُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "يَشَاءَ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَشَاءَ",
+        "يُرِيدَ",
+        "يَقْضِيَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "الْعَالَمِينَ",
+      "missingWordPosition": 8,
+      "options": [
+        "الْعَالَمِينَ",
+        "السَّمَاوَاتِ",
+        "الْعَرْشِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تنزيه للنبي ﷺ وتثبيت لصدق بلاغه؛ فما محمد صاحبكم الذي عهدتم عقله وصدقه بمجنون، ولقد رأى جبريل بصورته الملكية العظيمة بالأفق الواضح، وما هو ببخيل ولا بمتهم في إبلاغ وحي الغيب، وليس هذا القرآن من إلقاء شيطان مطرود ملعون. فأي طريق تعدلون إليه عن هذا الحق المبين؟ إن القرآن إلا موعظة وتذكرة للخلق أجمعين، لمن أراد الاستقامة على الحق، وما تشاءون أمراً إلا بمشيئة الله وإذنه، فهو رب العالمين المدبر لخلقه بحكمته."
+  }
+}

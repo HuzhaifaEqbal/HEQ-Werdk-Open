@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_12",
+  "title": "سورة البقرة - الآيات 55-59",
+  "surahId": 2,
+  "ayahStart": 55,
+  "ayahEnd": 59,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 11,
+      "options": [
+        "فَأَخَذَتۡكُمُ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "فَأَنزَلۡنَا"
+      ],
+      "activityId": "act_002_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        53
+      ],
+      "activityId": "act_002_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "بَعَثۡنَٰكُم",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "فَأَخَذَتۡكُمُ"
+      ],
+      "activityId": "act_002_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_002_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَنزَلۡنَا",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "فَأَخَذَتۡكُمُ"
+      ],
+      "activityId": "act_002_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_002_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 20,
+      "options": [
+        "ٱلۡمُحۡسِنِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "وَأَنزَلۡنَا"
+      ],
+      "activityId": "act_002_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        56
+      ],
+      "activityId": "act_002_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 9,
+      "options": [
+        "فَأَنزَلۡنَا",
+        "وَأَنزَلۡنَا",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يبين بعض أحكام الاعتداء في السبت، ويعرض مثل البقرة التي أُمر بنو إسرائيل بذبحها وكثرة أسئلتهم."
+  }
+}

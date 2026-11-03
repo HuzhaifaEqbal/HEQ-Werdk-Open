@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_31",
+  "title": "سورة النساء - الآيات 149-153",
+  "surahId": 4,
+  "ayahStart": 149,
+  "ayahEnd": 153,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 2,
+      "options": [
+        "تُبۡدُواْ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_31_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "wrongOptionsAyahNumbers": [
+        151,
+        147
+      ],
+      "activityId": "act_004_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيُرِيدُونَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "فَأَخَذَتۡهُمُ"
+      ],
+      "activityId": "act_004_31_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "wrongOptionsAyahNumbers": [
+        152,
+        148
+      ],
+      "activityId": "act_004_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلۡكَٰفِرُونَ",
+        "وَيُرِيدُونَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_31_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "wrongOptionsAyahNumbers": [
+        153,
+        149
+      ],
+      "activityId": "act_004_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُواْ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "تُبۡدُواْ"
+      ],
+      "activityId": "act_004_31_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 152,
+      "correctNextAyahNumber": 153,
+      "wrongOptionsAyahNumbers": [
+        154,
+        150
+      ],
+      "activityId": "act_004_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 20,
+      "options": [
+        "فَأَخَذَتۡهُمُ",
+        "ٱلۡكَٰفِرُونَ",
+        "وَيُرِيدُونَ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_31_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يعرض نقض العهود ومواقف من أهل الكتاب من مريم وعيسى عليهما السلام، ويصحح ما شاع حوله."
+  }
+}

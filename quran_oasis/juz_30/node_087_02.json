@@ -1,0 +1,149 @@
+{
+  "nodeId": "hifz_087_02",
+  "title": "سورة الأعلى - المقطع الثاني (بشارة حفظ الوحي والتيسير لليسرى)",
+  "surahId": 87,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "سَنُقْرِئُكَ",
+      "missingWordPosition": 1,
+      "options": [
+        "سَنُقْرِئُكَ",
+        "سَنُعَلِّمُكَ",
+        "سَنُنَزِّلُ عَلَيْكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "تَنسَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَنسَىٰ",
+        "تَغْفُلُ",
+        "تَشُكُّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "شَآءَ",
+      "missingWordPosition": 3,
+      "options": [
+        "شَآءَ",
+        "أَرَادَ",
+        "قَضَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ٱلْجَهْرَ",
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْجَهْرَ",
+        "ٱلسِّرَّ",
+        "ٱلْغَيْبَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يَخْفَىٰ",
+      "missingWordPosition": 9,
+      "options": [
+        "يَخْفَىٰ",
+        "يَظْهَرُ",
+        "يُعْلَنُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "وَنُيَسِّرُكَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَنُيَسِّرُكَ",
+        "وَنَهْدِيكَ",
+        "وَنُوَفِّقُكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "لِلْيُسْرَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْيُسْرَىٰ",
+        "لِلْهُدَىٰ",
+        "لِلْجَنَّةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "فَذَكِّرْ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَذَكِّرْ",
+        "فَأَنْذِرْ",
+        "فَبَشِّرْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "نَّفَعَتِ",
+      "missingWordPosition": 3,
+      "options": [
+        "نَّفَعَتِ",
+        "بَلَغَتِ",
+        "قُبِلَتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلذِّكْرَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلذِّكْرَىٰ",
+        "ٱلْمَوْعِظَةُ",
+        "ٱلدَّعْوَةُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "بشارة عظيمة للنبي ﷺ ولأمته بأن الله سيقرئه القرآن ويثبته في صدره فلا ينسى منه حرفاً، إلا ما شاء الله نسخه لحكمة بالغة، إنه سبحانه يعلم القول الظاهر وما خفي في الصدور، وسوف نوفقك ونهيئك للشريعة السمحة السهلة اليسرى في كل شأنك، فذكّر يا محمد بآيات الله وبما أوحى إليك حيث تنفع الموعظة وتبلغ القلوب المستعدة."
+  }
+}

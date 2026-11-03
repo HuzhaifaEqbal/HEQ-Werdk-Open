@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_31",
+  "title": "سورة الأعراف - الآيات 178-183",
+  "surahId": 7,
+  "ayahStart": 178,
+  "ayahEnd": 183,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 178,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُهْتَدِى ۖ",
+        "ٱلْغَـٰفِلُونَ",
+        "كَٱلْأَنْعَـٰمِ",
+        "ٱلْأَسْمَآءُ"
+      ],
+      "activityId": "act_007_31_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 178,
+      "correctNextAyahNumber": 179,
+      "wrongOptionsAyahNumbers": [
+        180,
+        176
+      ],
+      "activityId": "act_007_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 179,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْإِنسِ ۖ",
+        "ٱلْخَـٰسِرُونَ",
+        "أَسْمَـٰٓئِهِۦ ۚ",
+        "ٱلْأَسْمَآءُ"
+      ],
+      "activityId": "act_007_31_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 179,
+      "correctNextAyahNumber": 180,
+      "wrongOptionsAyahNumbers": [
+        181,
+        177
+      ],
+      "activityId": "act_007_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 180,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَسْمَآءُ",
+        "وَٱلْإِنسِ ۖ",
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلْغَـٰفِلُونَ"
+      ],
+      "activityId": "act_007_31_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 180,
+      "correctNextAyahNumber": 181,
+      "wrongOptionsAyahNumbers": [
+        182,
+        178
+      ],
+      "activityId": "act_007_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 181,
+      "missingWordPosition": 7,
+      "options": [
+        "يَعْدِلُونَ",
+        "وَٱلَّذِينَ",
+        "يَسْمَعُونَ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_007_31_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 181,
+      "correctNextAyahNumber": 182,
+      "wrongOptionsAyahNumbers": [
+        183,
+        179
+      ],
+      "activityId": "act_007_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 182,
+      "missingWordPosition": 4,
+      "options": [
+        "سَنَسْتَدْرِجُهُم",
+        "ٱلْمُهْتَدِى ۖ",
+        "أَسْمَـٰٓئِهِۦ ۚ",
+        "كَٱلْأَنْعَـٰمِ"
+      ],
+      "activityId": "act_007_31_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 182,
+      "correctNextAyahNumber": 183,
+      "wrongOptionsAyahNumbers": [
+        184,
+        180
+      ],
+      "activityId": "act_007_31_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 183,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأُمْلِى",
+        "ءَاذَانٌۭ",
+        "ذَرَأْنَا",
+        "كَثِيرًۭا"
+      ],
+      "activityId": "act_007_31_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

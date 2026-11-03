@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_21",
+  "title": "سورة النساء - الآيات 99-103",
+  "surahId": 4,
+  "ayahStart": 99,
+  "ayahEnd": 103,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأُوْلَٰٓئِكَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_004_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 19,
+      "options": [
+        "وَرَسُولِهِۦ",
+        "أَبۡنَآئِكُمُ",
+        "ٱلۡكَٰفِرِينَ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_004_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلۡكَٰفِرِينَ",
+        "وَرَسُولِهِۦ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_004_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 11,
+      "options": [
+        "وَلۡيَأۡخُذُوٓاْ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ٱطۡمَأۡنَنتُمۡ"
+      ],
+      "activityId": "act_004_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "wrongOptionsAyahNumbers": [
+        104,
+        100
+      ],
+      "activityId": "act_004_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱطۡمَأۡنَنتُمۡ",
+        "وَلۡيَأۡخُذُوٓاْ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر فضل المجاهدين، ويحث المستضعفين على الهجرة، ويبين رخصة قصر الصلاة في السفر."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_045_07",
+  "title": "سورة الجاثية: نسيان الكفار في النار وغرور الدنيا وحمد الله وكبرياؤه في السماوات والأرض",
+  "surahId": 45,
+  "ayahStart": 33,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "activityId": "act_045_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "وَحَاقَ",
+        "وَنَزَلَ",
+        "وَأَحَاطَ",
+        "وَأَصَابَ"
+      ]
+    },
+    {
+      "activityId": "act_045_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_045_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "نَنسَىٰكُمْ",
+        "نَتْرُكُكُمْ",
+        "نُهْمِلُكُمْ",
+        "نُعَذِّبُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_045_07_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_045_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 7,
+      "options": [
+        "وَغَرَّتْكُمُ",
+        "وَخَدَعَتْكُمُ",
+        "وَفَتَنَتْكُمُ",
+        "وَأَلْهَتْكُمُ"
+      ]
+    },
+    {
+      "activityId": "act_045_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        1
+      ]
+    },
+    {
+      "activityId": "act_045_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْحَمْدُ",
+        "ٱلشُّكْرُ",
+        "ٱلْمُلْكُ",
+        "ٱلْفَضْلُ"
+      ]
+    },
+    {
+      "activityId": "act_045_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_045_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْكِبْرِيَآءُ",
+        "ٱلْعَظَمَةُ",
+        "ٱلْجَلَالُ",
+        "ٱلْمُلْكُ"
+      ]
+    },
+    {
+      "activityId": "act_045_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْغَفُورُ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "nodeId": "hifz_089_04",
+  "title": "سورة الفجر - المقطع الرابع (دك الأرض ومجيء الملك والتحسر يوم القيامة)",
+  "surahId": 89,
+  "ayahStart": 21,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "دُكَّتِ",
+      "missingWordPosition": 3,
+      "options": [
+        "دُكَّتِ",
+        "مُدَّتْ",
+        "زُلْزِلَتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "ٱلْأَرْضُ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَرْضُ",
+        "ٱلْجِبَالُ",
+        "ٱلسَّمَاءُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "دَكًّا",
+      "missingWordPosition": 5,
+      "options": [
+        "دَكًّا",
+        "هَدًّا",
+        "كَسْرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "وَجَآءَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَجَآءَ",
+        "وَأَتَى",
+        "وَحَكَمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "وَٱلْمَلَكُ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْمَلَكُ",
+        "وَٱلرُّوحُ",
+        "وَٱلْخَلْقُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "صَفًّا",
+      "missingWordPosition": 4,
+      "options": [
+        "صَفًّا",
+        "فَوْجًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        21,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "بِجَهَنَّمَ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِجَهَنَّمَ",
+        "بِٱلنَّارِ",
+        "بِٱلْجَحِيمِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "يَتَذَكَّرُ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَذَكَّرُ",
+        "يَنْدَمُ",
+        "يَعْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "ٱلذِّكْرَىٰ",
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلذِّكْرَىٰ",
+        "ٱلنَّجَاةُ",
+        "ٱلتَّوْبَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "يَقُولُ",
+      "missingWordPosition": 1,
+      "options": [
+        "يَقُولُ",
+        "يَصِيحُ",
+        "يُنَادِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "قَدَّمْتُ",
+      "missingWordPosition": 3,
+      "options": [
+        "قَدَّمْتُ",
+        "عَمِلْتُ",
+        "تُبْتُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "لِحَيَاتِى",
+      "missingWordPosition": 4,
+      "options": [
+        "لِحَيَاتِى",
+        "لِآخِرَتِي",
+        "لِيَوْمِي"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "كلا ليس الأمر كما تظنون من خلود الدنيا، فإذا كُسرت الأرض ودُكّت جبالها وأبنيتها دكاً متتابعاً حتى استوت، وجاء ربك لفصل القضاء بين خلقه بمجيء يليق بجلاله، واصطفت الملائكة صفوفاً خاشعة مهيبة، وجيء في ذلك اليوم المشهود بنار جهنم تُقاد بسبعين ألف زمام؛ حينئذ يتعظ الإنسان ويتذكر تفريطه، ولكن هيهات ومن أين تنفعه التوبة والذكرى بعد فوات الأوان؟! فيتحسر قائلاً: يا ليتني قدمت الأعمال الصالحة لحياتي الحقيقية الأبدية في الآخرة."
+  }
+}

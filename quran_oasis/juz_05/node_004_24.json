@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_24",
+  "title": "سورة النساء - الآيات 114-118",
+  "surahId": 4,
+  "ayahStart": 114,
+  "ayahEnd": 118,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 6,
+      "options": [
+        "نَّجۡوَىٰهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "لَأَتَّخِذَنَّ"
+      ],
+      "activityId": "act_004_24_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_004_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "نَّجۡوَىٰهُمۡ"
+      ],
+      "activityId": "act_004_24_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_004_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَغۡفِرُ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "يَدۡعُونَ"
+      ],
+      "activityId": "act_004_24_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "wrongOptionsAyahNumbers": [
+        118,
+        114
+      ],
+      "activityId": "act_004_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 2,
+      "options": [
+        "يَدۡعُونَ",
+        "وَيَغۡفِرُ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ"
+      ],
+      "activityId": "act_004_24_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "wrongOptionsAyahNumbers": [
+        119,
+        115
+      ],
+      "activityId": "act_004_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 4,
+      "options": [
+        "لَأَتَّخِذَنَّ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "نَّجۡوَىٰهُمۡ"
+      ],
+      "activityId": "act_004_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يحذر من النجوى بالإثم، ويبين فضل الإصلاح والصدقة، ويذكر عداوة الشيطان."
+  }
+}

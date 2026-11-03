@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_23",
+  "title": "سورة الأعراف - الآيات 130-135",
+  "surahId": 7,
+  "ayahStart": 130,
+  "ayahEnd": 135,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلسِّنِينَ",
+        "وَٱلْجَرَادَ",
+        "بِمُؤْمِنِينَ",
+        "فَأَرْسَلْنَا"
+      ],
+      "activityId": "act_007_23_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "wrongOptionsAyahNumbers": [
+        132,
+        128
+      ],
+      "activityId": "act_007_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 2,
+      "options": [
+        "جَآءَتْهُمُ",
+        "مُّجْرِمِينَ",
+        "وَٱلْقُمَّلَ",
+        "ٱلثَّمَرَٰتِ"
+      ],
+      "activityId": "act_007_23_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "wrongOptionsAyahNumbers": [
+        133,
+        129
+      ],
+      "activityId": "act_007_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 7,
+      "options": [
+        "لِّتَسْحَرَنَا",
+        "وَلَنُرْسِلَنَّ",
+        "بِٱلسِّنِينَ",
+        "ٱلطُّوفَانَ"
+      ],
+      "activityId": "act_007_23_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 132,
+      "correctNextAyahNumber": 133,
+      "wrongOptionsAyahNumbers": [
+        134,
+        130
+      ],
+      "activityId": "act_007_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱسْتَكْبَرُوا۟",
+        "لِّتَسْحَرَنَا",
+        "وَلَنُرْسِلَنَّ",
+        "بِمُؤْمِنِينَ"
+      ],
+      "activityId": "act_007_23_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "wrongOptionsAyahNumbers": [
+        135,
+        131
+      ],
+      "activityId": "act_007_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 19,
+      "options": [
+        "وَلَنُرْسِلَنَّ",
+        "لِّتَسْحَرَنَا",
+        "فَأَرْسَلْنَا",
+        "بِٱلسِّنِينَ"
+      ],
+      "activityId": "act_007_23_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 134,
+      "correctNextAyahNumber": 135,
+      "wrongOptionsAyahNumbers": [
+        136,
+        132
+      ],
+      "activityId": "act_007_23_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 11,
+      "options": [
+        "يَنكُثُونَ",
+        "وَقَالُوا۟",
+        "وَكَانُوا۟",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_007_23_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

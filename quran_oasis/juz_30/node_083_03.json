@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_083_03",
+  "title": "سورة المطففين - المقطع الثالث (ران القلوب وحجاب الكفار عن ربهم)",
+  "surahId": 83,
+  "ayahStart": 13,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "أَسَـٰطِيرُ",
+      "missingWordPosition": 6,
+      "options": [
+        "أَسَـٰطِيرُ",
+        "أَكَاذِيبُ",
+        "قِصَصُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "ٱلْأَوَّلِينَ",
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَوَّلِينَ",
+        "ٱلْغَابِرِينَ",
+        "ٱلْمَاضِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "رَانَ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَانَ",
+        "طَبَعَ",
+        "خَتَمَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "قُلُوبِهِم",
+      "missingWordPosition": 5,
+      "options": [
+        "قُلُوبِهِم",
+        "أَفْئِدَتِهِمْ",
+        "صُدُورِهِمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "يَكْسِبُونَ",
+      "missingWordPosition": 8,
+      "options": [
+        "يَكْسِبُونَ",
+        "يَعْمَلُونَ",
+        "يَفْعَلُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "لَّمَحْجُوبُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "لَّمَحْجُوبُونَ",
+        "لَّمَبْعُوثُونَ",
+        "لَّمَطْرُودُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        14,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "لَصَالُوا۟",
+      "missingWordPosition": 3,
+      "options": [
+        "لَصَالُوا۟",
+        "لَوَارِدُو",
+        "لَدَاخِلُو"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "ٱلْجَحِيمِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ",
+        "ٱلنَّارِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        13,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "هَـٰذَا",
+      "missingWordPosition": 3,
+      "options": [
+        "هَـٰذَا",
+        "ذَٰلِكَ",
+        "مَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "تُكَذِّبُونَ",
+      "missingWordPosition": 7,
+      "options": [
+        "تُكَذِّبُونَ",
+        "تَسْتَعْجِلُونَ",
+        "تَمْتَرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إذا تُليت على المكذب آيات القرآن أعرض واستكبر وقال هذه خرافات وأساطير الأمم السابقة! كلا ليس كما زعموا، بل غطى على قلوبهم وتراكم عليها سواد وظلمة الذنوب والمعاصي (الران) حتى عميت بصائرهم. وحقاً إنهم في يوم القيامة لمحجوبون وممنوعون من رؤية ربهم وخالقهم إهانةً وخزياً لهم، ثم هم بعد ذلك لداخلون وقاسون حر النار والجحيم، ويُقال لهم توبيخاً وتقريعاً: هذا العذاب هو الذي كنتم به تكذبون في الدنيا."
+  }
+}

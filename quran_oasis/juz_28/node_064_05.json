@@ -1,0 +1,306 @@
+{
+  "nodeId": "node_064_05",
+  "title": "سورة التغابن: فتنة الأزواج والأولاد والتقوى المستطاعة والقرض الحسن",
+  "surahId": 64,
+  "ayahStart": 14,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "activityId": "act_064_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 8,
+      "options": [
+        "عَدُوًّۭا",
+        "فِتْنَةً",
+        "شَرًّا",
+        "بَلَاءً"
+      ]
+    },
+    {
+      "activityId": "act_064_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱحْذَرُوهُمْ ۚ",
+        "فَٱتَّقُوهُمْ",
+        "فَٱعْتَزِلُوهُمْ",
+        "فَٱجْتَنِبُوهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 12,
+      "options": [
+        "تَعْفُوا۟",
+        "تَسْتُرُوا",
+        "تُحْسِنُوا",
+        "تَصِلُوا"
+      ]
+    },
+    {
+      "activityId": "act_064_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 13,
+      "options": [
+        "وَتَصْفَحُوا۟",
+        "وَتُسَامِحُوا۟",
+        "وَتَصْبِرُوا۟",
+        "وَتَرْحَمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 17,
+      "options": [
+        "غَفُورٌۭ",
+        "تَوَّابٌ",
+        "حَلِيمٌ",
+        "عَفُوٌّ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_064_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 4,
+      "options": [
+        "فِتْنَةٌۭ ۚ",
+        "بَلَاءٌ",
+        "شُغْلٌ",
+        "مِحْنَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "أَجْرٌ",
+        "ثَوَابٌ",
+        "فَضْلٌ",
+        "نَعِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 8,
+      "options": [
+        "عَظِيمٌۭ",
+        "كَبِيرٌ",
+        "جَزِيلٌ",
+        "مُّقِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_064_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسْتَطَعْتُمْ",
+        "طَاقَتَكُمْ",
+        "وُسْعَكُمْ",
+        "جَهْدَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱسْمَعُوا۟",
+        "وَٱتَّبِعُوا۟",
+        "وَٱقْبَلُوا۟",
+        "وَٱعْمَلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَطِيعُوا۟",
+        "وَٱنْقَادُوا۟",
+        "وَٱخْضَعُوا۟",
+        "وَٱسْتَقِيمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 12,
+      "options": [
+        "شُحَّ",
+        "بُخْلَ",
+        "طَمَعَ",
+        "حِرْصَ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْفَائِزُونَ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلصَّـٰدِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ]
+    },
+    {
+      "activityId": "act_064_05_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "تُقْرِضُوا۟",
+        "تُنْفِقُوا۟",
+        "تَبْذُلُوا۟",
+        "تُعْطُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_05_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 5,
+      "options": [
+        "حَسَنًۭا",
+        "طَيِّبًا",
+        "خَالِصًا",
+        "مُّبَارَكًا"
+      ]
+    },
+    {
+      "activityId": "act_064_05_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "يُضَـٰعِفْهُ",
+        "يَزِدْهُ",
+        "يُكَثِّرْهُ",
+        "يُثِبْكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 11,
+      "options": [
+        "شَكُورٌ",
+        "غَفُورٌ",
+        "كَرِيمٌ",
+        "قَدِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 12,
+      "options": [
+        "حَلِيمٌ",
+        "رَحِيمٌ",
+        "عَلِيمٌ",
+        "قَدِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_064_05_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 1,
+      "options": [
+        "عَـٰلِمُ",
+        "مَالِكُ",
+        "شَاهِدُ",
+        "خَالِقُ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْقَوِىُّ",
+        "ٱلْعَلِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_064_05_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلرَّحِيمُ",
+        "ٱلْعَلِيمُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التغابن",
+    "juz": 28,
+    "theme": "التحذير من فتنة الأزواج والأولاد التي قد تصد عن الطاعة والحث على العفو والصفح، والأمر بتقوى الله بحسب الاستطاعة والإنفاق في سبيله ومضاعفة القرض الحسن."
+  }
+}

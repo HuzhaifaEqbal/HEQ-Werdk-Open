@@ -1,0 +1,152 @@
+{
+  "nodeId": "node_046_02",
+  "title": "سورة الأحقاف: اتهام المشركين للقرآن وتنزيه النبي وبراءته من البدعة",
+  "surahId": 46,
+  "ayahStart": 7,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_046_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "ءَايَـٰتُنَا",
+        "وَاضِحَاتٍ",
+        "مُّبِينَاتٍ",
+        "مُّفَصَّلَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "هَـٰذَا",
+        "كَذِبٌ",
+        "شِعْرٌ",
+        "إِفْكٌ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_046_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱفْتَرَىٰهُ ۖ",
+        "تَقَوَّلَهُ",
+        "ٱخْتَلَقَهُ",
+        "تَعَلَّمَهُ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 18,
+      "options": [
+        "كَفَىٰ",
+        "تَخُوضُونَ",
+        "تَقُولُونَ",
+        "تَزْعُمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 22,
+      "options": [
+        "وَبَيْنَكُمْ ۖ",
+        "حَسِيبًا",
+        "عَلِيمًا",
+        "وَكِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_046_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_046_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "كُنتُ",
+        "أَوَّلَ",
+        "غَرِيبًا",
+        "عَجِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_046_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 17,
+      "options": [
+        "مَا",
+        "أَقُولُ",
+        "أَفْعَلُ",
+        "أَصْنَعُ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_046_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 13,
+      "options": [
+        "بَنِىٓ",
+        "ءَالَ فِرْعَوْنَ",
+        "قَوْمِ لُوطٍ",
+        "أَهْلِ يَثْرِبَ"
+      ]
+    },
+    {
+      "activityId": "act_046_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 20,
+      "options": [
+        "ٱللَّهَ",
+        "فَأَعْرَضْتُمْ",
+        "فَتَوَلَّيْتُمْ",
+        "فَكَذَّبْتُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "رد مزاعم المشركين في رمي القرآن بالسحر والافتراء، وبيان أن النبي ليس بدعاً من الرسل، وشهادة شاهد من بني إسرائيل على الحق."
+  }
+}

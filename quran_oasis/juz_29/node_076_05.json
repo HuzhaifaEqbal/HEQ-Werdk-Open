@@ -1,0 +1,200 @@
+{
+  "nodeId": "node_076_05",
+  "title": "سورة الإنسان: تنزيل القرآن والصبر لحكم الرب والتسبيح بالليل الطويل",
+  "surahId": 76,
+  "ayahStart": 23,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_076_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "نَزَّلْنَا",
+        "أَنْزَلْنَا",
+        "أَوْحَيْنَا",
+        "آتَيْنَا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "ٱلْكِتَابَ",
+        "ٱلذِّكْرَ",
+        "ٱلْفُرْقَانَ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 6,
+      "options": [
+        "تَنزِيلًۭا",
+        "تَفْصِيلًا",
+        "تِبْيَانًا",
+        "تَرْتِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_076_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْبِرْ",
+        "فَٱنْتَظِرْ",
+        "فَٱسْتَقِمْ",
+        "فَٱثْبُتْ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "لِحُكْمِ",
+        "لِأَمْرِ",
+        "لِقَضَاءِ",
+        "لِوَحْيِ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "مِنْهُمْ",
+        "ظَالِمًا",
+        "فَاسِقًا",
+        "مُجْرِمًا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْ",
+        "مُشْرِكًا",
+        "مُجْرِمًا",
+        "مُعَانِدًا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        23
+      ]
+    },
+    {
+      "activityId": "act_076_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱذْكُرِ",
+        "وَسَبِّحْ",
+        "وَٱحْمَدِ",
+        "وَٱعْبُدِ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "بُكْرَةًۭ",
+        "غَدْوَةً",
+        "صَبَاحًا",
+        "فَجْرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَصِيلًۭا",
+        "وَعَشِيًّا",
+        "وَمَسَاءً",
+        "وَظُهْرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_076_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱسْجُدْ",
+        "فَقُمْ",
+        "فَٱرْكَعْ",
+        "فَٱدْعُ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "وَسَبِّحْهُ",
+        "وَٱحْمَدْهُ",
+        "وَٱسْتَغْفِرْهُ",
+        "وَكَبِّرْهُ"
+      ]
+    },
+    {
+      "activityId": "act_076_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 7,
+      "options": [
+        "طَوِيلًا",
+        "كَثِيرًا",
+        "عَظِيمًا",
+        "مَّدِيدًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإنسان",
+    "juz": 29,
+    "theme": "امتنان الله بإنزال القرآن مفرّقاً على رسوله ﷺ، والأمر بالصبر لحكم ربه وعدم إطاعة الآثم والكفور، ومداومة ذكر اسم الله والتسبيح ليلاً طويلاً."
+  }
+}

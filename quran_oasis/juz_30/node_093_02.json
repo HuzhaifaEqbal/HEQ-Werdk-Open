@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_093_02",
+  "title": "سورة الضحى - المقطع الثاني (تذكير النبي بنعم ربه والتوجيه بالرحمة والشكر)",
+  "surahId": 93,
+  "ayahStart": 6,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "يَتِيمًا",
+      "missingWordPosition": 3,
+      "options": [
+        "يَتِيمًا",
+        "فَقِيرًا",
+        "صَغِيرًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "فَـَٔاوَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَـَٔاوَىٰ",
+        "فَحَمَى",
+        "فَرَزَقَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "ضَآلًّا",
+      "missingWordPosition": 2,
+      "options": [
+        "ضَآلًّا",
+        "حَائِرًا",
+        "غَافِلًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَهَدَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَهَدَىٰ",
+        "فَعَلَّمَ",
+        "فَأَرْشَدَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "عَآئِلًا",
+      "missingWordPosition": 2,
+      "options": [
+        "عَآئِلًا",
+        "فَقِيرًا",
+        "مِسْكِينًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "فَأَغْنَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَغْنَىٰ",
+        "فَرَزَقَ",
+        "فَأَعْطَى"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلْيَتِيمَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَتِيمَ",
+        "ٱلْمِسْكِينَ",
+        "ٱلسَّائِلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "تَقْهَرْ",
+      "missingWordPosition": 4,
+      "options": [
+        "تَقْهَرْ",
+        "تَنْهَرْ",
+        "تَظْلِمْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        6,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ٱلسَّآئِلَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّآئِلَ",
+        "ٱلْيَتِيمَ",
+        "ٱلْفَقِيرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "تَنْهَرْ",
+      "missingWordPosition": 4,
+      "options": [
+        "تَنْهَرْ",
+        "تَقْهَرْ",
+        "تَزْجُرْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "بِنِعْمَةِ",
+      "missingWordPosition": 2,
+      "options": [
+        "بِنِعْمَةِ",
+        "بِرَحْمَةِ",
+        "بِفَضْلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "فَحَدِّثْ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَحَدِّثْ",
+        "فَٱشْكُرْ",
+        "فَٱذْكُرْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ألم يجدك ربك يتيماً مات أبوك وأنت جنين ثم ماتت أمك وكفلك جدك وعمك فرعاك وآواك؟ ووجدك غير عالم بتفاصيل الشريعة والإيمان فهداك بالوحي وعلمك ما لم تكن تعلم، ووجدك فقيراً ذا عيلة (عائلاً) فأغناك بما أفاء عليك ورزقك القناعة؟ فشكراً لهذه النعم العظيمة: لا تكسر قلب اليتيم بظلم أو قهر، ولا تزجر السائل المحتاج بل أعطه أو رده بلين، وتحدث بنعم ربك العظيمة وأعظمها نعمة النبوة والقرآن والإسلام شكراً واعترافاً بفضله."
+  }
+}

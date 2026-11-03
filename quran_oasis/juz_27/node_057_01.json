@@ -1,0 +1,166 @@
+{
+  "nodeId": "node_057_01",
+  "title": "سورة الحديد: تسبيح الكون لله وأسماؤه الحسنى (الأول والآخر والظاهر والباطن)",
+  "surahId": 57,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_057_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "سَبَّحَ",
+        "يُسَبِّحُ",
+        "سُبْحَانَ",
+        "تَسْبِيحُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْغَفُورُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْحَكِيمُ",
+        "ٱلْكَرِيمُ",
+        "ٱلْخَبِيرُ",
+        "ٱلْقَدِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_057_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "مُلْكُ",
+        "خَزَائِنُ",
+        "أَمْرُ",
+        "حُكْمُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيُمِيتُ ۖ",
+        "يَبْعَثُ",
+        "يَخْلُقُ",
+        "يَرْزُقُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "وَهُوَ",
+        "وَيُفْنِى",
+        "وَيُهْلِكُ",
+        "وَيَقْبِضُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_057_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَوَّلُ",
+        "ٱلْقَدِيمُ",
+        "ٱلْحَىُّ",
+        "ٱلْقَيُّومُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْـَٔاخِرُ",
+        "وَٱلْبَاقِى",
+        "وَٱلدَّائِمُ",
+        "وَٱلْوَارِثُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلظَّـٰهِرُ",
+        "وَٱلْعَالِى",
+        "وَٱلْقَاهِرُ",
+        "وَٱلْكَبِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْبَاطِنُ ۖ",
+        "وَٱلْخَفِىُّ",
+        "وَٱلْقَرِيبُ",
+        "وَٱلْخَبِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_057_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 9,
+      "options": [
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "قَدِيرٌ",
+        "بَصِيرٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحديد",
+    "juz": 27,
+    "theme": "تسبيح الكائنات الحية والجامدة لله تعالى، وإثبات أسمائه الجليلة الدالة على الإحاطة الزمانية والمكانية والعلم المطلق."
+  }
+}

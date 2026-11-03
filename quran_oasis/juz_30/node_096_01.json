@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_096_01",
+  "title": "سورة العلق - المقطع الأول (أول ما نزل من القرآن: القراءة والعلم بالبداءة)",
+  "surahId": 96,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱقْرَأْ",
+      "missingWordPosition": 1,
+      "options": [
+        "ٱقْرَأْ",
+        "سَبِّحْ",
+        "ٱذْكُرْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "خَلَقَ",
+      "missingWordPosition": 5,
+      "options": [
+        "خَلَقَ",
+        "سَوَّى",
+        "هَدَى"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْبَشَرَ",
+        "ٱلْخَلْقَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "عَلَقٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "عَلَقٍ",
+        "طِينٍ",
+        "تُرَابٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱقْرَأْ",
+      "missingWordPosition": 1,
+      "options": [
+        "ٱقْرَأْ",
+        "قُمْ",
+        "فَاصْدَعْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلْأَكْرَمُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَكْرَمُ",
+        "ٱلْأَعْلَى",
+        "ٱلْعَظِيمُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "عَلَّمَ",
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَّمَ",
+        "أَنْزَلَ",
+        "أَوْحَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "بِٱلْقَلَمِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْقَلَمِ",
+        "بِٱلْوَحْيِ",
+        "بِٱلْكِتَابِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلْإِنسَـٰنَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْخَلْقَ",
+        "ٱلْبَشَرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "يَعْلَمْ",
+      "missingWordPosition": 5,
+      "options": [
+        "يَعْلَمْ",
+        "يَفْهَمْ",
+        "يُدْرِكْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "هذه الآيات الخمس العظيمة هي أول ما نزل من القرآن الكريم على النبي ﷺ بغار حراء؛ أمره جبريل عليه السلام بالقراءة مبتدئاً ومستعيناً باسم ربه الخالق الذي أوجد كل شيء، والذي خلق جنس الإنسان من قطعة دم جامدة متعلقة بجدار الرحم (عَلَقٍ). اقرأ يا محمد ورَبّك العظيم هو الأكرم الذي لا يوازيه كرم؛ تفضل على عباده بتعليمهم الكتابة والتدوين بالقلم، وعلّم بني آدم العلوم والمعارف وما لم يكونوا يعلمونه ونقلهم من ظلمات الجهل إلى نور العلم."
+  }
+}

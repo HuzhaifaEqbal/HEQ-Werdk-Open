@@ -1,0 +1,260 @@
+{
+  "nodeId": "node_063_01",
+  "title": "سورة المنافقون: كذب المنافقين والأيمان الكاذبة وأجسام كالخشب المسندة",
+  "surahId": 63,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_063_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُنَـٰفِقُونَ",
+        "ٱلْكَافِرُونَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْفَاسِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "نَشْهَدُ",
+        "نَقُولُ",
+        "نُقِرُّ",
+        "نَعْلَمُ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "يَعْلَمُ",
+        "يَشْهَدُ",
+        "يَرَى",
+        "يُحِيطُ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 17,
+      "options": [
+        "لَكَـٰذِبُونَ",
+        "لَفَاسِقُونَ",
+        "لَخَائِنُونَ",
+        "لَضَالُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_063_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "أَيْمَـٰنَهُمْ",
+        "حَلِفَهُمْ",
+        "عُهُودَهُمْ",
+        "أَقْوَالَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "جُنَّةًۭ",
+        "سِتْرًا",
+        "حِصْنًا",
+        "مَانِعًا"
+      ]
+    },
+    {
+      "activityId": "act_063_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "فَصَدُّوا۟",
+        "فَمَنَعُوا۟",
+        "فَصَرَفُوا۟",
+        "فَأَعْرَضُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 9,
+      "options": [
+        "سَآءَ",
+        "بِئْسَ",
+        "قَبُحَ",
+        "خَسِرَ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_063_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "كَفَرُوا۟",
+        "أَشْرَكُوا۟",
+        "فَسَقُوا۟",
+        "نَافَقُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 6,
+      "options": [
+        "فَطُبِعَ",
+        "فَخُتِمَ",
+        "فَأُغْلِقَ",
+        "فَصُرِفَ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 11,
+      "options": [
+        "يَفْقَهُونَ",
+        "يَعْقِلُونَ",
+        "يَسْمَعُونَ",
+        "يُبْصِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_063_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "أَجْسَامُهُمْ ۖ",
+        "صُوَرُهُمْ",
+        "أَشْكَالُهُمْ",
+        "مَظَاهِرُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "لِقَوْلِهِمْ ۖ",
+        "لِحَدِيثِهِمْ",
+        "لِكَلَامِهِمْ",
+        "لِحُجَّتِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "خُشُبٌۭ",
+        "أَعْمِدَةٌ",
+        "حِجَارَةٌ",
+        "جُذُوعٌ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "مُّسَنَّدَةٌۭ ۖ",
+        "مُّعَلَّقَةٌ",
+        "مَّنْصُوبَةٌ",
+        "مَّائِلَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "صَيْحَةٍ",
+        "صَوْتٍ",
+        "نِدَاءٍ",
+        "خَوْفٍ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 18,
+      "options": [
+        "فَٱحْذَرْهُمْ ۚ",
+        "فَٱتَّقُوهُمْ",
+        "فَٱعْتَزِلُوهُمْ",
+        "فَٱجْتَنِبُوهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_01_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 22,
+      "options": [
+        "يُؤْفَكُونَ",
+        "يُصْرَفُونَ",
+        "يَضِلُّونَ",
+        "يَكْفُرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المنافقون",
+    "juz": 28,
+    "theme": "فضح نفاق المنافقين في دعواهم الإيمان بألسنتهم مع كفر قلوبهم، واستتارهم بالأيمان الفاجرة، وتصوير هيئاتهم الجوفاء كخشب مسندة وجبنهم وهلعهم من كل صوت."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "nodeId": "node_041_01",
+  "title": "سورة فصلت: إحاطة علم الله بالساعة والثمرات وطبيعة الإنسان عند النعمة والضراء",
+  "surahId": 41,
+  "ayahStart": 47,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "activityId": "act_041_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "عِلْمُ",
+        "أَمْرُ",
+        "حُكْمُ",
+        "وَقْتُ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 10,
+      "options": [
+        "أَكْمَامِهَا",
+        "أَغْصَانِهَا",
+        "أَوْرَاقِهَا",
+        "أُصُولِهَا"
+      ]
+    },
+    {
+      "activityId": "act_041_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 24,
+      "options": [
+        "ءَاذَنَّـٰكَ",
+        "أَعْلَمْنَاكَ",
+        "أَخْبَرْنَاكَ",
+        "أَجَبْنَاكَ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_041_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 1,
+      "options": [
+        "وَضَلَّ",
+        "وَغَابَ",
+        "وَتَبَرَّأَ",
+        "وَانْقَطَعَ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 12,
+      "options": [
+        "مَّحِيصٍۢ",
+        "مَفَرٍّ",
+        "مَهْرَبٍ",
+        "مَلْجَإٍ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_041_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْـَٔمُ",
+        "يَمَلُّ",
+        "يَفْتُرُ",
+        "يَنْقَطِعُ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 11,
+      "options": [
+        "قَنُوطٌۭ",
+        "يَئُوسٌ",
+        "جَزُوعٌ",
+        "كَفُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_041_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_041_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 15,
+      "options": [
+        "قَآئِمَةًۭ",
+        "آتِيَةً",
+        "وَاقِعَةً",
+        "حَقًّا"
+      ]
+    },
+    {
+      "activityId": "act_041_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 32,
+      "options": [
+        "غَلِيظٍۢ",
+        "شَدِيدٍ",
+        "أَلِيمٍ",
+        "مُّهِينٍ"
+      ]
+    }
+  ]
+}

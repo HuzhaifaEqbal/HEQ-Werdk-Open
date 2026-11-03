@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_13",
+  "title": "سورة النساء - الآيات 59-63",
+  "surahId": 4,
+  "ayahStart": 59,
+  "ayahEnd": 63,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَطِيعُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَتَوۡفِيقًا"
+      ],
+      "activityId": "act_004_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        57
+      ],
+      "activityId": "act_004_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 17,
+      "options": [
+        "يَتَحَاكَمُوٓاْ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ٱلۡمُنَٰفِقِينَ"
+      ],
+      "activityId": "act_004_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        58
+      ],
+      "activityId": "act_004_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلۡمُنَٰفِقِينَ",
+        "يَتَحَاكَمُوٓاْ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_004_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 16,
+      "options": [
+        "وَتَوۡفِيقًا",
+        "وَأَطِيعُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_004_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 7,
+      "options": [
+        "قُلُوبِهِمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "وَأَطِيعُواْ"
+      ],
+      "activityId": "act_004_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يأمر بطاعة الله والرسول وأولي الأمر، ويجعل رد النزاع إلى الوحي علامة الإيمان."
+  }
+}

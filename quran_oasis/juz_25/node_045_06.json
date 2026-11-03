@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_045_06",
+  "title": "سورة الجاثية: مشهد جثو الأمم واستنساخ الأعمال وفوز المؤمنين وحسرة المكذبين",
+  "surahId": 45,
+  "ayahStart": 27,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "activityId": "act_045_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُبْطِلُونَ",
+        "ٱلْكَافِرُونَ",
+        "ٱلظَّالِمُونَ",
+        "ٱلْخَاسِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_045_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_045_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "جَاثِيَةًۭ ۚ",
+        "خَاشِعَةً",
+        "قَائِمَةً",
+        "صَاغِرَةً"
+      ]
+    },
+    {
+      "activityId": "act_045_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_045_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "نَسْتَنسِخُ",
+        "نَكْتُبُ",
+        "نُحْصِى",
+        "نَحْفَظُ"
+      ]
+    },
+    {
+      "activityId": "act_045_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_045_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْمُبِينُ",
+        "ٱلْعَظِيمُ",
+        "ٱلْكَبِيرُ",
+        "ٱلْأَعْلَى"
+      ]
+    },
+    {
+      "activityId": "act_045_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_045_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 9,
+      "options": [
+        "فَٱسْتَكْبَرْتُمْ",
+        "فَأَعْرَضْتُمْ",
+        "فَتَوَلَّيْتُمْ",
+        "فَكَذَّبْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_045_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_045_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 22,
+      "options": [
+        "بِمُسْتَيْقِنِينَ",
+        "بِمُؤْمِنِينَ",
+        "بِصَادِقِينَ",
+        "بِعَالِمِينَ"
+      ]
+    }
+  ]
+}

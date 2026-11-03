@@ -1,0 +1,251 @@
+{
+  "nodeId": "hifz_081_02",
+  "title": "سورة التكوير - المقطع الثاني (سؤال الموءودة وكشف الصحف والجزاء)",
+  "surahId": 81,
+  "ayahStart": 7,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "النُّفُوسُ",
+      "missingWordPosition": 2,
+      "options": [
+        "النُّفُوسُ",
+        "الْقُلُوبُ",
+        "الْأَرْوَاحُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "زُوِّجَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "زُوِّجَتْ",
+        "حُشِرَتْ",
+        "بُعِثَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "الْمَوْءُودَةُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْمَوْءُودَةُ",
+        "الْمَوْلُودَةُ",
+        "الْمَظْلُومَةُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "سُئِلَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "سُئِلَتْ",
+        "شَهِدَتْ",
+        "نَطَقَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ذَنبٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "ذَنبٍ",
+        "جُرْمٍ",
+        "إِثْمٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "قُتِلَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "قُتِلَتْ",
+        "وُئِدَتْ",
+        "ظُلِمَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "الصُّحُفُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الصُّحُفُ",
+        "الْكُتُبُ",
+        "الْأَعْمَالُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "نُشِرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "نُشِرَتْ",
+        "فُتِحَتْ",
+        "عُرِضَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "السَّمَاءُ",
+      "missingWordPosition": 2,
+      "options": [
+        "السَّمَاءُ",
+        "الْأَرْضُ",
+        "الشَّمْسُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "كُشِطَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "كُشِطَتْ",
+        "انفَطَرَتْ",
+        "انشَقَّتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "الْجَحِيمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجَحِيمُ",
+        "النَّارُ",
+        "جَهَنَّمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "سُعِّرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "سُعِّرَتْ",
+        "أُوقِدَتْ",
+        "أُحْضِرَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        10,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "الْجَنَّةُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْجَنَّةُ",
+        "الْفِرْدَوْسُ",
+        "النَّعِيمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "أُزْلِفَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "أُزْلِفَتْ",
+        "قُرِّبَتْ",
+        "فُتِحَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "عَلِمَتْ",
+      "missingWordPosition": 1,
+      "options": [
+        "عَلِمَتْ",
+        "رَأَتْ",
+        "وَجَدَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "أَحْضَرَتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "أَحْضَرَتْ",
+        "قَدَّمَتْ",
+        "كَسَبَتْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تكتمل أهوال القيامة؛ حين تقرن النفوس بأشكالها (الأبرار مع الأبرار والفجار مع الفجار)، وتُسأل البنت المدفونة حية ظلماً في الجاهلية (الموءودة) تطييباً لخاطرها وتبكيتاً لوائدها: بأي جرم قُتلت؟ وتُنشر صحائف الأعمال للحساب، وتُقلع السماء وتُزال (كُشطت)، وتُوقد نار الجحيم إيقاداً عظيماً (سُعّرت)، وتُقرّب الجنة للمتقين (أُزلفت). جواب هذه الشروط كلها: إذا وقع ذلك، أيقنت كل نفس وعلمت تفصيلاً ما قدّمته وأحضرته من خير أو شر للحساب."
+  }
+}

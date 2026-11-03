@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_35",
+  "title": "سورة البقرة - الآيات 166-170",
+  "surahId": 2,
+  "ayahStart": 166,
+  "ayahEnd": 170,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلۡأَسۡبَابُ",
+        "ءَابَآءَنَآۚ",
+        "ءَابَآؤُهُمۡ",
+        "أَعۡمَٰلَهُمۡ"
+      ],
+      "activityId": "act_002_35_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "wrongOptionsAyahNumbers": [
+        168,
+        164
+      ],
+      "activityId": "act_002_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱتَّبَعُواْ",
+        "أَلۡفَيۡنَا",
+        "بِخَٰرِجِينَ",
+        "بِٱلسُّوٓءِ"
+      ],
+      "activityId": "act_002_35_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 167,
+      "correctNextAyahNumber": 168,
+      "wrongOptionsAyahNumbers": [
+        169,
+        165
+      ],
+      "activityId": "act_002_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 10,
+      "options": [
+        "تَتَّبِعُواْ",
+        "تَبَرَّءُواْ",
+        "تَعۡلَمُونَ",
+        "تَقُولُواْ"
+      ],
+      "activityId": "act_002_35_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "wrongOptionsAyahNumbers": [
+        170,
+        166
+      ],
+      "activityId": "act_002_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلۡفَحۡشَآءِ",
+        "ٱلۡأَسۡبَابُ",
+        "ءَابَآءَنَآۚ",
+        "ءَابَآؤُهُمۡ"
+      ],
+      "activityId": "act_002_35_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "wrongOptionsAyahNumbers": [
+        171,
+        167
+      ],
+      "activityId": "act_002_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 14,
+      "options": [
+        "ءَابَآءَنَآۚ",
+        "ٱلۡأَسۡبَابُ",
+        "ءَابَآؤُهُمۡ",
+        "تَتَّبِعُواْ"
+      ],
+      "activityId": "act_002_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يحذر من اتباع الآباء بلا علم، ويذكر أحكام الطعام، ويضرب مثل من لا ينتفع بالنداء."
+  }
+}

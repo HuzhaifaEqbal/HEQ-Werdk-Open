@@ -1,0 +1,106 @@
+{
+  "nodeId": "node_108_01",
+  "title": "سورة الكوثر: عطاء الله العظيم للنبي صلى الله عليه وسلم والرد على أعدائه",
+  "surahId": 108,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_108_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "أَعْطَيْنَـٰكَ",
+        "ءَاتَيْنَـٰكَ",
+        "وَهَبْنَـٰكَ",
+        "رَزَقْنَـٰكَ"
+      ]
+    },
+    {
+      "activityId": "act_108_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْكَوْثَرَ",
+        "ٱلْفَوْزَ",
+        "ٱلنَّعِيمَ",
+        "ٱلْفَضْلَ"
+      ]
+    },
+    {
+      "activityId": "act_108_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_108_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "فَصَلِّ",
+        "فَٱسْجُدْ",
+        "فَسَبِّحْ",
+        "فَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_108_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱنْحَرْ",
+        "وَٱشْكُرْ",
+        "وَٱسْتَغْفِرْ",
+        "وَٱقْتَرِبْ"
+      ]
+    },
+    {
+      "activityId": "act_108_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_108_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "شَانِئَكَ",
+        "عَدُوَّكَ",
+        "مُبْغِضَكَ",
+        "ظَالِمَكَ"
+      ]
+    },
+    {
+      "activityId": "act_108_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَبْتَرُ",
+        "ٱلْأَخْسَرُ",
+        "ٱلْمَقْهُورُ",
+        "ٱلْمَهْزُومُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكوثر",
+    "juz": 30,
+    "theme": "بشارة النبي ﷺ بالخير الجزيل ونهر الكوثر والأمر بإخلاص الصلاة والذبح لله، وبتر من أبغضه"
+  }
+}

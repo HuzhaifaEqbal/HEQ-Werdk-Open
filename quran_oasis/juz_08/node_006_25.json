@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_25",
+  "title": "سورة الأنعام - الآيات 141-146",
+  "surahId": 6,
+  "ayahStart": 141,
+  "ayahEnd": 146,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلزَّيْتُونَ",
+        "ٱلْأُنثَيَيْنِ",
+        "ءَآلذَّكَرَيْنِ",
+        "بِبَغْيِهِمْ ۖ"
+      ],
+      "activityId": "act_006_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 141,
+      "correctNextAyahNumber": 142,
+      "wrongOptionsAyahNumbers": [
+        143,
+        139
+      ],
+      "activityId": "act_006_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلشَّيْطَـٰنِ ۚ",
+        "تُسْرِفُوٓا۟ ۚ",
+        "ٱلظَّـٰلِمِينَ",
+        "شُحُومَهُمَآ"
+      ],
+      "activityId": "act_006_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 142,
+      "correctNextAyahNumber": 143,
+      "wrongOptionsAyahNumbers": [
+        144,
+        140
+      ],
+      "activityId": "act_006_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْأُنثَيَيْنِ ۖ",
+        "وَٱلزَّيْتُونَ",
+        "ٱلْمُسْرِفِينَ",
+        "ءَآلذَّكَرَيْنِ"
+      ],
+      "activityId": "act_006_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 143,
+      "correctNextAyahNumber": 144,
+      "wrongOptionsAyahNumbers": [
+        145,
+        141
+      ],
+      "activityId": "act_006_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 144,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْأُنثَيَيْنِ ۖ",
+        "وَٱلزَّيْتُونَ",
+        "ٱلْأُنثَيَيْنِ",
+        "ٱلْمُسْرِفِينَ"
+      ],
+      "activityId": "act_006_25_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 144,
+      "correctNextAyahNumber": 145,
+      "wrongOptionsAyahNumbers": [
+        146,
+        142
+      ],
+      "activityId": "act_006_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 145,
+      "missingWordPosition": 11,
+      "options": [
+        "يَطْعَمُهُۥٓ",
+        "تَتَّبِعُوا۟",
+        "وَفَرْشًۭا ۚ",
+        "جَزَيْنَـٰهُم"
+      ],
+      "activityId": "act_006_25_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 145,
+      "correctNextAyahNumber": 146,
+      "wrongOptionsAyahNumbers": [
+        147,
+        143
+      ],
+      "activityId": "act_006_25_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 146,
+      "missingWordPosition": 13,
+      "options": [
+        "شُحُومَهُمَآ",
+        "وَٱلرُّمَّانَ",
+        "حَصَادِهِۦ ۖ",
+        "ٱلشَّيْطَـٰنِ ۚ"
+      ],
+      "activityId": "act_006_25_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_047_03",
+  "title": "سورة محمد: شرط نصر الله وتثبيت الأقدام ومقارنة المؤمنين بالكافرين كالأنعام",
+  "surahId": 47,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "activityId": "act_047_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "تَنصُرُوا۟",
+        "دِينَ",
+        "رَسُولَ",
+        "شَرْعَ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 9,
+      "options": [
+        "أَقْدَامَكُمْ",
+        "قُلُوبَكُمْ",
+        "صُفُوفَكُمْ",
+        "أَمْرَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_047_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "لَّهُمْ",
+        "فَوَيْلٌ",
+        "فَهَلَاكٌ",
+        "فَخَسَارٌ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_047_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "فَأَحْبَطَ",
+        "أَبْطَلَ",
+        "أَضَاعَ",
+        "رَدَّ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_047_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلَّذِينَ",
+        "أَهْلَكَ",
+        "عَذَّبَ",
+        "سَحَقَ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_047_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "مَوْلَى",
+        "نَصِيرُ",
+        "وَلِىُّ",
+        "حَامِى"
+      ]
+    },
+    {
+      "activityId": "act_047_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_047_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 17,
+      "options": [
+        "كَمَا",
+        "ٱلدَّوَابُّ",
+        "ٱلْبَهَائِمُ",
+        "ٱلْوُحُوشُ"
+      ]
+    },
+    {
+      "activityId": "act_047_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 21,
+      "options": [
+        "مَثْوًۭى",
+        "مَنْزِلٌ",
+        "مَقَرٌّ",
+        "مَثْوًى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "محمد",
+    "juz": 26,
+    "theme": "الوعد الإلهي بنصر من ينصر دين الله وتثبيت أقدامهم، ووعيد الكافرين بالتعاسة والهلاك، وتشبيه تمتعهم في الدنيا بأكل الأنعام ومأواهم النار."
+  }
+}

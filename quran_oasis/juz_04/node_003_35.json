@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_35",
+  "title": "سورة آل عمران - الآيات 168-172",
+  "surahId": 3,
+  "ayahStart": 168,
+  "ayahEnd": 172,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 3,
+      "options": [
+        "لِإِخۡوَٰنِهِمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_35_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "wrongOptionsAyahNumbers": [
+        170,
+        166
+      ],
+      "activityId": "act_003_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 13,
+      "options": [
+        "يُرۡزَقُونَ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ",
+        "لِإِخۡوَٰنِهِمۡ"
+      ],
+      "activityId": "act_003_35_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "wrongOptionsAyahNumbers": [
+        171,
+        167
+      ],
+      "activityId": "act_003_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 7,
+      "options": [
+        "وَيَسۡتَبۡشِرُونَ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_35_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "wrongOptionsAyahNumbers": [
+        172,
+        168
+      ],
+      "activityId": "act_003_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ يَسۡتَبۡشِرُونَ",
+        "وَيَسۡتَبۡشِرُونَ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ"
+      ],
+      "activityId": "act_003_35_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "wrongOptionsAyahNumbers": [
+        173,
+        169
+      ],
+      "activityId": "act_003_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسۡتَجَابُواْ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يفسر ما أصاب المؤمنين في أُحد بالابتلاء، ويذكر تمييز المؤمنين عن المنافقين."
+  }
+}

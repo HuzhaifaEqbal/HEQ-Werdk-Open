@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_43",
+  "title": "سورة البقرة - الآيات 206-210",
+  "surahId": 2,
+  "ayahStart": 206,
+  "ayahEnd": 210,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 206,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلۡإِثۡمِۚ",
+        "جَآءَتۡكُمُ",
+        "فَحَسۡبُهُۥ",
+        "يَأۡتِيَهُمُ"
+      ],
+      "activityId": "act_002_43_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 206,
+      "correctNextAyahNumber": 207,
+      "wrongOptionsAyahNumbers": [
+        208,
+        204
+      ],
+      "activityId": "act_002_43_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 207,
+      "missingWordPosition": 11,
+      "options": [
+        "بِٱلۡعِبَادِ",
+        "فَٱعۡلَمُوٓاْ",
+        "بِٱلۡإِثۡمِۚ",
+        "يَنظُرُونَ"
+      ],
+      "activityId": "act_002_43_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 207,
+      "correctNextAyahNumber": 208,
+      "wrongOptionsAyahNumbers": [
+        209,
+        205
+      ],
+      "activityId": "act_002_43_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 208,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "ٱبۡتِغَآءَ",
+        "ٱدۡخُلُواْ",
+        "ٱلشَّيۡطَٰنِۚ"
+      ],
+      "activityId": "act_002_43_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 208,
+      "correctNextAyahNumber": 209,
+      "wrongOptionsAyahNumbers": [
+        210,
+        206
+      ],
+      "activityId": "act_002_43_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 209,
+      "missingWordPosition": 8,
+      "options": [
+        "فَٱعۡلَمُوٓاْ",
+        "بِٱلۡعِبَادِ",
+        "ٱلۡأُمُورُ",
+        "ٱلۡبَيِّنَٰتُ"
+      ],
+      "activityId": "act_002_43_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 209,
+      "correctNextAyahNumber": 210,
+      "wrongOptionsAyahNumbers": [
+        211,
+        207
+      ],
+      "activityId": "act_002_43_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 210,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلۡمَلَٰٓئِكَةُ",
+        "بِٱلۡعِبَادِ",
+        "فَٱعۡلَمُوٓاْ",
+        "ٱلۡغَمَامِ"
+      ],
+      "activityId": "act_002_43_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذم الكبر والإفساد، ويعرض ما ينتظر الناس من الحساب، ويذكر آيات الله الواضحة."
+  }
+}

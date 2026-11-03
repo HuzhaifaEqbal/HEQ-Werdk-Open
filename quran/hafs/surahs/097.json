@@ -1,0 +1,65 @@
+{
+  "number": 97,
+  "name_ar": "القَدر",
+  "name_en": "Al-Qadr",
+  "ayahs_count": 5,
+  "page_start": 598,
+  "page_end": 598,
+  "ayahs": [
+    {
+      "id": 6126,
+      "number": 1,
+      "text_uthmani": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ ١",
+      "text_simple": "إنا أنزلناه في ليلة القدر",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 6127,
+      "number": 2,
+      "text_uthmani": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ ٢",
+      "text_simple": "وما أدراك ما ليلة القدر",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 6128,
+      "number": 3,
+      "text_uthmani": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ ٣",
+      "text_simple": "ليلة القدر خير من ألف شهر",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6129,
+      "number": 4,
+      "text_uthmani": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ ٤",
+      "text_simple": "تنزل الملائكة والروح فيها بإذن ربهم من كل أمر",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 8
+    },
+    {
+      "id": 6130,
+      "number": 5,
+      "text_uthmani": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ ٥",
+      "text_simple": "سلام هي حتى مطلع الفجر",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    }
+  ]
+}

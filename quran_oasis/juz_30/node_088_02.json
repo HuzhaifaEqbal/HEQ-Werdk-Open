@@ -1,0 +1,271 @@
+{
+  "nodeId": "hifz_088_02",
+  "title": "سورة الغاشية - المقطع الثاني (نعيم أهل الجنة وأوصاف قصورها وأثاثها)",
+  "surahId": 88,
+  "ayahStart": 8,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "وُجُوهٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "وُجُوهٌ",
+        "نُفُوسٌ",
+        "قُلُوبٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "نَّاعِمَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "نَّاعِمَةٌ",
+        "خَاشِعَةٌ",
+        "بَاسِرَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "لِّسَعْيِهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "لِّسَعْيِهَا",
+        "لِأَجْرِهَا",
+        "لِثَوَابِهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "رَاضِيَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَاضِيَةٌ",
+        "نَاصِبَةٌ",
+        "فَرِحَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "عَالِيَةٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "عَالِيَةٍ",
+        "دَانِيَةٍ",
+        "وَاسِعَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "تَسْمَعُ",
+      "missingWordPosition": 2,
+      "options": [
+        "تَسْمَعُ",
+        "تَرَى",
+        "تَجِدُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "لَـٰغِيَةً",
+      "missingWordPosition": 4,
+      "options": [
+        "لَـٰغِيَةً",
+        "بَاطِلًا",
+        "إِثْمًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "عَيْنٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "عَيْنٌ",
+        "نَهْرٌ",
+        "مَاءٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "جَارِيَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "جَارِيَةٌ",
+        "ءَانِيَةٌ",
+        "مُعِينَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "سُرُرٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "سُرُرٌ",
+        "أَرَائِكُ",
+        "فُرُشٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "مَّرْفُوعَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "مَّرْفُوعَةٌ",
+        "مَّوْضُوعَةٌ",
+        "مَّصْفُوفَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "وَأَكْوَابٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَكْوَابٌ",
+        "وَكُؤُوسٌ",
+        "وَأَبَارِيقُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "مَّوْضُوعَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مَّوْضُوعَةٌ",
+        "مَّرْفُوعَةٌ",
+        "مَّصْفُوفَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        11,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "وَنَمَارِقُ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَنَمَارِقُ",
+        "وَزَرَابِيُّ",
+        "وَسُرُرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "مَصْفُوفَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مَصْفُوفَةٌ",
+        "مَبْثُوثَةٌ",
+        "مَوْضُوعَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "وَزَرَابِىُّ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَزَرَابِىُّ",
+        "وَنَمَارِقُ",
+        "وَأَفْرِشَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "مَبْثُوثَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مَبْثُوثَةٌ",
+        "مَصْفُوفَةٌ",
+        "مَرْفُوعَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "وجوه المؤمنين يوم القيامة ذات بهجة ونضارة وسرور بنعيم الله، راضية مطمئنة بما كوفئت به على طاعتها في الدنيا، في جنات عالية المكان والمكانة، لا تسمع فيها كلمة باطل ولا لغواً ولا فحشاً، تجري فيها عيون الماء العذب الزلال، وفيها أسرّة رفيعة القدر ناعمة، وأكواب مهيأة وموضوعة بين أيديهم للشراب، ووسائد فاخرة (نمارق) مصفوفة للاتكاء، وبُسُط وفرش فخمة مبثوثة ومبسوطة في كل مكان."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_13",
+  "title": "سورة آل عمران - الآيات 61-65",
+  "surahId": 3,
+  "ayahStart": 61,
+  "ayahEnd": 65,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 14,
+      "options": [
+        "وَأَبۡنَآءَكُمۡ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "وَٱلۡإِنجِيلُ"
+      ],
+      "activityId": "act_003_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_003_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلۡعَزِيزُ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تَعَالَوۡاْ"
+      ],
+      "activityId": "act_003_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_003_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "وَلَأُدۡخِلَنَّهُمۡ",
+        "وَأَبۡنَآءَكُمۡ"
+      ],
+      "activityId": "act_003_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_003_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 4,
+      "options": [
+        "تَعَالَوۡاْ",
+        "ٱلۡعَزِيزُ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_003_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلۡإِنجِيلُ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "وَأَبۡنَآءَكُمۡ"
+      ],
+      "activityId": "act_003_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يأمر النبي بالمباهلة عند الإصرار على الجدل، ثم يدعو أهل الكتاب إلى كلمة التوحيد المشتركة."
+  }
+}

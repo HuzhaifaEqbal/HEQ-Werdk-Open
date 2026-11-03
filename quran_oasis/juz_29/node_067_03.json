@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_067_03",
+  "title": "سورة الملك: ثواب الخاشعين وعلم السر وأرض الله الذلول",
+  "surahId": 67,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_067_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "فَسُحْقًۭا",
+        "فَبُعْدًا",
+        "فَهَلَاكًا",
+        "فَوَيْلًا"
+      ]
+    },
+    {
+      "activityId": "act_067_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_067_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "يَخْشَوْنَ",
+        "يَخَافُونَ",
+        "يَرْجُونَ",
+        "يَذْكُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْغَيْبِ",
+        "بِٱلْحَقِّ",
+        "بِٱلْقِسْطِ",
+        "بِٱلصِّدْقِ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "مَّغْفِرَةٌۭ",
+        "جَنَّـٰتٌ",
+        "رَحْمَةٌ",
+        "نِعْمَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_067_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَسِرُّوا۟",
+        "وَٱكْتُمُوا۟",
+        "وَأَخْفُوا۟",
+        "وَٱحْفَظُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_067_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱجْهَرُوا۟",
+        "أَعْلِنُوا۟",
+        "ٱصْدَعُوا۟",
+        "تَكَلَّمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_067_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلصُّدُورِ",
+        "ٱلْقُلُوبِ",
+        "ٱلْأَفْئِدَةِ",
+        "ٱلنُّفُوسِ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ]
+    },
+    {
+      "activityId": "act_067_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱللَّطِيفُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْحَكِيمُ",
+        "ٱلْبَصِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْخَبِيرُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَظِيمُ",
+        "ٱلْكَبِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_067_03_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ]
+    },
+    {
+      "activityId": "act_067_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "ذَلُولًۭا",
+        "مِهَـٰدًا",
+        "فِرَٰشًا",
+        "بِسَاطًا"
+      ]
+    },
+    {
+      "activityId": "act_067_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 9,
+      "options": [
+        "مَنَاكِبِهَا",
+        "أَكْنَافِهَا",
+        "أَرْجَائِهَا",
+        "طُرُقِهَا"
+      ]
+    },
+    {
+      "activityId": "act_067_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلنُّشُورُ",
+        "ٱلْمَصِيرُ",
+        "ٱلْمَعَادُ",
+        "ٱلْمَآبُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "جزاء الخاشعين لله بالغيب، وإحاطة علم الله بالسر والعلانية، وتذليل الأرض للإنسان للسعي في مناكبها"
+  }
+}

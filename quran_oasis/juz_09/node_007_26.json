@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_26",
+  "title": "سورة الأعراف - الآيات 148-153",
+  "surahId": 7,
+  "ayahStart": 148,
+  "ayahEnd": 153,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 16,
+      "options": [
+        "يُكَلِّمُهُمْ",
+        "أَعَجِلْتُمْ",
+        "رَحْمَتِكَ ۖ",
+        "لَنَكُونَنَّ"
+      ],
+      "activityId": "act_007_26_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "wrongOptionsAyahNumbers": [
+        150,
+        146
+      ],
+      "activityId": "act_007_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْخَـٰسِرِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "سَيَنَالُهُمْ",
+        "وَءَامَنُوٓا۟"
+      ],
+      "activityId": "act_007_26_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "wrongOptionsAyahNumbers": [
+        151,
+        147
+      ],
+      "activityId": "act_007_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 28,
+      "options": [
+        "ٱسْتَضْعَفُونِى",
+        "ٱلْمُفْتَرِينَ",
+        "ٱلْخَـٰسِرِينَ",
+        "وَأَدْخِلْنَا"
+      ],
+      "activityId": "act_007_26_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "wrongOptionsAyahNumbers": [
+        152,
+        148
+      ],
+      "activityId": "act_007_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَدْخِلْنَا",
+        "ٱلْأَعْدَآءَ",
+        "ٱلدُّنْيَا ۚ",
+        "ٱلْأَلْوَاحَ"
+      ],
+      "activityId": "act_007_26_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "wrongOptionsAyahNumbers": [
+        153,
+        149
+      ],
+      "activityId": "act_007_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُفْتَرِينَ",
+        "خَلَفْتُمُونِى",
+        "يَقْتُلُونَنِى",
+        "ٱسْتَضْعَفُونِى"
+      ],
+      "activityId": "act_007_26_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 152,
+      "correctNextAyahNumber": 153,
+      "wrongOptionsAyahNumbers": [
+        154,
+        150
+      ],
+      "activityId": "act_007_26_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 8,
+      "options": [
+        "وَءَامَنُوٓا۟",
+        "ٱلرَّٰحِمِينَ",
+        "سَيَنَالُهُمْ",
+        "وَأَدْخِلْنَا"
+      ],
+      "activityId": "act_007_26_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_083_06",
+  "title": "سورة المطففين - المقطع السادس (سخرية المجرمين من أهل الإيمان في الدنيا)",
+  "surahId": 83,
+  "ayahStart": 29,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "أَجْرَمُوا۟",
+      "missingWordPosition": 3,
+      "options": [
+        "أَجْرَمُوا۟",
+        "كَفَرُوا",
+        "فَسَقُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "يَضْحَكُونَ",
+      "missingWordPosition": 8,
+      "options": [
+        "يَضْحَكُونَ",
+        "يَسْخَرُونَ",
+        "يَهْزَءُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "مَرُّوا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "مَرُّوا۟",
+        "جَاءُوا",
+        "قَامُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "يَتَغَامَزُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَتَغَامَزُونَ",
+        "يَتَبَاشَرُونَ",
+        "يَتَنَاجَوْنَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "أَهْلِهِمُ",
+      "missingWordPosition": 4,
+      "options": [
+        "أَهْلِهِمُ",
+        "دِيَارِهِمْ",
+        "بُيُوتِهِمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "فَكِهِينَ",
+      "missingWordPosition": 6,
+      "options": [
+        "فَكِهِينَ",
+        "فَرِحِينَ",
+        "مَسْرُورِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "لَضَآلُّونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "لَضَآلُّونَ",
+        "لَخَاسِرُونَ",
+        "لَكَاذِبُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "أُرْسِلُوا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "أُرْسِلُوا۟",
+        "جُعِلُوا",
+        "كُلِّفُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "حَـٰفِظِينَ",
+      "missingWordPosition": 4,
+      "options": [
+        "حَـٰفِظِينَ",
+        "شَاهِدِينَ",
+        "وَكِيلِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن الذين ارتكبوا الكفر والإجرام كانوا في الدنيا يستهزئون بالمؤمنين ويضحكون منهم تحقيراً لشأنهم، وإذا مر المؤمنون بهم غمز بعضهم لبعض بالأعين سخرية، وإذا رجع هؤلاء المجرمون إلى بيوتهم وأهلهم انقلبوا فرحين معجبين بما هم فيه من الباطل وسخريتهم بالحق، وإذا رأوا أهل الإيمان قالوا: إن هؤلاء لضالون عن طريق الصواب! وما أرسل الله هؤلاء الكفار رقباء ولا موكلين بحفظ أعمال المؤمنين حتى يحكموا بضلالهم."
+  }
+}

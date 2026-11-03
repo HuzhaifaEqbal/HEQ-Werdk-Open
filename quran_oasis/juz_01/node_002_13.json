@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_13",
+  "title": "سورة البقرة - الآيات 60-64",
+  "surahId": 2,
+  "ayahStart": 60,
+  "ayahEnd": 64,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 9,
+      "options": [
+        "فَٱنفَجَرَتۡ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاذَانِهِم"
+      ],
+      "activityId": "act_002_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        58
+      ],
+      "activityId": "act_002_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 24,
+      "options": [
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "أَتُحَدِّثُونَهُم",
+        "فَٱنفَجَرَتۡ"
+      ],
+      "activityId": "act_002_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_002_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلنَّصَٰرَىٰ",
+        "وَرَحۡمَتُهُۥ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_002_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَاتَيۡنَٰكُم",
+        "وَٱلنَّصَٰرَىٰ",
+        "ءَاذَانِهِم",
+        "فَٱنفَجَرَتۡ"
+      ],
+      "activityId": "act_002_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_002_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 10,
+      "options": [
+        "وَرَحۡمَتُهُۥ",
+        "وَٱلنَّصَٰرَىٰ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "تتواصل قصة البقرة، ثم يصف المقطع قسوة القلوب بعد ظهور الآيات، ويذكر تحريف بعض أهل الكتاب للقول."
+  }
+}

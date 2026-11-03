@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_55",
+  "title": "سورة البقرة - الآيات 258-262",
+  "surahId": 2,
+  "ayahStart": 258,
+  "ayahEnd": 262,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 258,
+      "missingWordPosition": 43,
+      "options": [
+        "ٱلظَّٰلِمِينَ",
+        "وَلِنَجۡعَلَكَ",
+        "أَمۡوَٰلَهُمۡ",
+        "بِٱلشَّمۡسِ"
+      ],
+      "activityId": "act_002_55_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 258,
+      "correctNextAyahNumber": 259,
+      "wrongOptionsAyahNumbers": [
+        260,
+        256
+      ],
+      "activityId": "act_002_55_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 259,
+      "missingWordPosition": 46,
+      "options": [
+        "وَلِنَجۡعَلَكَ",
+        "ٱلظَّٰلِمِينَ",
+        "عُرُوشِهَا",
+        "فَأَمَاتَهُ"
+      ],
+      "activityId": "act_002_55_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 259,
+      "correctNextAyahNumber": 260,
+      "wrongOptionsAyahNumbers": [
+        261,
+        257
+      ],
+      "activityId": "act_002_55_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 260,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلۡمَوۡتَىٰۖ",
+        "لِّيَطۡمَئِنَّ",
+        "نَكۡسُوهَا",
+        "نُنشِزُهَا"
+      ],
+      "activityId": "act_002_55_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 260,
+      "correctNextAyahNumber": 261,
+      "wrongOptionsAyahNumbers": [
+        262,
+        258
+      ],
+      "activityId": "act_002_55_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 261,
+      "missingWordPosition": 3,
+      "options": [
+        "يُنفِقُونَ",
+        "وَشَرَابِكَ",
+        "يَأۡتِينَكَ",
+        "يَحۡزَنُونَ"
+      ],
+      "activityId": "act_002_55_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 261,
+      "correctNextAyahNumber": 262,
+      "wrongOptionsAyahNumbers": [
+        263,
+        259
+      ],
+      "activityId": "act_002_55_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 262,
+      "missingWordPosition": 2,
+      "options": [
+        "يُنفِقُونَ",
+        "يُتۡبِعُونَ",
+        "ٱلۡعِظَامِ",
+        "ٱلۡمَشۡرِقِ"
+      ],
+      "activityId": "act_002_55_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يعرض حجاج إبراهيم مع الملك، وآيات الإحياء، وسؤال إبراهيم عن إحياء الموتى، ثم يضرب مثلاً لمضاعفة أجر الصدقة."
+  }
+}

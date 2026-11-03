@@ -1,0 +1,109 @@
+{
+  "steps": [
+    {
+      "type": "concept",
+      "title": "تعريف علم التجويد - الحد الاصطلاحي",
+      "content": "التجويد اصطلاحاً هو: (إعطاء كل حرف حقه ومستحقه). (حق الحرف) = صفاته اللازمة التي لا تفارقه كالهمس والجهر والاستعلاء. (مستحق الحرف) = ما يتغير فيه من أحوال بسبب ما قبله وما بعده كالتفخيم والترقيق والإدغام.",
+      "example": "قوله تعالى: {أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا} (المزمل: 4) الترتيل هو تجويد الحروف وإعطاؤها حقها ومستحقها.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/073004.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">تعريف علم التجويد اصطلاحاً</text><rect x=\"115\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#065f46\" stroke=\"#10b981\" stroke-width=\"1.5\"/><text x=\"162\" y=\"52\" font-size=\"11\" fill=\"#6ee7b7\" font-weight=\"bold\" text-anchor=\"middle\">حق الحرف</text><text x=\"162\" y=\"68\" font-size=\"9\" fill=\"#d1fae5\" text-anchor=\"middle\">صفاته اللازمة الذاتية</text><text x=\"162\" y=\"84\" font-size=\"8\" fill=\"#a7f3d0\" text-anchor=\"middle\">كالهمس والجهر</text><text x=\"162\" y=\"98\" font-size=\"8\" fill=\"#a7f3d0\" text-anchor=\"middle\">والشدة والاستعلاء</text><rect x=\"10\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#1e3a8a\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><text x=\"57\" y=\"52\" font-size=\"11\" fill=\"#93c5fd\" font-weight=\"bold\" text-anchor=\"middle\">مستحق الحرف</text><text x=\"57\" y=\"68\" font-size=\"9\" fill=\"#dbeafe\" text-anchor=\"middle\">صفاته العارضة الناشئة</text><text x=\"57\" y=\"84\" font-size=\"8\" fill=\"#bfdbfe\" text-anchor=\"middle\">كالتفخيم والترقيق</text><text x=\"57\" y=\"98\" font-size=\"8\" fill=\"#bfdbfe\" text-anchor=\"middle\">والإدغام والإخفاء</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ما هو الحد الاصطلاحي (التعريف الدقيق) لعلم التجويد؟",
+      "options": [
+        "إخراج كل حرف من مخرجه فقط.",
+        "إعطاء كل حرف حقه (صفاته اللازمة) ومستحقه (أحواله المتغيرة).",
+        "تجويد تلاوة القرآن بالصوت الجميل.",
+        "مد الحروف وتفخيمها بالقدر المناسب."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "التعريف الاصطلاحي للتجويد: (إعطاء كل حرف حقه ومستحقه). الحق = الصفات اللازمة (كالهمس، الجهر، الاستعلاء). المستحق = الصفات المتغيرة بحسب ما يجاور الحرف (كالتفخيم والترقيق والإدغام والإظهار)."
+    },
+    {
+      "type": "concept",
+      "title": "مراتب التلاوة الثلاث",
+      "content": "التلاوة ثلاث مراتب: (التحقيق): أبطأ درجات القراءة مع مراعاة كل الأحكام بدقة - للتعليم. (الحَدْر): أسرع درجات القراءة مع اتقان الأحكام - لكثير الحفظ والمراجعة. (التدوير أو الإدراج): الوسط بين التحقيق والحدر - هو الأكمل والأفضل والأشهر.",
+      "example": "قوله تعالى: {وَرَتَّلْنَاهُ تَرْتِيلًا} (الفرقان: 32) تلاوة القرآن تكون بإحدى مراتب الترتيل الثلاث: التحقيق، والتدوير، والحدر.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/025032.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">مراتب التلاوة الثلاث</text><rect x=\"148\" y=\"32\" width=\"62\" height=\"75\" rx=\"5\" fill=\"#14532d\" stroke=\"#22c55e\" stroke-width=\"1\"/><text x=\"179\" y=\"50\" font-size=\"10\" fill=\"#86efac\" font-weight=\"bold\" text-anchor=\"middle\">التحقيق</text><text x=\"179\" y=\"66\" font-size=\"8\" fill=\"#dcfce7\" text-anchor=\"middle\">أبطأ سرعة</text><text x=\"179\" y=\"80\" font-size=\"7\" fill=\"#4ade80\" text-anchor=\"middle\">مقام التعليم</text><rect x=\"79\" y=\"32\" width=\"62\" height=\"75\" rx=\"5\" fill=\"#1e3a8a\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><text x=\"110\" y=\"50\" font-size=\"10\" fill=\"#93c5fd\" font-weight=\"bold\" text-anchor=\"middle\">التدوير</text><text x=\"110\" y=\"66\" font-size=\"8\" fill=\"#dbeafe\" text-anchor=\"middle\">مرتبة وسطى</text><text x=\"110\" y=\"80\" font-size=\"7\" fill=\"#60a5fa\" text-anchor=\"middle\">الأفضل والأكمل</text><rect x=\"10\" y=\"32\" width=\"62\" height=\"75\" rx=\"5\" fill=\"#78350f\" stroke=\"#f59e0b\" stroke-width=\"1\"/><text x=\"41\" y=\"50\" font-size=\"10\" fill=\"#fde047\" font-weight=\"bold\" text-anchor=\"middle\">الحَدْر</text><text x=\"41\" y=\"66\" font-size=\"8\" fill=\"#fef3c7\" text-anchor=\"middle\">أسرع قراءة</text><text x=\"41\" y=\"80\" font-size=\"7\" fill=\"#fde68a\" text-anchor=\"middle\">مع حفظ الأحكام</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ما هي مراتب (درجات) التلاوة الثلاث وأيها أفضل وأكمل؟",
+      "options": [
+        "التجويد، والتحسين، والتغني - وأفضلها التجويد.",
+        "التحقيق (الأبطأ)، والتدوير أو الإدراج (الوسط)، والحدر (الأسرع) - وأكملها التدوير.",
+        "الجهر، والمخافتة، والسر - وأكملها الجهر.",
+        "التعلم، والاستظهار، والتلاوة - وأكملها التلاوة."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "مراتب التلاوة هي: التحقيق (الأبطأ، للتعليم)، والحدر (الأسرع، للمراجعة)، والتدوير أو الإدراج (الوسط بينهما وهو الأكمل والأفضل والأشهر)."
+    },
+    {
+      "type": "concept",
+      "title": "حكم تعلم التجويد - فرض عين",
+      "content": "حكم التجويد: فرض عين على كل مسلم مكلف عند قراءة القرآن الكريم. فلا يجوز لأي مسلم أن يتلو القرآن بشكل منتظم دون الاعتناء بأحكام التجويد وضبطها. وقد قال تعالى: (وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا) والترتيل هو مراعاة التجويد.",
+      "example": "قوله تعالى: {الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ} (البقرة: 121) حق التلاوة بإتقان التجويد وتدبر المعاني.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002121.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">الحكم الشرعي للتجويد</text><rect x=\"115\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#065f46\" stroke=\"#10b981\" stroke-width=\"1.5\"/><text x=\"162\" y=\"54\" font-size=\"11\" fill=\"#6ee7b7\" font-weight=\"bold\" text-anchor=\"middle\">العمل به عملياً</text><text x=\"162\" y=\"72\" font-size=\"12\" fill=\"#a7f3d0\" font-weight=\"bold\" text-anchor=\"middle\">فرض عين</text><text x=\"162\" y=\"90\" font-size=\"8\" fill=\"#d1fae5\" text-anchor=\"middle\">على كل مكلف</text><text x=\"162\" y=\"100\" font-size=\"8\" fill=\"#d1fae5\" text-anchor=\"middle\">عند قراءة القرآن</text><rect x=\"10\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#1e3a8a\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><text x=\"57\" y=\"54\" font-size=\"11\" fill=\"#93c5fd\" font-weight=\"bold\" text-anchor=\"middle\">معرفة قواعده نظرياً</text><text x=\"57\" y=\"72\" font-size=\"12\" fill=\"#bfdbfe\" font-weight=\"bold\" text-anchor=\"middle\">فرض كفاية</text><text x=\"57\" y=\"90\" font-size=\"8\" fill=\"#dbeafe\" text-anchor=\"middle\">إذا قام به البعض</text><text x=\"57\" y=\"100\" font-size=\"8\" fill=\"#dbeafe\" text-anchor=\"middle\">سقط عن الباقين</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ما هو الحكم الشرعي لتعلم أحكام التجويد وتطبيقها عند قراءة القرآن الكريم؟",
+      "options": [
+        "سنة مؤكدة يُثاب فاعلها ولا يأثم تاركها.",
+        "فرض كفاية يكفي أن يقوم به بعض المسلمين.",
+        "فرض عين على كل مسلم مكلف عند تلاوة القرآن.",
+        "مستحب من باب تحسين القراءة فقط."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "تعلم أحكام التجويد وتطبيقها فرض عين على كل مسلم مكلف عند قراءة القرآن. وقد استُدل على ذلك بقوله تعالى (وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا) والترتيل هو مراعاة التجويد."
+    },
+    {
+      "type": "concept",
+      "title": "اللحن الجلي - خطأ ظاهر محرّم",
+      "content": "اللحن الجلي هو الخطأ الظاهر الواضح الذي يُخل بإعراب الكلمة أو ببنيتها حتى يغير المعنى. أمثلته: قراءة (أنعمتُ) بدل (أنعمتَ)، أو حذف حرف أو زيادة حرف. حكمه: حرام بإجماع العلماء لأنه يُغير كلام الله.",
+      "example": "قوله تعالى: {صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ} (الفاتحة: 7) قراءة (أَنْعَمْتَ) بفتح التاء، وتغيير حركتها إلى الضم (أنعمتُ) لحن جلي محرم.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#ef4444\" font-weight=\"bold\" text-anchor=\"middle\">اللحن الجلي: خطأ ظاهر محرم</text><rect x=\"15\" y=\"32\" width=\"190\" height=\"36\" rx=\"6\" fill=\"#450a0a\" stroke=\"#dc2626\" stroke-width=\"1.5\"/><text x=\"110\" y=\"50\" font-size=\"12\" fill=\"#fca5a5\" font-weight=\"bold\" text-anchor=\"middle\">أَنْعَمْتُ عَلَيْهِمْ [لحن جلي!]</text><text x=\"110\" y=\"62\" font-size=\"8\" fill=\"#f87171\" text-anchor=\"middle\">تغيير الفتحة إلى ضمة يغير المعنى تماماً</text><rect x=\"15\" y=\"74\" width=\"190\" height=\"36\" rx=\"6\" fill=\"#0f172a\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"110\" y=\"90\" font-size=\"9\" fill=\"#fca5a5\" font-weight=\"bold\" text-anchor=\"middle\">حكم اللحن الجلي: حَرَام بالإجماع</text><text x=\"110\" y=\"102\" font-size=\"8\" fill=\"#f87171\" text-anchor=\"middle\">يُبطل الصلاة ويأثم القارئ المتهاون</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ما هو 'اللحن الجلي' في علم التجويد وما حكمه؟",
+      "options": [
+        "هو الخطأ الخفي في الصفات الذي لا يُخل بالمعنى، وحكمه مكروه.",
+        "هو الخطأ الظاهر الذي يُخل بالإعراب أو البنية ويغير المعنى (كضم التاء بدل فتحها)، وحكمه حرام.",
+        "هو المبالغة في مد الحروف فوق مقدارها الصحيح، وحكمه مكروه.",
+        "هو قراءة القرآن بغير لهجة قريش، وحكمه جائز."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "اللحن الجلي هو الخطأ الواضح الذي يُخل بإعراب الكلمة أو ببنيتها. حكمه: حرام بإجماع العلماء لأنه يُغير كلام الله. أمثلته: فتح ما يجب ضمه، أو ضم ما يجب فتحه، أو حذف حرف أو زيادته."
+    },
+    {
+      "type": "concept",
+      "title": "اللحن الخفي - خطأ يعرفه الخاصة",
+      "content": "اللحن الخفي هو الخطأ الذي لا يعرفه إلا حفّاظ القرآن والمتخصصون. مثاله: تفخيم ما يجب ترقيقه، إطالة المد أو تقصيره، عدم الغنة. حكمه: مكروه عند الجمهور. وبعض العلماء يقول: حرام لأنه يُخل بالتجويد الواجب.",
+      "example": "قوله تعالى: {رِجَالٌ لَّا تُلْهِيهِمْ تِجَارَةٌ} (النور: 37) ترقيق راء (رِجَالٌ) لأنها مكسورة، وتفخيمها خطأ ولحن خفي.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/024037.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">مقارنة: اللحن الجلي vs الخفي</text><rect x=\"115\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#7f1d1d\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"162\" y=\"52\" font-size=\"11\" fill=\"#fca5a5\" font-weight=\"bold\" text-anchor=\"middle\">لحن جلي</text><text x=\"162\" y=\"68\" font-size=\"9\" fill=\"#fee2e2\" text-anchor=\"middle\">في الحركات والمبنى</text><text x=\"162\" y=\"84\" font-size=\"8\" fill=\"#fca5a5\" text-anchor=\"middle\">يغير المعنى</text><text x=\"162\" y=\"98\" font-size=\"9\" fill=\"#f87171\" font-weight=\"bold\" text-anchor=\"middle\">حكمه: حَرَام</text><rect x=\"10\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#78350f\" stroke=\"#f59e0b\" stroke-width=\"1.5\"/><text x=\"57\" y=\"52\" font-size=\"11\" fill=\"#fde047\" font-weight=\"bold\" text-anchor=\"middle\">لحن خفي</text><text x=\"57\" y=\"68\" font-size=\"9\" fill=\"#fef3c7\" text-anchor=\"middle\">في كمال الصفات</text><text x=\"57\" y=\"84\" font-size=\"8\" fill=\"#fde68a\" text-anchor=\"middle\">كالترقيق والغنن</text><text x=\"57\" y=\"98\" font-size=\"9\" fill=\"#facc15\" font-weight=\"bold\" text-anchor=\"middle\">حكمه: مكروه / معيب</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "أي من الأمثلة التالية يُعتبر 'لحناً خفياً'؟",
+      "options": [
+        "قراءة (الحمد) بكسر الحاء بدل الفتح.",
+        "حذف حرف الواو من كلمة (لوط) أثناء التلاوة.",
+        "تفخيم الراء في كلمة (رِجَال) رغم وجوب ترقيقها.",
+        "قراءة (اللهُ) بفتح الهاء."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "اللحن الخفي هو الخطأ في الصفات الذي لا يعرفه إلا المتخصص. مثل تفخيم الراء المكسورة في (رِجَال) رغم وجوب ترقيقها. أما تغيير الإعراب وحذف الحروف فهو لحن جلي صريح."
+    }
+  ]
+}

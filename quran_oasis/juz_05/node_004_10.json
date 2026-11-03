@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_10",
+  "title": "سورة النساء - الآيات 44-48",
+  "surahId": 4,
+  "ayahStart": 44,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 11,
+      "options": [
+        "وَيُرِيدُونَ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "أَدۡبَارِهَآ"
+      ],
+      "activityId": "act_004_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_004_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَمَانِيِّكُمۡ",
+        "وَيُرِيدُونَ"
+      ],
+      "activityId": "act_004_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_004_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 16,
+      "options": [
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَمَانِيِّكُمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_004_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 18,
+      "options": [
+        "أَدۡبَارِهَآ",
+        "أَبۡنَآئِكُمُ",
+        "وَيُرِيدُونَ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_004_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَغۡفِرُ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "أَدۡبَارِهَآ"
+      ],
+      "activityId": "act_004_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يناقش المقطع تحريف بعض أهل الكتاب، ويدعو إلى الإيمان بما أنزل الله، ويحذر من الشرك."
+  }
+}

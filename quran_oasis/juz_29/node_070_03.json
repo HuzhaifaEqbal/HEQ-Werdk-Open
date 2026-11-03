@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_070_03",
+  "title": "سورة المعارج: افتداء المجرم ببنيه وأهله ومن في الأرض جميعاً",
+  "surahId": 70,
+  "ayahStart": 11,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_070_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "يُبَصَّرُونَهُمْ ۚ",
+        "يَعْرِفُونَهُمْ",
+        "يَلْقَوْنَهُمْ",
+        "يَنْظُرُونَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "يَفْتَدِى",
+        "يَنْجُو",
+        "يَهْرُبُ",
+        "يُفَارِقُ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 9,
+      "options": [
+        "بِبَنِيهِ",
+        "بِأَهْلِهِ",
+        "بِمَالِهِ",
+        "بِأُمِّهِ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_070_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "وَصَـٰحِبَتِهِۦ",
+        "وَزَوْجَتِهِ",
+        "وَأُمِّهِ",
+        "وَبَنَاتِهِ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَخِيهِ",
+        "وَأَبِيهِ",
+        "وَعَمِّهِ",
+        "وَخَالِهِ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        11
+      ]
+    },
+    {
+      "activityId": "act_070_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "وَفَصِيلَتِهِ",
+        "وَعَشِيرَتِهِ",
+        "وَقَبِيلَتِهِ",
+        "وَأُسْرَتِهِ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "تُـْٔوِيهِ",
+        "تَحْمِيهِ",
+        "تَنْصُرُهُ",
+        "تَكْفُلُهُ"
+      ]
+    },
+    {
+      "activityId": "act_070_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        12
+      ]
+    },
+    {
+      "activityId": "act_070_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 6,
+      "options": [
+        "يُنجِيهِ",
+        "يُخَلِّصُهُ",
+        "يَنْفَعُهُ",
+        "يَعْصِمُهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "شدة فزع المجرم يوم القيامة حتى يتمنى أن يفتدي نفسه من عذاب الله بأعز الناس إليه من بنيه وزوجته وعشيرته ومن في الأرض جميعاً"
+  }
+}

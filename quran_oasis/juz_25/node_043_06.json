@@ -1,0 +1,133 @@
+{
+  "nodeId": "node_043_06",
+  "title": "سورة الزخرف: اعتراض المشركين على النبوة وحقيقة قسمة المعيشة وهوان زخرف الدنيا",
+  "surahId": 43,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "activityId": "act_043_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْقَرْيَتَيْنِ",
+        "ٱلْبَلَدَيْنِ",
+        "ٱلْمَدِينَتَيْنِ",
+        "ٱلْحَرَمَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_043_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_043_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "مَّعِيشَتَهُمْ",
+        "أَرْزَاقَهُمْ",
+        "أَمْوَالَهُمْ",
+        "نَصِيبَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_043_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 20,
+      "options": [
+        "سُخْرِيًّۭا ۗ",
+        "خَدَمًا",
+        "عَوْنًا",
+        "أُجَرَاءَ"
+      ]
+    },
+    {
+      "activityId": "act_043_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_043_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 12,
+      "options": [
+        "سُقُفًۭا",
+        "جُدْرَانًا",
+        "أَبْوَابًا",
+        "بُنْيَانًا"
+      ]
+    },
+    {
+      "activityId": "act_043_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 15,
+      "options": [
+        "وَمَعَارِجَ",
+        "وَدَرَجَاتٍ",
+        "وَسَلَالِمَ",
+        "وَمَنَازِلَ"
+      ]
+    },
+    {
+      "activityId": "act_043_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_043_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "وَسُرُرًا",
+        "وَفُرُشًا",
+        "وَأَرَائِكَ",
+        "وَحِجَابًا"
+      ]
+    },
+    {
+      "activityId": "act_043_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_043_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 1,
+      "options": [
+        "وَزُخْرُفًۭا ۚ",
+        "وَذَهَبًا",
+        "وَفِضَّةً",
+        "وَمَالًا"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_04",
+  "title": "سورة البقرة - الآيات 16-20",
+  "surahId": 2,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱشۡتَرَوُاْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "يَرۡجِعُونَ"
+      ],
+      "activityId": "act_002_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_002_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسۡتَوۡقَدَ",
+        "ٱشۡتَرَوُاْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_002_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "يَرۡجِعُونَ",
+        "ٱسۡتَوۡقَدَ",
+        "ٱشۡتَرَوُاْ",
+        "ءَابَآئِكَ"
+      ],
+      "activityId": "act_002_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ],
+      "activityId": "act_002_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 19,
+      "options": [
+        "بِٱلۡكَٰفِرِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_002_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 19,
+      "options": [
+        "وَأَبۡصَٰرِهِمۡۚ",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاتَيۡنَٰكُم",
+        "بِٱلۡكَٰفِرِينَ"
+      ],
+      "activityId": "act_002_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يضرب المقطع للمنافقين أمثالاً تصوّر اضطرابهم وحيرتهم بين النور والظلمة."
+  }
+}

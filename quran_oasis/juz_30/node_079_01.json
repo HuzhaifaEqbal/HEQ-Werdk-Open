@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_079_01",
+  "title": "سورة النازعات - المقطع الأول (قَسَم الملائكة الكرام)",
+  "surahId": 79,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَالنَّازِعَاتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَالنَّازِعَاتِ",
+        "وَالْمُرْسَلَاتِ",
+        "وَالصَّافَّاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "غَرْقًا",
+      "missingWordPosition": 2,
+      "options": [
+        "غَرْقًا",
+        "نَشْطًا",
+        "سَبْحًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "نَشْطًا",
+      "missingWordPosition": 2,
+      "options": [
+        "نَشْطًا",
+        "غَرْقًا",
+        "سَبْحًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "سَبْحًا",
+      "missingWordPosition": 2,
+      "options": [
+        "سَبْحًا",
+        "نَشْطًا",
+        "سَبْقًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "فَالسَّابِقَاتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَالسَّابِقَاتِ",
+        "فَالْمُدَبِّرَاتِ",
+        "فَالْمُورِيَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "سَبْقًا",
+      "missingWordPosition": 2,
+      "options": [
+        "سَبْقًا",
+        "سَبْحًا",
+        "نَشْطًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "فَالْمُدَبِّرَاتِ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَالْمُدَبِّرَاتِ",
+        "فَالْمُلْقِيَاتِ",
+        "فَالْفَارِقَاتِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَمْرًا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَمْرًا",
+        "ذِكْرًا",
+        "عُذْرًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يقسم الله تعالى في مطلع السورة بطوائف من الملائكة الكرام بأوصافهم وأفعالهم الجليلة؛ فالنازعات هي الملائكة الموكلة بنزع أرواح الكفار بشدة وعنف من أعماق أجسادهم (غرقاً)، والناشطات هي التي تسل أرواح المؤمنين برفق وسهولة ولين (نشطاً)، والسابحات التي تسرع في النزول والصعود بأمر الله كأنها تسبح في الفضاء، فتسبق بأرواح الصالحين إلى الجنة والكرامة (فالسابقات سبقاً)، والمدبرات التي تدبر وتصرف شؤون الكون والرياح والأرزاق ومصالح الخلائق بأمر الله وقضائه."
+  }
+}

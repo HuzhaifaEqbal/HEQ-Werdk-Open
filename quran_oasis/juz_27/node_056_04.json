@@ -1,0 +1,308 @@
+{
+  "nodeId": "node_056_04",
+  "title": "سورة الواقعة: عذاب أصحاب الشمال في السموم والحميم وشجر الزقوم وشرب الهيم",
+  "surahId": 56,
+  "ayahStart": 41,
+  "ayahEnd": 56,
+  "activities": [
+    {
+      "activityId": "act_056_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلشِّمَالِ",
+        "ٱلْمَشْأَمَةِ",
+        "ٱلنَّارِ",
+        "ٱلْجَحِيمِ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_056_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "سَمُومٍۢ",
+        "جَحِيمٍ",
+        "سَعِيرٍ",
+        "نَارٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "وَحَمِيمٍۢ",
+        "وَغَسَّاقٍ",
+        "وَصَدِيدٍ",
+        "وَزَقُّومٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        45
+      ]
+    },
+    {
+      "activityId": "act_056_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 3,
+      "options": [
+        "يَحْمُومٍۢ",
+        "دُخَانٍ",
+        "سَمُومٍ",
+        "نَارٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_056_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "كَرِيمٍ",
+        "نَافِعٍ",
+        "طَيِّبٍ",
+        "حَسَنٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_056_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 5,
+      "options": [
+        "مُتْرَفِينَ",
+        "ظَـٰلِمِينَ",
+        "فَـٰسِقِينَ",
+        "مُّجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_056_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحِنثِ",
+        "ٱلشِّرْكِ",
+        "ٱلْكُفْرِ",
+        "ٱلظُّلْمِ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_056_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 9,
+      "options": [
+        "لَمَبْعُوثُونَ",
+        "لَمُحْشَرُونَ",
+        "لَمُجَازَوْنَ",
+        "لَمَجْمُوعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_056_04_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_056_04_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_056_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 1,
+      "options": [
+        "لَمَجْمُوعُونَ",
+        "لَمَحْشُورُونَ",
+        "لَمُحَاسَبُونَ",
+        "لَمَبْعُوثُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_056_04_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_056_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 5,
+      "options": [
+        "زَقُّومٍۢ",
+        "ضَرِيعٍ",
+        "غِسْلِينٍ",
+        "حَمِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        55
+      ]
+    },
+    {
+      "activityId": "act_056_04_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_056_04_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحَمِيمِ",
+        "ٱلْغَسَّاقِ",
+        "ٱلصَّدِيدِ",
+        "ٱلْمُهْلِ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_056_04_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْهِيمِ",
+        "ٱلْإِبِلِ",
+        "ٱلْأَنْعَامِ",
+        "ٱلْوُحُوشِ"
+      ]
+    },
+    {
+      "activityId": "act_056_04_27",
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "عذاب أصحاب الشمال في ريح حارة وماء مغلي ودخان أسود خانق، وأكلهم من شجر الزقوم وشربهم الحميم كالإبل العطاش (الهيم)."
+  }
+}

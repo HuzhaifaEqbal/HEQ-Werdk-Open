@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_083_01",
+  "title": "سورة المطففين - المقطع الأول (وعيد المطففين والقيام لرب العالمين)",
+  "surahId": 83,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَيْلٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَيْلٌ",
+        "هَلَاكٌ",
+        "عَذَابٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "لِّلْمُطَفِّفِينَ",
+      "missingWordPosition": 2,
+      "options": [
+        "لِّلْمُطَفِّفِينَ",
+        "لِلْمُكَذِّبِينَ",
+        "لِلْكَافِرِينَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "اكْتَالُوا",
+      "missingWordPosition": 3,
+      "options": [
+        "اكْتَالُوا",
+        "اشْتَرَوْا",
+        "أَخَذُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "يَسْتَوْفُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْتَوْفُونَ",
+        "يَزِيدُونَ",
+        "يَأْخُذُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "كَالُوهُمْ",
+      "missingWordPosition": 2,
+      "options": [
+        "كَالُوهُمْ",
+        "بَاعُوهُمْ",
+        "أَعْطَوْهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَّزَنُوهُمْ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَّزَنُوهُمْ",
+        "قَاسُوهُمْ",
+        "أَوْفَوْهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "يُخْسِرُونَ",
+      "missingWordPosition": 5,
+      "options": [
+        "يُخْسِرُونَ",
+        "يُنقِصُونَ",
+        "يَظْلِمُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "يَظُنُّ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَظُنُّ",
+        "يَعْلَمُ",
+        "يُوقِنُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "مَّبْعُوثُونَ",
+      "missingWordPosition": 5,
+      "options": [
+        "مَّبْعُوثُونَ",
+        "مُحَاسَبُونَ",
+        "مَوْقُوفُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "عَظِيمٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "عَظِيمٍ",
+        "أَلِيمٍ",
+        "كَبِيرٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "يَقُومُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَقُومُ",
+        "يُحْشَرُ",
+        "يَخْرُجُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "الْعَالَمِينَ",
+      "missingWordPosition": 5,
+      "options": [
+        "الْعَالَمِينَ",
+        "السَّمَاوَاتِ",
+        "الْخَلَائِقِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "وعيد شديد وهلاك وعذاب أليم للذين ينقصون المكيال والميزان (المطففين)؛ إذا اشتروا من الناس لأنفسهم أخذوا حقهم وافياً كاملاً (يستوفون)، وإذا باعوا للناس بكيل أو وزن بخسوا وأنقصوا حقوقهم (يخسرون). ألا يتيقن هؤلاء ويخافون أنهم مبعوثون وموقوفون للحساب في يوم عظيم الهول والشدة؟ يوم يقوم الناس جميعاً من قبورهم خاضعين لرب العالمين ليقضي بينهم بالعدل والقسطاس."
+  }
+}

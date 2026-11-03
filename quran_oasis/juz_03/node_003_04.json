@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_04",
+  "title": "سورة آل عمران - الآيات 16-20",
+  "surahId": 3,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "يَقُولُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ٱلۡإِسۡلَٰمُۗ"
+      ],
+      "activityId": "act_003_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_003_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلۡمُسۡتَغۡفِرِينَ",
+        "۞ يَسۡتَبۡشِرُونَ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_003_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلۡمَلَٰٓئِكَةُ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ],
+      "activityId": "act_003_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلۡإِسۡلَٰمُۗ",
+        "يَقُولُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_003_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلۡأُمِّيِّـۧنَ",
+        "ءَاتَيۡتُكُم",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَٱلۡمَلَٰٓئِكَةُ"
+      ],
+      "activityId": "act_003_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يعرض دعاء المؤمنين بالثبات والمغفرة، وشهادتهم بتوحيد الله، وبيان أن الدين عنده الإسلام."
+  }
+}

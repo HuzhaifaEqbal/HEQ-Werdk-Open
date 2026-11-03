@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_102_01",
+  "title": "سورة التكاثر: التلهي بالدنيا والمساءلة عن النعيم",
+  "surahId": 102,
+  "ayahStart": 1,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_102_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "أَلْهَىٰكُمُ",
+        "شَغَلَكُمُ",
+        "أَنْسَىٰكُمُ",
+        "فَتَنَكُمُ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلتَّكَاثُرُ",
+        "ٱلتَّفَاخُرُ",
+        "ٱلتَّنَافُسُ",
+        "ٱلتَّجَارَةُ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_102_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "زُرْتُمُ",
+        "دَخَلْتُمُ",
+        "سَكَنْتُمُ",
+        "بَلَغْتُمُ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَقَابِرَ",
+        "ٱلْقُبُورَ",
+        "ٱلْأَجْدَاثَ",
+        "ٱلْمَنَازِلَ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_102_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "تَعْلَمُونَ",
+        "تُبْصِرُونَ",
+        "تُوقِنُونَ",
+        "تَذَّكَّرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_102_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْيَقِينِ",
+        "ٱلْغَيْبِ",
+        "ٱلْحَقِّ",
+        "ٱلصِّدْقِ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_102_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "لَتَرَوُنَّ",
+        "لَتَرَوْنَ",
+        "فَلَتَرَوْنَ",
+        "لَتُعَايِنُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْجَحِيمَ",
+        "ٱلسَّعِيرَ",
+        "ٱلْعَذَابَ",
+        "جَهَنَّمَ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        5
+      ]
+    },
+    {
+      "activityId": "act_102_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "عَيْنَ",
+        "حَقَّ",
+        "عِلْمَ",
+        "رُؤْيَةَ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        5
+      ]
+    },
+    {
+      "activityId": "act_102_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "لَتُسْـَٔلُنَّ",
+        "لَتُحَاسَبُنَّ",
+        "لَتُجْزَوُنَّ",
+        "لَتُرَدُّنَّ"
+      ]
+    },
+    {
+      "activityId": "act_102_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلنَّعِيمِ",
+        "ٱلْعَذَابِ",
+        "ٱلْمَالِ",
+        "ٱلْأَعْمَالِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التكاثر",
+    "juz": 30,
+    "theme": "التحذير من التباهي بكثرة الأموال والأولاد والتلهي عن طاعة الله، والتذكير بالمساءلة عن كل نعمة"
+  }
+}

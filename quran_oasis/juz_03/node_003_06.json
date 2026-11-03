@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_06",
+  "title": "سورة آل عمران - الآيات 26-30",
+  "surahId": 3,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱللَّهُمَّ",
+        "ءَامَنَّا",
+        "ءَانَآءَ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_003_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلنَّهَارِ",
+        "ءَاخِرَهُۥ",
+        "صُدُورِكُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_003_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلۡمُؤۡمِنُونَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_003_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "صُدُورِكُمۡ",
+        "ٱلنَّهَارِ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_003_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 21,
+      "options": [
+        "وَيُحَذِّرُكُمُ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ٱلۡمُؤۡمِنُونَ"
+      ],
+      "activityId": "act_003_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يبين المقطع أن الملك لله، ويحث على موالاة المؤمنين، ويحذر من إخفاء ما في الصدور عن علم الله."
+  }
+}

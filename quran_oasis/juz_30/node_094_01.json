@@ -1,0 +1,127 @@
+{
+  "nodeId": "hifz_094_01",
+  "title": "سورة الشرح - المقطع الأول (شرح الصدر ووضع الوزر ورفع الذكر)",
+  "surahId": 94,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "نَشْرَحْ",
+      "missingWordPosition": 2,
+      "options": [
+        "نَشْرَحْ",
+        "نَفْتَحْ",
+        "نُوَسِّعْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "صَدْرَكَ",
+      "missingWordPosition": 4,
+      "options": [
+        "صَدْرَكَ",
+        "قَلْبَكَ",
+        "أَمْرَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَوَضَعْنَا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَوَضَعْنَا",
+        "وَغَفَرْنَا",
+        "وَحَطَطْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وِزْرَكَ",
+      "missingWordPosition": 3,
+      "options": [
+        "وِزْرَكَ",
+        "ذَنْبَكَ",
+        "حِمْلَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "أَنقَضَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَنقَضَ",
+        "أَثْقَلَ",
+        "أَتْعَبَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ظَهْرَكَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ظَهْرَكَ",
+        "عَاتِقَكَ",
+        "جَسَدَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        1,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَرَفَعْنَا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَرَفَعْنَا",
+        "وَأَعْلَيْنَا",
+        "وَعَظَّمْنَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "ذِكْرَكَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ذِكْرَكَ",
+        "شَأْنَكَ",
+        "مَقَامَكَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ألم نوسّع ونشرح لك صدرك يا محمد بنور النبوة والقرآن والإيمان؟ وحططنا وغفرنا عنك ثقل حملك وذنبك السالف الذي أثقل ظهرك وكاد يكسره من شدته، ورفعنا لك ذكرك ومقامك في الدنيا والآخرة؛ فلا يُذكر اسم الله إلا ويُذكر معه اسمك في الشهادتين والأذان والإقامة والخطب والصلاة."
+  }
+}

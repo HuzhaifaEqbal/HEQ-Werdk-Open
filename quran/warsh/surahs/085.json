@@ -1,0 +1,252 @@
+{
+  "number": 85,
+  "name_ar": "البُرُوج",
+  "name_en": "Al-Burūj",
+  "ayahs_count": 22,
+  "page_start": 590,
+  "page_end": 590,
+  "ayahs": [
+    {
+      "id": 5885,
+      "number": 1,
+      "text_uthmani": "وَالسَّمَآءِ ذَاتِ اِ۬لْبُرُوجِ ١",
+      "text_simple": "والسمآء ذات البروج ١",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5886,
+      "number": 2,
+      "text_uthmani": "وَالْيَوْمِ اِ۬لْمَوْعُودِ ٢",
+      "text_simple": "واليوم الموعود ٢",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5887,
+      "number": 3,
+      "text_uthmani": "وَشَاهِدٖ وَمَشْهُودٖ ٣",
+      "text_simple": "وشاهدٖ ومشهودٖ ٣",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 5888,
+      "number": 4,
+      "text_uthmani": "قُتِلَ أَصْحَٰبُ اُ۬لُاخْدُودِ ٤",
+      "text_simple": "قتل اصحب الاخدود ٤",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 5889,
+      "number": 5,
+      "text_uthmani": "اِ۬لنّ۪ارِ ذَاتِ اِ۬لْوَقُودِ ٥",
+      "text_simple": "النار ذات الوقود ٥",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 5890,
+      "number": 6,
+      "text_uthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٞ ٦",
+      "text_simple": "اذ هم عليها قعودٞ ٦",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 6
+    },
+    {
+      "id": 5891,
+      "number": 7,
+      "text_uthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُومِنِينَ شُهُودٞۖ ٧",
+      "text_simple": "وهم علي ما يفعلون بالمومنين شهودٞ ٧",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 5892,
+      "number": 8,
+      "text_uthmani": "وَمَا نَقَمُواْ مِنْهُمُۥٓ إِلَّآ أَنْ يُّومِنُواْ بِاللَّهِ اِ۬لْعَزِيزِ اِ۬لْحَمِيدِ ٨",
+      "text_simple": "وما نقموا منهمٓ الآ ان يومنوا بالله العزيز الحميد ٨",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 7
+    },
+    {
+      "id": 5893,
+      "number": 9,
+      "text_uthmani": "اِ۬لذِے لَهُۥ مُلْكُ اُ۬لسَّمَٰوَٰتِ وَالَارْضِۖ وَاللَّهُ عَلَىٰ كُلِّ شَےْءٖ شَهِيدٌۖ ٩",
+      "text_simple": "الذے له ملك السموت والارض والله علي كل شےءٖ شهيد ٩",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 8
+    },
+    {
+      "id": 5894,
+      "number": 10,
+      "text_uthmani": "اِنَّ اَ۬لذِينَ فَتَنُواْ اُ۬لْمُومِنِينَ وَالْمُومِنَٰتِ ثُمَّ لَمْ يَتُوبُواْ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ اُ۬لْحَرِيقِۖ ١٠",
+      "text_simple": "ان الذين فتنوا المومنين والمومنت ثم لم يتوبوا فلهم عذاب جهنم ولهم عذاب الحريق ١٠",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 10
+    },
+    {
+      "id": 5895,
+      "number": 11,
+      "text_uthmani": "إِنَّ اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٞ تَجْرِے مِن تَحْتِهَا اَ۬لَانْهَٰرُۖ ذَٰلِكَ اَ۬لْفَوْزُ اُ۬لْكَبِيرُۖ ١١",
+      "text_simple": "ان الذين ءامنوا وعملوا الصلحت لهم جنتٞ تجرے من تحتها الانهر ذلك الفوز الكبير ١١",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 11
+    },
+    {
+      "id": 5896,
+      "number": 12,
+      "text_uthmani": "۞ إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌۖ ١٢",
+      "text_simple": "ان بطش ربك لشديد ١٢",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 12
+    },
+    {
+      "id": 5897,
+      "number": 13,
+      "text_uthmani": "اِنَّهُۥ هُوَ يُبْدِۓُ وَيُعِيدُۖ ١٣",
+      "text_simple": "انه هو يبدۓ ويعيد ١٣",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 5898,
+      "number": 14,
+      "text_uthmani": "وَهُوَ اَ۬لْغَفُورُ اُ۬لْوَدُودُ ١٤",
+      "text_simple": "وهو الغفور الودود ١٤",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 5899,
+      "number": 15,
+      "text_uthmani": "ذُو اُ۬لْعَرْشِۖ اِ۬لْمَجِيدُ ١٥",
+      "text_simple": "ذو العرش المجيد ١٥",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 5900,
+      "number": 16,
+      "text_uthmani": "فَعَّالٞ لِّمَا يُرِيدُۖ ١٦",
+      "text_simple": "فعالٞ لما يريد ١٦",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 5901,
+      "number": 17,
+      "text_uthmani": "هَلَ اَت۪يٰكَ حَدِيثُ اُ۬لْجُنُودِ ١٧",
+      "text_simple": "هل اتيك حديث الجنود ١٧",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 14
+    },
+    {
+      "id": 5902,
+      "number": 18,
+      "text_uthmani": "فِرْعَوْنَ وَثَمُودَۖ ١٨",
+      "text_simple": "فرعون وثمود ١٨",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 5903,
+      "number": 19,
+      "text_uthmani": "بَلِ اِ۬لذِينَ كَفَرُواْ فِے تَكْذِيبٖ ١٩",
+      "text_simple": "بل الذين كفروا فے تكذيبٖ ١٩",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 5904,
+      "number": 20,
+      "text_uthmani": "وَاللَّهُ مِنْ وَّرَآئِهِم مُّحِيطُۢۖ ٢٠",
+      "text_simple": "والله من ورآئهم محيط ٢٠",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 15
+    },
+    {
+      "id": 5905,
+      "number": 21,
+      "text_uthmani": "بَلْ هُوَ قُرْءَانٞ مَّجِيدٞ ٢١",
+      "text_simple": "بل هو قرءانٞ مجيدٞ ٢١",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 5906,
+      "number": 22,
+      "text_uthmani": "فِے لَوْحٖ مَّحْفُوظٞۖ ٢٢",
+      "text_simple": "فے لوحٖ محفوظٞ ٢٢",
+      "juz": 30,
+      "page": 590,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    }
+  ]
+}

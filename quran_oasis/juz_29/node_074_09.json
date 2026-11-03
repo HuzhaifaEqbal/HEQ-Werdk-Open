@@ -1,0 +1,184 @@
+{
+  "nodeId": "node_074_09",
+  "title": "سورة المدثر: بطلان شفاعة الشافعين ومثل الحمر المستنفرة",
+  "surahId": 74,
+  "ayahStart": 48,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "activityId": "act_074_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 3,
+      "options": [
+        "شَفَـٰعَةُ",
+        "نُصْرَةُ",
+        "شَفَاعَاتُ",
+        "حِمَايَةُ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشَّـٰفِعِينَ",
+        "ٱلْمَلَائِكَةِ",
+        "ٱلْأَنْبِيَاءِ",
+        "ٱلصَّالِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_074_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلتَّذْكِرَةِ",
+        "ٱلْقُرْءَانِ",
+        "ٱلْإِيمَانِ",
+        "ٱلْحَقِّ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 5,
+      "options": [
+        "مُعْرِضِينَ",
+        "غَـٰفِلِينَ",
+        "فَارِّينَ",
+        "مُكَذِّبِينَ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_074_09_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "حُمُرٌۭ",
+        "أَنْعَامٌ",
+        "خَيْلٌ",
+        "إِبِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّسْتَنفِرَةٌۭ",
+        "مَّذْعُورَةٌ",
+        "هَارِبَةٌ",
+        "فَزِعَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ]
+    },
+    {
+      "activityId": "act_074_09_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "قَسْوَرَةٍۭ",
+        "أَسَدٍ",
+        "صَيَّادٍ",
+        "رَامٍ"
+      ]
+    },
+    {
+      "activityId": "act_074_09_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ]
+    },
+    {
+      "activityId": "act_074_09_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 8,
+      "options": [
+        "صُحُفًۭا",
+        "كِتَابًا",
+        "آيَةً",
+        "رِسَالَةً"
+      ]
+    },
+    {
+      "activityId": "act_074_09_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 9,
+      "options": [
+        "مُّنَشَّرَةًۭ",
+        "مَفْتُوحَةً",
+        "مُنْزَلَةً",
+        "مَكْتُوبَةً"
+      ]
+    },
+    {
+      "activityId": "act_074_09_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ]
+    },
+    {
+      "activityId": "act_074_09_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 4,
+      "options": [
+        "يَخَافُونَ",
+        "يَرْجُونَ",
+        "يَذْكُرُونَ",
+        "يُؤْمِنُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "انقطاع الشفاعة عن الكفار، وتشيبه فرارهم من القرآن بحمر وحشية فزعة فرت من أسد كاسر، وعنادهم بطلب صحف من السماء لعدم خوفهم من الآخرة"
+  }
+}

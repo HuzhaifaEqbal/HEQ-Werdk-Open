@@ -1,0 +1,196 @@
+{
+  "nodeId": "node_052_02",
+  "title": "سورة الطور: ويل للمكذبين ودفعهم المهين إلى نار جهنم",
+  "surahId": 52,
+  "ayahStart": 11,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "activityId": "act_052_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "فَوَيْلٌۭ",
+        "فَهَلَاكٌ",
+        "فَدَمَارٌ",
+        "فَخَسَارٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِّلْكَـٰفِرِينَ",
+        "لِّلظَّـٰلِمِينَ",
+        "لِّلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_052_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "خَوْضٍۢ",
+        "شَكٍّ",
+        "لَهْوٍ",
+        "ضَلَالٍ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "يَلْعَبُونَ",
+        "يَسْخَرُونَ",
+        "يَمْرَحُونَ",
+        "يَغْفُلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_052_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 2,
+      "options": [
+        "يُدَعُّونَ",
+        "يُسَاقُونَ",
+        "يُسْحَبُونَ",
+        "يُلْقَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "دَعًّا",
+        "سَحْبًا",
+        "طَرْحًا",
+        "قَسْرًا"
+      ]
+    },
+    {
+      "activityId": "act_052_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_052_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 6,
+      "options": [
+        "تُكَذِّبُونَ",
+        "تَسْتَهْزِءُونَ",
+        "تَمْتَرُونَ",
+        "تَشُكُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_052_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَسِحْرٌ",
+        "أَفَبَاطِلٌ",
+        "أَفَوَهْمٌ",
+        "أَفَكَذِبٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "تُبْصِرُونَ",
+        "تَعْلَمُونَ",
+        "تَعْقِلُونَ",
+        "تَسْمَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_052_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱصْلَوْهَا",
+        "ذُوقُوهَا",
+        "ٱدْخُلُوهَا",
+        "تَجَرَّعُوهَا"
+      ]
+    },
+    {
+      "activityId": "act_052_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "سَوَآءٌ",
+        "عَدْلٌ",
+        "حَقٌّ",
+        "جَزَاءٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطور",
+    "juz": 27,
+    "theme": "بيان سوء عاقبة الخائضين في الباطل ودفعهم بعنف إلى جهنم وتبكيتهم على تكذيبهم بالحق."
+  }
+}

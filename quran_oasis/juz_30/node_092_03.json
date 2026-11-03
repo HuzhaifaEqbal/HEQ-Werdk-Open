@@ -1,0 +1,96 @@
+{
+  "nodeId": "hifz_092_03",
+  "title": "سورة الليل - المقطع الثالث (الإنذار بالنار التي تلظى ومصير الأشقى)",
+  "surahId": 92,
+  "ayahStart": 14,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "فَأَنذَرْتُكُمْ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَنذَرْتُكُمْ",
+        "فَحَذَّرْتُكُمْ",
+        "فَخَوَّفْتُكُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "تَلَظَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَلَظَّىٰ",
+        "تَتَوَقَّدُ",
+        "تَسْتَعِرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَصْلَىٰهَآ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَصْلَىٰهَآ",
+        "يَدْخُلُهَا",
+        "يَرِدُهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "ٱلْأَشْقَى",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَشْقَى",
+        "ٱلْكَافِرُ",
+        "ٱلظَّالِمُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "كَذَّبَ",
+      "missingWordPosition": 2,
+      "options": [
+        "كَذَّبَ",
+        "كَفَرَ",
+        "جَحَدَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "وَتَوَلَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَتَوَلَّىٰ",
+        "وَأَعْرَضَ",
+        "وَاسْتَكْبَرَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "فحذرتكم وأنذرتكم يا معشر الخلائق ناراً مستعرة شديدة التوقد والتلهب (تلظى)، لا يدخلها مقاسياً لحرّها وخلودها إلا البالغ أقصى الشقاء والكفران (الأشقى)، الذي كذّب بقلبه بآيات الله ورسله، وتولّى وأعرض بجوارحه عن طاعة الله وامتثال أمره."
+  }
+}

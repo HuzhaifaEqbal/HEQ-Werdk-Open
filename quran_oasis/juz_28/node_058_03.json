@@ -1,0 +1,216 @@
+{
+  "nodeId": "node_058_03",
+  "title": "سورة المجادلة: إحاطة الله بالنجوى وتناجي المنافقين بالإثم والعدوان",
+  "surahId": 58,
+  "ayahStart": 7,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_058_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "تَرَ",
+        "تَعْلَمْ",
+        "تَسْمَعْ",
+        "تَدْرِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 15,
+      "options": [
+        "نَّجْوَىٰ",
+        "سِرِّ",
+        "كَلَامِ",
+        "حَدِيثِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 16,
+      "options": [
+        "ثَلَـٰثَةٍ",
+        "قَوْمٍ",
+        "نَفَرٍ",
+        "رَجُلَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 19,
+      "options": [
+        "رَابِعُهُمْ",
+        "خَامِسُهُمْ",
+        "شَاهِدُهُمْ",
+        "عَالِمُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 24,
+      "options": [
+        "سَادِسُهُمْ",
+        "سَابِعُهُمْ",
+        "مَعَهُمْ",
+        "حَاضِرُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 26,
+      "options": [
+        "أَدْنَىٰ",
+        "أَقَلَّ",
+        "أَصْغَرَ",
+        "أَنْقَصَ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 33,
+      "options": [
+        "مَعَهُمْ",
+        "عَالِمٌ بِهِمْ",
+        "مُحِيطٌ بِهِمْ",
+        "شَهِيدٌ عَلَيْهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 47,
+      "options": [
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "شَهِيدٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_058_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "نُهُوا۟",
+        "زُجِرُوا",
+        "مُنِعُوا",
+        "حُذِّرُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلنَّجْوَىٰ",
+        "ٱلْكَلَامِ",
+        "ٱلسِّرِّ",
+        "ٱلْخَنَا"
+      ]
+    },
+    {
+      "activityId": "act_058_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 9,
+      "options": [
+        "يَعُودُونَ",
+        "يَرْجِعُونَ",
+        "يَسْعَوْنَ",
+        "يَغْدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 14,
+      "options": [
+        "بِٱلْإِثْمِ",
+        "بِٱلْفِسْقِ",
+        "بِٱلظُّلْمِ",
+        "بِٱلْبَاطِلِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 15,
+      "options": [
+        "وَٱلْعُدْوَٰنِ",
+        "وَٱلْبَغْيِ",
+        "وَٱلظُّلْمِ",
+        "وَٱلْفُجُورِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 16,
+      "options": [
+        "وَمَعْصِيَتِ",
+        "وَمُخَالَفَةِ",
+        "وَمُعَانَدَةِ",
+        "وَمُشَاقَّةِ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 35,
+      "options": [
+        "جَهَنَّمُ",
+        "سَقَرُ",
+        "ٱلنَّارُ",
+        "ٱلْجَحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_058_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 38,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمُنْقَلَبُ",
+        "ٱلْمَآبُ",
+        "ٱلْمَقَرُّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "إحاطة علم الله ومعيته الشاملة لكل نجوى وسر في الكون، وتوبيخ المنافقين واليهود الذين يتناجون بالإثم والعدوان ومعصية الرسول ويحيون النبي بما لم يحيه الله به."
+  }
+}

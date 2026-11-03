@@ -1,0 +1,318 @@
+{
+  "nodeId": "node_076_06",
+  "title": "سورة الإنسان: حب العاجلة وترك اليوم الثقيل والمشيئة الإلهية والرحمة",
+  "surahId": 76,
+  "ayahStart": 27,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "activityId": "act_076_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "يُحِبُّونَ",
+        "يَبْغُونَ",
+        "يَطْلُبُونَ",
+        "يُؤْثِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَاجِلَةَ",
+        "ٱلدُّنْيَا",
+        "ٱلْحَيَاةَ",
+        "ٱلْفَانِيَةَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَذَرُونَ",
+        "وَيَتْرُكُونَ",
+        "وَيَنْسَوْنَ",
+        "وَيُهْمِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "وَرَآءَهُمْ",
+        "أَمَامَهُمْ",
+        "خَلْفَهُمْ",
+        "بَيْنَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "ثَقِيلًۭا",
+        "عَظِيمًا",
+        "عَصِيبًا",
+        "مُّبِينًا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_076_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 1,
+      "options": [
+        "نَّحْنُ",
+        "إِنَّا",
+        "وَٱللَّهُ",
+        "رَبُّنَا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "وَشَدَدْنَآ",
+        "وَأَحْكَمْنَا",
+        "وَقَوَّيْنَا",
+        "وَثَبَّتْنَا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "أَسْرَهُمْ ۖ",
+        "خَلْقَهُمْ",
+        "بُنْيَانَهُمْ",
+        "أَجْسَادَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "بَدَّلْنَآ",
+        "أَهْلَكْنَا",
+        "جِئْنَا",
+        "أَوْجَدْنَا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_076_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "تَذْكِرَةٌۭ ۖ",
+        "مَوْعِظَةٌ",
+        "بَصِيرَةٌ",
+        "نَصِيحَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 5,
+      "options": [
+        "شَآءَ",
+        "أَرَادَ",
+        "ٱبْتَغَىٰ",
+        "طَلَبَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱتَّخَذَ",
+        "جَعَلَ",
+        "سَلَكَ",
+        "ٱتَّبَعَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 9,
+      "options": [
+        "سَبِيلًۭا",
+        "صِرَاطًا",
+        "طَرِيقًا",
+        "مَسْلَكًا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ]
+    },
+    {
+      "activityId": "act_076_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "تَشَآءُونَ",
+        "تَمْلِكُونَ",
+        "تَقْدِرُونَ",
+        "تَسْتَطِيعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "يَشَآءَ",
+        "يُرِيدَ",
+        "يَقْضِيَ",
+        "يَأْذَنَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "كَانَ",
+        "غَفُورًا",
+        "عَزِيزًا",
+        "قَدِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 10,
+      "options": [
+        "عَلِيمًا",
+        "رَحِيمًا",
+        "قَدِيرًا",
+        "خَبِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_076_06_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_076_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 1,
+      "options": [
+        "يُدْخِلُ",
+        "يُنْزِلُ",
+        "يُفِيضُ",
+        "يَهْدِى"
+      ]
+    },
+    {
+      "activityId": "act_076_06_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 5,
+      "options": [
+        "رَحْمَتِهِۦ ۚ",
+        "جَنَّتِهِ",
+        "فَضْلِهِ",
+        "نَعِيمِهِ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلظَّـٰلِمِينَ",
+        "وَٱلْكَافِرِينَ",
+        "وَٱلْمُجْرِمِينَ",
+        "وَٱلْفَاسِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "أَعَدَّ",
+        "جَعَلَ",
+        "هَيَّأَ",
+        "قَضَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_076_06_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 10,
+      "options": [
+        "أَلِيمًۢا",
+        "مُّهِينًا",
+        "شَدِيدًا",
+        "مُّقِيمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإنسان",
+    "juz": 29,
+    "theme": "ذم إيثار الحياة الفانية ونسيان أهوال اليوم الثقيل، وقدرة الله على استبدال أمثالهم، والتذكير بأن مشيئة الهداية تابعة لمشيئة الله العليم الحكيم ورحمته بالمؤمنين."
+  }
+}

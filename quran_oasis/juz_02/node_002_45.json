@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_45",
+  "title": "سورة البقرة - الآيات 216-220",
+  "surahId": 2,
+  "ayahStart": 216,
+  "ayahEnd": 220,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 216,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلۡقِتَالُ",
+        "تَكۡرَهُواْ",
+        "نَّفۡعِهِمَاۗ",
+        "هَاجَرُواْ"
+      ],
+      "activityId": "act_002_45_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 216,
+      "correctNextAyahNumber": 217,
+      "wrongOptionsAyahNumbers": [
+        218,
+        214
+      ],
+      "activityId": "act_002_45_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 217,
+      "missingWordPosition": 31,
+      "options": [
+        "يُقَٰتِلُونَكُمۡ",
+        "تُخَالِطُوهُمۡ",
+        "۞ يَسۡـَٔلُونَكَ",
+        "تَتَفَكَّرُونَ"
+      ],
+      "activityId": "act_002_45_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 217,
+      "correctNextAyahNumber": 218,
+      "wrongOptionsAyahNumbers": [
+        219,
+        215
+      ],
+      "activityId": "act_002_45_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 218,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "وَإِخۡرَاجُ",
+        "وَجَٰهَدُواْ",
+        "يَرُدُّوكُمۡ"
+      ],
+      "activityId": "act_002_45_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 218,
+      "correctNextAyahNumber": 219,
+      "wrongOptionsAyahNumbers": [
+        220,
+        216
+      ],
+      "activityId": "act_002_45_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 219,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ يَسۡـَٔلُونَكَ",
+        "تُخَالِطُوهُمۡ",
+        "يُقَٰتِلُونَكُمۡ",
+        "فَإِخۡوَٰنُكُمۡۚ"
+      ],
+      "activityId": "act_002_45_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 219,
+      "correctNextAyahNumber": 220,
+      "wrongOptionsAyahNumbers": [
+        221,
+        217
+      ],
+      "activityId": "act_002_45_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 220,
+      "missingWordPosition": 12,
+      "options": [
+        "تُخَالِطُوهُمۡ",
+        "۞ يَسۡـَٔلُونَكَ",
+        "يُقَٰتِلُونَكُمۡ",
+        "لَأَعۡنَتَكُمۡۚ"
+      ],
+      "activityId": "act_002_45_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يفرض القتال مع مشقته، ويذكر أحكام الشهر الحرام، والخمر والميسر، ورعاية اليتامى."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "nodeId": "node_043_14",
+  "title": "سورة الزخرف: إحاطة علم الله بالسر والنجوى وتنزيهه عن الولد وإلهية السماء والأرض",
+  "surahId": 43,
+  "ayahStart": 79,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "activityId": "act_043_14_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 2,
+      "options": [
+        "أَبْرَمُوٓا۟",
+        "دَبَّرُوٓا۟",
+        "أَحْكَمُوٓا۟",
+        "مَكَرُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_043_14_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        82
+      ]
+    },
+    {
+      "activityId": "act_043_14_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 7,
+      "options": [
+        "وَنَجْوَىٰهُم ۚ",
+        "وَجَهْرَهُمْ",
+        "وَقَوْلَهُمْ",
+        "وَحَدِيثَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_043_14_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        83
+      ]
+    },
+    {
+      "activityId": "act_043_14_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْعَـٰبِدِينَ",
+        "ٱلْمُوَحِّدِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُسْلِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_043_14_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        84
+      ]
+    },
+    {
+      "activityId": "act_043_14_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 8,
+      "options": [
+        "إِلَـٰهٌۭ ۚ",
+        "رَبٌّ",
+        "مَلِكٌ",
+        "خَالِقٌ"
+      ]
+    },
+    {
+      "activityId": "act_043_14_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        87
+      ]
+    },
+    {
+      "activityId": "act_043_14_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلشَّفَـٰعَةَ",
+        "ٱلْإِجَابَةَ",
+        "ٱلْمُلْكَ",
+        "ٱلْأَمْرَ"
+      ]
+    },
+    {
+      "activityId": "act_043_14_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        89
+      ]
+    },
+    {
+      "activityId": "act_043_14_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 8,
+      "options": [
+        "يُؤْفَكُونَ",
+        "تُصْرَفُونَ",
+        "تَضِلُّونَ",
+        "تَعْمَهُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_14_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        1
+      ]
+    },
+    {
+      "activityId": "act_043_14_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْفَحْ",
+        "فَٱعْرِضْ",
+        "فَٱصْبِرْ",
+        "فَٱهْجُرْ"
+      ]
+    }
+  ]
+}

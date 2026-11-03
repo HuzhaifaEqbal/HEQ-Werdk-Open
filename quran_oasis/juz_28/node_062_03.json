@@ -1,0 +1,238 @@
+{
+  "nodeId": "node_062_03",
+  "title": "سورة الجمعة: أحكام نداء الجمعة والسعي لذكر الله وخطر الانفضاض للتجارة",
+  "surahId": 62,
+  "ayahStart": 9,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_062_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "نُودِىَ",
+        "أُذِّنَ",
+        "دُعِىَ",
+        "قِيمَ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْجُمُعَةِ",
+        "ٱلْفِطْرِ",
+        "ٱلْأَضْحَىٰ",
+        "ٱلْعِيدِ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱسْعَوْا۟",
+        "فَٱمْضُوا۟",
+        "فَبَادِرُوا۟",
+        "فَأَقْبِلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 12,
+      "options": [
+        "ذِكْرِ",
+        "صَلَاةِ",
+        "سَمَاعِ",
+        "بَيْتِ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 14,
+      "options": [
+        "وَذَرُوا۟",
+        "وَٱتْرُكُوا۟",
+        "وَأَجِّلُوا۟",
+        "وَٱقْطَعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْبَيْعَ ۚ",
+        "ٱلتِّجَارَةَ",
+        "ٱلشِّرَاءَ",
+        "ٱلْأَسْوَاقَ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        9
+      ]
+    },
+    {
+      "activityId": "act_062_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "قُضِيَتِ",
+        "أُتِمَّتِ",
+        "فُرِغَ مِنَ",
+        "ٱنْقَضَتِ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱنتَشِرُوا۟",
+        "فَٱسْعَوْا۟",
+        "فَٱمْشُوا۟",
+        "فَٱذْهَبُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱبْتَغُوا۟",
+        "وَٱطْلُبُوا۟",
+        "وَٱكْسِبُوا۟",
+        "وَٱلْتَمِسُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 13,
+      "options": [
+        "كَثِيرًۭا",
+        "دَائِمًا",
+        "طَوِيلًا",
+        "مِرَارًا"
+      ]
+    },
+    {
+      "activityId": "act_062_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 15,
+      "options": [
+        "تُفْلِحُونَ",
+        "تَفُوزُونَ",
+        "تَسْعَدُونَ",
+        "تَغْنَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_062_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "تِجَـٰرَةً",
+        "قَافِلَةً",
+        "مَالًا",
+        "رِبْحًا"
+      ]
+    },
+    {
+      "activityId": "act_062_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "لَهْوًا",
+        "طَرَبًا",
+        "لَعِبًا",
+        "زِينَةً"
+      ]
+    },
+    {
+      "activityId": "act_062_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱنفَضُّوٓا۟",
+        "تَفَرَّقُوٓا۟",
+        "سَارَعُوٓا۟",
+        "خَرَجُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_062_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 9,
+      "options": [
+        "قَآئِمًۭا ۚ",
+        "خَاطِبًا",
+        "جَالِسًا",
+        "وَاعِظًا"
+      ]
+    },
+    {
+      "activityId": "act_062_03_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 14,
+      "options": [
+        "خَيْرٌۭ",
+        "أَبْقَىٰ",
+        "أَعْظَمُ",
+        "أَنْفَعُ"
+      ]
+    },
+    {
+      "activityId": "act_062_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلرَّٰزِقِينَ",
+        "ٱلْمُعْطِينَ",
+        "ٱلْوَاهِبِينَ",
+        "ٱلْمُنْعِمِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجمعة",
+    "juz": 28,
+    "theme": "أمر المؤمنين بالسعي الحثيث لحضور صلاة الجمعة وترك البيع والشواغل الدنيوية، وإباحة الابتغاء من فضل الله بعد الصلاة، وتوبيخ الانفضاض إلى عروض التجارة وترك النبي ﷺ قائماً."
+  }
+}

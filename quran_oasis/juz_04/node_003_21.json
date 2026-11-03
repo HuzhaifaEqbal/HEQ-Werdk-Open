@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_21",
+  "title": "سورة آل عمران - الآيات 98-102",
+  "surahId": 3,
+  "ayahStart": 98,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 5,
+      "options": [
+        "تَكۡفُرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَامَنُوٓاْ"
+      ],
+      "activityId": "act_003_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_003_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 11,
+      "options": [
+        "تَبۡغُونَهَا",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "تَكۡفُرُونَ"
+      ],
+      "activityId": "act_003_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_003_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُوٓاْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تَكۡفُرُونَ"
+      ],
+      "activityId": "act_003_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_003_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 2,
+      "options": [
+        "تَكۡفُرُونَ",
+        "ءَامَنُوٓاْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_003_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "تَكۡفُرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ"
+      ],
+      "activityId": "act_003_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يدعو المؤمنين إلى التقوى والاعتصام بحبل الله، ويذكر نعمة الألفة بعد العداوة والتحذير من التفرق."
+  }
+}

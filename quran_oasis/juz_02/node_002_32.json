@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_32",
+  "title": "سورة البقرة - الآيات 151-155",
+  "surahId": 2,
+  "ayahStart": 151,
+  "ayahEnd": 155,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 9,
+      "options": [
+        "وَيُزَكِّيكُمۡ",
+        "وَيُعَلِّمُكُمُ",
+        "وَٱشۡكُرُواْ",
+        "وَٱلثَّمَرَٰتِۗ"
+      ],
+      "activityId": "act_002_32_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "wrongOptionsAyahNumbers": [
+        153,
+        149
+      ],
+      "activityId": "act_002_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱذۡكُرُونِيٓ",
+        "ٱسۡتَعِينُواْ",
+        "وَيُزَكِّيكُمۡ",
+        "وَٱلصَّلَوٰةِۚ"
+      ],
+      "activityId": "act_002_32_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 152,
+      "correctNextAyahNumber": 153,
+      "wrongOptionsAyahNumbers": [
+        154,
+        150
+      ],
+      "activityId": "act_002_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسۡتَعِينُواْ",
+        "فَٱذۡكُرُونِيٓ",
+        "وَٱلۡأَنفُسِ",
+        "وَٱلۡحِكۡمَةَ"
+      ],
+      "activityId": "act_002_32_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 153,
+      "correctNextAyahNumber": 154,
+      "wrongOptionsAyahNumbers": [
+        155,
+        151
+      ],
+      "activityId": "act_002_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 2,
+      "options": [
+        "تَقُولُواْ",
+        "ءَامَنُواْ",
+        "ءَايَٰتِنَا",
+        "أَذۡكُرۡكُمۡ"
+      ],
+      "activityId": "act_002_32_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "wrongOptionsAyahNumbers": [
+        156,
+        152
+      ],
+      "activityId": "act_002_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَنَبۡلُوَنَّكُم",
+        "فَٱذۡكُرُونِيٓ",
+        "ٱسۡتَعِينُواْ",
+        "ٱلصَّٰبِرِينَ"
+      ],
+      "activityId": "act_002_32_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يذكر الابتلاء والصبر عند الخوف والجوع، ويدعو إلى الاستعانة بالصلاة، ويبين منزلة الشهداء."
+  }
+}

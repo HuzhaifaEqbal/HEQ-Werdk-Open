@@ -1,0 +1,216 @@
+{
+  "nodeId": "node_060_04",
+  "title": "سورة الممتحنة: امتحان المهاجرات وأحكام المهور وعدم التمسك بعصم الكوافر",
+  "surahId": 60,
+  "ayahStart": 10,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_060_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُؤْمِنَـٰتُ",
+        "ٱلْمُسْلِمَـٰتُ",
+        "ٱلنِّسَاءُ",
+        "ٱلصَّـٰلِحَـٰتُ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 8,
+      "options": [
+        "فَٱمْتَحِنُوهُنَّ ۖ",
+        "فَٱخْتَبِرُوهُنَّ",
+        "فَٱسْأَلُوهُنَّ",
+        "فَٱعْرِفُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "بِإِيمَـٰنِهِنَّ ۖ",
+        "بِقُلُوبِهِنَّ",
+        "بِصِدْقِهِنَّ",
+        "بِأَحْوَالِهِنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "تَرْجِعُوهُنَّ",
+        "تَرُدُّوهُنَّ",
+        "تَبْعَثُوهُنَّ",
+        "تُسَلِّمُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 21,
+      "options": [
+        "حِلٌّۭ",
+        "حَلَالٌ",
+        "طَيِّبٌ",
+        "مُبَاحٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 31,
+      "options": [
+        "جُنَاحَ",
+        "حَرَجَ",
+        "إِثْمَ",
+        "بَأْسَ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 34,
+      "options": [
+        "تَنكِحُوهُنَّ",
+        "تَعْقِدُوا عَلَيْهِنَّ",
+        "تَقْرَبُوهُنَّ",
+        "تَأْخُذُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 37,
+      "options": [
+        "أُجُورَهُنَّ ۚ",
+        "مُهُورَهُنَّ",
+        "صَدُقَاتِهِنَّ",
+        "نَفَقَاتِهِنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 40,
+      "options": [
+        "بِعِصَمِ",
+        "بِعُقُودِ",
+        "بِنِكَاحِ",
+        "بِحِبَالِ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 41,
+      "options": [
+        "ٱلْكَوَافِرِ",
+        "ٱلْمُشْرِكَاتِ",
+        "ٱلْكَافِرَاتِ",
+        "ٱلْفَاسِقَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 49,
+      "options": [
+        "حُكْمُ",
+        "أَمْرُ",
+        "شَرْعُ",
+        "فَرْضُ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 55,
+      "options": [
+        "حَكِيمٌۭ",
+        "خَبِيرٌ",
+        "قَدِيرٌ",
+        "بَصِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        10
+      ]
+    },
+    {
+      "activityId": "act_060_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "فَاتَكُمْ",
+        "ذَهَبَ عَنْكُمْ",
+        "فَقَدْتُمْ",
+        "خَرَجَ مِنْكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "فَعَاقَبْتُمْ",
+        "فَغَنِمْتُمْ",
+        "فَأَصَبْتُمْ",
+        "فَانْتَصَرْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_060_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 15,
+      "options": [
+        "أَنفَقُوا۟ ۚ",
+        "أَعْطَوْا",
+        "بَذَلُوا",
+        "قَدَّمُوا"
+      ]
+    },
+    {
+      "activityId": "act_060_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 21,
+      "options": [
+        "مُؤْمِنُونَ",
+        "مُخْلِصُونَ",
+        "مُتَّقُونَ",
+        "صَادِقُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الممتحنة",
+    "juz": 28,
+    "theme": "أحكام اختبار إيمان النساء المهاجرات ومنع إرجاعهن للكفار لانفساخ النكاح، وبيان أحكام تسوية المهور والنفقات بين المسلمين والمشركين."
+  }
+}

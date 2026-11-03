@@ -1,0 +1,109 @@
+{
+  "steps": [
+    {
+      "type": "concept",
+      "title": "علامة الوقف اللازم (م)",
+      "content": "الميم الأفقية الصغيرة (مـ) التي ترسم فوق بعض الكلمات في المصحف تعني (الوقف اللازم). يجب الوقف عنده لأن الوصل يُغير المعنى المراد أو يُوهم بمعنى فاسد. لا يجوز الوصل هنا ولو واصل اضطراراً يجب الرجوع وإعادة القراءة.",
+      "example": "في قوله تعالى: {إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ۘ وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ} (الأنعام: 36) علامة (مـ) فوق (يَسْمَعُونَ) وقف لازم.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/006036.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">علامة الوقف اللازم</text><circle cx=\"110\" cy=\"52\" r=\"20\" fill=\"#1e3a8a\" stroke=\"#60a5fa\" stroke-width=\"2\"/><text x=\"110\" y=\"59\" font-size=\"20\" fill=\"#93c5fd\" font-weight=\"bold\" text-anchor=\"middle\">مـ</text><rect x=\"15\" y=\"80\" width=\"190\" height=\"30\" rx=\"6\" fill=\"#0f172a\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><text x=\"110\" y=\"95\" font-size=\"9\" fill=\"#bfdbfe\" text-anchor=\"middle\">يجب الوقف لئلا يتغير المعنى المراد</text><text x=\"110\" y=\"105\" font-size=\"8\" fill=\"#60a5fa\" text-anchor=\"middle\">تختلف عن ميم الإقلاب العمودية (م)</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ماذا تعني علامة الميم الأفقية الصغيرة (مـ) التي تُرسم فوق بعض الكلمات في المصحف؟",
+      "options": [
+        "علامة حكم الإقلاب للنون الساكنة.",
+        "علامة الوقف اللازم (يجب الوقف هنا، لأن الوصل يغير المعنى المراد).",
+        "علامة الوقف الممنوع (يُمنع الوقف هنا).",
+        "علامة جواز الوجهين."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "الميم الأفقية (مـ) تعني (الوقف اللازم)، ويجب أن تقف لتفصل بين معنيين لئلا يختلطا. (تنبيه: ميم الإقلاب تكون ميم عمودية 'م' تشبه حرف الميم العادي)."
+    },
+    {
+      "type": "concept",
+      "title": "علامة (لا) - الوقف ممنوع",
+      "content": "علامة (لا) فوق الكلمة في المصحف تعني الوقف ممنوع، والوصل واجب. إذا اضطررت للوقف عندها بسبب انقطاع نفسك، فيجب ألا تبدأ بما بعدها، بل ترجع كلمة أو أكثر لتصل الكلام. لا تُعني السكوت، بل عدم الوقف.",
+      "example": "في قوله تعالى: {الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَامٌ عَلَيْكُمُ} (النحل: 32) علامة (لا) فوق (طَيِّبِينَ) أي لا تقف.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/016032.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#f87171\" font-weight=\"bold\" text-anchor=\"middle\">علامة النهي عن الوقف</text><circle cx=\"110\" cy=\"52\" r=\"20\" fill=\"#7f1d1d\" stroke=\"#ef4444\" stroke-width=\"2\"/><text x=\"110\" y=\"59\" font-size=\"18\" fill=\"#fca5a5\" font-weight=\"bold\" text-anchor=\"middle\">لا</text><rect x=\"15\" y=\"80\" width=\"190\" height=\"30\" rx=\"6\" fill=\"#0f172a\" stroke=\"#ef4444\" stroke-width=\"1.5\"/><text x=\"110\" y=\"95\" font-size=\"9\" fill=\"#fecaca\" text-anchor=\"middle\">يُمنع الوقف لتعلق المعنى بما بعده</text><text x=\"110\" y=\"105\" font-size=\"8\" fill=\"#f87171\" text-anchor=\"middle\">إن وقفت اضطراراً فارجع وصِل</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "إذا رأيت علامة (لا) فوق كلمة في منتصف الآية، فما هو الإجراء التجويدي الصحيح؟",
+      "options": [
+        "يجب الوقف وأخذ نفس عميق.",
+        "يجوز الوقف ويجوز الوصل.",
+        "الوقف ممنوع (لا تقف)، لأن المعنى لم يكتمل، والوصل أولى وأوجب.",
+        "يجب السكت (الوقف بدون تنفس)."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "علامة (لا) تعني النهي الصريح عن الوقف. وإذا اضطررت للوقف عندها بسبب انقطاع نفسك، فيجب عليك ألا تبدأ بما بعدها، بل ترجع كلمة أو كلمتين للوراء وتصل الكلام ببعضه."
+    },
+    {
+      "type": "concept",
+      "title": "الفرق بين (صلے) و(قلے)",
+      "content": "علامة (صلے) اختصار لـ (الوصل أولى) = يُفضل الوصل مع جواز الوقف. وعلامة (قلے) اختصار لـ (الوقف أولى) = يُفضل الوقف مع جواز الوصل. كلاهما جائزان ولكن في كل منهما أفضلية.",
+      "example": "قوله تعالى: {مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ} (الكهف: 22) علامة (قلے) تفيد أن الوقف أولى وأفضل.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/018022.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">الفرق بين (صلے) و (قلے)</text><rect x=\"115\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#065f46\" stroke=\"#10b981\" stroke-width=\"1.5\"/><text x=\"162\" y=\"56\" font-size=\"18\" fill=\"#6ee7b7\" font-weight=\"bold\" text-anchor=\"middle\">قلے</text><text x=\"162\" y=\"78\" font-size=\"11\" fill=\"#a7f3d0\" font-weight=\"bold\" text-anchor=\"middle\">الوقف أولى</text><text x=\"162\" y=\"94\" font-size=\"8\" fill=\"#d1fae5\" text-anchor=\"middle\">مع جواز الوصل</text><rect x=\"10\" y=\"32\" width=\"95\" height=\"75\" rx=\"6\" fill=\"#1e40af\" stroke=\"#3b82f6\" stroke-width=\"1.5\"/><text x=\"57\" y=\"56\" font-size=\"18\" fill=\"#93c5fd\" font-weight=\"bold\" text-anchor=\"middle\">صلے</text><text x=\"57\" y=\"78\" font-size=\"11\" fill=\"#bfdbfe\" font-weight=\"bold\" text-anchor=\"middle\">الوصل أولى</text><text x=\"57\" y=\"94\" font-size=\"8\" fill=\"#dbeafe\" text-anchor=\"middle\">مع جواز الوقف</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "في المصحف، نرى كثيراً علامتي (صلے) و(قلے). ما هو الفرق الدقيق بينهما؟",
+      "options": [
+        "(صلے) تعني الوصل ممنوع، و(قلے) تعني الوقف ممنوع.",
+        "(صلے) تعني 'الوصل أولى' مع جواز الوقف، و(قلے) تعني 'الوقف أولى' مع جواز الوصل.",
+        "(صلے) تعني الصلاة على النبي، و(قلے) تعني قلة الوقف.",
+        "كلاهما يعني الوقف اللازم."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "(صلے) اختصار لـ (الوصل أولى)، فيُفضل أن تكمل القراءة. و(قلے) اختصار لـ (الوقف أولى)، فيُفضل أن تقف وتأخذ نفساً. وفي كلتا الحالتين لو فعلت العكس فقراءتك صحيحة."
+    },
+    {
+      "type": "concept",
+      "title": "علامة (ج) - الجائز المستوي الطرفين",
+      "content": "علامة (ج) في المصحف = الوقف الجائز جوازاً مستوي الطرفين. أي أن الوقف هنا ممتاز والوصل ممتاز أيضاً، ولا أفضلية لأحدهما. القارئ يختار حسب نفسه وراحته تماماً.",
+      "example": "في قوله تعالى: {نَحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ} (الكهف: 13) علامة (ج) تفيد جواز الوقف والوصل بالتساوي.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/018013.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">علامة الوقف الجائز</text><circle cx=\"110\" cy=\"52\" r=\"20\" fill=\"#312e81\" stroke=\"#818cf8\" stroke-width=\"2\"/><text x=\"110\" y=\"59\" font-size=\"20\" fill=\"#c7d2fe\" font-weight=\"bold\" text-anchor=\"middle\">ج</text><rect x=\"15\" y=\"80\" width=\"190\" height=\"30\" rx=\"6\" fill=\"#0f172a\" stroke=\"#818cf8\" stroke-width=\"1.5\"/><text x=\"110\" y=\"95\" font-size=\"9\" fill=\"#e0e7ff\" text-anchor=\"middle\">جائز مستوي الطرفين</text><text x=\"110\" y=\"105\" font-size=\"8\" fill=\"#a5b4fc\" text-anchor=\"middle\">الوقف = الوصل (لا تفضيل لأحدهما)</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "علامة (ج) هي من أشهر علامات الوقف في القرآن. إلى ماذا ترمز حرف الجيم هنا؟",
+      "options": [
+        "الوقف الجبري (اللازم).",
+        "جواز الوقف والوصل بمستوى واحد (كلاهما متساويان في الأفضلية).",
+        "الجمع بين الكلمتين.",
+        "الجهر بالحرف."
+      ],
+      "correct_answer_index": 1,
+      "explanation": "حرف (ج) يعني الوقف (الجائز) جوازاً مستوى الطرفين. أي أن الوقف هنا ممتاز والوصل ممتاز أيضاً، ولك الخيار المطلق حسب نفسك وقراءتك دون تفضيل أحدهما على الآخر."
+    },
+    {
+      "type": "concept",
+      "title": "علامة التعانق (المراقبة) - ثلاث نقاط متكررة",
+      "content": "علامة التعانق (المراقبة) عبارة عن ثلاث نقاط متجاورة (∴) تتكرر مرتين في الآية الواحدة. معناها: يجب الوقف على إحداهما فقط (الأولى أو الثانية) ولا يجوز الوقف على كليهما. المعنى يحتمل وجهين صحيحين.",
+      "example": "قوله تعالى: {ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ} (البقرة: 2) قف على إحدى علامتي (ۛ) فقط ولا تقف على الاثنتين.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002002.mp3",
+      "visual_example": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 120\" width=\"100%\" height=\"100%\"><rect width=\"220\" height=\"120\" rx=\"10\" fill=\"#1e293b\"/><text x=\"110\" y=\"22\" font-size=\"12\" fill=\"#38bdf8\" font-weight=\"bold\" text-anchor=\"middle\">علامة التعانق (المراقبة)</text><rect x=\"15\" y=\"32\" width=\"190\" height=\"36\" rx=\"6\" fill=\"#0f172a\" stroke=\"#f59e0b\" stroke-width=\"1.5\"/><text x=\"110\" y=\"50\" font-size=\"10\" fill=\"#fef3c7\" text-anchor=\"middle\">لَا رَيْبَ ۛ فِيهِ ۛ هُدًى</text><text x=\"110\" y=\"62\" font-size=\"8\" fill=\"#fde68a\" text-anchor=\"middle\">وقف المراقبة (نقاط ثلاث متكررة)</text><rect x=\"15\" y=\"74\" width=\"190\" height=\"36\" rx=\"6\" fill=\"#78350f\"/><text x=\"110\" y=\"90\" font-size=\"9\" fill=\"#fef3c7\" font-weight=\"bold\" text-anchor=\"middle\">قاعدة التعانق الذهبية:</text><text x=\"110\" y=\"102\" font-size=\"8\" fill=\"#fde68a\" text-anchor=\"middle\">تقف على إحداهما فتصل الأخرى (ولا تقف عليهما معاً)</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "توجد علامة مميزة عبارة عن ثلاث نقاط متجاورة ( ∴ ) تتكرر مرتين متقاربتين (تسمى علامة تعانق الوقف). مثل: {ذَلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ}. كيف نتعامل معها؟",
+      "options": [
+        "يجب الوقف على الموضعين معاً.",
+        "يجب عدم الوقف على أي منهما.",
+        "إذا وقفت على الموضع الأول، (يُمنع) الوقف على الموضع الثاني، والعكس صحيح (تقف على أحدهما فقط).",
+        "تعني سكتة خفيفة على كلا الموضعين."
+      ],
+      "correct_answer_index": 2,
+      "explanation": "علامة التعانق (المراقبة) تعني أن المعنى يحتمل وجهين صحيحين، لكن لا يجوز الجمع بينهما. إما أن تقف على العلامة الأولى وتصل الثانية، أو بالعكس. لكن الوقف على كليهما غير جائز."
+    }
+  ]
+}

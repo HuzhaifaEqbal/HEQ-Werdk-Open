@@ -1,0 +1,220 @@
+{
+  "nodeId": "hifz_079_05",
+  "title": "سورة النازعات - المقطع الخامس (طغيان فرعون ونكال الآخرة والأولى)",
+  "surahId": 79,
+  "ayahStart": 20,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "الْآيَةَ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْآيَةَ",
+        "الْبَيِّنَةَ",
+        "الْمُعْجِزَةَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "الْكُبْرَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْكُبْرَىٰ",
+        "الْعُظْمَىٰ",
+        "الْبَاهِرَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "فَكَذَّبَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَكَذَّبَ",
+        "فَتَوَلَّىٰ",
+        "فَأَدْبَرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "وَعَصَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَعَصَىٰ",
+        "وَتَوَلَّىٰ",
+        "وَاسْتَكْبَرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "أَدْبَرَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْبَرَ",
+        "تَوَلَّىٰ",
+        "أَعْرَضَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "يَسْعَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَسْعَىٰ",
+        "يَطْغَىٰ",
+        "يَسْتَكْبِرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        21,
+        24
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "فَحَشَرَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَحَشَرَ",
+        "فَجَمَعَ",
+        "فَأَقْبَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "فَنَادَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "فَنَادَىٰ",
+        "فَقَالَ",
+        "فَصَاحَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "رَبُّكُمُ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَبُّكُمُ",
+        "إِلَٰهُكُمُ",
+        "مَلِكُكُمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "الْأَعْلَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْأَعْلَىٰ",
+        "الْعَظِيمُ",
+        "الْكَبِيرُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        22,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "نَكَالَ",
+      "missingWordPosition": 3,
+      "options": [
+        "نَكَالَ",
+        "عَذَابَ",
+        "عِقَابَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "الْآخِرَةِ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْآخِرَةِ",
+        "الْأُولَىٰ",
+        "الدُّنْيَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        23,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "لَعِبْرَةً",
+      "missingWordPosition": 4,
+      "options": [
+        "لَعِبْرَةً",
+        "لَآيَةً",
+        "لَذِكْرَىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "يَخْشَىٰ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَخْشَىٰ",
+        "يَتَّقِي",
+        "يَعْقِلُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أظهر موسى عليه السلام لفرعون المعجزة العظيمة الباهرة الدالة على صدقه (العصا واليد البيضاء)، فكذب بالحق وعصى أمر ربه، ثم أدبر يجتهد في محاربة الهدى. فجمع سحرته وجنده ونادى في قومه مستكبراً: «أنا ربكم الأعلى»! فأخذه الله أخذ عزيز مقتدر فعاقبه عقاباً جعله به عبرة في الدنيا بالغرق، وفي الآخرة بالإحراق في النار (نكال الآخرة والأولى). إن في هذا الانتقام الإلهي لعظة بالغة لكل من يخشى الله ويخاف وعيده."
+  }
+}

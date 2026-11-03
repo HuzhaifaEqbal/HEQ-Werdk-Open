@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_29",
+  "title": "سورة آل عمران - الآيات 138-142",
+  "surahId": 3,
+  "ayahStart": 138,
+  "ayahEnd": 142,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 6,
+      "options": [
+        "لِّلۡمُتَّقِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "نُدَاوِلُهَا"
+      ],
+      "activityId": "act_003_29_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 138,
+      "correctNextAyahNumber": 139,
+      "wrongOptionsAyahNumbers": [
+        140,
+        136
+      ],
+      "activityId": "act_003_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡأَعۡلَوۡنَ",
+        "لِّلۡمُتَّقِينَ",
+        "ٱلصَّٰبِرِينَ",
+        "ٱلۡكَٰفِرِينَ"
+      ],
+      "activityId": "act_003_29_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "wrongOptionsAyahNumbers": [
+        141,
+        137
+      ],
+      "activityId": "act_003_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 11,
+      "options": [
+        "نُدَاوِلُهَا",
+        "ٱلۡأَعۡلَوۡنَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_29_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 140,
+      "correctNextAyahNumber": 141,
+      "wrongOptionsAyahNumbers": [
+        142,
+        138
+      ],
+      "activityId": "act_003_29_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡكَٰفِرِينَ",
+        "لِّلۡمُتَّقِينَ",
+        "نُدَاوِلُهَا",
+        "ٱلصَّٰبِرِينَ"
+      ],
+      "activityId": "act_003_29_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 141,
+      "correctNextAyahNumber": 142,
+      "wrongOptionsAyahNumbers": [
+        143,
+        139
+      ],
+      "activityId": "act_003_29_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلصَّٰبِرِينَ",
+        "ٱلۡأَعۡلَوۡنَ",
+        "ٱلۡكَٰفِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_29_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يؤكد أن محمداً رسول قد خلت من قبله الرسل، وينهى عن التراجع عند الشدائد."
+  }
+}

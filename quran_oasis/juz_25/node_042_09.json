@@ -1,0 +1,145 @@
+{
+  "nodeId": "node_042_09",
+  "title": "سورة الشورى: ذل الظالمين يوم يعرضون على النار والأمر بالاستجابة قبل يوم لا مرد له",
+  "surahId": 42,
+  "ayahStart": 44,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "activityId": "act_042_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 18,
+      "options": [
+        "مَرَدٍّۢ",
+        "رُجُوعٍ",
+        "مَهْرَبٍ",
+        "مَفَرٍّ"
+      ]
+    },
+    {
+      "activityId": "act_042_09_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_042_09_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 9,
+      "options": [
+        "طَرْفٍ",
+        "لَحْظٍ",
+        "نَظَرٍ",
+        "عَيْنٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 27,
+      "options": [
+        "مُّقِيمٍۢ",
+        "شَدِيدٍ",
+        "أَلِيمٍ",
+        "مُّهِينٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_09_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_042_09_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 6,
+      "options": [
+        "يَنصُرُونَهُم",
+        "يَحْمُونَهُم",
+        "يُنْقِذُونَهُم",
+        "يُعِينُونَهُم"
+      ]
+    },
+    {
+      "activityId": "act_042_09_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_042_09_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱسْتَجِيبُوا۟",
+        "أَنِيبُوا۟",
+        "تُوبُوا۟",
+        "أَسْلِمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_042_09_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 21,
+      "options": [
+        "نَّكِيرٍۢ",
+        "إِنْكَارٍ",
+        "مَفَرٍّ",
+        "مُعِينٍ"
+      ]
+    },
+    {
+      "activityId": "act_042_09_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_042_09_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "حَفِيظًا ۖ",
+        "وَكِيلًا",
+        "رَقِيبًا",
+        "حَسِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_042_09_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 27,
+      "options": [
+        "كَفُورٌۭ",
+        "قَنُوطٌ",
+        "يَئُوسٌ",
+        "جَزُوعٌ"
+      ]
+    }
+  ]
+}

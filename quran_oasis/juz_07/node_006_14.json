@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_14",
+  "title": "سورة الأنعام - الآيات 79-84",
+  "surahId": 6,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْفَرِيقَيْنِ",
+        "ٱلْمُحْسِنِينَ",
+        "تَتَذَكَّرُونَ"
+      ],
+      "activityId": "act_006_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_006_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 4,
+      "options": [
+        "أَتُحَـٰٓجُّوٓنِّى",
+        "ءَاتَيْنَـٰهَآ",
+        "بِٱلْأَمْنِ ۖ",
+        "وَيَعْقُوبَ ۚ"
+      ],
+      "activityId": "act_006_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_006_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْفَرِيقَيْنِ",
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْمُحْسِنِينَ",
+        "أَتُحَـٰٓجُّوٓنِّى"
+      ],
+      "activityId": "act_006_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_006_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُوا۟",
+        "تَخَافُونَ",
+        "تَعْلَمُونَ",
+        "تُشْرِكُونَ"
+      ],
+      "activityId": "act_006_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_006_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَاتَيْنَـٰهَآ",
+        "تَتَذَكَّرُونَ",
+        "بِٱلْأَمْنِ ۖ",
+        "وَيَعْقُوبَ ۚ"
+      ],
+      "activityId": "act_006_14_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_006_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْفَرِيقَيْنِ",
+        "ٱلْمُشْرِكِينَ",
+        "ءَاتَيْنَـٰهَآ"
+      ],
+      "activityId": "act_006_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "nodeId": "node_114_01",
+  "title": "سورة الناس: الاستعاذة برب الناس وملكهم من وسواس الخناس",
+  "surahId": 114,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_114_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "بِرَبِّ",
+        "بِمَلِكِ",
+        "بِإِلَـٰهِ",
+        "بِخَالِقِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_114_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "مَلِكِ",
+        "رَبِّ",
+        "إِلَـٰهِ",
+        "نُورِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_114_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "إِلَـٰهِ",
+        "مَلِكِ",
+        "رَبِّ",
+        "نَاصِرِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_114_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْوَسْوَاسِ",
+        "ٱلشَّيْطَانِ",
+        "ٱلْغَوِيِّ",
+        "ٱلْمُفْسِدِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْخَنَّاسِ",
+        "ٱلرَّجِيمِ",
+        "ٱلْمَرِيدِ",
+        "ٱلْوَسْوَاسِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ]
+    },
+    {
+      "activityId": "act_114_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "يُوَسْوِسُ",
+        "يُضِلُّ",
+        "يُزَيِّنُ",
+        "يَدْعُو"
+      ]
+    },
+    {
+      "activityId": "act_114_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "صُدُورِ",
+        "قُلُوبِ",
+        "نُفُوسِ",
+        "عُقُولِ"
+      ]
+    },
+    {
+      "activityId": "act_114_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        4,
+        3
+      ]
+    },
+    {
+      "activityId": "act_114_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْجِنَّةِ",
+        "ٱلشَّيَاطِينِ",
+        "ٱلْإِنْسِ",
+        "ٱلظَّلَمَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الناس",
+    "juz": 30,
+    "theme": "الاستعاذة برب الناس ومالكهم وإلههم الحق من شر الشيطان الموسوس الذي يخنس عند ذكر الله، ومن شياطين الإنس والجن"
+  }
+}

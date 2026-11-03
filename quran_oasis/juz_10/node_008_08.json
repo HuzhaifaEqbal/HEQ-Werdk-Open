@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_008_08",
+  "title": "سورة الأنفال - الآيات 41-46",
+  "surahId": 8,
+  "ayahStart": 41,
+  "ayahEnd": 46,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَٱعْلَمُوٓا۟",
+        "لَٱخْتَلَفْتُمْ",
+        "وَٱصْبِرُوٓا۟ ۚ",
+        "يُرِيكُمُوهُمْ"
+      ],
+      "activityId": "act_008_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_008_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 13,
+      "options": [
+        "لَٱخْتَلَفْتُمْ",
+        "وَٱلْمَسَـٰكِينِ",
+        "ٱلْجَمْعَانِ ۗ",
+        "وَلَتَنَـٰزَعْتُمْ"
+      ],
+      "activityId": "act_008_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ],
+      "activityId": "act_008_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 11,
+      "options": [
+        "وَلَتَنَـٰزَعْتُمْ",
+        "وَٱلْمَسَـٰكِينِ",
+        "لَٱخْتَلَفْتُمْ",
+        "وَٱصْبِرُوٓا۟ ۚ"
+      ],
+      "activityId": "act_008_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_008_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "يُرِيكُمُوهُمْ",
+        "ٱلْجَمْعَانِ ۗ",
+        "وَلَتَنَـٰزَعْتُمْ",
+        "لَٱخْتَلَفْتُمْ"
+      ],
+      "activityId": "act_008_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_008_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱثْبُتُوا۟",
+        "وَأَطِيعُوا۟",
+        "وَرَسُولَهُۥ",
+        "ٱلْفُرْقَانِ"
+      ],
+      "activityId": "act_008_08_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_008_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱصْبِرُوٓا۟ ۚ",
+        "يُرِيكُمُوهُمْ",
+        "وَٱلْمَسَـٰكِينِ",
+        "ٱلْجَمْعَانِ ۗ"
+      ],
+      "activityId": "act_008_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنفال",
+    "juz": 10,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

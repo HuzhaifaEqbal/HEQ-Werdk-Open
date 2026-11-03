@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_37",
+  "title": "سورة آل عمران - الآيات 178-182",
+  "surahId": 3,
+  "ayahStart": 178,
+  "ayahEnd": 182,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 178,
+      "missingWordPosition": 13,
+      "options": [
+        "لِيَزۡدَادُوٓاْ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلۡأَنۢبِيَآءَ"
+      ],
+      "activityId": "act_003_37_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 178,
+      "correctNextAyahNumber": 179,
+      "wrongOptionsAyahNumbers": [
+        180,
+        176
+      ],
+      "activityId": "act_003_37_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 179,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "لِيَزۡدَادُوٓاْ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_37_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 179,
+      "correctNextAyahNumber": 180,
+      "wrongOptionsAyahNumbers": [
+        181,
+        177
+      ],
+      "activityId": "act_003_37_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 180,
+      "missingWordPosition": 17,
+      "options": [
+        "سَيُطَوَّقُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_37_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 180,
+      "correctNextAyahNumber": 181,
+      "wrongOptionsAyahNumbers": [
+        182,
+        178
+      ],
+      "activityId": "act_003_37_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 181,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلۡأَنۢبِيَآءَ",
+        "ٱلۡمُؤۡمِنِينَ",
+        "لِيَزۡدَادُوٓاْ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_37_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 181,
+      "correctNextAyahNumber": 182,
+      "wrongOptionsAyahNumbers": [
+        183,
+        179
+      ],
+      "activityId": "act_003_37_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 182,
+      "missingWordPosition": 4,
+      "options": [
+        "أَيۡدِيكُمۡ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ",
+        "سَيُطَوَّقُونَ"
+      ],
+      "activityId": "act_003_37_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يصف المؤمنين الذين استجابوا بعد الجراح، ويذكر ثباتهم أمام التخويف ووعد الله لهم."
+  }
+}

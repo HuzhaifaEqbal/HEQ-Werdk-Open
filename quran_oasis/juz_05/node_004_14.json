@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_14",
+  "title": "سورة النساء - الآيات 64-68",
+  "surahId": 4,
+  "ayahStart": 64,
+  "ayahEnd": 68,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 15,
+      "options": [
+        "فَٱسۡتَغۡفَرُواْ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_004_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 18,
+      "options": [
+        "وَيُسَلِّمُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "لَّأٓتَيۡنَٰهُم"
+      ],
+      "activityId": "act_004_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_004_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱقۡتُلُوٓاْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "وَيُسَلِّمُواْ"
+      ],
+      "activityId": "act_004_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        64
+      ],
+      "activityId": "act_004_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 2,
+      "options": [
+        "لَّأٓتَيۡنَٰهُم",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "وَيُسَلِّمُواْ"
+      ],
+      "activityId": "act_004_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_004_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَهَدَيۡنَٰهُمۡ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "فَٱسۡتَغۡفَرُواْ"
+      ],
+      "activityId": "act_004_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يكشف المقطع موقف من يدّعون الإيمان ثم يتحاكمون إلى غير الحق، ويدعوهم إلى توبة صادقة."
+  }
+}

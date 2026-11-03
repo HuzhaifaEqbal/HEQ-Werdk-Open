@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_18",
+  "title": "سورة النساء - الآيات 84-88",
+  "surahId": 4,
+  "ayahStart": 84,
+  "ayahEnd": 88,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَۖ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "لَيَجۡمَعَنَّكُمۡ"
+      ],
+      "activityId": "act_004_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_004_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 22,
+      "options": [
+        "مُّقِيتٗا",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "حُيِّيتُم"
+      ],
+      "activityId": "act_004_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_004_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 2,
+      "options": [
+        "حُيِّيتُم",
+        "مُّقِيتٗا",
+        "ءَاذَانَ",
+        "أَبَوَاهُ"
+      ],
+      "activityId": "act_004_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_004_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 6,
+      "options": [
+        "لَيَجۡمَعَنَّكُمۡ",
+        "ٱلۡمُؤۡمِنِينَۖ",
+        "ٱلۡمُنَٰفِقِينَ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_004_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلۡمُنَٰفِقِينَ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "لَيَجۡمَعَنَّكُمۡ",
+        "ٱلۡمُؤۡمِنِينَۖ"
+      ],
+      "activityId": "act_004_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يعرض أثر العمل الصالح والسيئ، ويدعو إلى تدبر القرآن وعدم التسرع في نشر الأخبار."
+  }
+}

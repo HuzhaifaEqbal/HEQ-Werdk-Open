@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_26",
+  "title": "سورة البقرة - الآيات 125-129",
+  "surahId": 2,
+  "ayahStart": 125,
+  "ayahEnd": 129,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 19,
+      "options": [
+        "لِلطَّآئِفِينَ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_26_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_002_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 22,
+      "options": [
+        "فَأُمَتِّعُهُۥ",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَيُعَلِّمُهُمُ",
+        "وَٱجۡعَلۡنَا"
+      ],
+      "activityId": "act_002_26_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_002_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلۡقَوَاعِدَ",
+        "فَأُمَتِّعُهُۥ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_26_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "wrongOptionsAyahNumbers": [
+        129,
+        125
+      ],
+      "activityId": "act_002_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱجۡعَلۡنَا",
+        "ٱلۡقَوَاعِدَ",
+        "فَأُمَتِّعُهُۥ",
+        "وَيُعَلِّمُهُمُ"
+      ],
+      "activityId": "act_002_26_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "wrongOptionsAyahNumbers": [
+        130,
+        126
+      ],
+      "activityId": "act_002_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 9,
+      "options": [
+        "وَيُعَلِّمُهُمُ",
+        "وَٱجۡعَلۡنَا",
+        "ٱلۡقَوَاعِدَ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_26_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يذكر ابتلاء إبراهيم وإتمامه الكلمات، ثم رفع قواعد البيت ودعاءه بالأمن والرزق والبعثة في ذريته."
+  }
+}

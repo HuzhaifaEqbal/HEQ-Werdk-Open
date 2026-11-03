@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_005_25",
+  "title": "سورة المائدة - الآيات 117-120",
+  "surahId": 5,
+  "ayahStart": 117,
+  "ayahEnd": 120,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 20,
+      "options": [
+        "تَوَفَّيْتَنِى",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "تُعَذِّبْهُمْ"
+      ],
+      "activityId": "act_005_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "wrongOptionsAyahNumbers": [
+        119,
+        115
+      ],
+      "activityId": "act_005_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 2,
+      "options": [
+        "تُعَذِّبْهُمْ",
+        "وَرَبَّكُمْ ۚ",
+        "ٱلْأَنْهَـٰرُ",
+        "صِدْقُهُمْ ۚ"
+      ],
+      "activityId": "act_005_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "wrongOptionsAyahNumbers": [
+        120,
+        116
+      ],
+      "activityId": "act_005_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "تَوَفَّيْتَنِى",
+        "عَلَيْهِمْ ۚ",
+        "أَمَرْتَنِى"
+      ],
+      "activityId": "act_005_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "wrongOptionsAyahNumbers": [
+        117,
+        116
+      ],
+      "activityId": "act_005_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "عِبَادُكَ ۖ",
+        "ٱعْبُدُوا۟",
+        "ٱلرَّقِيبَ"
+      ],
+      "activityId": "act_005_25_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

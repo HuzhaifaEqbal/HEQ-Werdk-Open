@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_12",
+  "title": "سورة آل عمران - الآيات 56-60",
+  "surahId": 3,
+  "ayahStart": 56,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "فَأُعَذِّبُهُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "فَيُوَفِّيهِمۡ"
+      ],
+      "activityId": "act_003_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_003_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 6,
+      "options": [
+        "فَيُوَفِّيهِمۡ",
+        "فَأُعَذِّبُهُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_003_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلذِّكۡرِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَامَنَّا"
+      ],
+      "activityId": "act_003_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        56
+      ],
+      "activityId": "act_003_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 8,
+      "options": [
+        "خَلَقَهُۥ",
+        "ءَانَآءَ",
+        "ءَامَنَّا",
+        "وَٱلذِّكۡرِ"
+      ],
+      "activityId": "act_003_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        57
+      ],
+      "activityId": "act_003_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡمُمۡتَرِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "فَأُعَذِّبُهُمۡ"
+      ],
+      "activityId": "act_003_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يبين المقطع جزاء الفريقين، ويقرر أن مثل عيسى عند الله كمثل آدم، ويدعو إلى اتباع الحق."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Prophetic Seerah Interactive Curriculum",
+  "name_ar": "واحة السيرة النبوية الشريفة — منهج التعلم التفاعلي المفتوح",
+  "version": "2.0.0",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/AlSera_Alnabaoia",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/AlSera_Alnabaoia",
+  "total_chapters": 8,
+  "total_lessons": 59,
+  "chapters": [
+    {
+      "id": "01",
+      "file": "01_makka_w_wlada_alrasul.json",
+      "title_ar": "مكة قبل البعثة والمولد والنشأة",
+      "title_en": "Pre-Islamic Mecca, Birth & Upbringing",
+      "lessons_count": 8
+    },
+    {
+      "id": "02",
+      "file": "02_alwahy_waldawa_fi_makka.json",
+      "title_ar": "بدء الوحي والدعوة في مكة",
+      "title_en": "Beginning of Revelation & Meccan Mission",
+      "lessons_count": 10
+    },
+    {
+      "id": "03",
+      "file": "03_altamhid_lilhijra.json",
+      "title_ar": "التمهيد للهجرة والبيعات",
+      "title_en": "Pledges & Preparation for Migration",
+      "lessons_count": 5
+    },
+    {
+      "id": "04",
+      "file": "04_alhijra_wbina_almadina.json",
+      "title_ar": "الهجرة النبوية وبناء المجتمع المدني",
+      "title_en": "The Migration & Building Medina",
+      "lessons_count": 8
+    },
+    {
+      "id": "05",
+      "file": "05_tathbit_almujtama_waldifaa.json",
+      "title_ar": "تثبيت المجتمع والدفاع عن الرسالة",
+      "title_en": "Strengthening the Community & Defense",
+      "lessons_count": 9
+    },
+    {
+      "id": "06",
+      "file": "06_ittisaa_aldawa_wfath_makka.json",
+      "title_ar": "اتساع الدعوة والعهود وفتح مكة",
+      "title_en": "Expansion of Islam, Treaties & Conquest of Mecca",
+      "lessons_count": 8
+    },
+    {
+      "id": "07",
+      "file": "07_hajjat_alwadaa_walwufud.json",
+      "title_ar": "عام الوفود وحجة الوداع",
+      "title_en": "Year of Delegations & Farewell Pilgrimage",
+      "lessons_count": 6
+    },
+    {
+      "id": "08",
+      "file": "08_akhir_hayat_alrasul_wathar_alrisala.json",
+      "title_ar": "آخر حياة النبي ﷺ وأثر الرسالة الخالدة",
+      "title_en": "Final Days of the Prophet & Enduring Legacy",
+      "lessons_count": 5
+    }
+  ]
+}

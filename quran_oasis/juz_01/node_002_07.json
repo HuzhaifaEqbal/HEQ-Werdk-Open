@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_07",
+  "title": "سورة البقرة - الآيات 30-34",
+  "surahId": 2,
+  "ayahStart": 30,
+  "ayahEnd": 34,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "لِلۡمَلَٰٓئِكَةِ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ٱلۡأَسۡمَآءَ"
+      ],
+      "activityId": "act_002_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        28
+      ],
+      "activityId": "act_002_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلۡأَسۡمَآءَ",
+        "لِلۡمَلَٰٓئِكَةِ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_002_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "عَلَّمۡتَنَآۖ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "لِلۡمَلَٰٓئِكَةِ"
+      ],
+      "activityId": "act_002_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_002_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِمُزَحۡزِحِهِۦ",
+        "ٱلۡأَسۡمَآءَ"
+      ],
+      "activityId": "act_002_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_002_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "لِلۡمَلَٰٓئِكَةِ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ٱلۡأَسۡمَآءَ"
+      ],
+      "activityId": "act_002_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يذكر خلق آدم وتعليمه، ثم سجود الملائكة له، وامتناع إبليس عن الطاعة."
+  }
+}

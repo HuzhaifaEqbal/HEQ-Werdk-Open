@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_080_05",
+  "title": "سورة عبس - المقطع الخامس (أهوال الصاخة وفرار المرء من أهله)",
+  "surahId": 80,
+  "ayahStart": 33,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "الصَّاخَّةُ",
+      "missingWordPosition": 3,
+      "options": [
+        "الصَّاخَّةُ",
+        "الطَّامَّةُ",
+        "الْقَارِعَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "يَفِرُّ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَفِرُّ",
+        "يَهْرُبُ",
+        "يَخْرُجُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "أَخِيهِ",
+      "missingWordPosition": 5,
+      "options": [
+        "أَخِيهِ",
+        "أَبِيهِ",
+        "عَشِيرَتِهِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "وَأُمِّهِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأُمِّهِ",
+        "وَابْنِهِ",
+        "وَزَوْجِهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "وَأَبِيهِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَبِيهِ",
+        "وَأَخِيهِ",
+        "وَبَنِيهِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        34,
+        37
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "وَصَاحِبَتِهِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَصَاحِبَتِهِ",
+        "وَزَوْجَتِهِ",
+        "وَعَشِيرَتِهِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "وَبَنِيهِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَبَنِيهِ",
+        "وَإِخْوَتِهِ",
+        "وَأَهْلِهِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWord": "شَأْنٌ",
+      "missingWordPosition": 5,
+      "options": [
+        "شَأْنٌ",
+        "هَمٌّ",
+        "أَمْرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWord": "يُغْنِيهِ",
+      "missingWordPosition": 6,
+      "options": [
+        "يُغْنِيهِ",
+        "يَكْفِيهِ",
+        "يُشْغِلُهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "مشهد تقشعر منه الأبدان من أهوال القيامة؛ حين تصدع النفخة الثانية العظيمة التي تصخ الأسماع وتكاد تفلقها لشدتها (الصاخّة). في ذلك اليوم يفر الإنسان من ألصق الناس به: من أخيه، وأمه وأبيه، وزوجته (صاحبته) وأولاده؛ من شدة الخوف والفزع وهول الحساب، ولكل فرد منهم يومئذ أمر عظيم وهم شاغل يملأ قلبه ويغنيه عن الالتفات إلى أي أحد سواه."
+  }
+}

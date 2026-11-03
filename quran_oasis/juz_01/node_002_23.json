@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_23",
+  "title": "سورة البقرة - الآيات 110-114",
+  "surahId": 2,
+  "ayahStart": 110,
+  "ayahEnd": 114,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 7,
+      "options": [
+        "لِأَنفُسِكُم",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "أَمَانِيُّهُمۡۗ"
+      ],
+      "activityId": "act_002_23_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_002_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 12,
+      "options": [
+        "أَمَانِيُّهُمۡۗ",
+        "لِأَنفُسِكُم",
+        "يَخۡتَلِفُونَ",
+        "يَدۡخُلُوهَآ"
+      ],
+      "activityId": "act_002_23_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_002_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 17,
+      "options": [
+        "يَحۡزَنُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_23_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_002_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 31,
+      "options": [
+        "يَخۡتَلِفُونَ",
+        "ءَاتَيۡنَٰهُمُ",
+        "أَمَانِيُّهُمۡۗ",
+        "لِأَنفُسِكُم"
+      ],
+      "activityId": "act_002_23_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_002_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 19,
+      "options": [
+        "يَدۡخُلُوهَآ",
+        "يَخۡتَلِفُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_23_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يذكر بناء البيت الحرام ودعاء إبراهيم وإسماعيل، ثم يبين وصيتهما بالتوحيد ودعوة ذريتهما للإسلام."
+  }
+}

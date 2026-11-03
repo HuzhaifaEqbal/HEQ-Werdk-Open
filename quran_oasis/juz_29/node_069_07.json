@@ -1,0 +1,104 @@
+{
+  "nodeId": "node_069_07",
+  "title": "سورة الحاقة: جزاء قسوة القلب وطعام الغسلين في النار",
+  "surahId": 69,
+  "ayahStart": 34,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "activityId": "act_069_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "يَحُضُّ",
+        "يَبْذُلُ",
+        "يُطْعِمُ",
+        "يُنْفِقُ"
+      ]
+    },
+    {
+      "activityId": "act_069_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمِسْكِينِ",
+        "ٱلْيَتِيمِ",
+        "ٱلْفَقِيرِ",
+        "ٱلسَّائِلِ"
+      ]
+    },
+    {
+      "activityId": "act_069_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_069_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "حَمِيمٌۭ",
+        "نَصِيرٌ",
+        "شَفِيعٌ",
+        "قَرِيبٌ"
+      ]
+    },
+    {
+      "activityId": "act_069_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        34
+      ]
+    },
+    {
+      "activityId": "act_069_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "غِسْلِينٍۢ",
+        "ضَرِيعٍ",
+        "زَقُّومٍ",
+        "صَدِيدٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_07_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        35
+      ]
+    },
+    {
+      "activityId": "act_069_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْخَـٰطِـُٔونَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلظَّـٰلِمُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "بيان سبب عذاب الشقي لبخله وقسوته، وحرمانه من الصديق الحميم، وأن طعامه غسالة أهل النار لا يأكله إلا الخاطئون"
+  }
+}

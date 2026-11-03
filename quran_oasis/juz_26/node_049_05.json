@@ -1,0 +1,169 @@
+{
+  "nodeId": "node_049_05",
+  "title": "سورة الحجرات: حقيقة الإيمان مقابل الإسلام والمنة لله بالهداية وعلم الغيب",
+  "surahId": 49,
+  "ayahStart": 14,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "activityId": "act_049_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 9,
+      "options": [
+        "أَسْلَمْنَا",
+        "آمَنَّا",
+        "أَقْرَرْنَا",
+        "أَذْعَنَّا"
+      ]
+    },
+    {
+      "activityId": "act_049_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 20,
+      "options": [
+        "يَلِتْكُم",
+        "يَنْقُصْكُم",
+        "يَبْخَسْكُم",
+        "يَحْرِمْكُم"
+      ]
+    },
+    {
+      "activityId": "act_049_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_049_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 9,
+      "options": [
+        "يَرْتَابُوا۟",
+        "يَشُكُّوا۟",
+        "يَتَرَدَّدُوا۟",
+        "يَنْكِلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلصَّـٰدِقُونَ",
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلْفَـٰئِزُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_049_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "أَتُعَلِّمُونَ",
+        "أَتُخْبِرُونَ",
+        "أَتُنَبِّئُونَ",
+        "أَتُعَرِّفُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "بِدِينِكُمْ",
+        "بِإِيمَانِكُمْ",
+        "بِإِسْلَامِكُمْ",
+        "بِأَعْمَالِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        1
+      ]
+    },
+    {
+      "activityId": "act_049_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "يَمُنُّونَ",
+        "يَفْخَرُونَ",
+        "يَبْتَغُونَ",
+        "يَدَّعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 15,
+      "options": [
+        "هَدَىٰكُمْ",
+        "وَفَّقَكُمْ",
+        "شَرَحَكُمْ",
+        "أَرْشَدَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_049_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "غَيْبَ",
+        "مَلَكُوتَ",
+        "خَزَآئِنَ",
+        "أَسْرَارَ"
+      ]
+    },
+    {
+      "activityId": "act_049_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "بَصِيرٌۢ",
+        "عَلِيمٌۢ",
+        "خَبِيرٌۢ",
+        "مُحِيطٌۢ"
+      ]
+    }
+  ]
+}

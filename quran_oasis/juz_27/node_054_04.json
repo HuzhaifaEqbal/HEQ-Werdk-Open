@@ -1,0 +1,286 @@
+{
+  "nodeId": "node_054_04",
+  "title": "سورة القمر: عقر ثمود للناقة وهلاكهم بالصيحة كهشيم المحتظر",
+  "surahId": 54,
+  "ayahStart": 23,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "activityId": "act_054_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "ثَمُودُ",
+        "عَادٌ",
+        "مَدْيَنُ",
+        "قَوْمُ لُوطٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_054_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "أَبَشَرًۭا",
+        "أَرَجُلًا",
+        "أَمَلَكًا",
+        "أَنَبِيًّا"
+      ]
+    },
+    {
+      "activityId": "act_054_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 10,
+      "options": [
+        "وَسُعُرٍ",
+        "وَجُنُونٍ",
+        "وَخَسَارٍ",
+        "وَبَاطِلٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_054_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلذِّكْرُ",
+        "ٱلْوَحْىُ",
+        "ٱلْكِتَابُ",
+        "ٱلْأَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "أَشِرٌۭ",
+        "مُّتَكَبِّرٌ",
+        "مَّجْنُونٌ",
+        "مُّفْتَرٍ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_054_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "غَدًۭا",
+        "قَرِيبًا",
+        "يَوْمَئِذٍ",
+        "عَاجِلًا"
+      ]
+    },
+    {
+      "activityId": "act_054_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_054_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلنَّاقَةِ",
+        "ٱلْآيَةِ",
+        "ٱلْعَذَابِ",
+        "ٱلصَّاعِقَةِ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "فِتْنَةًۭ",
+        "بَلَاءً",
+        "عِبْرَةً",
+        "ءَايَةً"
+      ]
+    },
+    {
+      "activityId": "act_054_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱرْتَقِبْهُمْ",
+        "فَٱنْتَظِرْهُمْ",
+        "فَتَوَلَّ",
+        "فَأَنْذِرْهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_054_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "قِسْمَةٌۢ",
+        "مَّعْلُومٌ",
+        "مَّقْسُومٌ",
+        "نَصِيبٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "مُّحْتَضَرٌۭ",
+        "مَّعْلُومٌ",
+        "مَّشْهُودٌ",
+        "مَّقْدُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_054_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "صَاحِبَهُمْ",
+        "كَبِيرَهُمْ",
+        "زَعِيمَهُمْ",
+        "شَقِيَّهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 4,
+      "options": [
+        "فَعَقَرَ",
+        "فَقَتَلَ",
+        "فَذَبَحَ",
+        "فَرَمَى"
+      ]
+    },
+    {
+      "activityId": "act_054_04_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_054_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "صَيْحَةًۭ",
+        "رَجْفَةً",
+        "صَاعِقَةً",
+        "زَلْزَلَةً"
+      ]
+    },
+    {
+      "activityId": "act_054_04_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "كَهَشِيمِ",
+        "كَرَمَادِ",
+        "كَزَرْعِ",
+        "كَحَصِيدِ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُحْتَظِرِ",
+        "ٱلْيَابِسِ",
+        "ٱلْحَاصِدِ",
+        "ٱلْغَابِرِ"
+      ]
+    },
+    {
+      "activityId": "act_054_04_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القمر",
+    "juz": 27,
+    "theme": "قصة ثمود مع نبيهم صالح عليه السلام، وقسمة ماء البئر مع الناقة، وعقر قدار بن سالف لها، وهلاكهم بالصيحة."
+  }
+}

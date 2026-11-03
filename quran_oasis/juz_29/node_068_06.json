@@ -1,0 +1,138 @@
+{
+  "nodeId": "node_068_06",
+  "title": "سورة القلم: تلاوم أصحاب الجنة والاعتراف بالظلم وعبرة العذاب",
+  "surahId": 68,
+  "ayahStart": 29,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "activityId": "act_068_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "سُبْحَـٰنَ",
+        "حَمْدًا",
+        "تَبَارَكَ",
+        "عَفْوَ"
+      ]
+    },
+    {
+      "activityId": "act_068_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "ظَـٰلِمِينَ",
+        "خَاطِئِينَ",
+        "غَافِلِينَ",
+        "عَاصِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_068_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَلَـٰوَمُونَ",
+        "يَتَخَاصَمُونَ",
+        "يَتَبَاكَوْنَ",
+        "يَتَسَاءَلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_068_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 5,
+      "options": [
+        "طَـٰغِينَ",
+        "ظَالِمِينَ",
+        "خَاطِئِينَ",
+        "مُفْسِدِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ]
+    },
+    {
+      "activityId": "act_068_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 4,
+      "options": [
+        "يُبْدِلَنَا",
+        "يُعْطِيَنَا",
+        "يَرْزُقَنَا",
+        "يَخْلُفَنَا"
+      ]
+    },
+    {
+      "activityId": "act_068_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 10,
+      "options": [
+        "رَٰغِبُونَ",
+        "تَائِبُونَ",
+        "مُنِيبُونَ",
+        "عَابِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ]
+    },
+    {
+      "activityId": "act_068_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "أَكْبَرُ",
+        "أَشَدُّ",
+        "أَبْقَىٰ",
+        "أَعْظَمُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "اعتراف أصحاب الجنة بظلمهم وتلاومهم بينهم، وتوبتهم ورجاؤهم أن يبدلهم ربهم خيراً منها، وبيان أن عذاب الآخرة أكبر"
+  }
+}

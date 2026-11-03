@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_008_07",
+  "title": "سورة الأنفال - الآيات 37-40",
+  "surahId": 8,
+  "ayahStart": 37,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 11,
+      "options": [
+        "فَيَرْكُمَهُۥ",
+        "فَٱعْلَمُوٓا۟",
+        "ٱلْأَوَّلِينَ",
+        "مَوْلَىٰكُمْ ۚ"
+      ],
+      "activityId": "act_008_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_008_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْأَوَّلِينَ",
+        "فَيَجْعَلَهُۥ",
+        "فَيَرْكُمَهُۥ",
+        "ٱلْخَـٰسِرُونَ"
+      ],
+      "activityId": "act_008_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_008_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 1,
+      "options": [
+        "وَقَـٰتِلُوهُمْ",
+        "مَوْلَىٰكُمْ ۚ",
+        "ٱلْخَـٰسِرُونَ",
+        "فَيَجْعَلَهُۥ"
+      ],
+      "activityId": "act_008_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_008_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱعْلَمُوٓا۟",
+        "وَقَـٰتِلُوهُمْ",
+        "فَيَرْكُمَهُۥ",
+        "ٱلْأَوَّلِينَ"
+      ],
+      "activityId": "act_008_07_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنفال",
+    "juz": 9,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

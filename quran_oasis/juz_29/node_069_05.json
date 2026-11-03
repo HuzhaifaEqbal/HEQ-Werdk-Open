@@ -1,0 +1,138 @@
+{
+  "nodeId": "node_069_05",
+  "title": "سورة الحاقة: حسرة أصحاب الشمال وفقدان السلطان والمال",
+  "surahId": 69,
+  "ayahStart": 25,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "activityId": "act_069_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "بِشِمَالِهِۦ",
+        "بِيَمِينِهِ",
+        "وَرَاءَ ظَهْرِهِ",
+        "بِيَدِهِ"
+      ]
+    },
+    {
+      "activityId": "act_069_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 7,
+      "options": [
+        "يَـٰلَيْتَنِى",
+        "يَاحَسْرَتَى",
+        "يَاوَيْلَتَى",
+        "يَاهَلَاكِى"
+      ]
+    },
+    {
+      "activityId": "act_069_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_069_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "حِسَابِيَهْ",
+        "كِتَابِيَهْ",
+        "عَذَابِيَهْ",
+        "جَزَائِيَهْ"
+      ]
+    },
+    {
+      "activityId": "act_069_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_069_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْقَاضِيَةَ",
+        "ٱلْأَخِيرَةَ",
+        "ٱلنِّهَايَةَ",
+        "ٱلْفَاصِلَةَ"
+      ]
+    },
+    {
+      "activityId": "act_069_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ]
+    },
+    {
+      "activityId": "act_069_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "مَالِيَهْ",
+        "وَلَدِيَهْ",
+        "جُنْدِيَهْ",
+        "عَمَلِيَهْ"
+      ]
+    },
+    {
+      "activityId": "act_069_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ]
+    },
+    {
+      "activityId": "act_069_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "هَلَكَ",
+        "ذَهَبَ",
+        "ضَاعَ",
+        "بَطَلَ"
+      ]
+    },
+    {
+      "activityId": "act_069_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "سُلْطَـٰنِيَهْ",
+        "مَالِيَهْ",
+        "مُلْكِيَهْ",
+        "عِزِّيَهْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "ندم صاحب الشمال وخزيه حين يؤتى كتابه بشماله، وتمنيه الموت الأبدي وضياع ماله وسلطانه وحجته"
+  }
+}

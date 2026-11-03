@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_04",
+  "title": "سورة النساء - الآيات 16-20",
+  "surahId": 4,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "يَأۡتِيَٰنِهَا",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_004_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلتَّوۡبَةُ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "يَأۡتِيَٰنِهَا"
+      ],
+      "activityId": "act_004_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_004_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلتَّوۡبَةُ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ],
+      "activityId": "act_004_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 16,
+      "options": [
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "فَٱسۡتَشۡهِدُواْ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_004_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 14,
+      "options": [
+        "أَتَأۡخُذُونَهُۥ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "فَٱسۡتَشۡهِدُواْ",
+        "يَأۡتِيَٰنِهَا"
+      ],
+      "activityId": "act_004_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 4,
+    "theme": "يفتح المقطع باب التوبة، ويأمر بحسن العشرة وأداء المهور، وينهى عن ظلم النساء."
+  }
+}

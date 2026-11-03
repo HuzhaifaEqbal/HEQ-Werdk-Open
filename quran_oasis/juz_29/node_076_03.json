@@ -1,0 +1,304 @@
+{
+  "nodeId": "node_076_03",
+  "title": "سورة الإنسان: وقاية الله للأبرار ونعيم الجنة والحرير والأرائك وآنية الفضة",
+  "surahId": 76,
+  "ayahStart": 11,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "activityId": "act_076_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "فَوَقَىٰهُمُ",
+        "فَنَجَّاهُمُ",
+        "فَصَانَهُمُ",
+        "فَحَمَاهُمُ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "وَلَقَّىٰهُمْ",
+        "وَأَعْطَاهُمْ",
+        "وَآتَاهُمْ",
+        "وَأَسْكَنَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "نَضْرَةًۭ",
+        "بَهْجَةً",
+        "نُورًا",
+        "فَرَحًا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "وَسُرُورًۭا",
+        "وَحُبُورًا",
+        "وَرَحْمَةً",
+        "وَبَرَكَةً"
+      ]
+    },
+    {
+      "activityId": "act_076_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_076_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "وَجَزَىٰهُم",
+        "وَآتَاهُم",
+        "وَأَثَابَهُم",
+        "وَأَعْطَاهُم"
+      ]
+    },
+    {
+      "activityId": "act_076_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "صَبَرُوا۟",
+        "عَمِلُوا",
+        "أَحْسَنُوا",
+        "ٱتَّقَوْا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "وَحَرِيرًۭا",
+        "وَسُنْدُسًا",
+        "وَنَعِيمًا",
+        "وَمُلْكًا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_076_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "مُّتَّكِـِٔينَ",
+        "جَالِسِينَ",
+        "مُسْتَبْشِرِينَ",
+        "فَرِحِينَ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَرَآئِكِ ۖ",
+        "ٱلسُّرُرِ",
+        "ٱلْفُرُشِ",
+        "ٱلْمَقَاعِدِ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "فِيهَا",
+        "حَرًّا",
+        "لَهَبًا",
+        "سَمُومًا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلَا",
+        "بَرْدًا",
+        "صَقِيعًا",
+        "غَسَّاقًا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_076_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 1,
+      "options": [
+        "وَدَانِيَةً",
+        "وَقَرِيبَةً",
+        "وَبَاسِقَةً",
+        "وَعَالِيَةً"
+      ]
+    },
+    {
+      "activityId": "act_076_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 3,
+      "options": [
+        "ظِلَـٰلُهَا",
+        "أَغْصَانُهَا",
+        "أَشْجَارُهَا",
+        "ثِمَارُهَا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "قُطُوفُهَا",
+        "ثِمَارُهَا",
+        "جَنَاهَا",
+        "أَكْلُهَا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        11
+      ]
+    },
+    {
+      "activityId": "act_076_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيُطَافُ",
+        "وَيُؤْتَىٰ",
+        "وَيُقَدَّمُ",
+        "وَيُسْعَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "بِـَٔانِيَةٍۢ",
+        "بِصِحَافٍ",
+        "بِكُؤُوسٍ",
+        "بِأَبَارِيقَ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "فِضَّةٍۢ",
+        "ذَهَبٍ",
+        "لُؤْلُؤٍ",
+        "يَاقُوتٍ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَكْوَابٍۢ",
+        "وَأَبَارِيقَ",
+        "وَكِئَاسٍ",
+        "وَصِحَافٍ"
+      ]
+    },
+    {
+      "activityId": "act_076_03_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_076_03_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 1,
+      "options": [
+        "قَوَارِيرَا۟",
+        "زُجَاجًا",
+        "أَقْدَاحًا",
+        "كُؤُوسًا"
+      ]
+    },
+    {
+      "activityId": "act_076_03_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "قَدَّرُوهَا",
+        "صَنَعُوهَا",
+        "سَقَوْهَا",
+        "هَيَّؤُوهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإنسان",
+    "juz": 29,
+    "theme": "وقاية الله للأبرار من شر ذلك اليوم، وجزاؤهم بالجنة والحرير والاتكاء على الأرائك بلا حر ولا زمهرير، وظلال الأشجار وثمارها الدانية وأكواب الفضة وقواريرها المقدرة."
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "nodeId": "node_075_01",
+  "title": "سورة القيامة: القسم بالقيامة والنفس اللوامة والقدرة على تسوية البنان",
+  "surahId": 75,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_075_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "أُقْسِمُ",
+        "نُقْسِمُ",
+        "يُقْسِمُ",
+        "أَقْسَمْتُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "ٱلدِّينِ",
+        "ٱلْحِسَابِ",
+        "ٱلْفَصْلِ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_075_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلنَّفْسِ",
+        "بِٱلرُّوحِ",
+        "بِٱلْقَلْبِ",
+        "بِٱلْخَلْقِ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱللَّوَّامَةِ",
+        "ٱلْمُطْمَئِنَّةِ",
+        "ٱلْأَمَّارَةِ",
+        "ٱلْخَاشِعَةِ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_075_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "أَيَحْسَبُ",
+        "أَيَظُنُّ",
+        "أَيَعْلَمُ",
+        "أَيَطْمَعُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنُ",
+        "ٱلْكَافِرُ",
+        "ٱلْمُجْرِمُ",
+        "ٱلظَّالِمُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "عِظَامَهُۥ",
+        "رُفَاتَهُ",
+        "أَجْسَادَهُ",
+        "أَوْصَالَهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        2
+      ]
+    },
+    {
+      "activityId": "act_075_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "قَـٰدِرِينَ",
+        "عَالِمِينَ",
+        "صَادِقِينَ",
+        "مُقْتَدِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "نُّسَوِّىَ",
+        "نَخْلُقَ",
+        "نُعِيدَ",
+        "نَبْعَثَ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "بَنَانَهُۥ",
+        "خَلْقَهُ",
+        "عِظَامَهُ",
+        "جَسَدَهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_075_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "يُرِيدُ",
+        "يَبْغِى",
+        "يَرْجُو",
+        "يَطْلُبُ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "لِيَفْجُرَ",
+        "لِيُؤْمِنَ",
+        "لِيَتُوبَ",
+        "لِيَذْكُرَ"
+      ]
+    },
+    {
+      "activityId": "act_075_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "أَمَامَهُۥ",
+        "وَرَاءَهُ",
+        "حَوْلَهُ",
+        "دُونَهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "القسم الإلهي بيوم القيامة وبالنفس اللوامة، وتأكيد قدرة الله عز وجل على إعادة خلق الإنسان وتسوية بنانه رداً على منكري البعث."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_30",
+  "title": "سورة البقرة - الآيات 142-146",
+  "surahId": 2,
+  "ayahStart": 142,
+  "ayahEnd": 146,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسُّفَهَآءُ",
+        "ءَاتَيۡنَٰهُمُ",
+        "أَبۡنَآءَهُمۡۖ",
+        "أَهۡوَآءَهُم"
+      ],
+      "activityId": "act_002_30_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 142,
+      "correctNextAyahNumber": 143,
+      "wrongOptionsAyahNumbers": [
+        144,
+        140
+      ],
+      "activityId": "act_002_30_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 5,
+      "options": [
+        "لِّتَكُونُواْ",
+        "لَيَعۡلَمُونَ",
+        "لَيَكۡتُمُونَ",
+        "وَٱلۡمَغۡرِبُۚ"
+      ],
+      "activityId": "act_002_30_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 143,
+      "correctNextAyahNumber": 144,
+      "wrongOptionsAyahNumbers": [
+        145,
+        141
+      ],
+      "activityId": "act_002_30_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 144,
+      "missingWordPosition": 7,
+      "options": [
+        "فَلَنُوَلِّيَنَّكَ",
+        "يَعۡرِفُونَهُۥ",
+        "لِّتَكُونُواْ",
+        "ٱلسُّفَهَآءُ"
+      ],
+      "activityId": "act_002_30_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 144,
+      "correctNextAyahNumber": 145,
+      "wrongOptionsAyahNumbers": [
+        146,
+        142
+      ],
+      "activityId": "act_002_30_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 145,
+      "missingWordPosition": 22,
+      "options": [
+        "أَهۡوَآءَهُم",
+        "ٱلظَّٰلِمِينَ",
+        "۞ سَيَقُولُ",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_30_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 145,
+      "correctNextAyahNumber": 146,
+      "wrongOptionsAyahNumbers": [
+        147,
+        143
+      ],
+      "activityId": "act_002_30_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 146,
+      "missingWordPosition": 4,
+      "options": [
+        "يَعۡرِفُونَهُۥ",
+        "فَلَنُوَلِّيَنَّكَ",
+        "أَبۡنَآءَهُمۡۖ",
+        "أَهۡوَآءَهُم"
+      ],
+      "activityId": "act_002_30_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يتناول المقطع تغيير القبلة، والتسليم لأمر الله، وذكر بعثة الرسول لتلاوة الآيات والتعليم والتزكية."
+  }
+}

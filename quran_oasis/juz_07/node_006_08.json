@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_08",
+  "title": "سورة الأنعام - الآيات 43-48",
+  "surahId": 6,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "تَضَرَّعُوا۟",
+        "أَرَءَيْتُمْ",
+        "مُبَشِّرِينَ",
+        "مُّبْلِسُونَ"
+      ],
+      "activityId": "act_006_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_006_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 16,
+      "options": [
+        "أَخَذْنَـٰهُم",
+        "ٱلشَّيْطَـٰنُ",
+        "تَضَرَّعُوا۟",
+        "ظَلَمُوا۟ ۚ"
+      ],
+      "activityId": "act_006_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_006_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "أَرَءَيْتَكُمْ",
+        "ٱلظَّـٰلِمُونَ",
+        "وَأَبْصَـٰرَكُمْ"
+      ],
+      "activityId": "act_006_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_006_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَبْصَـٰرَكُمْ",
+        "ٱلْعَـٰلَمِينَ",
+        "أَرَءَيْتَكُمْ",
+        "ٱلظَّـٰلِمُونَ"
+      ],
+      "activityId": "act_006_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_006_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرَءَيْتَكُمْ",
+        "ٱلْعَـٰلَمِينَ",
+        "وَأَبْصَـٰرَكُمْ",
+        "وَمُنذِرِينَ ۖ"
+      ],
+      "activityId": "act_006_08_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_006_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "أَرَءَيْتَكُمْ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_006_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

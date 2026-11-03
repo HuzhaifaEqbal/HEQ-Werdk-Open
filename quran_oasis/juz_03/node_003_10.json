@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_10",
+  "title": "سورة آل عمران - الآيات 46-50",
+  "surahId": 3,
+  "ayahStart": 46,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلصَّٰلِحِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَٱلۡأَبۡرَصَ"
+      ],
+      "activityId": "act_003_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_003_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 8,
+      "options": [
+        "يَمۡسَسۡنِي",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_003_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلتَّوۡرَىٰةَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلصَّٰلِحِينَ"
+      ],
+      "activityId": "act_003_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        46
+      ],
+      "activityId": "act_003_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 26,
+      "options": [
+        "وَٱلۡأَبۡرَصَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        47
+      ],
+      "activityId": "act_003_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلتَّوۡرَىٰةِ",
+        "وَٱلۡأَبۡرَصَ",
+        "ٱلصَّٰلِحِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يبشر الملائكة مريم بعيسى المسيح، ويذكر كلامه في المهد وبعض آياته بإذن الله."
+  }
+}

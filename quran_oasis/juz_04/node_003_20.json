@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_20",
+  "title": "سورة آل عمران - الآيات 93-97",
+  "surahId": 3,
+  "ayahStart": 93,
+  "ayahEnd": 97,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 20,
+      "options": [
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلۡأَسۡحَارِ",
+        "ٱلۡمُشۡرِكِينَ"
+      ],
+      "activityId": "act_003_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_003_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلظَّٰلِمُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِّلۡعَٰلَمِينَ"
+      ],
+      "activityId": "act_003_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "wrongOptionsAyahNumbers": [
+        96,
+        92
+      ],
+      "activityId": "act_003_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلۡمُشۡرِكِينَ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلۡأَسۡحَارِ"
+      ],
+      "activityId": "act_003_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_003_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 10,
+      "options": [
+        "لِّلۡعَٰلَمِينَ",
+        "ٱلظَّٰلِمُونَ",
+        "ٱلۡعَٰلَمِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_003_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 25,
+      "options": [
+        "ٱلۡعَٰلَمِينَ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِّلۡعَٰلَمِينَ",
+        "ٱلظَّٰلِمُونَ"
+      ],
+      "activityId": "act_003_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يعرض دلائل حرمة البيت ووجوب الحج، ويحذر أهل الكتاب من صد الناس عن سبيل الله."
+  }
+}

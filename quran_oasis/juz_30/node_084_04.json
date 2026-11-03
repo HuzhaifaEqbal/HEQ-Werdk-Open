@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_084_04",
+  "title": "سورة الانشقاق - المقطع الرابع (القَسَم الكوني وأطوار الإنسان)",
+  "surahId": 84,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "أُقْسِمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أُقْسِمُ",
+        "أَحْلِفُ",
+        "أَعْلَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "بِٱلشَّفَقِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلشَّفَقِ",
+        "بِٱلْفَجْرِ",
+        "بِٱلضُّحَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "وَٱلَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلَّيْلِ",
+        "وَٱلنَّهَارِ",
+        "وَٱلصُّبْحِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "وَسَقَ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَسَقَ",
+        "سَجَىٰ",
+        "يَسْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "وَٱلْقَمَرِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْقَمَرِ",
+        "وَٱلشَّمْسِ",
+        "وَٱلنَّجْمِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱتَّسَقَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱتَّسَقَ",
+        "تَلَاهَا",
+        "ٱسْتَوَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        16,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "لَتَرْكَبُنَّ",
+      "missingWordPosition": 1,
+      "options": [
+        "لَتَرْكَبُنَّ",
+        "لَتَرَوْنَّ",
+        "لَتَصِيرُنَّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "طَبَقًا",
+      "missingWordPosition": 2,
+      "options": [
+        "طَبَقًا",
+        "حَالًا",
+        "طَوْرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "يُؤْمِنُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْمِنُونَ",
+        "يَشْكُرُونَ",
+        "يُوقِنُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالحُمْرة التي تظهر في الأفق الغربي بعد غروب الشمس (الشفق)، وبالليل وما جمع وضم في ظلمته من الخلائق والدواب (وما وسق)، وبالقمر إذا تكامل نوره واستدار بدراً (إذا اتسق)؛ لتمُرّنَّ أيها الناس بأحوال وأطوار متتابعة شديدة: من نطفة إلى حياة، فموت، فبرزخ، فبعث، فحساب وجزاء. فما لهؤلاء المشركين لا يصدقون بالبعث بعد وضوح هذه البراهين والآيات القاطعة؟!"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_12",
+  "title": "سورة المائدة - الآيات 56-60",
+  "surahId": 5,
+  "ayahStart": 56,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرَسُولَهُۥ",
+        "ٱتَّخَذُوهَا",
+        "وَٱلْكُفَّارَ",
+        "أَوْلِيَآءَ ۚ"
+      ],
+      "activityId": "act_005_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_005_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 17,
+      "options": [
+        "وَٱلْكُفَّارَ",
+        "وَرَسُولَهُۥ",
+        "ٱلطَّـٰغُوتَ ۚ",
+        "ٱلْغَـٰلِبُونَ"
+      ],
+      "activityId": "act_005_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_005_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱتَّخَذُوهَا",
+        "وَرَسُولَهُۥ",
+        "وَٱلْكُفَّارَ",
+        "أَوْلِيَآءَ ۚ"
+      ],
+      "activityId": "act_005_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        56
+      ],
+      "activityId": "act_005_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 5,
+      "options": [
+        "تَنقِمُونَ",
+        "ءَامَنُوا۟",
+        "ٱلسَّبِيلِ",
+        "نَادَيْتُمْ"
+      ],
+      "activityId": "act_005_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        57
+      ],
+      "activityId": "act_005_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 18,
+      "options": [
+        "وَٱلْخَنَازِيرَ",
+        "ٱلْغَـٰلِبُونَ",
+        "ٱتَّخَذُوهَا",
+        "أَوْلِيَآءَ ۚ"
+      ],
+      "activityId": "act_005_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

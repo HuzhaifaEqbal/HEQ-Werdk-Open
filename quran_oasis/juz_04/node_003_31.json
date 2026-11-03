@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_31",
+  "title": "سورة آل عمران - الآيات 148-152",
+  "surahId": 3,
+  "ayahStart": 148,
+  "ayahEnd": 152,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلۡمُحۡسِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "فَتَنقَلِبُواْ"
+      ],
+      "activityId": "act_003_31_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "wrongOptionsAyahNumbers": [
+        150,
+        146
+      ],
+      "activityId": "act_003_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 11,
+      "options": [
+        "فَتَنقَلِبُواْ",
+        "لِيَبۡتَلِيَكُمۡۖ",
+        "ٱلۡمُحۡسِنِينَ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_31_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "wrongOptionsAyahNumbers": [
+        151,
+        147
+      ],
+      "activityId": "act_003_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنَّٰصِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَمَأۡوَىٰهُمُ"
+      ],
+      "activityId": "act_003_31_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "wrongOptionsAyahNumbers": [
+        152,
+        148
+      ],
+      "activityId": "act_003_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 15,
+      "options": [
+        "وَمَأۡوَىٰهُمُ",
+        "ٱلنَّٰصِرِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_31_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "wrongOptionsAyahNumbers": [
+        153,
+        149
+      ],
+      "activityId": "act_003_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 32,
+      "options": [
+        "لِيَبۡتَلِيَكُمۡۖ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "فَتَنقَلِبُواْ",
+        "ٱلۡمُحۡسِنِينَ"
+      ],
+      "activityId": "act_003_31_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر ما أصاب المؤمنين يوم أُحد من خوف وجراح، وأن الله عفا عنهم وابتلاهم."
+  }
+}

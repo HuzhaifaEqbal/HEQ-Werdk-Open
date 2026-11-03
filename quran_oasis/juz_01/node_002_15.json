@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_15",
+  "title": "سورة البقرة - الآيات 70-74",
+  "surahId": 2,
+  "ayahStart": 70,
+  "ayahEnd": 74,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 17,
+      "options": [
+        "لَمُهۡتَدُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "فَذَبَحُوهَا"
+      ],
+      "activityId": "act_002_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        68
+      ],
+      "activityId": "act_002_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 21,
+      "options": [
+        "فَذَبَحُوهَا",
+        "فَٱدَّٰرَٰءۡتُمۡ",
+        "لَمُهۡتَدُونَ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_002_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱدَّٰرَٰءۡتُمۡ",
+        "ءَاتَيۡنَٰهُمُ",
+        "فَذَبَحُوهَا",
+        "لَمُهۡتَدُونَ"
+      ],
+      "activityId": "act_002_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_002_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱضۡرِبُوهُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "فَٱدَّٰرَٰءۡتُمۡ"
+      ],
+      "activityId": "act_002_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_002_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 8,
+      "options": [
+        "كَٱلۡحِجَارَةِ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يبين أن النجاة ليست بالأماني، ويذكر أخذ الميثاق على بني إسرائيل، ثم نقضهم له وإعراضهم عن رسالات الله."
+  }
+}

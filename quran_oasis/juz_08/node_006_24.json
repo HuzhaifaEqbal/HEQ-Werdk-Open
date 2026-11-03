@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_24",
+  "title": "سورة الأنعام - الآيات 135-140",
+  "surahId": 6,
+  "ayahStart": 135,
+  "ayahEnd": 140,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 5,
+      "options": [
+        "مَكَانَتِكُمْ",
+        "لِيُرْدُوهُمْ",
+        "لِّذُكُورِنَا",
+        "أَزْوَٰجِنَا ۖ"
+      ],
+      "activityId": "act_006_24_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "wrongOptionsAyahNumbers": [
+        137,
+        133
+      ],
+      "activityId": "act_006_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 14,
+      "options": [
+        "لِشُرَكَآئِنَا ۖ",
+        "وَلِيَلْبِسُوا۟",
+        "ٱلْمُشْرِكِينَ",
+        "شُرَكَآؤُهُمْ"
+      ],
+      "activityId": "act_006_24_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "wrongOptionsAyahNumbers": [
+        138,
+        134
+      ],
+      "activityId": "act_006_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "شُرَكَآئِهِمْ ۗ",
+        "لِشُرَكَآئِهِمْ",
+        "ٱلظَّـٰلِمُونَ"
+      ],
+      "activityId": "act_006_24_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 137,
+      "correctNextAyahNumber": 138,
+      "wrongOptionsAyahNumbers": [
+        139,
+        135
+      ],
+      "activityId": "act_006_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 23,
+      "options": [
+        "سَيَجْزِيهِم",
+        "مَكَانَتِكُمْ",
+        "وَٱلْأَنْعَـٰمِ",
+        "لِيُرْدُوهُمْ"
+      ],
+      "activityId": "act_006_24_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 138,
+      "correctNextAyahNumber": 139,
+      "wrongOptionsAyahNumbers": [
+        140,
+        136
+      ],
+      "activityId": "act_006_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 8,
+      "options": [
+        "لِّذُكُورِنَا",
+        "سَيَجْزِيهِم",
+        "مَكَانَتِكُمْ",
+        "شُرَكَآؤُهُمْ"
+      ],
+      "activityId": "act_006_24_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "wrongOptionsAyahNumbers": [
+        141,
+        137
+      ],
+      "activityId": "act_006_24_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 5,
+      "options": [
+        "أَوْلَـٰدَهُمْ",
+        "ٱلْأَنْعَـٰمِ",
+        "بِزَعْمِهِمْ",
+        "شُرَكَآءُ ۚ"
+      ],
+      "activityId": "act_006_24_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

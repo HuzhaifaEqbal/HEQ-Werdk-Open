@@ -1,0 +1,250 @@
+{
+  "nodeId": "node_058_05",
+  "title": "سورة المجادلة: آداب المجالس ورفعة أهل العلم وصدقة مناجاة الرسول",
+  "surahId": 58,
+  "ayahStart": 11,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_058_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "تَفَسَّحُوا۟",
+        "تَوَسَّعُوا",
+        "تَقَدَّمُوا",
+        "تَقَارَبُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمَجَـٰلِسِ",
+        "ٱلْمَسَاجِدِ",
+        "ٱلصُّفُوفِ",
+        "ٱلْحِلَقِ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱفْسَحُوا۟",
+        "فَتَوَسَّعُوا",
+        "فَٱجْلِسُوا",
+        "فَٱسْتَقِيمُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱنشُزُوا۟",
+        "ٱنْصَرِفُوا",
+        "ٱرْجِعُوا",
+        "قُومُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 17,
+      "options": [
+        "فَٱنشُزُوا۟",
+        "فَٱنْصَرِفُوا",
+        "فَٱرْجِعُوا",
+        "فَقُومُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 18,
+      "options": [
+        "يَرْفَعِ",
+        "يُكْرِمِ",
+        "يُفَضِّلِ",
+        "يُعِزَّ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 25,
+      "options": [
+        "ٱلْعِلْمَ",
+        "ٱلْفِقْهَ",
+        "ٱلْحِكْمَةَ",
+        "ٱلْفَهْمَ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 26,
+      "options": [
+        "دَرَجَـٰتٍۢ ۚ",
+        "مَقَامَاتٍ",
+        "مَنَازِلَ",
+        "فَضْلًا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 30,
+      "options": [
+        "خَبِيرٌۭ",
+        "عَلِيمٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_058_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "نَـٰجَيْتُمُ",
+        "كَلَّمْتُمُ",
+        "شَاوَرْتُمُ",
+        "سَأَلْتُمُ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "فَقَدِّمُوا۟",
+        "فَأَعْطُوا",
+        "فَٱبْذُلُوا",
+        "فَأَنْفِقُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "صَدَقَةًۭ ۚ",
+        "مَالًا",
+        "هَدِيَّةً",
+        "فِدْيَةً"
+      ]
+    },
+    {
+      "activityId": "act_058_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 15,
+      "options": [
+        "وَأَطْهَرُ ۚ",
+        "وَأَزْكَىٰ",
+        "وَأَفْضَلُ",
+        "وَأَعْظَمُ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 21,
+      "options": [
+        "غَفُورٌۭ",
+        "تَوَّابٌ",
+        "حَلِيمٌ",
+        "عَلِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        11,
+        14
+      ]
+    },
+    {
+      "activityId": "act_058_05_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "ءَأَشْفَقْتُمْ",
+        "أَخِفْتُمْ",
+        "أَكَرِهْتُمْ",
+        "أَبَخِلْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_05_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "صَدَقَـٰتٍۢ ۚ",
+        "أَمْوَالًا",
+        "نَفَقَاتٍ",
+        "فِدْيَةً"
+      ]
+    },
+    {
+      "activityId": "act_058_05_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلصَّلَوٰةَ",
+        "فَحَافِظُوا",
+        "فَأَدُّوا",
+        "فَٱرْعَوْا"
+      ]
+    },
+    {
+      "activityId": "act_058_05_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلزَّكَوٰةَ",
+        "وَأَنْفِقُوا",
+        "وَتَصَدَّقُوا",
+        "وَأَعْطُوا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "أدب التفسح في المجالس والنهوض عند الحاجة، ووعد الله برفع درجات المؤمنين وأهل العلم، وحكم تقديم الصدقة عند استشارة الرسول وتخفيفها بالصلاة والزكاة والطاعة."
+  }
+}

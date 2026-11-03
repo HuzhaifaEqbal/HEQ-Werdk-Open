@@ -1,0 +1,130 @@
+{
+  "nodeId": "node_072_07",
+  "title": "سورة الجن: اختصاص الله بعلم الغيب وحراسة الرسل والإحصاء الشامل",
+  "surahId": 72,
+  "ayahStart": 26,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "activityId": "act_072_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْغَيْبِ",
+        "ٱلسَّمَاءِ",
+        "ٱلْأَمْرِ",
+        "ٱلْخَلْقِ"
+      ]
+    },
+    {
+      "activityId": "act_072_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "يُظْهِرُ",
+        "يُطْلِعُ",
+        "يُخْبِرُ",
+        "يُعْلِمُ"
+      ]
+    },
+    {
+      "activityId": "act_072_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        25
+      ]
+    },
+    {
+      "activityId": "act_072_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱرْتَضَىٰ",
+        "اخْتَارَ",
+        "اصْطَفَى",
+        "أَرَادَ"
+      ]
+    },
+    {
+      "activityId": "act_072_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "رَّسُولٍۢ",
+        "نَبِىٍّ",
+        "مَلَكٍ",
+        "عَبْدٍ"
+      ]
+    },
+    {
+      "activityId": "act_072_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 13,
+      "options": [
+        "رَصَدًۭا",
+        "حُرَّاسًا",
+        "حِفْظًا",
+        "حِمَايَةً"
+      ]
+    },
+    {
+      "activityId": "act_072_07_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        26,
+        25
+      ]
+    },
+    {
+      "activityId": "act_072_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "أَبْلَغُوا۟",
+        "حَفِظُوا",
+        "أَدَّوْا",
+        "بَلَّغُوا"
+      ]
+    },
+    {
+      "activityId": "act_072_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَحَاطَ",
+        "وَعَلِمَ",
+        "وَأَبْصَرَ",
+        "وَأَدْرَكَ"
+      ]
+    },
+    {
+      "activityId": "act_072_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 13,
+      "options": [
+        "عَدَدًۢا",
+        "حِفْظًا",
+        "عِلْمًا",
+        "تَقْدِيرًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "انفراد الله بعلم الغيب المطلق، وإطلاع من ارتضى من رسله مع إحاطتهم بحرس ملائكي، وإحاطة علمه الشامل وإحصاء كل شيء عدداً"
+  }
+}

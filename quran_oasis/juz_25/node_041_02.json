@@ -1,0 +1,123 @@
+{
+  "nodeId": "node_041_02",
+  "title": "سورة فصلت: إعراض الإنسان عند النعمة والآيات في الآفاق والأنفس وإحاطة الله بكل شيء",
+  "surahId": 41,
+  "ayahStart": 51,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "activityId": "act_041_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 6,
+      "options": [
+        "وَنَـَٔا",
+        "وَتَوَلَّىٰ",
+        "وَاسْتَكْبَرَ",
+        "وَأَدْبَرَ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 13,
+      "options": [
+        "عَرِيضٍۢ",
+        "كَثِيرٍ",
+        "طَوِيلٍ",
+        "شَدِيدٍ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_041_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 16,
+      "options": [
+        "شِقَاقٍۭ",
+        "ضَلَالٍ",
+        "خِلَافٍ",
+        "عِنَادٍ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        1
+      ]
+    },
+    {
+      "activityId": "act_041_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْـَٔافَاقِ",
+        "ٱلْأَرْضِ",
+        "ٱلْكَوْنِ",
+        "ٱلسَّمَاوَاتِ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 19,
+      "options": [
+        "شَهِيدٌ",
+        "عَلِيمٌ",
+        "قَدِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_041_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 4,
+      "options": [
+        "مِرْيَةٍۢ",
+        "شَكٍّ",
+        "رَيْبٍ",
+        "غَفْلَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_041_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 12,
+      "options": [
+        "مُّحِيطٌۢ",
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "قَدِيرٌ"
+      ]
+    }
+  ]
+}

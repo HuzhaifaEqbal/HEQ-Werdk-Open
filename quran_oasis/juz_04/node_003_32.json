@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_32",
+  "title": "سورة آل عمران - الآيات 153-157",
+  "surahId": 3,
+  "ayahStart": 153,
+  "ayahEnd": 157,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلرَّسُولُ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِإِخۡوَٰنِهِمۡ"
+      ],
+      "activityId": "act_003_32_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 153,
+      "correctNextAyahNumber": 154,
+      "wrongOptionsAyahNumbers": [
+        155,
+        151
+      ],
+      "activityId": "act_003_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلۡجَٰهِلِيَّةِۖ",
+        "وَٱلرَّسُولُ",
+        "ٱلۡجَمۡعَانِ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_32_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "wrongOptionsAyahNumbers": [
+        156,
+        152
+      ],
+      "activityId": "act_003_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡجَمۡعَانِ",
+        "ٱلۡجَٰهِلِيَّةِۖ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِإِخۡوَٰنِهِمۡ"
+      ],
+      "activityId": "act_003_32_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "wrongOptionsAyahNumbers": [
+        157,
+        153
+      ],
+      "activityId": "act_003_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 9,
+      "options": [
+        "لِإِخۡوَٰنِهِمۡ",
+        "وَٱلرَّسُولُ",
+        "ٱلۡجَمۡعَانِ",
+        "ٱلۡجَٰهِلِيَّةِۖ"
+      ],
+      "activityId": "act_003_32_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "wrongOptionsAyahNumbers": [
+        158,
+        154
+      ],
+      "activityId": "act_003_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 8,
+      "options": [
+        "لَمَغۡفِرَةٞ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_32_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يبين أن الموت لا يغير الأجل، وأن النصر والرزق بيد الله، ويحذر من طاعة المشركين."
+  }
+}

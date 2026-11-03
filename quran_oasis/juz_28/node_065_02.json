@@ -1,0 +1,296 @@
+{
+  "nodeId": "node_065_02",
+  "title": "سورة الطلاق: عدة الآيسات والحوامل وحقوق السكنى وأجر الرضاع وسعة النفقة",
+  "surahId": 65,
+  "ayahStart": 4,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "activityId": "act_065_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَحِيضِ",
+        "ٱلدَّمِ",
+        "ٱلْوَلَدِ",
+        "ٱلنِّكَاحِ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱرْتَبْتُمْ",
+        "شَكَكْتُمْ",
+        "جَهِلْتُمْ",
+        "سَأَلْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "أَشْهُرٍۢ",
+        "أَيَّامٍ",
+        "أَعْوَامٍ",
+        "أَسَابِيعَ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْأَحْمَالِ",
+        "ٱلْأَوْلَادِ",
+        "ٱلْأَرْحَامِ",
+        "ٱلْأَجِنَّةِ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 20,
+      "options": [
+        "حَمْلَهُنَّ ۚ",
+        "وَلَدَهُنَّ",
+        "جَنِينَهُنَّ",
+        "مَوْلُودَهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 28,
+      "options": [
+        "يُسْرًۭا",
+        "فَرَجًا",
+        "مَخْرَجًا",
+        "سَعَةً"
+      ]
+    },
+    {
+      "activityId": "act_065_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_065_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "أَمْرُ",
+        "حُكْمُ",
+        "شَرْعُ",
+        "فَرْضُ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "يُكَفِّرْ",
+        "يَمْحُ",
+        "يَغْفِرْ",
+        "يَسْتُرْ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "وَيُعْظِمْ",
+        "وَيُجْزِلْ",
+        "وَيُضَاعِفْ",
+        "وَيُكْثِرْ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 14,
+      "options": [
+        "أَجْرًا",
+        "ثَوَابًا",
+        "فَضْلًا",
+        "نَعِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_065_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        4
+      ]
+    },
+    {
+      "activityId": "act_065_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "وُجْدِكُمْ",
+        "طَاقَتِكُمْ",
+        "قُدْرَتِكُمْ",
+        "مَالِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "تُضَآرُّوهُنَّ",
+        "تُؤْذُوهُنَّ",
+        "تَظْلِمُوهُنَّ",
+        "تَقْهَرُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 9,
+      "options": [
+        "لِتُضَيِّقُوا۟",
+        "لِتُحْرِجُوهُنَّ",
+        "لِتُخْرِجُوهُنَّ",
+        "لِتَمْنَعُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 15,
+      "options": [
+        "فَأَنفِقُوا۟",
+        "فَأَعْطُوا۟",
+        "فَٱبْذُلُوا۟",
+        "فَٱرْعَوْا۟"
+      ]
+    },
+    {
+      "activityId": "act_065_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 24,
+      "options": [
+        "أُجُورَهُنَّ ۖ",
+        "نَفَقَاتِهِنَّ",
+        "مُهُورَهُنَّ",
+        "صَدُقَاتِهِنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 29,
+      "options": [
+        "تَعَاسَرْتُمْ",
+        "تَشَاحَحْتُمْ",
+        "تَخَالَفْتُمْ",
+        "ٱخْتَلَفْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_065_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "سَعَةٍۢ",
+        "غِنًى",
+        "مَالٍ",
+        "فَضْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "قُدِرَ",
+        "ضُيِّقَ",
+        "نُقِصَ",
+        "قَلَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 15,
+      "options": [
+        "يُكَلِّفُ",
+        "يُحَمِّلُ",
+        "يُوجِبُ",
+        "يَفْرِضُ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 24,
+      "options": [
+        "عُسْرٍۢ",
+        "ضِيقٍ",
+        "شِدَّةٍ",
+        "كَرْبٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_02_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 25,
+      "options": [
+        "يُسْرًۭا",
+        "فَرَجًا",
+        "سَعَةً",
+        "رَخَاءً"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطلاق",
+    "juz": 28,
+    "theme": "تفصيل أحكام عدة اليائسات والصغيرات وأولات الأحمال، وحقوق المطلقات في السكنى والنفقة مدة الحمل، وأجر الرضاع بالمعروف، والإنفاق على قدر السعة ووعد الله باليسر بعد العسر."
+  }
+}

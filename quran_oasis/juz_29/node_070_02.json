@@ -1,0 +1,126 @@
+{
+  "nodeId": "node_070_02",
+  "title": "سورة المعارج: قرب القيامة وهول السماء كالمُهل والجبال كالعهن",
+  "surahId": 70,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_070_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "بَعِيدًۭا",
+        "مُحَالًا",
+        "كَذِبًا",
+        "عَسِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_070_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_070_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "قَرِيبًۭا",
+        "وَاقِعًا",
+        "حَقًّا",
+        "آتِيًا"
+      ]
+    },
+    {
+      "activityId": "act_070_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_070_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "كَٱلْمُهْلِ",
+        "كَٱلْعِهْنِ",
+        "كَٱلدِّهَانِ",
+        "كَٱلرَّمَادِ"
+      ]
+    },
+    {
+      "activityId": "act_070_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        6
+      ]
+    },
+    {
+      "activityId": "act_070_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "كَٱلْعِهْنِ",
+        "كَٱلْمُهْلِ",
+        "كَٱلْهَبَاءِ",
+        "كَٱلسَّرَابِ"
+      ]
+    },
+    {
+      "activityId": "act_070_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ]
+    },
+    {
+      "activityId": "act_070_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْـَٔلُ",
+        "يَنْصُرُ",
+        "يَنْفَعُ",
+        "يُنْقِذُ"
+      ]
+    },
+    {
+      "activityId": "act_070_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "حَمِيمٌ",
+        "قَرِيبٌ",
+        "صَدِيقٌ",
+        "وَالِدٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "بيان أن عذاب القيامة قريب واقع وإن استبعده الكفار، وتغير نظام الكون كالمهل والعهن وذهول الحميم عن حميمه"
+  }
+}

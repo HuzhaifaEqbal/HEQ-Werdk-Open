@@ -1,0 +1,116 @@
+{
+  "nodeId": "node_112_01",
+  "title": "سورة الإخلاص: صفة الرحمن وتوحيد الذات والصفات",
+  "surahId": 112,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_112_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "أَحَدٌ",
+        "وَاحِدٌ",
+        "عَلِيمٌ",
+        "قَدِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_112_01_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_112_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلصَّمَدُ",
+        "ٱلْأَحَدُ",
+        "ٱلْقَيُّومُ",
+        "ٱلْقُدُّوسُ"
+      ]
+    },
+    {
+      "activityId": "act_112_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_112_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "يَلِدْ",
+        "يَمُتْ",
+        "يَغْفُلْ",
+        "يَعْيَ"
+      ]
+    },
+    {
+      "activityId": "act_112_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "يُولَدْ",
+        "يُهْلَكْ",
+        "يُشْبَهْ",
+        "يُغْلَبْ"
+      ]
+    },
+    {
+      "activityId": "act_112_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_112_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "كُفُوًا",
+        "شَرِيكًا",
+        "نِدًّا",
+        "مَثِيلًا"
+      ]
+    },
+    {
+      "activityId": "act_112_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "أَحَدٌۢ",
+        "أَبَدًا",
+        "قَطُّ",
+        "شَىْءٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإخلاص",
+    "juz": 30,
+    "theme": "بيان صفة الله تعالى وتوحيده الخالص: الأحد الصمد المنزه عن الولد والوالد والمكافئ والمثيل"
+  }
+}

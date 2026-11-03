@@ -1,0 +1,149 @@
+{
+  "nodeId": "hifz_078_08",
+  "title": "سورة النبأ - المقطع الثامن (الموقف المهيب وندم الكافر)",
+  "surahId": 78,
+  "ayahStart": 37,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWord": "الرَّحْمَٰنِ",
+      "missingWordPosition": 6,
+      "options": [
+        "الرَّحْمَٰنِ",
+        "الْعَزِيزِ",
+        "الْكَرِيمِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWord": "خِطَابًا",
+      "missingWordPosition": 10,
+      "options": [
+        "خِطَابًا",
+        "جَوَابًا",
+        "حِسَابًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "الرُّوحُ",
+      "missingWordPosition": 3,
+      "options": [
+        "الرُّوحُ",
+        "الْخَلْقُ",
+        "النَّاسُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "صَفًّا",
+      "missingWordPosition": 5,
+      "options": [
+        "صَفًّا",
+        "خُشَّعًا",
+        "زُمَرًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "صَوَابًا",
+      "missingWordPosition": 14,
+      "options": [
+        "صَوَابًا",
+        "حَقًّا",
+        "صِدْقًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        37,
+        40
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "الْحَقُّ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْحَقُّ",
+        "الْفَصْلُ",
+        "الْمَوْعُودُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "مَآبًا",
+      "missingWordPosition": 9,
+      "options": [
+        "مَآبًا",
+        "سَبِيلًا",
+        "مَقَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "قَرِيبًا",
+      "missingWordPosition": 4,
+      "options": [
+        "قَرِيبًا",
+        "عَظِيمًا",
+        "أَلِيمًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "الْمَرْءُ",
+      "missingWordPosition": 7,
+      "options": [
+        "الْمَرْءُ",
+        "الْإِنسَانُ",
+        "الْمُجْرِمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "تُرَابًا",
+      "missingWordPosition": 16,
+      "options": [
+        "تُرَابًا",
+        "سَرَابًا",
+        "هَبَاءً"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تختتم السورة بمشهد مهيب لعظمة الخالق وجلال يوم القيامة؛ رب السماوات والأرض وما بينهما، ذو الرحمة الواسعة، ومع رحمته لا يجرؤ أحد من خلقه أن يبتدئه بكلام أو يشفع إلا بإذنه لهيبته وجلاله. يوم يقف جبريل عليه السلام (الروح) والملائكة الأبرار صفاً خاشعين، لا ينطق منهم أحد إلا من أذن له الرحمن بالشفاعة وتكلم بالحق. ذلك هو اليوم الحق الآتي لا محالة؛ فمن شاء النجاة فليتخذ إلى ربه مرجعاً بطاعته. إنا أنذرناكم عذاباً قريباً، فكل آتٍ قريب، يوم يرى كل إنسان ما قدمت يداه من عمل، ويتمنى الكافر من شدة الهول والحسرة لو كان تراباً لا يُبعث ولا يُحاسب."
+  }
+}

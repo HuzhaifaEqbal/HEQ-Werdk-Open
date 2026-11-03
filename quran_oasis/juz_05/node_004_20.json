@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_20",
+  "title": "سورة النساء - الآيات 94-98",
+  "surahId": 4,
+  "ayahStart": 94,
+  "ayahEnd": 98,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 9,
+      "options": [
+        "فَتَبَيَّنُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "wrongOptionsAyahNumbers": [
+        96,
+        92
+      ],
+      "activityId": "act_004_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلۡمُجَٰهِدُونَ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_004_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 3,
+      "options": [
+        "وَمَغۡفِرَةٗ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ",
+        "فَتَبَيَّنُواْ"
+      ],
+      "activityId": "act_004_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_004_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 12,
+      "options": [
+        "مُسۡتَضۡعَفِينَ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "وَٱلۡمُجَٰهِدُونَ"
+      ],
+      "activityId": "act_004_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_004_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلۡمُسۡتَضۡعَفِينَ",
+        "يَسۡتَنۢبِطُونَهُۥ",
+        "۞ وَٱلۡمُحۡصَنَٰتُ",
+        "ءَاتَيۡتُمُوهُنَّ"
+      ],
+      "activityId": "act_004_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يبين أحكام القتل الخطأ والدية والكفارة، ويأمر بالتثبت قبل الحكم على من أظهر السلام."
+  }
+}

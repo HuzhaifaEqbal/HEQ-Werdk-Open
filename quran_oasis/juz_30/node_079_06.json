@@ -1,0 +1,198 @@
+{
+  "nodeId": "hifz_079_06",
+  "title": "سورة النازعات - المقطع السادس (عظمة خلق السماء وبسط الأرض)",
+  "surahId": 79,
+  "ayahStart": 27,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "أَشَدُّ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَشَدُّ",
+        "أَعْظَمُ",
+        "أَقْوَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "خَلْقًا",
+      "missingWordPosition": 3,
+      "options": [
+        "خَلْقًا",
+        "بُنْيَانًا",
+        "أَمْرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "سَمْكَهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "سَمْكَهَا",
+        "سَقْفَهَا",
+        "بِنَاءَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "فَسَوَّاهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "فَسَوَّاهَا",
+        "فَبَنَاهَا",
+        "فَأَحْكَمَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "وَأَغْطَشَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَغْطَشَ",
+        "وَأَظْلَمَ",
+        "وَأَسْدَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "ضُحَاهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "ضُحَاهَا",
+        "نَهَارَهَا",
+        "شَمْسَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        28,
+        31
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "دَحَاهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "دَحَاهَا",
+        "طَحَاهَا",
+        "سَوَّاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "مَاءَهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "مَاءَهَا",
+        "عُيُونَهَا",
+        "أَنْهَارَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "وَمَرْعَاهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَرْعَاهَا",
+        "وَكَلَأَهَا",
+        "وَنَبَاتَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        29,
+        33
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "أَرْسَاهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَرْسَاهَا",
+        "أَوْتَادًا",
+        "رَوَاسِيَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        30,
+        34
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "مَتَاعًا",
+      "missingWordPosition": 1,
+      "options": [
+        "مَتَاعًا",
+        "رِزْقًا",
+        "بَلَاغًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "وَلِأَنْعَامِكُمْ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَلِأَنْعَامِكُمْ",
+        "وَلِدَوَابِّكُمْ",
+        "وَلِأَهْلِيكُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يقيم الله الحجة القاطعة على منكري البعث؛ أأنتم أشد خلقاً وأصعب إعادة أم السماء العظيمة التي بناها بإحكام؟ رفع سقفها وأعلاها في الفضاء بلا عمد وسواها بلا فطور، وأظلم ليلها بظلمة داكنة (أغطش ليلها)، وأبرز نهارها مشرقاً بشمسها (أخرج ضحاها). والأرض بعد ذلك بسطها ومهدها للخلائق (دحاها)، ففجر ينابيعها وأنبت نباتها ومراعيها، وثبت الجبال الراسيات فيها لتستقر (أرساها)، كل ذلك رزقاً ومنافع تعيشون بها أنتم وتنتفع بها أنعامكم."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_05",
+  "title": "سورة البقرة - الآيات 21-25",
+  "surahId": 2,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱعۡبُدُواْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_002_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_002_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلسَّمَآءَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "شُهَدَآءَكُم"
+      ],
+      "activityId": "act_002_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_002_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 14,
+      "options": [
+        "شُهَدَآءَكُم",
+        "وَٱلسَّمَآءَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ],
+      "activityId": "act_002_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلۡحِجَارَةُۖ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "شُهَدَآءَكُم"
+      ],
+      "activityId": "act_002_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ],
+      "activityId": "act_002_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "ٱعۡبُدُواْ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يدعو الناس إلى عبادة الله وحده، ويذكّر بآيات قدرته، ويتحدى المكذبين بالإتيان بمثل القرآن، ثم يبشر المؤمنين."
+  }
+}

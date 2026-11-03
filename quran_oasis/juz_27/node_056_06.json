@@ -1,0 +1,440 @@
+{
+  "nodeId": "node_056_06",
+  "title": "سورة الواقعة: عظمة القرآن في كتاب مكنون ولحظة الاحتضار وحق اليقين",
+  "surahId": 56,
+  "ayahStart": 75,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "activityId": "act_056_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 3,
+      "options": [
+        "بِمَوَٰقِعِ",
+        "بِمَنَازِلِ",
+        "بِمَطَالِعِ",
+        "بِمَسَارِ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلنُّجُومِ",
+        "ٱلْكَوَاكِبِ",
+        "ٱلسَّمَاءِ",
+        "ٱلشَّمْسِ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        78
+      ]
+    },
+    {
+      "activityId": "act_056_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 5,
+      "options": [
+        "عَظِيمٌ",
+        "شَدِيدٌ",
+        "كَرِيمٌ",
+        "مُّبِينٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        79
+      ]
+    },
+    {
+      "activityId": "act_056_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 3,
+      "options": [
+        "كَرِيمٌۭ",
+        "عَظِيمٌ",
+        "مُّبِينٌ",
+        "حَكِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        80
+      ]
+    },
+    {
+      "activityId": "act_056_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّكْنُونٍۢ",
+        "مَّسْطُورٍ",
+        "مَّحْفُوظٍ",
+        "مَّرْفُوعٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "wrongOptionsAyahNumbers": [
+        80,
+        81
+      ]
+    },
+    {
+      "activityId": "act_056_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُطَهَّرُونَ",
+        "ٱلْمُؤْمِنُونَ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلْمُقَرَّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        82
+      ]
+    },
+    {
+      "activityId": "act_056_06_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        83
+      ]
+    },
+    {
+      "activityId": "act_056_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّدْهِنُونَ",
+        "مُّكَذِّبُونَ",
+        "شَاكُّونَ",
+        "غَافِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        84
+      ]
+    },
+    {
+      "activityId": "act_056_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 4,
+      "options": [
+        "تُكَذِّبُونَ",
+        "تَجْحَدُونَ",
+        "تَشُكُّونَ",
+        "تَكْفُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        85
+      ]
+    },
+    {
+      "activityId": "act_056_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحُلْقُومَ",
+        "ٱلتَّرَاقِىَ",
+        "ٱلصَّدْرَ",
+        "ٱلْقَلْبَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        86
+      ]
+    },
+    {
+      "activityId": "act_056_06_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        87
+      ]
+    },
+    {
+      "activityId": "act_056_06_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 7,
+      "options": [
+        "تُبْصِرُونَ",
+        "تَعْلَمُونَ",
+        "تَعْقِلُونَ",
+        "تَشْعُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        88
+      ]
+    },
+    {
+      "activityId": "act_056_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "مَدِينِينَ",
+        "مُّحَاسَبِينَ",
+        "مَّجْزِيِّينَ",
+        "مَّمْلُوكِينَ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        89
+      ]
+    },
+    {
+      "activityId": "act_056_06_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 1,
+      "options": [
+        "تَرْجِعُونَهَآ",
+        "تُمْسِكُونَهَا",
+        "تَرُدُّونَهَا",
+        "تَمْنَعُونَهَا"
+      ]
+    },
+    {
+      "activityId": "act_056_06_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        90
+      ]
+    },
+    {
+      "activityId": "act_056_06_26",
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        91
+      ]
+    },
+    {
+      "activityId": "act_056_06_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 1,
+      "options": [
+        "فَرَوْحٌۭ",
+        "فَنَعِيمٌ",
+        "فَفَوْزٌ",
+        "فَسُرُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 2,
+      "options": [
+        "وَرَيْحَانٌۭ",
+        "وَرَحْمَةٌ",
+        "وَنَعِيمٌ",
+        "وَفَرَحٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_29",
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        92
+      ]
+    },
+    {
+      "activityId": "act_056_06_30",
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        93
+      ]
+    },
+    {
+      "activityId": "act_056_06_31",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَلَـٰمٌۭ",
+        "فَبُشْرَىٰ",
+        "فَهَنِيئًا",
+        "فَنَعِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_32",
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        94
+      ]
+    },
+    {
+      "activityId": "act_056_06_33",
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        95
+      ]
+    },
+    {
+      "activityId": "act_056_06_34",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 3,
+      "options": [
+        "حَمِيمٍۢ",
+        "سَعِيرٍ",
+        "غَسَّاقٍ",
+        "زَقُّومٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_35",
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        96
+      ]
+    },
+    {
+      "activityId": "act_056_06_36",
+      "type": "next_ayah",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "wrongOptionsAyahNumbers": [
+        91,
+        92
+      ]
+    },
+    {
+      "activityId": "act_056_06_37",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 4,
+      "options": [
+        "حَقُّ",
+        "عَيْنُ",
+        "صِدْقُ",
+        "نُورُ"
+      ]
+    },
+    {
+      "activityId": "act_056_06_38",
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        92,
+        93
+      ]
+    },
+    {
+      "activityId": "act_056_06_39",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَظِيمِ",
+        "ٱلْأَعْلَى",
+        "ٱلْكَرِيمِ",
+        "ٱلْقَدِيرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "القسم الإلهي بمواقع النجوم على عظمة القرآن الكريم في اللوح المحفوظ، وتحدي الإنسان عند بلوغ الروح الحلقوم، وبيان مصير الأصناف الثلاثة عند الموت وحق اليقين."
+  }
+}

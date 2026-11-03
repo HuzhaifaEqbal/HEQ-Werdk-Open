@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_111_01",
+  "title": "سورة المسد: هلاك أبي لهب وخسرانه وعذاب امرأته حمالة الحطب",
+  "surahId": 111,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_111_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "تَبَّتْ",
+        "خَسِرَتْ",
+        "هَلَكَتْ",
+        "خَابَتْ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "وَتَبَّ",
+        "وَخَابَ",
+        "وَخَسِرَ",
+        "وَهَلَكَ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_111_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "أَغْنَىٰ",
+        "نَفَعَ",
+        "دَفَعَ",
+        "أَنْجَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 6,
+      "options": [
+        "كَسَبَ",
+        "جَمَعَ",
+        "ادَّخَرَ",
+        "أَوْرَثَ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_111_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "سَيَصْلَىٰ",
+        "سَيَدْخُلُ",
+        "سَيَرِدُ",
+        "سَيُقْذَفُ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "لَهَبٍۢ",
+        "سَعِيرٍ",
+        "سَقَرَ",
+        "جَحِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        2
+      ]
+    },
+    {
+      "activityId": "act_111_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "حَمَّالَةَ",
+        "جَامِعَةَ",
+        "مُوقِدَةَ",
+        "صَانِعَةَ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحَطَبِ",
+        "ٱلشَّوْكِ",
+        "ٱلنَّارِ",
+        "ٱلْأَوْزَارِ"
+      ]
+    },
+    {
+      "activityId": "act_111_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        3,
+        2
+      ]
+    },
+    {
+      "activityId": "act_111_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 2,
+      "options": [
+        "جِيدِهَا",
+        "عُنُقِهَا",
+        "رَأْسِهَا",
+        "صَدْرِهَا"
+      ]
+    },
+    {
+      "activityId": "act_111_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "مَّسَدٍۭ",
+        "حَدِيدٍ",
+        "نَارٍ",
+        "سَلَاسِلَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المسد",
+    "juz": 30,
+    "theme": "وعيد أبي لهب وامرأته بالهلاك التام ونار جهنم جزاء صدهما عن سبيل الله وإيذائهما لرسول الله ﷺ"
+  }
+}

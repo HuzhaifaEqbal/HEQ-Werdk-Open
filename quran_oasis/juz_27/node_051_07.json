@@ -1,0 +1,298 @@
+{
+  "nodeId": "node_051_07",
+  "title": "سورة الذاريات: اتساع السماء والفرار إلى الله ونفع الذكرى للمؤمنين",
+  "surahId": 51,
+  "ayahStart": 47,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "activityId": "act_051_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "بِأَيْي۟دٍۢ",
+        "بِقُوَّةٍ",
+        "بِعَظَمَةٍ",
+        "بِعِلْمٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 5,
+      "options": [
+        "لَمُوسِعُونَ",
+        "لَقَادِرُونَ",
+        "لَمُتْقِنُونَ",
+        "لَخَالِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_051_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَـٰهِدُونَ",
+        "ٱلْخَـٰلِقُونَ",
+        "ٱلْبَاسِطُونَ",
+        "ٱلْقَادِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_051_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 5,
+      "options": [
+        "زَوْجَيْنِ",
+        "أَصْنَافًا",
+        "أَزْوَاجًا",
+        "خَلْقًا"
+      ]
+    },
+    {
+      "activityId": "act_051_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 7,
+      "options": [
+        "تَذَكَّرُونَ",
+        "تَعْقِلُونَ",
+        "تَشْكُرُونَ",
+        "تُبْصِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_051_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 1,
+      "options": [
+        "فَفِرُّوٓا۟",
+        "فَٱرْجِعُوا",
+        "فَٱهْرُبُوا",
+        "فَتُوبُوا"
+      ]
+    },
+    {
+      "activityId": "act_051_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 7,
+      "options": [
+        "نَذِيرٌۭ",
+        "بَشِيرٌ",
+        "رَسُولٌ",
+        "شَاهِدٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 8,
+      "options": [
+        "مُّبِينٌۭ",
+        "كَرِيمٌ",
+        "أَمِينٌ",
+        "نَاصِحٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        53
+      ]
+    },
+    {
+      "activityId": "act_051_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 5,
+      "options": [
+        "إِلَـٰهًا",
+        "شَرِيكًا",
+        "نِدًّا",
+        "وَلِيًّا"
+      ]
+    },
+    {
+      "activityId": "act_051_07_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_051_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 11,
+      "options": [
+        "سَاحِرٌ",
+        "كَاهِنٌ",
+        "شَاعِرٌ",
+        "كَذَّابٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 13,
+      "options": [
+        "مَجْنُونٌ",
+        "ضَالٌّ",
+        "مَفْتُونٌ",
+        "كَذَّابٌ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        55
+      ]
+    },
+    {
+      "activityId": "act_051_07_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 1,
+      "options": [
+        "أَتَوَاصَوْا۟",
+        "أَتَوَارَثُوا",
+        "أَتَشَابَهُوا",
+        "أَتَعَاهَدُوا"
+      ]
+    },
+    {
+      "activityId": "act_051_07_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 6,
+      "options": [
+        "طَاغُونَ",
+        "ظَـٰلِمُونَ",
+        "كَـٰفِرُونَ",
+        "مُّجْرِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_051_07_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 5,
+      "options": [
+        "بِمَلُومٍۢ",
+        "بِمَهْزُومٍ",
+        "بِمَغْلُوبٍ",
+        "بِمَحْزُونٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_051_07_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 1,
+      "options": [
+        "وَذَكِّرْ",
+        "وَٱصْبِرْ",
+        "وَأَنْذِرْ",
+        "وَبَلِّغْ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 4,
+      "options": [
+        "تَنفَعُ",
+        "تَهْدِى",
+        "تُنْقِذُ",
+        "تُصْلِحُ"
+      ]
+    },
+    {
+      "activityId": "act_051_07_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلصَّـٰلِحِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "بيان عظمة خلق السماء والأرض والزوجية الكونية، والأمر بالفرار إلى الله والتذكير الذي ينفع المؤمنين."
+  }
+}

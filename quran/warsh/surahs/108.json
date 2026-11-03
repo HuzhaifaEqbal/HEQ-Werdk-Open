@@ -1,0 +1,43 @@
+{
+  "number": 108,
+  "name_ar": "الكَوثر",
+  "name_en": "Al-Kauthar",
+  "ayahs_count": 3,
+  "page_start": 602,
+  "page_end": 602,
+  "ayahs": [
+    {
+      "id": 6183,
+      "number": 1,
+      "text_uthmani": "إِنَّآ أَعْطَيْنَٰكَ اَ۬لْكَوْثَرَ ١",
+      "text_simple": "انآ اعطينك الكوثر ١",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6184,
+      "number": 2,
+      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَانْحَرِۖ ٢",
+      "text_simple": "فصل لربك وانحر ٢",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6185,
+      "number": 3,
+      "text_uthmani": "اِنَّ شَانِئَكَ هُوَ اَ۬لَابْتَرُۖ ٣",
+      "text_simple": "ان شانئك هو الابتر ٣",
+      "juz": 30,
+      "page": 602,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "nodeId": "node_064_02",
+  "title": "سورة التغابن: عبرة الأمم السابقة وقسم البعث والإيمان بالنور المنزل",
+  "surahId": 64,
+  "ayahStart": 5,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_064_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "نَبَؤُا۟",
+        "خَبَرُ",
+        "حَدِيثُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "فَذَاقُوا۟",
+        "فَرَأَوْا",
+        "فَلَقُوا",
+        "فَنَالُوا"
+      ]
+    },
+    {
+      "activityId": "act_064_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "وَبَالَ",
+        "سُوءَ",
+        "شُؤْمَ",
+        "عِقَابَ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 13,
+      "options": [
+        "أَلِيمٌۭ",
+        "مُّهِينٌ",
+        "شَدِيدٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_064_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلْبَيِّنَـٰتِ",
+        "بِٱلْهُدَىٰ",
+        "بِٱلْآيَاتِ",
+        "بِٱلْحَقِّ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "أَبَشَرٌۭ",
+        "أَرِجَالٌ",
+        "أَنَاسٌ",
+        "أَقَوْمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 11,
+      "options": [
+        "وَتَوَلَّوا۟ ۚ",
+        "وَأَدْبَرُوا۟",
+        "وَأَعْرَضُوا۟",
+        "وَٱسْتَكْبَرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 15,
+      "options": [
+        "غَنِىٌّ",
+        "كَرِيمٌ",
+        "عَزِيزٌ",
+        "قَدِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 16,
+      "options": [
+        "حَمِيدٌۭ",
+        "مَجِيدٌ",
+        "عَلِيمٌ",
+        "شَكُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        5
+      ]
+    },
+    {
+      "activityId": "act_064_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 1,
+      "options": [
+        "زَعَمَ",
+        "ٱدَّعَى",
+        "قَالَ",
+        "ظَنَّ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "يُبْعَثُوا۟ ۚ",
+        "يُحْشَرُوا۟",
+        "يُحْيَوْا۟",
+        "يُرَدُّوا۟"
+      ]
+    },
+    {
+      "activityId": "act_064_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 10,
+      "options": [
+        "لَتُبْعَثُنَّ",
+        "لَتُحْشَرُنَّ",
+        "لَتُحْيَوُنَّ",
+        "لَتُجْمَعُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "لَتُنَبَّؤُنَّ",
+        "لَتُجْزَوُنَّ",
+        "لَتُحَاسَبُنَّ",
+        "لَتُسْأَلُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 18,
+      "options": [
+        "يَسِيرٌۭ",
+        "هَيِّنٌ",
+        "قَرِيبٌ",
+        "قَدِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_064_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلنُّورِ",
+        "وَٱلْكِتَابِ",
+        "وَٱلْهُدَىٰ",
+        "وَٱلْفُرْقَانِ"
+      ]
+    },
+    {
+      "activityId": "act_064_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "أَنزَلْنَا ۚ",
+        "أَوْحَيْنَا",
+        "آتَيْنَا",
+        "جَعَلْنَا"
+      ]
+    },
+    {
+      "activityId": "act_064_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 10,
+      "options": [
+        "خَبِيرٌۭ",
+        "عَلِيمٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التغابن",
+    "juz": 28,
+    "theme": "التذكير بمصارع الأمم الكافرة السابقة وعاقبة استكبارهم على الرسل، ودحض زعم منكري البعث بالقسم الإلهي المؤكد، والأمر بالإيمان بالله ورسوله والقرآن العظيم."
+  }
+}

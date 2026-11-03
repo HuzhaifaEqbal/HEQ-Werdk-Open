@@ -1,0 +1,9 @@
+# Local Development & Private Assets
+HEQWERDK/
+
+# Local Vector & Large Binary Cache (hosted externally on CDN)
+quran/**/svg/
+
+# Local utility scripts & temporary server workers
+*.bat
+service-worker.js

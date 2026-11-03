@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_20",
+  "title": "سورة المائدة - الآيات 92-96",
+  "surahId": 5,
+  "ayahStart": 92,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱحْذَرُوا۟ ۚ",
+        "ٱلْمُحْسِنِينَ",
+        "وَّأَحْسَنُوا۟ ۗ",
+        "لَيَبْلُوَنَّكُمُ"
+      ],
+      "activityId": "act_005_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_005_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 21,
+      "options": [
+        "وَّأَحْسَنُوا۟ ۗ",
+        "وَٱحْذَرُوا۟ ۚ",
+        "لَيَبْلُوَنَّكُمُ",
+        "وَلِلسَّيَّارَةِ ۖ"
+      ],
+      "activityId": "act_005_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_005_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 4,
+      "options": [
+        "لَيَبْلُوَنَّكُمُ",
+        "وَّأَحْسَنُوا۟ ۗ",
+        "وَٱحْذَرُوا۟ ۚ",
+        "ٱلْمُحْسِنِينَ"
+      ],
+      "activityId": "act_005_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "wrongOptionsAyahNumbers": [
+        96,
+        92
+      ],
+      "activityId": "act_005_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُوا۟",
+        "رَسُولِنَا",
+        "يَخَافُهُۥ",
+        "ٱلرَّسُولَ"
+      ],
+      "activityId": "act_005_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_005_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 8,
+      "options": [
+        "وَلِلسَّيَّارَةِ ۖ",
+        "لَيَبْلُوَنَّكُمُ",
+        "وَّأَحْسَنُوا۟ ۗ",
+        "وَٱحْذَرُوا۟ ۚ"
+      ],
+      "activityId": "act_005_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 7,
+    "theme": "ذكر أهل الكتاب ومواقفهم من الحق، وبيان ما أنزل الله من هدى، والتحذير من موالاة الباطل، وخاتمة السورة في سؤال الرسل عن تبليغهم وشهادة عيسى عليه السلام."
+  }
+}

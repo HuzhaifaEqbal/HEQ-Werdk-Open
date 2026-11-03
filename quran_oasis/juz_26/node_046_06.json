@@ -1,0 +1,150 @@
+{
+  "nodeId": "node_046_06",
+  "title": "سورة الأحقاف: نذارة هود لقوم عاد في وادي الأحقاف وعاصفة العارض المدمرة",
+  "surahId": 46,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_046_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "عَادٍ",
+        "ثَمُودَ",
+        "مَدْيَنَ",
+        "لُوطٍ"
+      ]
+    },
+    {
+      "activityId": "act_046_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "قَوْمَهُۥ",
+        "بِٱلْوَادِى",
+        "بِٱلْجِبَالِ",
+        "بِٱلْقَرْيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_046_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_046_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "لِتَأْفِكَنَا",
+        "لِتَصْرِفَنَا",
+        "لِتَمْنَعَنَا",
+        "لِتَرُدَّنَا"
+      ]
+    },
+    {
+      "activityId": "act_046_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_046_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 12,
+      "options": [
+        "قَوْمًۭا",
+        "ظَـٰلِمُونَ",
+        "مُّجْرِمُونَ",
+        "فَـٰسِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_046_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_046_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "عَارِضًۭا",
+        "سَحَابًا",
+        "دُخَانًا",
+        "غَمَامًا"
+      ]
+    },
+    {
+      "activityId": "act_046_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "أَوْدِيَتِهِمْ",
+        "دِيَارِهِمْ",
+        "بِلَادِهِمْ",
+        "جِبَالِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_046_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_046_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "تُدَمِّرُ",
+        "تُهْلِكُ",
+        "تَسْحَقُ",
+        "تُفْنِى"
+      ]
+    },
+    {
+      "activityId": "act_046_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "إِلَّا",
+        "أَمْوَالُهُمْ",
+        "أَجْسَادُهُمْ",
+        "أَشْجَارُهُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "قصة هود عليه السلام حين أنذر قومه عاداً بوادي الأحقاف، واستكبارهم ومطالبتهم بالعذاب، ومجيء الريح المدمرة كالسحاب العارض."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "nodeId": "node_048_01",
+  "title": "سورة الفتح: بشارة الفتح المبكر ومغفرة الذنوب وإنزال السكينة",
+  "surahId": 48,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_048_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "فَتَحْنَا",
+        "يَسَّرْنَا",
+        "قَضَيْنَا",
+        "أَعْطَيْنَا"
+      ]
+    },
+    {
+      "activityId": "act_048_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّبِينًۭا",
+        "قَرِيبًا",
+        "عَظِيمًا",
+        "كَبِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_048_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_048_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "لِّيَغْفِرَ",
+        "لِيَرْحَمَ",
+        "لِيَجْزِيَ",
+        "لِيُثِيبَ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "نِعْمَتَهُۥ",
+        "فَضْلَهُۥ",
+        "رَحْمَتَهُۥ",
+        "بَرَكَتَهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_048_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَنصُرَكَ",
+        "وَيَهْدِيَكَ",
+        "وَيَرْزُقَكَ",
+        "وَيُؤَيِّدَكَ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "عَزِيزًا",
+        "كَبِيرًا",
+        "مُّبِينًا",
+        "قَرِيبًا"
+      ]
+    },
+    {
+      "activityId": "act_048_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_048_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّكِينَةَ",
+        "ٱلطُّمَأْنِينَةَ",
+        "ٱلرَّحْمَةَ",
+        "ٱلنَّصْرَ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 13,
+      "options": [
+        "جُنُودُ",
+        "خَزَآئِنُ",
+        "مُلْكُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_048_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "لِّيُدْخِلَ",
+        "لِّيَجْزِيَ",
+        "لِّيُثِيبَ",
+        "لِّيَرْحَمَ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 11,
+      "options": [
+        "وَيُكَفِّرَ",
+        "وَيَغْفِرَ",
+        "وَيَمْحُوَ",
+        "وَيَتَجَاوَزَ"
+      ]
+    },
+    {
+      "activityId": "act_048_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 18,
+      "options": [
+        "فَوْزًا",
+        "أَجْرًا",
+        "مُلْكًا",
+        "نَصِيبًا"
+      ]
+    }
+  ]
+}

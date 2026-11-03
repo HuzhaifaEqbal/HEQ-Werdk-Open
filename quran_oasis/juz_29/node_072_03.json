@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_072_03",
+  "title": "سورة نوح: أدب الجن في نسبة الخير لله وأمن المؤمن من البخس والرهق",
+  "surahId": 72,
+  "ayahStart": 10,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_072_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "أَشَرٌّ",
+        "أَعَذَابٌ",
+        "أَهَلَاكٌ",
+        "أَسُوءٌ"
+      ]
+    },
+    {
+      "activityId": "act_072_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 13,
+      "options": [
+        "رَشَدًۭا",
+        "خَيْرًا",
+        "هُدًى",
+        "رَحْمَةً"
+      ]
+    },
+    {
+      "activityId": "act_072_03_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_072_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصَّـٰلِحُونَ",
+        "ٱلْمُؤْمِنُونَ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلْمُسْلِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_072_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 9,
+      "options": [
+        "قِدَدًۭا",
+        "مُتَفَرِّقَةً",
+        "شَتَّى",
+        "أَصْنَافًا"
+      ]
+    },
+    {
+      "activityId": "act_072_03_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        10
+      ]
+    },
+    {
+      "activityId": "act_072_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "نُّعْجِزَ",
+        "نَفُوتَ",
+        "نَسْبِقَ",
+        "نَغْلِبَ"
+      ]
+    },
+    {
+      "activityId": "act_072_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "هَرَبًۭا",
+        "فِرَارًا",
+        "لُجُوءًا",
+        "خَفَاءً"
+      ]
+    },
+    {
+      "activityId": "act_072_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        11
+      ]
+    },
+    {
+      "activityId": "act_072_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 12,
+      "options": [
+        "بَخْسًۭا",
+        "ظُلْمًا",
+        "نَقْصًا",
+        "ضَيَاعًا"
+      ]
+    },
+    {
+      "activityId": "act_072_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 14,
+      "options": [
+        "رَهَقًۭا",
+        "ذِلَّةً",
+        "عَذَابًا",
+        "خَوْفًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "أدب الجن في نسبة الرشد والخير لله، وانقسامهم لفرق شتى، وإقرارهم بعجزهم أمام قدرة الله، وأمن المؤمن من نقصان حسناته أو زيادة سيئاته"
+  }
+}

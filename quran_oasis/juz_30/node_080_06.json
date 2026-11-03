@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_080_06",
+  "title": "سورة عبس - المقطع السادس (وجوه السعادة ووجوه الشقاء)",
+  "surahId": 80,
+  "ayahStart": 38,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "وُجُوهٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "وُجُوهٌ",
+        "قُلُوبٌ",
+        "أَبْصَارٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWord": "مُّسْفِرَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُّسْفِرَةٌ",
+        "نَّاضِرَةٌ",
+        "نَّاعِمَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "ضَاحِكَةٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "ضَاحِكَةٌ",
+        "فَرِحَةٌ",
+        "رَاضِيَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWord": "مُّسْتَبْشِرَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مُّسْتَبْشِرَةٌ",
+        "مُطْمَئِنَّةٌ",
+        "مَسْرُورَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWord": "غَبَرَةٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "غَبَرَةٌ",
+        "قَتَرَةٌ",
+        "ذِلَّةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        38,
+        42
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWord": "تَرْهَقُهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "تَرْهَقُهَا",
+        "تَغْشَاهَا",
+        "تَعْلُوهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWord": "قَتَرَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "قَتَرَةٌ",
+        "غَبَرَةٌ",
+        "ظُلْمَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWord": "الْكَفَرَةُ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْكَفَرَةُ",
+        "الظَّالِمُونَ",
+        "الْمُجْرِمُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWord": "الْفَجَرَةُ",
+      "missingWordPosition": 4,
+      "options": [
+        "الْفَجَرَةُ",
+        "الْفَاسِقُونَ",
+        "الْخَاسِرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تختتم السورة بمشهد تمايز الوجوه يوم الحساب؛ فوجه المؤمنين مضيئة مشرقة بالنور والسرور (مُسفرة)، ضاحكة فرحة ومستبشرة بما أعده الله لها من الكرامة والنعيم. وبالمقابل وجوه الكافرين يعلوها غبار الخزي وتغشاها ظلمة الذلة وسواد الكآبة (غبرة ترهقها قترة)، أولئك هم الذين جمعوا في دنياهم بين قبيحين: كفر القلوب بالله، وفجور الجوارح بالمعاصي والآثام."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_068_02",
+  "title": "سورة القلم: النهي عن مداهنة المكذبين وصفات الحلاف المهين",
+  "surahId": 68,
+  "ayahStart": 7,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_068_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "ضَلَّ",
+        "حَادَ",
+        "مَالَ",
+        "أَعْرَضَ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 11,
+      "options": [
+        "بِٱلْمُهْتَدِينَ",
+        "بِٱلصَّـٰلِحِينَ",
+        "بِٱلْمُتَّقِينَ",
+        "بِٱلْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_068_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُكَذِّبِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "ٱلظَّـٰلِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_068_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "تُدْهِنُ",
+        "تُمِيلُ",
+        "تَرْضَىٰ",
+        "تُسَالِمُ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "فَيُدْهِنُونَ",
+        "فَيَسْلَمُونَ",
+        "فَيَرْضَوْنَ",
+        "فَيُطِيعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        7
+      ]
+    },
+    {
+      "activityId": "act_068_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "حَلَّافٍۢ",
+        "كَذَّابٍ",
+        "فَاسِقٍ",
+        "مُنَافِقٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "مَّهِينٍ",
+        "لَئِيمٍ",
+        "أَثِيمٍ",
+        "حَقِيرٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        8
+      ]
+    },
+    {
+      "activityId": "act_068_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "هَمَّازٍۢ",
+        "لُمَزَةٍ",
+        "طَعَّانٍ",
+        "مَّنَّاعٍ"
+      ]
+    },
+    {
+      "activityId": "act_068_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "بِنَمِيمٍۢ",
+        "بِٱلْفَحْشَاءِ",
+        "بِٱلْكَذِبِ",
+        "بِٱلْبُهْتَانِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القلم",
+    "juz": 29,
+    "theme": "علم الله الشامل بالمهتدين والضالين، والنهي الصارم عن مسايرة ومداهنة المكذبين وأهل الحلف بالباطل والنميمة"
+  }
+}

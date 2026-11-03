@@ -1,0 +1,352 @@
+{
+  "nodeId": "node_058_06",
+  "title": "سورة المجادلة: فضح المنافقين وموالاتهم لليهود واستحواذ الشيطان",
+  "surahId": 58,
+  "ayahStart": 14,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "activityId": "act_058_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "تَوَلَّوْا۟",
+        "صَادَقُوا",
+        "وَالَوْا",
+        "رَافَقُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "غَضِبَ",
+        "سَخِطَ",
+        "لَعَنَ",
+        "عَذَّبَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْكَذِبِ",
+        "بِٱلْبَاطِلِ",
+        "بِٱلْفُجُورِ",
+        "بِٱلزُّورِ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 19,
+      "options": [
+        "يَعْلَمُونَ",
+        "يَفْقَهُونَ",
+        "يَشْعُرُونَ",
+        "يُوقِنُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_058_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "أَعَدَّ",
+        "هَيَّأَ",
+        "جَعَلَ",
+        "قَضَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "شَدِيدًا ۖ",
+        "أَلِيمًا",
+        "مُّهِينًا",
+        "عَظِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_058_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "سَآءَ",
+        "بِئْسَ",
+        "قَبُحَ",
+        "خَسِرَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_058_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "أَيْمَـٰنَهُمْ",
+        "حَلِفَهُمْ",
+        "عُهُودَهُمْ",
+        "أَقْوَالَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 3,
+      "options": [
+        "جُنَّةًۭ",
+        "سِتْرًا",
+        "حِمَايَةً",
+        "حِصْنًا"
+      ]
+    },
+    {
+      "activityId": "act_058_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "فَصَدُّوا۟",
+        "فَمَنَعُوا",
+        "فَصَرَفُوا",
+        "فَأَعْرَضُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_06_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 10,
+      "options": [
+        "مُّهِينٌۭ",
+        "شَدِيدٌ",
+        "أَلِيمٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_058_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "تُغْنِىَ",
+        "تَدْفَعَ",
+        "تَمْنَعَ",
+        "تَنْفَعَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "أَمْوَٰلُهُمْ",
+        "كُنُوزُهُمْ",
+        "عَشَائِرُهُمْ",
+        "أَنْصَارُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلنَّارِ ۖ",
+        "أَهْلُ",
+        "حَطَبُ",
+        "وُقُودُ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 15,
+      "options": [
+        "خَـٰلِدُونَ",
+        "مُّقِيمُونَ",
+        "مُعَذَّبُونَ",
+        "بَاقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        14
+      ]
+    },
+    {
+      "activityId": "act_058_06_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 5,
+      "options": [
+        "فَيَحْلِفُونَ",
+        "فَيَعْتَذِرُونَ",
+        "فَيَقُولُونَ",
+        "فَيَزْعُمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 10,
+      "options": [
+        "وَيَحْسَبُونَ",
+        "وَيَظُنُّونَ",
+        "وَيَرْجُونَ",
+        "وَيَطْمَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 13,
+      "options": [
+        "شَىْءٍ ۚ",
+        "هُدًى",
+        "حَقٍّ",
+        "نَجَاةٍ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْكَـٰذِبُونَ",
+        "ٱلْخَاطِئُونَ",
+        "ٱلْمُنَافِقُونَ",
+        "ٱلْخَاسِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_058_06_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱسْتَحْوَذَ",
+        "غَلَبَ",
+        "ٱسْتَوْلَىٰ",
+        "تَمَلَّكَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "فَأَنسَىٰهُمْ",
+        "فَصَرَفَهُمْ",
+        "فَحَرَمَهُمْ",
+        "فَأَبْعَدَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "ذِكْرَ",
+        "شُكْرَ",
+        "عِبَادَةَ",
+        "طَاعَةَ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 8,
+      "options": [
+        "حِزْبُ",
+        "جُنْدُ",
+        "أَوْلِيَاءُ",
+        "أَتْبَاعُ"
+      ]
+    },
+    {
+      "activityId": "act_058_06_29",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلْهَالِكُونَ",
+        "ٱلْمَغْلُوبُونَ",
+        "ٱلْمَفْتُونُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "كشف حقيقة المنافقين الذين يوالون المغضوب عليهم (اليهود) ويحلفون بالأيمان الكاذبة، وبيان استحواذ الشيطان عليهم حتى أنساهم ذكر الله، وأن حزب الشيطان هم الخاسرون."
+  }
+}

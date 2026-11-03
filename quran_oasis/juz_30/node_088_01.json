@@ -1,0 +1,231 @@
+{
+  "nodeId": "hifz_088_01",
+  "title": "سورة الغاشية - المقطع الأول (أهوال القيامة ومصير الكافرين في النار)",
+  "surahId": 88,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "حَدِيثُ",
+      "missingWordPosition": 3,
+      "options": [
+        "حَدِيثُ",
+        "نَبَأُ",
+        "خَبَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلْغَـٰشِيَةِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْغَـٰشِيَةِ",
+        "ٱلْقَارِعَةِ",
+        "ٱلصَّاخَّةِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وُجُوهٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "وُجُوهٌ",
+        "قُلُوبٌ",
+        "أَبْصَارٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "خَـٰشِعَةٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "خَـٰشِعَةٌ",
+        "نَاعِمَةٌ",
+        "مُسْفِرَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "عَامِلَةٌ",
+      "missingWordPosition": 1,
+      "options": [
+        "عَامِلَةٌ",
+        "خَاشِعَةٌ",
+        "بَاسِرَةٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "نَّاصِبَةٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "نَّاصِبَةٌ",
+        "رَاضِيَةٌ",
+        "ضَاحِكَةٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "تَصْلَىٰ",
+      "missingWordPosition": 1,
+      "options": [
+        "تَصْلَىٰ",
+        "تَرِدُ",
+        "تَدْخُلُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "حَامِيَةً",
+      "missingWordPosition": 3,
+      "options": [
+        "حَامِيَةً",
+        "مُوقَدَةً",
+        "شَدِيدَةً"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "تُسْقَىٰ",
+      "missingWordPosition": 1,
+      "options": [
+        "تُسْقَىٰ",
+        "تُرْوَى",
+        "تُطْعَمُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ءَانِيَةٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "ءَانِيَةٍ",
+        "جَارِيَةٍ",
+        "فَائِرَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        2,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "طَعَامٌ",
+      "missingWordPosition": 3,
+      "options": [
+        "طَعَامٌ",
+        "شَرَابٌ",
+        "نَصِيبٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ضَرِيعٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "ضَرِيعٍ",
+        "زَقُّومٍ",
+        "غِسْلِينٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يُسْمِنُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يُسْمِنُ",
+        "يَنْفَعُ",
+        "يُشْبِعُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يُغْنِى",
+      "missingWordPosition": 4,
+      "options": [
+        "يُغْنِى",
+        "يَدْفَعُ",
+        "يَكْفِي"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "جُوعٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "جُوعٍ",
+        "عَذَابٍ",
+        "أَلَمٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "هل أتاك يا نبي الله نبأ القيامة التي تغشى الناس بأهوالها وشدائدها؟ وجوه الكفار يومئذ ذليلة خاضعة خازية، متعبة مجهدة من جر السلاسل والأغلال في النار (عاملة ناصبة)، تدخل ناراً قد أوقد عليها واشتد حرها، وتُسقى من عين ماء بلغت الغاية القصوى في الحرارة والغليان (عَيْنٍ آنية)، ليس لهم طعام إلا من نبت شوكي خبيث مرّ منتن (الضريع) لا يغذي بدناً ولا يدفع جوعاً."
+  }
+}

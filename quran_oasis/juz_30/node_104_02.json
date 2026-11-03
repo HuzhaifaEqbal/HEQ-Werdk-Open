@@ -1,0 +1,116 @@
+{
+  "nodeId": "node_104_02",
+  "title": "سورة الهمزة: وصف نار الحطمة الموصدة",
+  "surahId": 104,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "activityId": "act_104_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُوقَدَةُ",
+        "ٱلْمُؤْصَدَةُ",
+        "ٱلْمُسْتَعِرَةُ",
+        "ٱلْمُنْتَشِرَةُ"
+      ]
+    },
+    {
+      "activityId": "act_104_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "activityId": "act_104_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "تَطَّلِعُ",
+        "تَهْجُمُ",
+        "تَصِلُ",
+        "تَحْرِقُ"
+      ]
+    },
+    {
+      "activityId": "act_104_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَفْـِٔدَةِ",
+        "ٱلْأَجْسَادِ",
+        "ٱلْقُلُوبِ",
+        "ٱلْجُلُودِ"
+      ]
+    },
+    {
+      "activityId": "act_104_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        6
+      ]
+    },
+    {
+      "activityId": "act_104_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّؤْصَدَةٌۭ",
+        "مُّسْتَعِرَةٌ",
+        "مُّغْلَقَةٌ",
+        "مُّطْبَقَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_104_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        7,
+        6
+      ]
+    },
+    {
+      "activityId": "act_104_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "عَمَدٍۢ",
+        "سَلَـٰسِلَ",
+        "أَغْلَـٰلٍ",
+        "أَوْتَادٍ"
+      ]
+    },
+    {
+      "activityId": "act_104_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّمَدَّدَةٍۭ",
+        "مُّؤْصَدَةٍ",
+        "مُّحْكَمَةٍ",
+        "مُّثْبَتَةٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الهمزة",
+    "juz": 30,
+    "theme": "وصف نار الحطمة الموقدة بأمر الله والتي تغلق على المعذبين في أعمدة ممددة محكمة الإغلاق"
+  }
+}

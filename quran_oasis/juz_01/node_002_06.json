@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_002_06",
+  "title": "سورة البقرة - الآيات 26-29",
+  "surahId": 2,
+  "ayahStart": 26,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 15,
+      "options": [
+        "فَيَعۡلَمُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَيَقۡطَعُونَ"
+      ],
+      "activityId": "act_002_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_002_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَقۡطَعُونَ",
+        "فَيَعۡلَمُونَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_002_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 2,
+      "options": [
+        "تَكۡفُرُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ٱلسَّمَآءِ"
+      ],
+      "activityId": "act_002_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_002_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "تَكۡفُرُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_06_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يبين المقطع أن الأمثال القرآنية حق، ويعرض عاقبة نقض العهد والإفساد، ويذكر خلق الأرض وتسويتها."
+  }
+}

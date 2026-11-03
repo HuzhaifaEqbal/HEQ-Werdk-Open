@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_16",
+  "title": "سورة البقرة - الآيات 75-79",
+  "surahId": 2,
+  "ayahStart": 75,
+  "ayahEnd": 79,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ أَفَتَطۡمَعُونَ",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "أَتُحَدِّثُونَهُم"
+      ],
+      "activityId": "act_002_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_002_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 13,
+      "options": [
+        "أَتُحَدِّثُونَهُم",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "۞ أَفَتَطۡمَعُونَ"
+      ],
+      "activityId": "act_002_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_002_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 2,
+      "options": [
+        "يَعۡلَمُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_002_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 4,
+      "options": [
+        "يَعۡلَمُونَ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "wrongOptionsAyahNumbers": [
+        80,
+        76
+      ],
+      "activityId": "act_002_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 5,
+      "options": [
+        "بِأَيۡدِيهِمۡ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "يَعۡلَمُونَ"
+      ],
+      "activityId": "act_002_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض تعاقب الرسل والكتب، وموقف بعض بني إسرائيل من الوحي، ويذكر فتنة السحر والتحذير منها."
+  }
+}

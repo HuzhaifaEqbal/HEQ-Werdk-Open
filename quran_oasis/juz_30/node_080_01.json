@@ -1,0 +1,225 @@
+{
+  "nodeId": "hifz_080_01",
+  "title": "سورة عبس - المقطع الأول (عتاب الله لرسوله في شأن الأعمى)",
+  "surahId": 80,
+  "ayahStart": 1,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "عَبَسَ",
+      "missingWordPosition": 1,
+      "options": [
+        "عَبَسَ",
+        "أَعْرَضَ",
+        "تَوَلَّىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَتَوَلَّىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَتَوَلَّىٰ",
+        "وَأَعْرَضَ",
+        "وَأَدْبَرَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "الْأَعْمَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْأَعْمَىٰ",
+        "السَّائِلُ",
+        "الْمِسْكِينُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "يَزَّكَّىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَزَّكَّىٰ",
+        "يَهْتَدِي",
+        "يَتَّقِي"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "يَذَّكَّرُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَذَّكَّرُ",
+        "يَتَّقِي",
+        "يَسْمَعُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "الذِّكْرَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "الذِّكْرَىٰ",
+        "الْبُشْرَىٰ",
+        "الْمَوْعِظَةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        3,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "اسْتَغْنَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "اسْتَغْنَىٰ",
+        "تَوَلَّىٰ",
+        "طَغَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "تَصَدَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَصَدَّىٰ",
+        "تَرْجُو",
+        "تَدْعُو"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يَزَّكَّىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَزَّكَّىٰ",
+        "يُؤْمِنَ",
+        "يَهْتَدِيَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "يَسْعَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَسْعَىٰ",
+        "يَرْجُو",
+        "يَسْأَلُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        7,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "يَخْشَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَخْشَىٰ",
+        "يَتَّقِي",
+        "يَرْجُو"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "تَلَهَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَلَهَّىٰ",
+        "تُعْرِضُ",
+        "تَتَوَلَّى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "عتاب قرآني لطيف للنبي ﷺ في شأن الصحابي الأعمى عبد الله بن أم مكتوم؛ إذ أقبل يسأل النبي عن أمور دينه، وكان النبي ﷺ منشغلاً بدعوة كبار قريش رغبة في إسلامهم. فقيل له: وما يدريك لعله بتعليمه يتطهر من الذنوب أو يتعظ بالقرآن فتنفعه الموعظة؟ أما من استغنى بماله وكبره عن الإيمان فأنت تتعرض له وتحرص عليه وليس عليك هدايته إن لم يزكِ نفسه، وأما الصادق الذي جاءك مسرعاً وهو يخاف الله فأنت تتشاغل عنه."
+  }
+}

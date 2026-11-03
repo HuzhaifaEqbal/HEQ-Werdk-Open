@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_067_05",
+  "title": "سورة الملك: الرزاق وحده ومثل الأعمى والسميع وسؤال الاستعجال",
+  "surahId": 67,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_067_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "يَرْزُقُكُمْ",
+        "يَحْفَظُكُمْ",
+        "يَنْصُرُكُمْ",
+        "يُعِينُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 11,
+      "options": [
+        "عُتُوٍّۢ",
+        "كُفْرٍ",
+        "طُغْيَانٍ",
+        "شِقَاقٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 12,
+      "options": [
+        "وَنُفُورٍ",
+        "وَضَلَالٍ",
+        "وَإِعْرَاضٍ",
+        "وَجُحُودٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_067_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "مُكِبًّا",
+        "مَاشِيًا",
+        "سَاقِطًا",
+        "مُعْرِضًا"
+      ]
+    },
+    {
+      "activityId": "act_067_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "سَوِيًّا",
+        "مُسْتَقِيمًا",
+        "بَصِيرًا",
+        "مُهْتَدِيًا"
+      ]
+    },
+    {
+      "activityId": "act_067_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "مُّسْتَقِيمٍۢ",
+        "مُّبِينٍ",
+        "قَوِيمٍ",
+        "عَظِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_067_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 4,
+      "options": [
+        "أَنشَأَكُمْ",
+        "خَلَقَكُمْ",
+        "صَوَّرَكُمْ",
+        "أَوْجَدَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلْأَفْـِٔدَةَ",
+        "وَٱلْأَلْسِنَةَ",
+        "وَٱلْجَوَارِحَ",
+        "وَٱلْعُقُولَ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 12,
+      "options": [
+        "تَشْكُرُونَ",
+        "تَعْلَمُونَ",
+        "تَذَكَّرُونَ",
+        "تُؤْمِنُونَ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ]
+    },
+    {
+      "activityId": "act_067_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "ذَرَأَكُمْ",
+        "بَثَّكُمْ",
+        "نَشَرَكُمْ",
+        "جَمَعَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "تُحْشَرُونَ",
+        "تُرْجَعُونَ",
+        "تُرَدُّونَ",
+        "تُبْعَثُونَ"
+      ]
+    },
+    {
+      "activityId": "act_067_05_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ]
+    },
+    {
+      "activityId": "act_067_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْوَعْدُ",
+        "ٱلْبَعْثُ",
+        "ٱلْفَتْحُ",
+        "ٱلْعَذَابُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "بيان انفراد الله بالرزق، ومثل المهتدي الماشي سوياً والضال المنكب على وجهه، والتذكير بنعمة الحواس وسؤال الكفار عن موعد القيامة"
+  }
+}

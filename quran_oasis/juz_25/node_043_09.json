@@ -1,0 +1,109 @@
+{
+  "nodeId": "node_043_09",
+  "title": "سورة الزخرف: رسالة موسى لفرعون وملئه والآيات التسع ونكث العهد",
+  "surahId": 43,
+  "ayahStart": 46,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "activityId": "act_043_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "وَمَلَإِي۟هِۦ",
+        "وَقَوْمِهِۦ",
+        "وَجُنُودِهِۦ",
+        "وَأَهْلِهِۦ"
+      ]
+    },
+    {
+      "activityId": "act_043_09_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_043_09_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 7,
+      "options": [
+        "يَضْحَكُونَ",
+        "يَسْخَرُونَ",
+        "يُعْرِضُونَ",
+        "يَمْكُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_09_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_043_09_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 7,
+      "options": [
+        "أَكْبَرُ",
+        "أَعْظَمُ",
+        "أَوْضَحُ",
+        "أَبْيَنُ"
+      ]
+    },
+    {
+      "activityId": "act_043_09_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_043_09_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّاحِرُ",
+        "ٱلْعَالِمُ",
+        "ٱلنَّبِىُّ",
+        "ٱلصَّادِقُ"
+      ]
+    },
+    {
+      "activityId": "act_043_09_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_043_09_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 7,
+      "options": [
+        "يَنكُثُونَ",
+        "يَكْذِبُونَ",
+        "يَرْجِعُونَ",
+        "يُعْرِضُونَ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_04",
+  "title": "سورة المائدة - الآيات 16-20",
+  "surahId": 5,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 9,
+      "options": [
+        "وَيُخْرِجُهُم",
+        "بَيْنَهُمَا ۚ",
+        "وَءَاتَىٰكُم",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_005_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_005_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 34,
+      "options": [
+        "بَيْنَهُمَا ۚ",
+        "وَيَهْدِيهِمْ",
+        "وَيُخْرِجُهُم",
+        "وَٱلنَّصَـٰرَىٰ"
+      ],
+      "activityId": "act_005_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_005_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَحِبَّـٰٓؤُهُۥ ۚ",
+        "ٱلْعَـٰلَمِينَ",
+        "بَيْنَهُمَا ۚ",
+        "وَيَهْدِيهِمْ"
+      ],
+      "activityId": "act_005_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ],
+      "activityId": "act_005_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "رَسُولُنَا",
+        "ٱذْكُرُوا۟",
+        "ٱلْمَسِيحُ",
+        "ٱلْمَصِيرُ"
+      ],
+      "activityId": "act_005_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_005_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 16,
+      "options": [
+        "وَءَاتَىٰكُم",
+        "وَيُخْرِجُهُم",
+        "وَٱلنَّصَـٰرَىٰ",
+        "بَيْنَهُمَا ۚ"
+      ],
+      "activityId": "act_005_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

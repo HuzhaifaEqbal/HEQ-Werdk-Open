@@ -1,0 +1,332 @@
+{
+  "nodeId": "node_056_05",
+  "title": "سورة الواقعة: أدلة القدرة الربانية (خلق الإنسان، إنبات الزرع، إنزال الماء، إيقاد النار)",
+  "surahId": 56,
+  "ayahStart": 57,
+  "ayahEnd": 74,
+  "activities": [
+    {
+      "activityId": "act_056_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 4,
+      "options": [
+        "تُصَدِّقُونَ",
+        "تُؤْمِنُونَ",
+        "تَشْكُرُونَ",
+        "تَعْقِلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_056_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 3,
+      "options": [
+        "تُمْنُونَ",
+        "تَخْلُقُونَ",
+        "تَذْرَءُونَ",
+        "تَزْرَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        61
+      ]
+    },
+    {
+      "activityId": "act_056_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "بِمَسْبُوقِينَ",
+        "بِمَعْجُوزِينَ",
+        "بِمَغْلُوبِينَ",
+        "بِقَادِرِينَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        63
+      ]
+    },
+    {
+      "activityId": "act_056_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 3,
+      "options": [
+        "نُّبَدِّلَ",
+        "نُهْلِكَ",
+        "نُغَيِّرَ",
+        "نُمِيتَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        64
+      ]
+    },
+    {
+      "activityId": "act_056_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 6,
+      "options": [
+        "تَذَكَّرُونَ",
+        "تُؤْمِنُونَ",
+        "تَعْقِلُونَ",
+        "تَسْتَيْقِنُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        65
+      ]
+    },
+    {
+      "activityId": "act_056_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 3,
+      "options": [
+        "تَحْرُثُونَ",
+        "تَزْرَعُونَ",
+        "تَغْرِسُونَ",
+        "تَحْصُدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        66
+      ]
+    },
+    {
+      "activityId": "act_056_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        67
+      ]
+    },
+    {
+      "activityId": "act_056_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 4,
+      "options": [
+        "حُطَـٰمًۭا",
+        "هَشِيمًا",
+        "رَمَادًا",
+        "يَابِسًا"
+      ]
+    },
+    {
+      "activityId": "act_056_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 6,
+      "options": [
+        "تَفَكَّهُونَ",
+        "تَحْزَنُونَ",
+        "تَبْكُونَ",
+        "تَنْدَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        68
+      ]
+    },
+    {
+      "activityId": "act_056_05_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        69
+      ]
+    },
+    {
+      "activityId": "act_056_05_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        70
+      ]
+    },
+    {
+      "activityId": "act_056_05_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُزْنِ",
+        "ٱلسَّحَابِ",
+        "ٱلسَّمَاءِ",
+        "ٱلْغَمَامِ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        72
+      ]
+    },
+    {
+      "activityId": "act_056_05_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "أُجَاجًۭا",
+        "مَالِحًا",
+        "مُّرًّا",
+        "مُّهْلًا"
+      ]
+    },
+    {
+      "activityId": "act_056_05_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        73
+      ]
+    },
+    {
+      "activityId": "act_056_05_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 4,
+      "options": [
+        "تُورُونَ",
+        "تُوقِدُونَ",
+        "تُشْعِلُونَ",
+        "تُحْرِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        74
+      ]
+    },
+    {
+      "activityId": "act_056_05_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        75
+      ]
+    },
+    {
+      "activityId": "act_056_05_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 3,
+      "options": [
+        "تَذْكِرَةًۭ",
+        "عِبْرَةً",
+        "ءَايَةً",
+        "نِعْمَةً"
+      ]
+    },
+    {
+      "activityId": "act_056_05_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 5,
+      "options": [
+        "لِّلْمُقْوِينَ",
+        "لِلْمُسَافِرِينَ",
+        "لِلْعَالَمِينَ",
+        "لِلْبَشَرِ"
+      ]
+    },
+    {
+      "activityId": "act_056_05_28",
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        70,
+        71
+      ]
+    },
+    {
+      "activityId": "act_056_05_29",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَظِيمِ",
+        "ٱلْأَعْلَى",
+        "ٱلْكَرِيمِ",
+        "ٱلْقَدِيرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "إقامة الحجة بأربعة براهين كبرى على قدرة الله على البعث: خلق النطفة، إنبات الزرع، إنزال ماء المطر، وإيقاد النار، والأمر بالتسبيح."
+  }
+}

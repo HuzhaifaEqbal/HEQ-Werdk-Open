@@ -1,0 +1,220 @@
+{
+  "nodeId": "hifz_092_01",
+  "title": "سورة الليل - المقطع الأول (القَسَم بالليل والنهار واختلاف السعي وطريق اليسرى)",
+  "surahId": 92,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "وَٱلَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلَّيْلِ",
+        "وَٱلنَّهَارِ",
+        "وَٱلضُّحَىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "يَغْشَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَغْشَىٰ",
+        "تَجَلَّىٰ",
+        "يَسْرِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَٱلنَّهَارِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "وَٱلصُّبْحِ",
+        "وَٱلْفَجْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "تَجَلَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَجَلَّىٰ",
+        "يَغْشَىٰ",
+        "أَضَاءَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلذَّكَرَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلذَّكَرَ",
+        "ٱلْإِنسَانَ",
+        "ٱلْخَلْقَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "وَٱلْأُنثَىٰٓ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأُنثَىٰٓ",
+        "وَٱلزَّوْجَيْنِ",
+        "وَٱلذُّرِّيَّةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "سَعْيَكُمْ",
+      "missingWordPosition": 2,
+      "options": [
+        "سَعْيَكُمْ",
+        "عَمَلَكُمْ",
+        "كَسْبَكُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "لَشَتَّىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "لَشَتَّىٰ",
+        "لَمُخْتَلِفٌ",
+        "لَمَعْلُومٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "أَعْطَىٰ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَعْطَىٰ",
+        "أَنْفَقَ",
+        "بَذَلَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "وَٱتَّقَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱتَّقَىٰ",
+        "وَآمَنَ",
+        "وَأَحْسَنَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        1,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "وَصَدَّقَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَصَدَّقَ",
+        "وَآمَنَ",
+        "وَأَيْقَنَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "بِٱلْحُسْنَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلْحُسْنَىٰ",
+        "بِٱلْجَنَّةِ",
+        "بِٱلثَّوَابِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَسَنُيَسِّرُهُۥ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَنُيَسِّرُهُۥ",
+        "فَسَنَهْدِيهِ",
+        "فَسَنُوَفِّقُهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "لِلْيُسْرَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْيُسْرَىٰ",
+        "لِلْعُسْرَىٰ",
+        "لِلْجَنَّةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "أقسم الله تعالى بالليل إذا يغشى الخلائق بظلمته، وبالنهار إذا ظهر وبان بضيائه الساطع، وبخلقه البديع للذكر والأنثى من كل نوع؛ إن عملكم ومسعاكم أيها الناس لمختلف تماماً بين ساعٍ للجنة وساعٍ للنار! فأما من بذل ماله في وجوه البر والخير، واتقى محارم ربه، وصدّق بكلمة التوحيد وخلف الله والجنة (بالحسنى)، فسوف نيسر له أسباب الخير ونهيئه لطريق السعادة والتوفيق (اليسرى)."
+  }
+}

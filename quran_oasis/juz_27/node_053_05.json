@@ -1,0 +1,236 @@
+{
+  "nodeId": "node_053_05",
+  "title": "سورة النجم: صحف موسى وإبراهيم وقواعد العدالة والجزاء الأوفى",
+  "surahId": 53,
+  "ayahStart": 33,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "activityId": "act_053_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "تَوَلَّىٰ",
+        "أَعْرَضَ",
+        "كَفَرَ",
+        "فَسَقَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_053_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "وَأَكْدَىٰٓ",
+        "وَقَطَعَ",
+        "وَمَنَعَ",
+        "وَأَمْسَكَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_053_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْغَيْبِ",
+        "ٱلْأَمْرِ",
+        "ٱلْحَقِّ",
+        "ٱلْكِتَابِ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_053_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 6,
+      "options": [
+        "صُحُفِ",
+        "كُتُبِ",
+        "أَلْوَاحِ",
+        "رَسَائِلِ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_053_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "وَفَّىٰٓ",
+        "أَوْفَى",
+        "أَكْمَلَ",
+        "أَطَاعَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_053_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 2,
+      "options": [
+        "تَزِرُ",
+        "تَحْمِلُ",
+        "تَأْخُذُ",
+        "تُؤَاخَذُ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "وِزْرَ",
+        "ذَنْبَ",
+        "إِثْمَ",
+        "خَطِيئَةَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_053_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 6,
+      "options": [
+        "سَعَىٰ",
+        "عَمِلَ",
+        "كَسَبَ",
+        "قَدَّمَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_053_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "يُرَىٰ",
+        "يُجْزَى",
+        "يُحْشَرُ",
+        "يُوزَنُ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_053_05_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَوْفَىٰ",
+        "ٱلْأَكْبَرَ",
+        "ٱلْأَعْظَمَ",
+        "ٱلْكَامِلَ"
+      ]
+    },
+    {
+      "activityId": "act_053_05_19",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_053_05_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُنتَهَىٰ",
+        "ٱلْمَرْجِعُ",
+        "ٱلْمَصِيرُ",
+        "ٱلْمَآبُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النجم",
+    "juz": 27,
+    "theme": "أصول العدالة الإلهية في صحف موسى وإبراهيم: لا تزر وازرة وزر أخرى، وأن سعي كل إنسان مشهود ومجزي بالكمال."
+  }
+}

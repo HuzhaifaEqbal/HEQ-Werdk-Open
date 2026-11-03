@@ -1,0 +1,284 @@
+{
+  "nodeId": "node_052_04",
+  "title": "سورة الطور: مناجاة أهل الجنة وإبطال شبهات الكهانة والشعر حول النبي",
+  "surahId": 52,
+  "ayahStart": 25,
+  "ayahEnd": 34,
+  "activities": [
+    {
+      "activityId": "act_052_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَسَآءَلُونَ",
+        "يَتَحَدَّثُونَ",
+        "يَتَذَكَّرُونَ",
+        "يَتَكَلَّمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_052_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 7,
+      "options": [
+        "مُشْفِقِينَ",
+        "خَائِفِينَ",
+        "وَجِلِينَ",
+        "مُتَّقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_052_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلسَّمُومِ",
+        "ٱلْجَحِيمِ",
+        "ٱلنَّارِ",
+        "ٱلسَّعِيرِ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_052_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْبَرُّ",
+        "ٱلْغَفُورُ",
+        "ٱلْكَرِيمُ",
+        "ٱلْوَهَّابُ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلرَّحِيمُ",
+        "ٱلْوَدُودُ",
+        "ٱلْحَلِيمُ",
+        "ٱلْعَظِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_052_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "فَذَكِّرْ",
+        "فَٱنْذِرْ",
+        "فَٱصْبِرْ",
+        "فَأَعْرِضْ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "بِكَاهِنٍۢ",
+        "بِسَاحِرٍ",
+        "بِشَاعِرٍ",
+        "بِكَاذِبٍ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_052_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "شَاعِرٌۭ",
+        "كَاهِنٌ",
+        "سَاحِرٌ",
+        "مَفْتُونٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَنُونِ",
+        "ٱلْعَذَابِ",
+        "ٱلْهَلَاكِ",
+        "ٱلْمَوْتِ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_052_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُتَرَبِّصِينَ",
+        "ٱلْمُنْتَظِرِينَ",
+        "ٱلصَّـٰبِرِينَ",
+        "ٱلشَّـٰهِدِينَ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_052_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "أَحْلَـٰمُهُم",
+        "عُقُولُهُم",
+        "أَهْوَاؤُهُم",
+        "ءَابَاؤُهُم"
+      ]
+    },
+    {
+      "activityId": "act_052_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "طَاغُونَ",
+        "ظَـٰلِمُونَ",
+        "كَـٰفِرُونَ",
+        "مُّجْرِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_052_04_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "تَقَوَّلَهُۥ ۚ",
+        "ٱفْتَرَاهُ",
+        "ٱخْتَلَقَهُ",
+        "تَعَلَّمَهُ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_22",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_052_04_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "بِحَدِيثٍۢ",
+        "بِكِتَابٍ",
+        "بِقُرْءَانٍ",
+        "بِكَلَامٍ"
+      ]
+    },
+    {
+      "activityId": "act_052_04_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 6,
+      "options": [
+        "صَـٰدِقِينَ",
+        "قَادِرِينَ",
+        "مُؤْمِنِينَ",
+        "عَالِمِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطور",
+    "juz": 27,
+    "theme": "حديث أهل النعيم عن خوفهم من الله في الدنيا، وتنزيه الرسول الكريم عن تهم الكهانة والشعر وتحدي المشركين بالإتيان بمثل القرآن."
+  }
+}

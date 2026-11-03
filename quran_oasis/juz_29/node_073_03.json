@@ -1,0 +1,186 @@
+{
+  "nodeId": "node_073_03",
+  "title": "سورة المزمل: الصبر الجميل وأهوال عذاب الكفار يوم ترجف الأرض",
+  "surahId": 73,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_073_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱصْبِرْ",
+        "فَٱصْبِرْ",
+        "وَٱعْرِضْ",
+        "وَٱصْفَحْ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱهْجُرْهُمْ",
+        "وَٱتْرُكْهُمْ",
+        "وَأَعْرِضْ",
+        "فَذَرْهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "جَمِيلًۭا",
+        "حَسَنًا",
+        "طَوِيلًا",
+        "كَثِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_073_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_073_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "وَذَرْنِى",
+        "فَدَعْنِى",
+        "وَاتْرُكْنِى",
+        "فَذَرْهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلنَّعْمَةِ",
+        "ٱلْأَمْوَالِ",
+        "ٱلْقُوَّةِ",
+        "ٱلْبَنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_073_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "أَنكَالًۭا",
+        "أَغْلَالًا",
+        "سَلَاسِلَ",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_073_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "وَجَحِيمًۭا",
+        "وَسَعِيرًا",
+        "وَنَارًا",
+        "وَسَقَرَ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        10
+      ]
+    },
+    {
+      "activityId": "act_073_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "غُصَّةٍۢ",
+        "مَرَارَةٍ",
+        "حَرٍّ",
+        "عَذَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ]
+    },
+    {
+      "activityId": "act_073_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "تَرْجُفُ",
+        "تَزْلَزَلُ",
+        "تَمِيدُ",
+        "تَنْشَقُّ"
+      ]
+    },
+    {
+      "activityId": "act_073_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "كَثِيبًۭا",
+        "رَمَادًا",
+        "هَبَاءً",
+        "غُبَارًا"
+      ]
+    },
+    {
+      "activityId": "act_073_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 8,
+      "options": [
+        "مَّهِيلًا",
+        "مَّنْثُورًا",
+        "مُّتَفَرِّقًا",
+        "مَّدْكُوكًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المزمل",
+    "juz": 29,
+    "theme": "أمر النبي ﷺ بالصبر على سخرية المشركين وهجرهم هجراً جميلاً، ووعيد أصحاب الترف بالقيود الثقال والجحيم والطعام ذي الغصة يوم رجفان الأرض والجبال"
+  }
+}

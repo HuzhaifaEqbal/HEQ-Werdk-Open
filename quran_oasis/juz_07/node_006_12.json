@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_12",
+  "title": "سورة الأنعام - الآيات 67-72",
+  "surahId": 6,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّسْتَقَرٌّۭ ۚ",
+        "وَغَرَّتْهُمُ",
+        "ٱلشَّيْطَـٰنُ",
+        "ءَايَـٰتِنَا"
+      ],
+      "activityId": "act_006_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_006_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلشَّيَـٰطِينُ",
+        "ٱلْعَـٰلَمِينَ",
+        "وَٱتَّقُوهُ ۚ"
+      ],
+      "activityId": "act_006_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_006_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 6,
+      "options": [
+        "حِسَابِهِم",
+        "أَقِيمُوا۟",
+        "يَخُوضُوا۟",
+        "يَخُوضُونَ"
+      ],
+      "activityId": "act_006_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_006_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلدُّنْيَا ۚ",
+        "أَعْقَابِنَا",
+        "يَدْعُونَهُۥٓ",
+        "ٱسْتَهْوَتْهُ"
+      ],
+      "activityId": "act_006_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        68
+      ],
+      "activityId": "act_006_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 13,
+      "options": [
+        "أَعْقَابِنَا",
+        "ٱلدُّنْيَا ۚ",
+        "ٱلظَّـٰلِمِينَ",
+        "وَٱتَّقُوهُ ۚ"
+      ],
+      "activityId": "act_006_12_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_006_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱتَّقُوهُ ۚ",
+        "يَدْعُونَهُۥٓ",
+        "ٱسْتَهْوَتْهُ",
+        "أَعْقَابِنَا"
+      ],
+      "activityId": "act_006_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

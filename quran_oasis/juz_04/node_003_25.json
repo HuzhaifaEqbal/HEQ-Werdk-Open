@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_25",
+  "title": "سورة آل عمران - الآيات 118-122",
+  "surahId": 3,
+  "ayahStart": 118,
+  "ayahEnd": 122,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 10,
+      "options": [
+        "يَأۡلُونَكُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "تُحِبُّونَهُمۡ"
+      ],
+      "activityId": "act_003_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "wrongOptionsAyahNumbers": [
+        120,
+        116
+      ],
+      "activityId": "act_003_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 3,
+      "options": [
+        "تُحِبُّونَهُمۡ",
+        "يَأۡلُونَكُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "wrongOptionsAyahNumbers": [
+        121,
+        117
+      ],
+      "activityId": "act_003_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 2,
+      "options": [
+        "تَمۡسَسۡكُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تُحِبُّونَهُمۡ"
+      ],
+      "activityId": "act_003_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_003_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلۡمُؤۡمِنُونَ"
+      ],
+      "activityId": "act_003_25_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_003_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلۡمُؤۡمِنُونَ",
+        "ٱلۡمُؤۡمِنِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_25_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يستعرض المقطع مشاورة النبي للمؤمنين قبل أُحد، ثم يذكر تأييد الله لهم بالملائكة."
+  }
+}

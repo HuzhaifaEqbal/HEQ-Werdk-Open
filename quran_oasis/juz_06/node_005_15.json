@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_005_15",
+  "title": "سورة المائدة - الآيات 71-75",
+  "surahId": 5,
+  "ayahStart": 71,
+  "ayahEnd": 75,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 19,
+      "options": [
+        "يَعْمَلُونَ",
+        "يَأْكُلَانِ",
+        "يُؤْفَكُونَ",
+        "وَمَأْوَىٰهُ"
+      ],
+      "activityId": "act_005_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_005_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 31,
+      "options": [
+        "لِلظَّـٰلِمِينَ",
+        "ٱلطَّعَامَ ۗ",
+        "صِدِّيقَةٌۭ ۖ",
+        "وَحَسِبُوٓا۟"
+      ],
+      "activityId": "act_005_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_005_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 17,
+      "options": [
+        "يَنتَهُوا۟",
+        "يَتُوبُونَ",
+        "ٱعْبُدُوا۟",
+        "ٱلنَّارُ ۖ"
+      ],
+      "activityId": "act_005_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_005_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَسْتَغْفِرُونَهُۥ ۚ",
+        "لِلظَّـٰلِمِينَ",
+        "ٱلطَّعَامَ ۗ",
+        "إِسْرَٰٓءِيلَ"
+      ],
+      "activityId": "act_005_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_005_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلطَّعَامَ ۗ",
+        "لِلظَّـٰلِمِينَ",
+        "وَرَبَّكُمْ ۖ",
+        "يَعْمَلُونَ"
+      ],
+      "activityId": "act_005_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المائدة",
+    "juz": 6,
+    "theme": "الوفاء بالعقود وتعظيم شعائر الله، وبيان الحلال والحرام، وأحكام الطهارة والعدل، وقصة ابني آدم وبني إسرائيل، ثم تقرير ولاية الله للمؤمنين."
+  }
+}

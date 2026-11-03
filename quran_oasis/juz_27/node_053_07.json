@@ -1,0 +1,218 @@
+{
+  "nodeId": "node_053_07",
+  "title": "سورة النجم: اقتراب الآزفة والإنذار الأخير والأمر بالسجود لله والعبادة",
+  "surahId": 53,
+  "ayahStart": 56,
+  "ayahEnd": 62,
+  "activities": [
+    {
+      "activityId": "act_053_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "نَذِيرٌۭ",
+        "بَشِيرٌ",
+        "رَسُولٌ",
+        "شَاهِدٌ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأُولَىٰٓ",
+        "ٱلسَّابِقَةِ",
+        "ٱلْأَقْدَمِينَ",
+        "ٱلْأَوَّلِينَ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    },
+    {
+      "activityId": "act_053_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 1,
+      "options": [
+        "أَزِفَتِ",
+        "قَرُبَتِ",
+        "دَنَتِ",
+        "حَانَتِ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْـَٔازِفَةُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلسَّاعَةُ",
+        "ٱلْوَاقِعَةُ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_053_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 6,
+      "options": [
+        "كَاشِفَةٌ",
+        "دَافِعَةٌ",
+        "مَانِعَةٌ",
+        "شَافِعَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        61
+      ]
+    },
+    {
+      "activityId": "act_053_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحَدِيثِ",
+        "ٱلْقُرْءَانِ",
+        "ٱلْقَوْلِ",
+        "ٱلْكَلَامِ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 4,
+      "options": [
+        "تَعْجَبُونَ",
+        "تَسْخَرُونَ",
+        "تَمْتَرُونَ",
+        "تُنْكِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        62
+      ]
+    },
+    {
+      "activityId": "act_053_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 1,
+      "options": [
+        "وَتَضْحَكُونَ",
+        "وَتَلْعَبُونَ",
+        "وَتَمْرَحُونَ",
+        "وَتَسْخَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 3,
+      "options": [
+        "تَبْكُونَ",
+        "تَخْشَعُونَ",
+        "تَحْزَنُونَ",
+        "تَخَافُونَ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    },
+    {
+      "activityId": "act_053_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 2,
+      "options": [
+        "سَـٰمِدُونَ",
+        "غَافِلُونَ",
+        "لَاعِبُونَ",
+        "مُعْرِضُونَ"
+      ]
+    },
+    {
+      "activityId": "act_053_07_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_053_07_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱسْجُدُوا۟",
+        "فَٱرْكَعُوا",
+        "فَٱخْضَعُوا",
+        "فَتُوبُوا"
+      ]
+    },
+    {
+      "activityId": "act_053_07_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱعْبُدُوا۟ ۩",
+        "وَٱتَّقُوا",
+        "وَأَخْلِصُوا",
+        "وَسَبِّحُوا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النجم",
+    "juz": 27,
+    "theme": "اقتراب القيامة الآزفة، وتبكيت الغافلين اللاهين عن القرآن، والأمر بالسجود والخضوع لله سبحانه (سجدة تلاوة)."
+  }
+}

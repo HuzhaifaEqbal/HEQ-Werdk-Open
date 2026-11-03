@@ -1,0 +1,162 @@
+{
+  "nodeId": "node_069_10",
+  "title": "سورة الحاقة: تذكرة المتقين وحق اليقين والتسبيح باسم الرب العظيم",
+  "surahId": 69,
+  "ayahStart": 48,
+  "ayahEnd": 52,
+  "activities": [
+    {
+      "activityId": "act_069_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 2,
+      "options": [
+        "لَتَذْكِرَةٌۭ",
+        "لَنُورٌ",
+        "لَهُدًى",
+        "لَبَيَانٌ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُتَّقِينَ",
+        "لِّلْمُؤْمِنِينَ",
+        "لِلنَّاسِ",
+        "لِّلْعَـٰلَمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_069_10_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّكَذِّبِينَ",
+        "مُّشْرِكِينَ",
+        "مُعْرِضِينَ",
+        "غَـٰفِلِينَ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        52
+      ]
+    },
+    {
+      "activityId": "act_069_10_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "لَحَسْرَةٌ",
+        "لَنَدَامَةٌ",
+        "لَعَذَابٌ",
+        "لَهَلَاكٌ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ]
+    },
+    {
+      "activityId": "act_069_10_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 2,
+      "options": [
+        "لَحَقُّ",
+        "لَعَيْنُ",
+        "لَعِلْمُ",
+        "لَنُورُ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْيَقِينِ",
+        "ٱلْغَيْبِ",
+        "ٱلْحَقِّ",
+        "ٱلصِّدْقِ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_069_10_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 1,
+      "options": [
+        "فَسَبِّحْ",
+        "فَٱحْمَدْ",
+        "فَٱسْجُدْ",
+        "فَٱشْكُرْ"
+      ]
+    },
+    {
+      "activityId": "act_069_10_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَظِيمِ",
+        "ٱلْأَعْلَىٰ",
+        "ٱلْكَبِيرِ",
+        "ٱلْقَدِيرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "كون القرآن موعظة للمتقين وحسرة على الكافرين وحق اليقين الذي لا مرية فيه، والأمر بتسبيح الله العظيم"
+  }
+}

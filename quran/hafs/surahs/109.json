@@ -1,0 +1,76 @@
+{
+  "number": 109,
+  "name_ar": "الكافِرون",
+  "name_en": "Al-Kāfirūn",
+  "ayahs_count": 6,
+  "page_start": 603,
+  "page_end": 603,
+  "ayahs": [
+    {
+      "id": 6208,
+      "number": 1,
+      "text_uthmani": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ ١",
+      "text_simple": "قل ياأيها الكافرون",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6209,
+      "number": 2,
+      "text_uthmani": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ ٢",
+      "text_simple": "لا أعبد ما تعبدون",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6210,
+      "number": 3,
+      "text_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٣",
+      "text_simple": "ولا أنتم عابدون ما أعبد",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6211,
+      "number": 4,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ ٤",
+      "text_simple": "ولا أنا عابد ما عبدتم",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6212,
+      "number": 5,
+      "text_uthmani": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ ٥",
+      "text_simple": "ولا أنتم عابدون ما أعبد",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6213,
+      "number": 6,
+      "text_uthmani": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ ٦",
+      "text_simple": "لكم دينكم ولي دين",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "nodeId": "hifz_078_01",
+  "title": "سورة النبأ - المقطع الأول (النبأ العظيم)",
+  "surahId": 78,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "يَتَسَاءَلُونَ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَسَاءَلُونَ",
+        "يَخْتَلِفُونَ",
+        "يَتَذَكَّرُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "الْعَظِيمِ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْعَظِيمِ",
+        "الْكَبِيرِ",
+        "الْمُبِينِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "مُخْتَلِفُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "مُخْتَلِفُونَ",
+        "يَتَسَاءَلُونَ",
+        "مُؤْمِنُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ثُمَّ",
+      "missingWordPosition": 1,
+      "options": [
+        "ثُمَّ",
+        "بَلْ",
+        "إِنَّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تفتتح سورة النبأ باستفهام تشويقي وتهويلي عن تساؤل كفار قريش وإنكارهم للبعث والقيامة، وهو «النبأ العظيم» الذي اختلفوا فيه بين مكذب ومتردد. فيرد الله تعالى عليهم بالردع والزجر المؤكد: «كَلَّا سَيَعْلَمُونَ * ثُمَّ كَلَّا سَيَعْلَمُونَ»، أي سيعلمون عاقبة تكذيبهم يقيناً عندما يعاينون عذاب الله."
+  }
+}

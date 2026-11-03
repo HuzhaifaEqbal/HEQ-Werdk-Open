@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_03",
+  "title": "سورة النساء - الآيات 11-15",
+  "surahId": 4,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلۡأُنثَيَيۡنِۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_03_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        9
+      ],
+      "activityId": "act_004_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "أَزۡوَٰجُكُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_03_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        10
+      ],
+      "activityId": "act_004_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "وَرَسُولَهُۥ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "أَزۡوَٰجُكُمۡ"
+      ],
+      "activityId": "act_004_03_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ],
+      "activityId": "act_004_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرَسُولَهُۥ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ٱلۡأُنثَيَيۡنِۚ"
+      ],
+      "activityId": "act_004_03_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ],
+      "activityId": "act_004_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱسۡتَشۡهِدُواْ",
+        "ءَاتَيۡتُمُوهُنَّ",
+        "أَتَأۡخُذُونَهُۥ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 4,
+    "theme": "يفصل المقطع أنصبة من الإرث، ويحذر من تجاوز حدود الله في الوصايا والحقوق."
+  }
+}

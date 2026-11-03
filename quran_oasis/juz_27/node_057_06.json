@@ -1,0 +1,216 @@
+{
+  "nodeId": "node_057_06",
+  "title": "سورة الحديد: القضاء والقدر وإنزال الحديد والرسل وكمال الفضل الإلهي",
+  "surahId": 57,
+  "ayahStart": 22,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "activityId": "act_057_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "كِتَـٰبٍۢ",
+        "لَوْحٍ",
+        "قَدَرٍ",
+        "أَمْرٍ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 16,
+      "options": [
+        "نَّبْرَأَهَآ ۚ",
+        "نَخْلُقَهَا",
+        "نُحْدِثَهَا",
+        "نُنْزِلَهَا"
+      ]
+    },
+    {
+      "activityId": "act_057_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_057_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "تَأْسَوْا۟",
+        "تَحْزَنُوا",
+        "تَجْزَعُوا",
+        "تَيْأَسُوا"
+      ]
+    },
+    {
+      "activityId": "act_057_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 14,
+      "options": [
+        "مُخْتَالٍۢ",
+        "مُتَكَبِّرٍ",
+        "مُعْجَبٍ",
+        "ظَالِمٍ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_057_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَنِىُّ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَزِيزُ",
+        "ٱلْكَرِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_057_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْحَدِيدَ",
+        "ٱلصَّخْرَ",
+        "ٱلنُّحَاسَ",
+        "ٱلْجِبَالَ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 15,
+      "options": [
+        "بَأْسٌۭ",
+        "قُوَّةٌ",
+        "عَذَابٌ",
+        "نَفْعٌ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_057_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلنُّبُوَّةَ",
+        "ٱلْحِكْمَةَ",
+        "ٱلْمُلْكَ",
+        "ٱلْوَحْىَ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        29
+      ]
+    },
+    {
+      "activityId": "act_057_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 19,
+      "options": [
+        "وَرَهْبَانِيَّةً",
+        "وَعِبَادَةً",
+        "وَزُهْدًا",
+        "وَصَوْمًا"
+      ]
+    },
+    {
+      "activityId": "act_057_06_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_057_06_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "كِفْلَيْنِ",
+        "نَصِيبَيْنِ",
+        "أَجْرَيْنِ",
+        "ضِعْفَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_057_06_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_057_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 14,
+      "options": [
+        "بِيَدِ",
+        "بِأَمْرِ",
+        "بِحُكْمِ",
+        "بِقُدْرَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحديد",
+    "juz": 27,
+    "theme": "بيان كتابة المصائب والمقادير في اللوح المحفوظ، وإنزال الميزان والحديد فيه بأس شديد ومنافع للناس، وإرسال الرسل والرهبانية، وأن الفضل بيد الله يؤتيه من يشاء."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_003_41",
+  "title": "سورة آل عمران - الآيات 198-200",
+  "surahId": 3,
+  "ayahStart": 198,
+  "ayahEnd": 200,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 198,
+      "missingWordPosition": 21,
+      "options": [
+        "لِّلۡأَبۡرَارِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "وَصَابِرُواْ"
+      ],
+      "activityId": "act_003_41_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 198,
+      "correctNextAyahNumber": 199,
+      "wrongOptionsAyahNumbers": [
+        200,
+        196
+      ],
+      "activityId": "act_003_41_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 199,
+      "missingWordPosition": 17,
+      "options": [
+        "يَشۡتَرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "لِّلۡأَبۡرَارِ"
+      ],
+      "activityId": "act_003_41_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 199,
+      "correctNextAyahNumber": 200,
+      "wrongOptionsAyahNumbers": [
+        197,
+        196
+      ],
+      "activityId": "act_003_41_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 200,
+      "missingWordPosition": 5,
+      "options": [
+        "وَصَابِرُواْ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِّلۡأَبۡرَارِ"
+      ],
+      "activityId": "act_003_41_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يورد دعاء أولي الألباب واستجابة الله لهم، ثم يختم بالأمر بالصبر والمصابرة والمرابطة والتقوى."
+  }
+}

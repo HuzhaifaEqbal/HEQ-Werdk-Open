@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_083_05",
+  "title": "سورة المطففين - المقطع الخامس (نعيم الأبرار والرحيق المختوم والتنافس في الخيرات)",
+  "surahId": 83,
+  "ayahStart": 23,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "ٱلْأَرَآئِكِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَرَآئِكِ",
+        "ٱلسُّرُرِ",
+        "ٱلْفُرُشِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "يَنظُرُونَ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَنظُرُونَ",
+        "يَتَّكِـُٔونَ",
+        "يَمْرَحُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "وُجُوهِهِمْ",
+      "missingWordPosition": 3,
+      "options": [
+        "وُجُوهِهِمْ",
+        "عُيُونِهِمْ",
+        "سِيمَاهُمْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWord": "نَضْرَةَ",
+      "missingWordPosition": 4,
+      "options": [
+        "نَضْرَةَ",
+        "بَهْجَةَ",
+        "فَرْحَةَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "رَّحِيقٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَّحِيقٍ",
+        "مَعِينٍ",
+        "كَأْسٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWord": "مَّخْتُومٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "مَّخْتُومٍ",
+        "مَّسْكُوبٍ",
+        "مَّعْلُومٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "مِسْكٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "مِسْكٌ",
+        "كَافُورٌ",
+        "زَنْجَبِيلٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "فَلْيَتَنَافَسِ",
+      "missingWordPosition": 5,
+      "options": [
+        "فَلْيَتَنَافَسِ",
+        "فَلْيَتَسَابَقِ",
+        "فَلْيَعْمَلِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWord": "ٱلْمُتَنَـٰفِسُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُتَنَـٰفِسُونَ",
+        "ٱلْعَامِلُونَ",
+        "ٱلْمُؤْمِنُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        24,
+        28
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "تَسْنِيمٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَسْنِيمٍ",
+        "سَلْسَبِيلٍ",
+        "كَافُورٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "عَيْنًا",
+      "missingWordPosition": 1,
+      "options": [
+        "عَيْنًا",
+        "أَنْهَارًا",
+        "شَرَابًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "ٱلْمُقَرَّبُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُقَرَّبُونَ",
+        "ٱلْأَبْرَارُ",
+        "ٱلْمُتَّقُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يجلس الأبرار على الأسرّة المزيّنة الفاخرة ينظرون إلى ما أعد الله لهم من الكرامة وإلى وجه ربهم الكريم، ترى في وجوههم إشراق النعيم ونضارته وبهجته. يُسقون من خمر الجنة الصافي المصفى من الشوائب ومختوم إناؤه بمسك ذكي الرائحة، وفي مثل هذا النعيم الخالد الباقي فليتسابق المتسابقون وليجتهد المشمرون بطاعة الله، وخلطه ومزاجه من عين عالية شريفة تسمى 'تسنيم' يشرب منها المقربون خالصة صرفاً، وتُمزج لسائر الأبرار."
+  }
+}

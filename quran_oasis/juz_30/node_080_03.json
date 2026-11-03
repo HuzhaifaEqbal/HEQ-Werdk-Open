@@ -1,0 +1,220 @@
+{
+  "nodeId": "hifz_080_03",
+  "title": "سورة عبس - المقطع الثالث (أطوار خلق الإنسان وجحوده)",
+  "surahId": 80,
+  "ayahStart": 17,
+  "ayahEnd": 23,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "قُتِلَ",
+      "missingWordPosition": 1,
+      "options": [
+        "قُتِلَ",
+        "هُلِكَ",
+        "خَسِرَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "أَكْفَرَهُ",
+      "missingWordPosition": 4,
+      "options": [
+        "أَكْفَرَهُ",
+        "أَظْلَمَهُ",
+        "أَطْغَاهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "أَيِّ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَيِّ",
+        "كُلِّ",
+        "مَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "خَلَقَهُ",
+      "missingWordPosition": 4,
+      "options": [
+        "خَلَقَهُ",
+        "صَوَّرَهُ",
+        "أَنْشَأَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "نُّطْفَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "نُّطْفَةٍ",
+        "عَلَقَةٍ",
+        "طِينٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "فَقَدَّرَهُ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَقَدَّرَهُ",
+        "فَسَوَّاهُ",
+        "فَصَوَّرَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "السَّبِيلَ",
+      "missingWordPosition": 2,
+      "options": [
+        "السَّبِيلَ",
+        "الصِّرَاطَ",
+        "الْخُرُوجَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "يَسَّرَهُ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَسَّرَهُ",
+        "هَدَاهُ",
+        "سَهَّلَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        19,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "أَمَاتَهُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَمَاتَهُ",
+        "أَفْنَاهُ",
+        "تَوَفَّاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "فَأَقْبَرَهُ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَقْبَرَهُ",
+        "فَأَنْشَرَهُ",
+        "فَأَهْلَكَهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        20,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "شَاءَ",
+      "missingWordPosition": 3,
+      "options": [
+        "شَاءَ",
+        "أَرَادَ",
+        "قَضَىٰ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWord": "أَنشَرَهُ",
+      "missingWordPosition": 4,
+      "options": [
+        "أَنشَرَهُ",
+        "بَعَثَهُ",
+        "أَحْيَاهُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "يَقْضِ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَقْضِ",
+        "يَعْمَلْ",
+        "يُؤَدِّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWord": "أَمَرَهُ",
+      "missingWordPosition": 5,
+      "options": [
+        "أَمَرَهُ",
+        "أَوْجَبَهُ",
+        "شَرَعَهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "توبيخ شديد للإنسان الكافر المتمادى في جحوده ونكرانه لربه؛ لُعن هذا الإنسان وطُرد من رحمة الله، ما أشد كفره وعناده! ألم يتفكر في أصل خلقه المتواضع الضعيف؟ فقد خلقه ربه من نطفة ماء مهين، فقدر أطواره وهيأه في أحسن تقويم، ثم سهل له طريق الخروج من بطن أمه وطريق الهداية والخير (السبيل يسره)، ثم إذا انقضى أجله أماته وجعل له قبراً يُوارى فيه تكريماً له، ثم إذا شاء وقت البعث أحياه وأخرجه من قبره للحساب (أنشره). ومع كل هذه النعم الباهرة، حقاً لم يؤدِ هذا الإنسان ما أوجبه الله عليه من التوحيد والطاعة."
+  }
+}

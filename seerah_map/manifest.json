@@ -1,0 +1,17 @@
+{
+  "name": "Prophetic Seerah Interactive Geospatial Map",
+  "name_ar": "خريطة السيرة النبوية التفاعلية والجغرافية",
+  "version": "2.0.0",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/seerah_map",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/seerah_map",
+  "total_batches": 1,
+  "files": [
+    {
+      "file": "seerah_major_events_batch_01.json",
+      "type": "geospatial_events",
+      "title_ar": "الدفعة الأولى: كبرى أحداث وغزوات السيرة النبوية مع الإحداثيات والربط القرآني",
+      "title_en": "Batch 1: Major Seerah Events & Battles with Coordinates and Quranic Links"
+    }
+  ]
+}

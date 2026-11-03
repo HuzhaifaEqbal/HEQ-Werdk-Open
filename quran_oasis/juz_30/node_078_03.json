@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_078_03",
+  "title": "سورة النبأ - المقطع الثالث (عجائب السماء والماء والجنات)",
+  "surahId": 78,
+  "ayahStart": 12,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "شِدَادًا",
+      "missingWordPosition": 4,
+      "options": [
+        "شِدَادًا",
+        "طِرَاقًا",
+        "عِظَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَهَّاجًا",
+      "missingWordPosition": 3,
+      "options": [
+        "وَهَّاجًا",
+        "مُنِيرًا",
+        "مُضِيئًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "الْمُعْصِرَاتِ",
+      "missingWordPosition": 3,
+      "options": [
+        "الْمُعْصِرَاتِ",
+        "السَّمَاءِ",
+        "السَّحَابِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "ثَجَّاجًا",
+      "missingWordPosition": 5,
+      "options": [
+        "ثَجَّاجًا",
+        "مُدْرَارًا",
+        "طَهُورًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        13,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "حَبًّا",
+      "missingWordPosition": 3,
+      "options": [
+        "حَبًّا",
+        "زَرْعًا",
+        "شَجَرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        12,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "أَلْفَافًا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَلْفَافًا",
+        "أَفْنَانًا",
+        "أَغْصَانًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يتابع السياق القرآني استعراض آيات الخلق العلوية والسفلية؛ فبنى سبحانه فوقنا سبع سماوات متماسكة محكمة القوة (سبعاً شداداً)، وجعل فيها الشمس سراجاً متوقداً متوهجاً بالنور والحرارة (سراجاً وهاجاً)، وأنزل من السحب الممطرة (المعصرات) ماءً متدفقاً بغزارة وكثرة (ماءً ثجاجاً)، ليخرج به من الأرض أنواع الحبوب والزروع، وبساتين وبياض ملتفة الأشجار والأغصان (جنات ألفافاً). فالذي قدر على إيجاد هذا الكون البديع قادر بيقين على إعادة خلق الإنسان وبعثه."
+  }
+}

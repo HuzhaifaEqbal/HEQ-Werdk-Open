@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_25",
+  "title": "سورة البقرة - الآيات 120-124",
+  "surahId": 2,
+  "ayahStart": 120,
+  "ayahEnd": 124,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 18,
+      "options": [
+        "أَهۡوَآءَهُم",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاذَانِهِم"
+      ],
+      "activityId": "act_002_25_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_002_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاتَيۡنَٰهُمُ",
+        "أَهۡوَآءَهُم",
+        "ٱلظَّٰلِمِينَ",
+        "ٱلۡعَٰلَمِينَ"
+      ],
+      "activityId": "act_002_25_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_002_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلۡعَٰلَمِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ءَاذَانِهِم"
+      ],
+      "activityId": "act_002_25_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "wrongOptionsAyahNumbers": [
+        124,
+        120
+      ],
+      "activityId": "act_002_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 14,
+      "options": [
+        "تَنفَعُهَا",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "أَهۡوَآءَهُم"
+      ],
+      "activityId": "act_002_25_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "wrongOptionsAyahNumbers": [
+        125,
+        121
+      ],
+      "activityId": "act_002_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلظَّٰلِمِينَ",
+        "ٱلۡعَٰلَمِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_25_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يقرر أن الهداية في الإيمان بالله وما أنزل على الأنبياء جميعاً، ويحذر من التفرق والجدال."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_27",
+  "title": "سورة البقرة - الآيات 130-134",
+  "surahId": 2,
+  "ayahStart": 130,
+  "ayahEnd": 134,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱصۡطَفَيۡنَٰهُ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَإِسۡمَٰعِيلَ"
+      ],
+      "activityId": "act_002_27_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "wrongOptionsAyahNumbers": [
+        132,
+        128
+      ],
+      "activityId": "act_002_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡعَٰلَمِينَ",
+        "ٱصۡطَفَيۡنَٰهُ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_27_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "wrongOptionsAyahNumbers": [
+        133,
+        129
+      ],
+      "activityId": "act_002_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَعۡقُوبُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "يَعۡمَلُونَ"
+      ],
+      "activityId": "act_002_27_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 132,
+      "correctNextAyahNumber": 133,
+      "wrongOptionsAyahNumbers": [
+        134,
+        130
+      ],
+      "activityId": "act_002_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 21,
+      "options": [
+        "وَإِسۡمَٰعِيلَ",
+        "ٱلۡعَٰلَمِينَ",
+        "ٱصۡطَفَيۡنَٰهُ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_27_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "wrongOptionsAyahNumbers": [
+        135,
+        131
+      ],
+      "activityId": "act_002_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 15,
+      "options": [
+        "يَعۡمَلُونَ",
+        "وَيَعۡقُوبُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_27_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض ملة إبراهيم وإسلامه، ويذكر وصاياه لبنيه ويعقوب، ثم يرد على دعاوى الانتساب الديني."
+  }
+}

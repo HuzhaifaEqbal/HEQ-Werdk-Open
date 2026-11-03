@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_077_07",
+  "title": "سورة المرسلات: متاع قليل للمجرمين وترك الركوع والإيمان بالقرآن المبين",
+  "surahId": 77,
+  "ayahStart": 46,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "activityId": "act_077_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "كُلُوا۟",
+        "عِيشُوا",
+        "ٱمْكُثُوا",
+        "ٱسْعَوْا"
+      ]
+    },
+    {
+      "activityId": "act_077_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "وَتَمَتَّعُوا۟",
+        "وَتَلَذَّذُوا",
+        "وَٱشْرَبُوا",
+        "وَٱلْهُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 3,
+      "options": [
+        "قَلِيلًا",
+        "يَسِيرًا",
+        "حِينًا",
+        "أَمَدًا"
+      ]
+    },
+    {
+      "activityId": "act_077_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّجْرِمُونَ",
+        "كَافِرُونَ",
+        "ظَالِمُونَ",
+        "فَاسِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_077_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُكَذِّبِينَ",
+        "لِلْجَاحِدِينَ",
+        "لِلْمُعَانِدِينَ",
+        "لِلْمُعْرِضِينَ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_077_07_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 2,
+      "options": [
+        "قِيلَ",
+        "نُودُوا",
+        "أُمِرُوا",
+        "دُعُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱرْكَعُوا۟",
+        "ٱسْجُدُوا",
+        "آمِنُوا",
+        "ٱتَّقُوا"
+      ]
+    },
+    {
+      "activityId": "act_077_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "يَرْكَعُونَ",
+        "يَسْجُدُونَ",
+        "يَخْشَعُونَ",
+        "يُطِيعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        46
+      ]
+    },
+    {
+      "activityId": "act_077_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيْلٌۭ",
+        "خِزْىٌ",
+        "عَذَابٌ",
+        "هَلَاكٌ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_077_07_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "حَدِيثٍۭ",
+        "كَلَامٍ",
+        "كِتَابٍ",
+        "قَوْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "بَعْدَهُۥ",
+        "غَيْرِهِ",
+        "سِوَاهُ",
+        "دُونَهُ"
+      ]
+    },
+    {
+      "activityId": "act_077_07_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْمِنُونَ",
+        "يُصَدِّقُونَ",
+        "يَهْتَدُونَ",
+        "يَرْجِعُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المرسلات",
+    "juz": 29,
+    "theme": "إنذار الكفار بتمتعهم القليل وإجرامهم، ورفضهم الخضوع لله عند أمرهم بالركوع، وخاتمة السورة بالحجة الدامغة: فبأي حديث بعد القرآن يؤمنون!"
+  }
+}

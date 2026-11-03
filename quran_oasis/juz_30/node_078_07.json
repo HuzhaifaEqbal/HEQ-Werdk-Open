@@ -1,0 +1,167 @@
+{
+  "nodeId": "hifz_078_07",
+  "title": "سورة النبأ - المقطع السابع (نعيم المتقين في الجنة)",
+  "surahId": 78,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "لِلْمُتَّقِينَ",
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْمُتَّقِينَ",
+        "لِلصَّابِرِينَ",
+        "لِلْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWord": "مَفَازًا",
+      "missingWordPosition": 3,
+      "options": [
+        "مَفَازًا",
+        "مَآبًا",
+        "مَقَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "حَدَائِقَ",
+      "missingWordPosition": 1,
+      "options": [
+        "حَدَائِقَ",
+        "جَنَّاتٍ",
+        "رَوْضَاتٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWord": "وَأَعْنَابًا",
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَعْنَابًا",
+        "وَأَثْمَارًا",
+        "وَأَشْجَارًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWord": "أَتْرَابًا",
+      "missingWordPosition": 2,
+      "options": [
+        "أَتْرَابًا",
+        "حِسَانًا",
+        "أَزْوَاجًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        32,
+        35
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "دِهَاقًا",
+      "missingWordPosition": 2,
+      "options": [
+        "دِهَاقًا",
+        "مَعِينًا",
+        "رَحِيقًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "لَغْوًا",
+      "missingWordPosition": 4,
+      "options": [
+        "لَغْوًا",
+        "بَرْدًا",
+        "عَبَثًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "كِذَّابًا",
+      "missingWordPosition": 6,
+      "options": [
+        "كِذَّابًا",
+        "تَأْثِيمًا",
+        "فُسُوقًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        34,
+        37
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "عَطَاءً",
+      "missingWordPosition": 4,
+      "options": [
+        "عَطَاءً",
+        "ثَوَابًا",
+        "فَضْلًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "حِسَابًا",
+      "missingWordPosition": 5,
+      "options": [
+        "حِسَابًا",
+        "وِفَاقًا",
+        "عَظِيمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "بعد بيان مصير الطاغين، يستعرض القرآن الجزاء الأوفى والنعيم المقيم للذين اتقوا ربهم؛ فلهم فوز عظيم وظفر بالجنة ونيل كل مطلوب (مَفازاً): بساتين نضرة ذات أشجار وأعناب، وزوجات متماثلات في السن والشباب والحسن (كواعب أتراباً)، وكؤوساً مترعة مملوءة بالشراب اللذيذ الطهور (كأساً دِهاقاً). يعيشون في أمان وطمأنينة لا يسمعون فيها لغواً باطلاً ولا تكذيباً، كل ذلك ثواباً وإحساناً من الله وعطاءً كافياً جزيلاً (عطاءً حساباً)."
+  }
+}

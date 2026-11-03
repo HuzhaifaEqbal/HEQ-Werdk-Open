@@ -1,0 +1,160 @@
+{
+  "nodeId": "hifz_085_02",
+  "title": "سورة البروج - المقطع الثاني (جريمة الأخدود وثبات المؤمنين على التوحيد)",
+  "surahId": 85,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "عَلَيْهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "عَلَيْهَا",
+        "حَوْلَهَا",
+        "عِنْدَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "قُعُودٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "قُعُودٌ",
+        "شُهُودٌ",
+        "وُقُوفٌ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "يَفْعَلُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَفْعَلُونَ",
+        "يَصْنَعُونَ",
+        "يَكْسِبُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "بِٱلْمُؤْمِنِينَ",
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْمُؤْمِنِينَ",
+        "بِٱلصَّالِحِينَ",
+        "بِٱلْمُتَّقِينَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "شُهُودٌ",
+      "missingWordPosition": 6,
+      "options": [
+        "شُهُودٌ",
+        "قُعُودٌ",
+        "شَاهِدُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "نَقَمُوا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "نَقَمُوا۟",
+        "كَرِهُوا",
+        "عَابُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلْعَزِيزِ",
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْعَزِيزِ",
+        "ٱلْعَلِيِّ",
+        "ٱلْقَدِيرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "ٱلْحَمِيدِ",
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْحَمِيدِ",
+        "ٱلْمَجِيدِ",
+        "ٱلْكَرِيمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "مُلْكُ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُلْكُ",
+        "خَلْقُ",
+        "أَمْرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "ٱلسَّمَـٰوَٰتِ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلْعَرْشِ",
+        "ٱلْأَفْلَاكِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "شَهِيدٌ",
+      "missingWordPosition": 10,
+      "options": [
+        "شَهِيدٌ",
+        "بَصِيرٌ",
+        "عَلِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "كان طغاة الكفر جلوساً على حافة الأخدود يشهدون بأعينهم جريمة إلقاء المؤمنين والمؤمنات في النار قساوةً وعتواً، وما عاب هؤلاء الكفار على المؤمنين ذنباً ولا جريرة إلا إيمانهم وتوحيدهم بالله العزيز القوي الذي لا يُغلب، الحميد في أفعاله وصفاته، الذي له وحده ملك السماوات والأرض وخزائنها، والله على كل ما يفعله الظالمون شهيد لا يخفى عليه مثقال ذرة."
+  }
+}

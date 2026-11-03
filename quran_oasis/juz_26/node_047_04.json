@@ -1,0 +1,218 @@
+{
+  "nodeId": "node_047_04",
+  "title": "سورة محمد: نصرة النبي وأنهار الجنة الأربعة وكلمة التوحيد والاستغفار",
+  "surahId": 47,
+  "ayahStart": 13,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "activityId": "act_047_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "قُوَّةًۭ",
+        "طَرَدَتْكَ",
+        "ءَاذَتْكَ",
+        "حَارَبَتْكَ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 11,
+      "options": [
+        "أَهْلَكْنَـٰهُمْ",
+        "مَانِعَ",
+        "مُنْقِذَ",
+        "شَافِعَ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_047_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "بَيِّنَةٍۢ",
+        "بُرْهَانٍ",
+        "حُجَّةٍ",
+        "هُدًى"
+      ]
+    },
+    {
+      "activityId": "act_047_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_047_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 11,
+      "options": [
+        "ءَاسِنٍۢ",
+        "مُّتَغَيِّرٍ",
+        "فَاسِدٍ",
+        "كَدِرٍ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 21,
+      "options": [
+        "لَّذَّةٍۢ",
+        "شَهِيَّةٍ",
+        "طَيِّبَةٍ",
+        "حُلْوَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 26,
+      "options": [
+        "مُّصَفًّۭى ۖ",
+        "طَيِّبٍ",
+        "خَالِصٍ",
+        "شَافٍ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 44,
+      "options": [
+        "أَمْعَآءَهُمْ",
+        "بُطُونَهُمْ",
+        "أَجْسَادَهُمْ",
+        "جُلُودَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_047_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 16,
+      "options": [
+        "ءَانِفًا ۚ",
+        "سَابِقًا",
+        "قَرِيبًا",
+        "أَمْسِ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_047_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "هُدًۭى",
+        "نُورًا",
+        "عِلْمًا",
+        "بَيَانًا"
+      ]
+    },
+    {
+      "activityId": "act_047_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_047_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 10,
+      "options": [
+        "أَشْرَاطُهَا ۚ",
+        "عَلَامَاتُهَا",
+        "أَمَارَاتُهَا",
+        "آيَاتُهَا"
+      ]
+    },
+    {
+      "activityId": "act_047_04_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_047_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱعْلَمْ",
+        "فَٱيْقِنْ",
+        "فَٱشْهَدْ",
+        "فَٱعْتَقِدْ"
+      ]
+    },
+    {
+      "activityId": "act_047_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱسْتَغْفِرْ",
+        "وَتُبْ",
+        "وَٱدْعُ",
+        "وَٱسْأَلْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "محمد",
+    "juz": 26,
+    "theme": "إهلاك القرى الظالمة كأهل مكة، ووصف أنهار الجنة الأربعة (ماء، لبن، خمر، عسل) ومقابلة ذلك بالحميم المغلي، وعلامات الساعة والأمر بالعلم بلا إله إلا الله."
+  }
+}

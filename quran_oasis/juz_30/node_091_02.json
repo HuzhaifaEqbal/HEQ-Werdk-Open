@@ -1,0 +1,138 @@
+{
+  "nodeId": "hifz_091_02",
+  "title": "سورة الشمس - المقطع الثاني (خلق النفس وإلهامها وفلاح التزكية وخيبة التدسية)",
+  "surahId": 91,
+  "ayahStart": 7,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "وَنَفْسٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَنَفْسٍ",
+        "وَرُوحٍ",
+        "وَخَلْقٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "سَوَّىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "سَوَّىٰهَا",
+        "خَلَقَهَا",
+        "هَدَاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "فَأَلْهَمَهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَلْهَمَهَا",
+        "فَبَيَّنَ لَهَا",
+        "فَعَلَّمَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "فُجُورَهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "فُجُورَهَا",
+        "شَرَّهَا",
+        "ظُلْمَهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "وَتَقْوَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "وَتَقْوَىٰهَا",
+        "وَهُدَاهَا",
+        "وَصَلَاحَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        7,
+        10
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "أَفْلَحَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَفْلَحَ",
+        "فَازَ",
+        "نَجَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "زَكَّىٰهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "زَكَّىٰهَا",
+        "طَهَّرَهَا",
+        "نَمَّاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "خَابَ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَابَ",
+        "خَسِرَ",
+        "هَلَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "دَسَّىٰهَا",
+      "missingWordPosition": 4,
+      "options": [
+        "دَسَّىٰهَا",
+        "أَظْلَمَهَا",
+        "حَقَّرَهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "وأقسم الله تعالى بالنفس البشرية وبديع خلقه وتسويتها على الفطرة القويمة، فبيّن لها وألهمها طريق الشر والضلال (فجورها) وطريق الخير والهدى (تقواها)؛ جواب هذا القسم الحاسم: قد فاز وظفر وسَعِد من طهّر نفسه وزكاها بالإيمان والعمل الصالح، وقد خاب وخسر وحُرم من خذل نفسه ودنّسها وأخفاها في المعاصي والآثام (دساها)."
+  }
+}

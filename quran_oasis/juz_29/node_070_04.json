@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_070_04",
+  "title": "سورة المعارج: نار لظى النزاعة للشوى ودعوتها للكانزين",
+  "surahId": 70,
+  "ayahStart": 15,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "activityId": "act_070_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "كَلَّآ",
+        "بَلَىٰ",
+        "إِنَّمَا",
+        "حَقًّا"
+      ]
+    },
+    {
+      "activityId": "act_070_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "لَظَىٰ",
+        "سَقَرُ",
+        "ٱلْحُطَمَةُ",
+        "ٱلْهَاوِيَةُ"
+      ]
+    },
+    {
+      "activityId": "act_070_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_070_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 1,
+      "options": [
+        "نَزَّاعَةًۭ",
+        "حَرَّاقَةً",
+        "شَدِيدَةً",
+        "مُحْرِقَةً"
+      ]
+    },
+    {
+      "activityId": "act_070_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "لِّلشَّوَىٰ",
+        "لِّلْجُلُودِ",
+        "لِّلْأَبْدَانِ",
+        "لِّلْعِظَامِ"
+      ]
+    },
+    {
+      "activityId": "act_070_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        15
+      ]
+    },
+    {
+      "activityId": "act_070_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 3,
+      "options": [
+        "أَدْبَرَ",
+        "كَفَرَ",
+        "طَغَىٰ",
+        "عَصَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_070_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "وَتَوَلَّىٰ",
+        "وَاسْتَكْبَرَ",
+        "وَأَعْرَضَ",
+        "وَفَسَقَ"
+      ]
+    },
+    {
+      "activityId": "act_070_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        16
+      ]
+    },
+    {
+      "activityId": "act_070_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 1,
+      "options": [
+        "وَجَمَعَ",
+        "وَكَنَزَ",
+        "وَأَمْسَكَ",
+        "وَحَبَسَ"
+      ]
+    },
+    {
+      "activityId": "act_070_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "فَأَوْعَىٰٓ",
+        "فَبَخِلَ",
+        "فَمَنَعَ",
+        "فَأَمْسَكَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "وصف نار جهنم (لظى) ذات اللهب المتأجج التي تنزع جلد الرأس والأطراف، وتنادي من كفر بالحق وكنز المال فمنع حق الله"
+  }
+}

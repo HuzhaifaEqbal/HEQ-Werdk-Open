@@ -1,0 +1,236 @@
+{
+  "nodeId": "node_061_04",
+  "title": "سورة الصف: التجارة الرابحة بالإيمان والجهاد ومغفرة الذنوب والفتح القريب",
+  "surahId": 61,
+  "ayahStart": 10,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_061_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "أَدُلُّكُمْ",
+        "أُرْشِدُكُمْ",
+        "أَهْدِيكُمْ",
+        "أُعَلِّمُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "تِجَـٰرَةٍۢ",
+        "بَيْعَةٍ",
+        "صَفْقَةٍ",
+        "طَاعَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 8,
+      "options": [
+        "تُنجِيكُم",
+        "تَحْمِيكُم",
+        "تُنْقِذُكُم",
+        "تَصُونُكُم"
+      ]
+    },
+    {
+      "activityId": "act_061_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "أَلِيمٍۢ",
+        "مُّهِينٍ",
+        "شَدِيدٍ",
+        "عَظِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_061_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "وَتُجَـٰهِدُونَ",
+        "وَتَبْذُلُونَ",
+        "وَتَصْبِرُونَ",
+        "وَتَسْعَوْنَ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "بِأَمْوَٰلِكُمْ",
+        "بِكُلِّ شَيْءٍ",
+        "بِأَهْلِكُمْ",
+        "بِقُوَّتِكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 11,
+      "options": [
+        "خَيْرٌۭ",
+        "أَفْضَلُ",
+        "أَعْظَمُ",
+        "أَرْبَحُ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        10
+      ]
+    },
+    {
+      "activityId": "act_061_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "يَغْفِرْ",
+        "يَمْحُ",
+        "يَسْتُرْ",
+        "يَعْفُ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 10,
+      "options": [
+        "وَمَسَـٰكِنَ",
+        "وَقُصُورًا",
+        "وَدُورًا",
+        "وَغُرَفًا"
+      ]
+    },
+    {
+      "activityId": "act_061_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "طَيِّبَةًۭ",
+        "حَسَنَةً",
+        "فَاخِرَةً",
+        "عَالِيَةً"
+      ]
+    },
+    {
+      "activityId": "act_061_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 14,
+      "options": [
+        "عَدْنٍۢ ۚ",
+        "نَعِيمٍ",
+        "فِرْدَوْسٍ",
+        "خُلْدٍ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْفَوْزُ",
+        "ٱلنَّجَاحُ",
+        "ٱلْفَلَاحُ",
+        "ٱلْأَجْرُ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_061_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 3,
+      "options": [
+        "نَصْرٌۭ",
+        "تَأْيِيدٌ",
+        "عِزٌّ",
+        "ظَفَرٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "وَفَتْحٌۭ",
+        "وَنَصْرٌ",
+        "وَخَيْرٌ",
+        "وَرِزْقٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "قَرِيبٌۭ ۗ",
+        "مُّبِينٌ",
+        "عَظِيمٌ",
+        "عَاجِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_061_04_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 8,
+      "options": [
+        "وَبَشِّرِ",
+        "وَأَخْبِرِ",
+        "وَأَنْذِرِ",
+        "وَذَكِّرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصف",
+    "juz": 28,
+    "theme": "الدلالة على أعظم تجارة رابحة تنجي من العذاب الأليم بالإيمان والجهاد بالمال والنفس، وجزاؤها بمغفرة الذنوب ومساكن عدن الطيبة والنصر والفتح القريب في الدنيا."
+  }
+}

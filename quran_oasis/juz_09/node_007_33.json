@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_33",
+  "title": "سورة الأعراف - الآيات 190-195",
+  "surahId": 7,
+  "ayahStart": 190,
+  "ayahEnd": 195,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 190,
+      "missingWordPosition": 8,
+      "options": [
+        "ءَاتَىٰهُمَا ۚ",
+        "يَسْتَطِيعُونَ",
+        "أَمْثَالُكُمْ ۖ",
+        "يَتَّبِعُوكُمْ ۚ"
+      ],
+      "activityId": "act_007_33_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 190,
+      "correctNextAyahNumber": 191,
+      "wrongOptionsAyahNumbers": [
+        192,
+        188
+      ],
+      "activityId": "act_007_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 191,
+      "missingWordPosition": 1,
+      "options": [
+        "أَيُشْرِكُونَ",
+        "ءَاتَىٰهُمَا",
+        "شُرَكَآءَكُمْ",
+        "فَٱدْعُوهُمْ"
+      ],
+      "activityId": "act_007_33_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 191,
+      "correctNextAyahNumber": 192,
+      "wrongOptionsAyahNumbers": [
+        193,
+        189
+      ],
+      "activityId": "act_007_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 192,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "ءَاتَىٰهُمَا ۚ",
+        "أَمْثَالُكُمْ ۖ",
+        "يَتَّبِعُوكُمْ ۚ"
+      ],
+      "activityId": "act_007_33_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 192,
+      "correctNextAyahNumber": 193,
+      "wrongOptionsAyahNumbers": [
+        194,
+        190
+      ],
+      "activityId": "act_007_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 193,
+      "missingWordPosition": 9,
+      "options": [
+        "أَدَعَوْتُمُوهُمْ",
+        "فَلْيَسْتَجِيبُوا۟",
+        "ءَاتَىٰهُمَا ۚ",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_007_33_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 193,
+      "correctNextAyahNumber": 194,
+      "wrongOptionsAyahNumbers": [
+        195,
+        191
+      ],
+      "activityId": "act_007_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 194,
+      "missingWordPosition": 10,
+      "options": [
+        "فَلْيَسْتَجِيبُوا۟",
+        "أَدَعَوْتُمُوهُمْ",
+        "يَتَّبِعُوكُمْ ۚ",
+        "ءَاتَىٰهُمَا ۚ"
+      ],
+      "activityId": "act_007_33_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 194,
+      "correctNextAyahNumber": 195,
+      "wrongOptionsAyahNumbers": [
+        196,
+        192
+      ],
+      "activityId": "act_007_33_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 195,
+      "missingWordPosition": 22,
+      "options": [
+        "شُرَكَآءَكُمْ",
+        "أَيُشْرِكُونَ",
+        "ءَاتَىٰهُمَا",
+        "فَٱدْعُوهُمْ"
+      ],
+      "activityId": "act_007_33_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

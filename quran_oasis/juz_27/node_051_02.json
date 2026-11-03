@@ -1,0 +1,240 @@
+{
+  "nodeId": "node_051_02",
+  "title": "سورة الذاريات: اختلاف المكذبين والوعيد الشديد للخراصين",
+  "surahId": 51,
+  "ayahStart": 7,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "activityId": "act_051_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحُبُكِ",
+        "ٱلْبُرُوجِ",
+        "ٱلطَّرَائِقِ",
+        "ٱلنُّجُومِ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_051_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "قَوْلٍۢ",
+        "شَكٍّ",
+        "أَمْرٍ",
+        "ضَلَالٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّخْتَلِفٍۢ",
+        "مُّبِينٍ",
+        "مُّرِيبٍ",
+        "عَظِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_051_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 1,
+      "options": [
+        "يُؤْفَكُ",
+        "يُصْرَفُ",
+        "يُحْرَمُ",
+        "يَبْعُدُ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "أُفِكَ",
+        "ضَلَّ",
+        "فَسَقَ",
+        "كَذَبَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_051_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 1,
+      "options": [
+        "قُتِلَ",
+        "هُلِكَ",
+        "خَسِرَ",
+        "خَابَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْخَرَّٰصُونَ",
+        "ٱلْكَـٰذِبُونَ",
+        "ٱلْمُنَـٰفِقُونَ",
+        "ٱلْمُجْرِمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_051_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "غَمْرَةٍۢ",
+        "ظُلْمَةٍ",
+        "حَيْرَةٍ",
+        "شُبْهَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "سَاهُونَ",
+        "لَاعِبُونَ",
+        "غَافِلُونَ",
+        "خَائِضُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_051_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "أَيَّانَ",
+        "مَتَىٰ",
+        "كَيْفَ",
+        "أَيْنَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_051_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "يُفْتَنُونَ",
+        "يُحْرَقُونَ",
+        "يُعَذَّبُونَ",
+        "يُسْحَبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_051_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "فِتْنَتَكُمْ",
+        "عَذَابَكُمْ",
+        "جَزَاءَكُمْ",
+        "نَارَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_051_02_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "تَسْتَعْجِلُونَ",
+        "تَسْتَهْزِءُونَ",
+        "تَمْتَرُونَ",
+        "تُكَذِّبُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "بيان تشتت أقوال الكافرين وتناقضهم في شأن النبوة والبعث، ووعيد الخراصين بالعذاب يوم الجزاء."
+  }
+}

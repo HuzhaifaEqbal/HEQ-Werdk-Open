@@ -1,0 +1,214 @@
+{
+  "nodeId": "node_058_07",
+  "title": "سورة المجادلة: غلبة رسل الله وبراءة المؤمنين وحزب الله المفلحون",
+  "surahId": 58,
+  "ayahStart": 20,
+  "ayahEnd": 22,
+  "activities": [
+    {
+      "activityId": "act_058_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 3,
+      "options": [
+        "يُحَآدُّونَ",
+        "يُخَالِفُونَ",
+        "يُعَانِدُونَ",
+        "يَكْفُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْأَذَلِّينَ",
+        "ٱلْخَاسِرِينَ",
+        "ٱلْمَقْهُورِينَ",
+        "ٱلْهَالِكِينَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        20
+      ]
+    },
+    {
+      "activityId": "act_058_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "كَتَبَ",
+        "قَضَىٰ",
+        "وَعَدَ",
+        "حَكَمَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "لَأَغْلِبَنَّ",
+        "لَأَنْصُرَنَّ",
+        "لَأُعِزَّنَّ",
+        "لَأُظْهِرَنَّ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 8,
+      "options": [
+        "قَوِىٌّ",
+        "عَلِيمٌ",
+        "قَدِيرٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 9,
+      "options": [
+        "عَزِيزٌۭ",
+        "حَكِيمٌ",
+        "قَدِيرٌ",
+        "غَفُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_058_07_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 8,
+      "options": [
+        "يُوَآدُّونَ",
+        "يُوَالُونَ",
+        "يُحِبُّونَ",
+        "يَنْصُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 10,
+      "options": [
+        "حَآدَّ",
+        "عَادَىٰ",
+        "خَالَفَ",
+        "شَاقَّ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 15,
+      "options": [
+        "ءَابَآءَهُمْ",
+        "أَهْلَهُمْ",
+        "قَرَابَتَهُمْ",
+        "أَصْحَابَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 17,
+      "options": [
+        "أَبْنَآءَهُمْ",
+        "أَوْ ذُرِّيَّتَهُمْ",
+        "أَوْ قَوْمَهُمْ",
+        "أَوْ نِسَاءَهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 23,
+      "options": [
+        "كَتَبَ",
+        "غَرَسَ",
+        "أَنْزَلَ",
+        "جَعَلَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 28,
+      "options": [
+        "بِرُوحٍۢ",
+        "بِنَصْرٍ",
+        "بِنُورٍ",
+        "بِمَلَكٍ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 38,
+      "options": [
+        "رَضِىَ",
+        "فَرِحَ",
+        "أَثَابَ",
+        "أَكْرَمَ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 44,
+      "options": [
+        "حِزْبُ",
+        "جُنْدُ",
+        "أَوْلِيَاءُ",
+        "أَحْبَابُ"
+      ]
+    },
+    {
+      "activityId": "act_058_07_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 51,
+      "options": [
+        "ٱلْمُفْلِحُونَ",
+        "ٱلْفَائِزُونَ",
+        "ٱلْمُهْتَدُونَ",
+        "ٱلْمَنْصُورُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "قضاء الله الحاسم بأن الغلبة والنصر له ولرسله وذل المحادين، وبيان أعظم صفات المؤمنين الصادقين في براءتهم من أعداء الله وتأييدهم بروح منه، وأن حزب الله هم المفلحون."
+  }
+}

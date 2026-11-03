@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_04",
+  "title": "سورة الأعراف - الآيات 19-24",
+  "surahId": 7,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "سَوْءَٰتِهِمَا",
+        "فَدَلَّىٰهُمَا",
+        "ٱلنَّـٰصِحِينَ"
+      ],
+      "activityId": "act_007_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_007_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 10,
+      "options": [
+        "سَوْءَٰتِهِمَا",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْخَـٰسِرِينَ",
+        "وَتَرْحَمْنَا"
+      ],
+      "activityId": "act_007_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        18
+      ],
+      "activityId": "act_007_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "وَقَاسَمَهُمَآ",
+        "وَنَادَىٰهُمَا",
+        "ٱلْخَـٰلِدِينَ",
+        "سَوْءَٰتِهِمَا"
+      ],
+      "activityId": "act_007_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_007_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 15,
+      "options": [
+        "وَنَادَىٰهُمَا",
+        "وَقَاسَمَهُمَآ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلنَّـٰصِحِينَ"
+      ],
+      "activityId": "act_007_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_007_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 9,
+      "options": [
+        "وَتَرْحَمْنَا",
+        "فَدَلَّىٰهُمَا",
+        "ٱلْخَـٰلِدِينَ",
+        "سَوْءَٰتِهِمَا"
+      ],
+      "activityId": "act_007_04_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ],
+      "activityId": "act_007_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱهْبِطُوا۟",
+        "أَنفُسَنَا",
+        "فَتَكُونَا",
+        "أَنْهَكُمَا"
+      ],
+      "activityId": "act_007_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

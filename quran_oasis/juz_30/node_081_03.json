@@ -1,0 +1,220 @@
+{
+  "nodeId": "hifz_081_03",
+  "title": "سورة التكوير - المقطع الثالث (القَسَم بالنجوم وصفات جبريل الأمين)",
+  "surahId": 81,
+  "ayahStart": 15,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "أُقْسِمُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أُقْسِمُ",
+        "أَعْلَمُ",
+        "أَظُنُّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "بِالْخُنَّسِ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِالْخُنَّسِ",
+        "بِالشَّفَقِ",
+        "بِالنَّجْمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "الْجَوَارِ",
+      "missingWordPosition": 1,
+      "options": [
+        "الْجَوَارِ",
+        "السَّوَائِرِ",
+        "النُّجُومِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "الْكُنَّسِ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْكُنَّسِ",
+        "الْخُنَّسِ",
+        "الرُّكَّعِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "وَاللَّيْلِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَاللَّيْلِ",
+        "وَالنَّهَارِ",
+        "وَالصُّبْحِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "عَسْعَسَ",
+      "missingWordPosition": 3,
+      "options": [
+        "عَسْعَسَ",
+        "يَغْشَىٰ",
+        "سَجَىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        15,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "وَالصُّبْحِ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَالصُّبْحِ",
+        "وَالنَّهَارِ",
+        "وَالْفَجْرِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "تَنَفَّسَ",
+      "missingWordPosition": 3,
+      "options": [
+        "تَنَفَّسَ",
+        "أَسْفَرَ",
+        "تَجَلَّىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "رَسُولٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَسُولٍ",
+        "مَلَكٍ",
+        "نَبِيٍّ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "كَرِيمٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "كَرِيمٍ",
+        "عَظِيمٍ",
+        "أَمِينٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "قُوَّةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "قُوَّةٍ",
+        "عِزَّةٍ",
+        "قُدْرَةٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "مَكِينٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "مَكِينٍ",
+        "أَمِينٍ",
+        "كَرِيمٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "مُّطَاعٍ",
+      "missingWordPosition": 1,
+      "options": [
+        "مُّطَاعٍ",
+        "مَّكِينٍ",
+        "شَدِيدٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "أَمِينٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَمِينٍ",
+        "مَّكِينٍ",
+        "عَلِيمٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يقسم الله تعالى بمخلوقاته الكونية البديعة؛ بالنجوم التي تختفي نهاراً وتجري وتستتر في مغاربها (الخُنّس الجوار الكُنّس)، وبالليل إذا أظلم وأدبر (عسعس)، وبالصبح إذا أقبل نوره مشرقاً (تنفس). وجواب القَسَم: إن هذا القرآن وحي صادق نزل به رسول كريم من الملائكة وهو جبريل عليه السلام، ذو قوة عظيمة، ومكانة وشرف رفيع عند الله ذي العرش (مكين)، تُطيعه الملائكة في السماء (مُطاع ثَمّ)، وهو أمين مؤتمن على وحي ربه ورسالته."
+  }
+}

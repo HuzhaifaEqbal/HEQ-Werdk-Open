@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_006_19",
+  "title": "سورة الأنعام - الآيات 107-110",
+  "surahId": 6,
+  "ayahStart": 107,
+  "ayahEnd": 110,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 5,
+      "options": [
+        "أَشْرَكُوا۟ ۗ",
+        "وَأَقْسَمُوا۟",
+        "فَيُنَبِّئُهُم",
+        "وَأَبْصَـٰرَهُمْ"
+      ],
+      "activityId": "act_006_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_006_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 22,
+      "options": [
+        "فَيُنَبِّئُهُم",
+        "أَشْرَكُوا۟ ۗ",
+        "وَأَقْسَمُوا۟",
+        "وَأَبْصَـٰرَهُمْ"
+      ],
+      "activityId": "act_006_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_006_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَقْسَمُوا۟",
+        "أَشْرَكُوا۟ ۗ",
+        "فَيُنَبِّئُهُم",
+        "وَأَبْصَـٰرَهُمْ"
+      ],
+      "activityId": "act_006_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_006_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 3,
+      "options": [
+        "وَأَبْصَـٰرَهُمْ",
+        "فَيُنَبِّئُهُم",
+        "أَشْرَكُوا۟ ۗ",
+        "وَأَقْسَمُوا۟"
+      ],
+      "activityId": "act_006_19_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

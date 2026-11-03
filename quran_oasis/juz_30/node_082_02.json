@@ -1,0 +1,138 @@
+{
+  "nodeId": "hifz_082_02",
+  "title": "سورة الانفطار - المقطع الثاني (عتاب الإنسان ونعمة حسن الخلق)",
+  "surahId": 82,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "غَرَّكَ",
+      "missingWordPosition": 5,
+      "options": [
+        "غَرَّكَ",
+        "أَلْهَاكَ",
+        "أَبْعَدَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "الْكَرِيمِ",
+      "missingWordPosition": 7,
+      "options": [
+        "الْكَرِيمِ",
+        "الْعَظِيمِ",
+        "الرَّحِيمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "خَلَقَكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "خَلَقَكَ",
+        "صَوَّرَكَ",
+        "أَنْشَأَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَسَوَّاكَ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَسَوَّاكَ",
+        "فَهَدَاكَ",
+        "فَأَعْطَاكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَعَدَلَكَ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَعَدَلَكَ",
+        "فَقَدَّرَكَ",
+        "فَحَمَلَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        6,
+        9
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "صُورَةٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "صُورَةٍ",
+        "هَيْئَةٍ",
+        "خِلْقَةٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "رَكَّبَكَ",
+      "missingWordPosition": 6,
+      "options": [
+        "رَكَّبَكَ",
+        "صَوَّرَكَ",
+        "جَعَلَكَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "تُكَذِّبُونَ",
+      "missingWordPosition": 3,
+      "options": [
+        "تُكَذِّبُونَ",
+        "تَمْتَرُونَ",
+        "تَشُكُّونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "بِالدِّينِ",
+      "missingWordPosition": 4,
+      "options": [
+        "بِالدِّينِ",
+        "بِالْبَعْثِ",
+        "بِالْحِسَابِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "توبيخ رقيق ومؤثر للإنسان الغافل؛ ما الذي خدعك وجرّأك على معصية ربك الجواد المتفضل عليك بالنعم؟ وهو الذي أوجدك بعد العدم، وأحكم خلق جوارحك وأعضائك (فسواك)، وجعل قامتك معتدلة متناسقة وسوية (فعدلك)، وركّبك في أحسن صورة وهيئة اقتضتها حكمته ومشيئته. ومع كل هذا الإحسان، لم تشكروا المنعم، بل كذبتم بيوم الجزاء والحساب (بالدين)."
+  }
+}

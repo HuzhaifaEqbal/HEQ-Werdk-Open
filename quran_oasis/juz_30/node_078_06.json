@@ -1,0 +1,116 @@
+{
+  "nodeId": "hifz_078_06",
+  "title": "سورة النبأ - المقطع السادس (أسباب العذاب والإحصاء الإلهي)",
+  "surahId": 78,
+  "ayahStart": 27,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "يَرْجُونَ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَرْجُونَ",
+        "يَخَافُونَ",
+        "يَذْكُرُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWord": "حِسَابًا",
+      "missingWordPosition": 5,
+      "options": [
+        "حِسَابًا",
+        "عَذَابًا",
+        "عِقَابًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWord": "كِذَّابًا",
+      "missingWordPosition": 3,
+      "options": [
+        "كِذَّابًا",
+        "ضَلَالًا",
+        "عِنَادًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        27,
+        30
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "أَحْصَيْنَاهُ",
+      "missingWordPosition": 3,
+      "options": [
+        "أَحْصَيْنَاهُ",
+        "كَتَبْنَاهُ",
+        "حَفِظْنَاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWord": "كِتَابًا",
+      "missingWordPosition": 4,
+      "options": [
+        "كِتَابًا",
+        "حِسَابًا",
+        "إِمَامًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "فَذُوقُوا",
+      "missingWordPosition": 1,
+      "options": [
+        "فَذُوقُوا",
+        "فَاصْبِرُوا",
+        "فَاخْسَئُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWord": "عَذَابًا",
+      "missingWordPosition": 5,
+      "options": [
+        "عَذَابًا",
+        "سَعِيرًا",
+        "هَوَانًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يبين الله سبحانه أسباب استحقاق هؤلاء الطغاة لهذا المصير الأليم؛ فقد كانوا في الدنيا لا يؤمنون بالبعث ولا يخافون الحساب، وكذبوا بآيات القرآن ودلائل النبوة تكذيباً صريحاً ومبالغاً فيه (كِذاباً). وكل عمل اقترفوه قد أحصاه الله بدقة وسجله في اللوح المحفوظ وصحائف أعمالهم (أحصيناه كتاباً). فيقال لهم يوم القيامة تقريعاً وحسرة: ذوقوا وبال كفركم وتكذيبكم، فلن نزيدكم أبداً إلا عذاباً فوق عذاب."
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_092_04",
+  "title": "سورة الليل - المقطع الرابع (صفات الأتقى وبذل المال ابتغاء وجه الله ورضوانه)",
+  "surahId": 92,
+  "ayahStart": 17,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "وَسَيُجَنَّبُهَا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَسَيُجَنَّبُهَا",
+        "وَسَيَنْجُو مِنْهَا",
+        "وَسَيُبْعَدُ عَنْهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ٱلْأَتْقَى",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَتْقَى",
+        "ٱلْمُؤْمِنُ",
+        "ٱلصَّالِحُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "يُؤْتِى",
+      "missingWordPosition": 2,
+      "options": [
+        "يُؤْتِى",
+        "يُنْفِقُ",
+        "يَبْذُلُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "يَتَزَكَّىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "يَتَزَكَّىٰ",
+        "يَتَطَهَّرُ",
+        "يُحْسِنُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "نِّعْمَةٍ",
+      "missingWordPosition": 5,
+      "options": [
+        "نِّعْمَةٍ",
+        "مَعْرُوفٍ",
+        "إِحْسَانٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "تُجْزَىٰٓ",
+      "missingWordPosition": 6,
+      "options": [
+        "تُجْزَىٰٓ",
+        "تُكَافَأُ",
+        "تُرَدُّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        17,
+        21
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "ٱبْتِغَآءَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱبْتِغَآءَ",
+        "طَلَبَ",
+        "رَجَاءَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "ٱلْأَعْلَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأَعْلَىٰ",
+        "ٱلْعَظِيمِ",
+        "ٱلْكَرِيمِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "وَلَسَوْفَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَسَوْفَ",
+        "فَسَوْفَ",
+        "وَإِنَّهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWord": "يَرْضَىٰ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَرْضَىٰ",
+        "يَفْرَحُ",
+        "يَفُوزُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "وسيُباعد عن نار جهنم ويُنجى منها المؤمن شديد التقوى (الأتقى كأبي بكر الصديق رضي الله عنه وسائر المؤمنين المخلصين)، الذي يبذل ماله في وجوه البر والخير ليطهر نفسه وماله من الذنوب، وليس إنفاقه مكافأة ليد أو معروف لأحد عنده، بل يبتغي بإنفاقه وبذله فقط وجه ربه الأعلى ورضوانه، ولسوف يرضى هذا التقي في جنات الخلد بما يعطيه ربه من الثواب العظيم والنعيم المقيم."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_046_05",
+  "title": "سورة الأحقاف: عقوق الولد وجحوده للبعث وخزي المستكبرين يوم القيامة",
+  "surahId": 46,
+  "ayahStart": 17,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_046_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "أُفٍّۢ",
+        "وَيْلٌ",
+        "تَبًّا",
+        "سُحْقًا"
+      ]
+    },
+    {
+      "activityId": "act_046_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "أَتَعِدَانِنِىٓ",
+        "أَتَزْعُمَانِ",
+        "أَتَقُولَانِ",
+        "أَتَخَوَّفَانِ"
+      ]
+    },
+    {
+      "activityId": "act_046_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 22,
+      "options": [
+        "حَقٌّۭ",
+        "أَبَاطِيلُ",
+        "أَكَاذِيبُ",
+        "أَحَادِيثُ"
+      ]
+    },
+    {
+      "activityId": "act_046_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_046_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 3,
+      "options": [
+        "حَقَّ",
+        "نَزَلَ",
+        "وَقَعَ",
+        "ثَبَتَ"
+      ]
+    },
+    {
+      "activityId": "act_046_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_046_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "دَرَجَـٰتٌۭ",
+        "مَنَازِلُ",
+        "نَصِيبٌ",
+        "جَزَاءٌ"
+      ]
+    },
+    {
+      "activityId": "act_046_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_046_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 8,
+      "options": [
+        "طَيِّبَـٰتِكُمْ",
+        "أَنفَقْتُمْ",
+        "ضَيَّعْتُمْ",
+        "تَمَتَّعْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_046_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 18,
+      "options": [
+        "بِمَا",
+        "ٱلْأَلِيمِ",
+        "ٱلشَّدِيدِ",
+        "ٱلْعَظِيمِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحقاف",
+    "juz": 26,
+    "theme": "شؤم عقوق الوالدين وإنكار البعث، وتقرير منازل الأعمال، وتوبيخ الكفار يوم العرض على النار لإذهابهم طيباتهم في دنياهم."
+  }
+}

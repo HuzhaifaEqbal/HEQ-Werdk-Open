@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_41",
+  "title": "سورة البقرة - الآيات 196-200",
+  "surahId": 2,
+  "ayahStart": 196,
+  "ayahEnd": 200,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 196,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلۡعُمۡرَةَ",
+        "ءَابَآءَكُمۡ",
+        "بِٱلۡعُمۡرَةِ",
+        "فَٱذۡكُرُواْ"
+      ],
+      "activityId": "act_002_41_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 196,
+      "correctNextAyahNumber": 197,
+      "wrongOptionsAyahNumbers": [
+        198,
+        194
+      ],
+      "activityId": "act_002_41_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 197,
+      "missingWordPosition": 22,
+      "options": [
+        "وَتَزَوَّدُواْ",
+        "وَٱذۡكُرُوهُ",
+        "وَٱعۡلَمُوٓاْ",
+        "وَٱلۡعُمۡرَةَ"
+      ],
+      "activityId": "act_002_41_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 197,
+      "correctNextAyahNumber": 198,
+      "wrongOptionsAyahNumbers": [
+        199,
+        195
+      ],
+      "activityId": "act_002_41_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 198,
+      "missingWordPosition": 13,
+      "options": [
+        "فَٱذۡكُرُواْ",
+        "وَتَزَوَّدُواْ",
+        "ٱلضَّآلِّينَ",
+        "ءَابَآءَكُمۡ"
+      ],
+      "activityId": "act_002_41_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 198,
+      "correctNextAyahNumber": 199,
+      "wrongOptionsAyahNumbers": [
+        200,
+        196
+      ],
+      "activityId": "act_002_41_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 199,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱسۡتَغۡفِرُواْ",
+        "بِٱلۡعُمۡرَةِ",
+        "فَٱذۡكُرُواْ",
+        "وَتَزَوَّدُواْ"
+      ],
+      "activityId": "act_002_41_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 199,
+      "correctNextAyahNumber": 200,
+      "wrongOptionsAyahNumbers": [
+        201,
+        197
+      ],
+      "activityId": "act_002_41_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 200,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱذۡكُرُواْ",
+        "وَٱذۡكُرُوهُ",
+        "وَٱعۡلَمُوٓاْ",
+        "وَٱلۡعُمۡرَةَ"
+      ],
+      "activityId": "act_002_41_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يعرض أحكام الحج والعمرة، وذكر الله في المناسك، والدعاء عند الإفاضة."
+  }
+}

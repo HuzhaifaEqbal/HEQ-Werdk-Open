@@ -1,0 +1,107 @@
+{
+  "steps": [
+    {
+      "type": "concept",
+      "title": "صفة الهمس وحروفها",
+      "content": "الهمس هو جريان النَّفَس عند النطق بالحرف لضعف الاعتماد على المخرج. حروفه عشرة مجموعة في: (فَحَثَّهُ شَخْصٌ سَكَتَ). إذا وضعت يدك أمام فمك عند نطق هذه الحروف ساكنة ستشعر بتدفق الهواء. عكسه الجهر.",
+      "example": "قوله تعالى: (إِذَا الشَّمْسُ كُوِّرَتْ) [التكوير: 1] - الشين في (الشَّمْسُ) والتاء الساكنة في (كُوِّرَتْ) يتدفق معهما النَفَس بصفة الهمس.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/081001.mp3",
+      "visual_example": "<svg viewBox=\"0 0 220 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"220\" height=\"120\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">الهمس ↔ الجهر</text><rect x=\"15\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#E3F2FD\" stroke=\"#2196F3\" stroke-width=\"1.5\"/><text x=\"60\" y=\"56\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#1976D2\">الهمس</text><text x=\"60\" y=\"74\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#0D47A1\">جريان النَّفَس</text><text x=\"60\" y=\"92\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#546E7A\">فحثه شخص سكت</text><rect x=\"115\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#FFF3E0\" stroke=\"#FF9800\" stroke-width=\"1.5\"/><text x=\"160\" y=\"56\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#F57C00\">الجهر</text><text x=\"160\" y=\"74\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#E65100\">انحباس النَّفَس</text><text x=\"160\" y=\"92\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#546E7A\">باقي الحروف (18)</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "صفة 'الهمس' تعني جريان (النَّفَس) عند النطق بالحرف لضعف الاعتماد على المخرج. ما هي العبارة التي تجمع حروف الهمس؟",
+      "options": [
+        "قطب جد",
+        "فحثه شخص سكت",
+        "خص ضغط قظ",
+        "لن عمر"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "حروف الهمس عشرة، جمعها الإمام ابن الجزري في قوله (فحثه شخص سكت). إذا وضعت يدك أمام فمك عند نطقها ساكنة ستشعر بتدفق الهواء. ما تبقى من الحروف تعتبر 'مجهورة' (ينحبس معها النفس)."
+    },
+    {
+      "type": "concept",
+      "title": "صفة الشدة وحروفها",
+      "content": "الشدة هي انحباس جريان الصوت عند النطق بالحرف لقوة الاعتماد على المخرج. حروفها مجموعة في (أَجِدُ قَطٍّ بَكَتْ). عند نطق هذه الحروف ساكنة ينقفل المخرج تماماً وينحبس الصوت. عكسها الرخاوة وحروفها وسط تُسمى البينية (لن عمر).",
+      "example": "قوله تعالى: (أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ) [الشرح: 1] - الكاف في (لَكَ، صَدْرَكَ) والدال في (صَدْرَكَ) من حروف الشدة حيث ينحبس الصوت عند المخرج.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/094001.mp3",
+      "visual_example": "<svg viewBox=\"0 0 240 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"240\" height=\"120\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"120\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">جريان الصوت وانحباسه</text><rect x=\"10\" y=\"36\" width=\"68\" height=\"70\" rx=\"5\" fill=\"#FFEBEE\" stroke=\"#E53935\" stroke-width=\"1.5\"/><text x=\"44\" y=\"54\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#C62828\">الشدة</text><text x=\"44\" y=\"70\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#B71C1C\">انحباس الصوت</text><text x=\"44\" y=\"88\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"7.5\" fill=\"#424242\">أجد قط بكت</text><rect x=\"86\" y=\"36\" width=\"68\" height=\"70\" rx=\"5\" fill=\"#FFFDE7\" stroke=\"#FDD835\" stroke-width=\"1.5\"/><text x=\"120\" y=\"54\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#F57F17\">التوسط</text><text x=\"120\" y=\"70\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#F57F17\">جريان جزئي</text><text x=\"120\" y=\"88\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"7.5\" fill=\"#424242\">لن عمر</text><rect x=\"162\" y=\"36\" width=\"68\" height=\"70\" rx=\"5\" fill=\"#E8F5E9\" stroke=\"#43A047\" stroke-width=\"1.5\"/><text x=\"196\" y=\"54\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#2E7D32\">الرخاوة</text><text x=\"196\" y=\"70\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#1B5E20\">جريان تام</text><text x=\"196\" y=\"88\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"7.5\" fill=\"#424242\">باقي الحروف</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "صفة 'الشدة' تعني انحباس جريان (الصَّوْت) عند النطق بالحرف لقوة الاعتماد على المخرج. ما هي حروف الشدة؟",
+      "options": [
+        "أجد قط بكت",
+        "لن عمر",
+        "قطب جد",
+        "يرملون"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "حروف الشدة مجموعة في (أجد قط بكت). عند نطق هذه الحروف ساكنة ينقفل المخرج تماماً وينحبس الصوت. عكس الشدة هو 'الرخاوة' (وهي جريان الصوت)."
+    },
+    {
+      "type": "concept",
+      "title": "صفة البينية (التوسط)",
+      "content": "البينية أو التوسط هي حالة وسط بين الشدة والرخاوة: لا ينحبس الصوت انحباساً تاماً كما في الشدة، ولا يجري جرياناً كاملاً كما في الرخاوة. حروف التوسط خمسة مجموعة في (لِنْ عُمَرْ): ل، ن، ع، م، ر.",
+      "example": "قوله تعالى: (الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ) [الفاتحة: 2] - اللام والميم والنون والعين في (الْحَمْدُ، الْعَالَمِينَ) حروف بينية يجري فيها الصوت جرياناً جزئياً.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001002.mp3"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "هناك حروف لا ينحبس معها الصوت تماماً كما في الشدة، ولا يجري تماماً كما في الرخاوة، بل هي حالة وسط تسمى 'البينية' أو (التوسط). ما هي هذه الحروف؟",
+      "options": [
+        "قطب جد",
+        "فحثه شخص سكت",
+        "لن عمر",
+        "حي طهر"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "حروف التوسط (البينية) هي خمسة مجموعة في (لن عمر). الصوت فيها يجري جرياناً جزئياً ولا ينحبس بالكامل بسبب طبيعة مخرجها."
+    },
+    {
+      "type": "concept",
+      "title": "صفة الاستعلاء وحروفها",
+      "content": "الاستعلاء هو ارتفاع أقصى اللسان إلى الحنك الأعلى عند النطق بالحرف، مما يؤدي إلى تفخيم صوته. حروف الاستعلاء السبعة مجموعة في (خُصَّ ضَغْطٍ قِظْ): الخاء، الصاد، الضاد، الغين، الطاء، القاف، الظاء. هذه الحروف مفخمة دائماً. عكسه الاستفال.",
+      "example": "قوله تعالى: (صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ) [الفاتحة: 7] - الصاد والطاء في (صِرَاطَ) من حروف الاستعلاء المستعلية والمفخمة دائماً.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3",
+      "visual_example": "<svg viewBox=\"0 0 220 125\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"220\" height=\"125\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">الاستعلاء ↔ الاستفال</text><rect x=\"15\" y=\"36\" width=\"90\" height=\"75\" rx=\"6\" fill=\"#EDE7F6\" stroke=\"#673AB7\" stroke-width=\"1.5\"/><text x=\"60\" y=\"56\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#512DA8\">الاستعلاء</text><text x=\"60\" y=\"73\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#311B92\">ارتفاع أقصى اللسان</text><text x=\"60\" y=\"88\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#D32F2F\">تفخيم الحرف</text><text x=\"60\" y=\"101\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"7.5\" fill=\"#424242\">خص ضغط قظ</text><rect x=\"115\" y=\"36\" width=\"90\" height=\"75\" rx=\"6\" fill=\"#E0F7FA\" stroke=\"#00BCD4\" stroke-width=\"1.5\"/><text x=\"160\" y=\"56\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#00838F\">الاستفال</text><text x=\"160\" y=\"73\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#006064\">انخفاض اللسان</text><text x=\"160\" y=\"88\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#388E3C\">ترقيق الحرف</text><text x=\"160\" y=\"101\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"7.5\" fill=\"#424242\">باقي الحروف</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "صفة 'الاستعلاء' هي ارتفاع أقصى اللسان إلى الحنك الأعلى عند النطق بالحرف، مما يؤدي إلى تفخيم صوته وتغليظه. ما هي حروف الاستعلاء؟",
+      "options": [
+        "خص ضغط قظ",
+        "أ، و، ي",
+        "قطب جد",
+        "الغين والخاء والقاف فقط"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "حروف الاستعلاء السبعة مجموعة في (خص ضغط قظ)، وهذه الحروف مفخمة دائماً في كل أحوالها. عكسها 'الاستفال' (انخفاض اللسان)، وحروف المستفلة تكون مرققة."
+    },
+    {
+      "type": "concept",
+      "title": "صفة الإطباق وحروفها",
+      "content": "الإطباق هو انحصار الصوت بين اللسان وسقف الحنك الأعلى. هذه الصفة أشد وأقوى من الاستعلاء فقط. حروف الإطباق الأربعة هي: الصاد والضاد والطاء والظاء. وهي أقوى حروف الاستعلاء وأشدها تفخيماً. عكسها الانفتاح.",
+      "example": "قوله تعالى: (غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ) [الفاتحة: 7] - الضاد في (الْمَغْضُوبِ) و(الضَّالِّينَ) من حروف الإطباق الأربعة حيث ينحصر الصوت بشدة بين اللسان والحنك.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "'الإطباق' هو انحصار الصوت بين اللسان وسقف الحنك الأعلى، وهي صفة تجعل الحرف أشد تفخيماً وقوة من مجرد الاستعلاء. ما هي حروف الإطباق الأربعة؟",
+      "options": [
+        "الغين، الخاء، القاف، الكاف",
+        "السين، الشين، الصاد، الزاي",
+        "الصاد، الضاد، الطاء، الظاء",
+        "الطاء، التاء، الدال، الضاد"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "حروف الإطباق هي (ص، ض، ط، ظ). وهي أقوى حروف الاستعلاء على الإطلاق لأن الصوت ينحصر فيها بقوة. عكس الإطباق هو 'الانفتاح' (تجافي اللسان عن الحنك الأعلى)."
+    }
+  ]
+}

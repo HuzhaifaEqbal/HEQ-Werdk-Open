@@ -1,0 +1,180 @@
+{
+  "nodeId": "node_058_02",
+  "title": "سورة المجادلة: خزي المحادين لله ورسوله وإحصاء الأعمال يوم البعث",
+  "surahId": 58,
+  "ayahStart": 5,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "activityId": "act_058_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "يُحَآدُّونَ",
+        "يُعَانِدُونَ",
+        "يُخَالِفُونَ",
+        "يَكْفُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 6,
+      "options": [
+        "كُبِتُوا۟",
+        "أُهْلِكُوا",
+        "خُذِلُوا",
+        "عُذِّبُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "وَقَدْ",
+        "أَوْحَيْنَا",
+        "جَعَلْنَا",
+        "أَرْسَلْنَا"
+      ]
+    },
+    {
+      "activityId": "act_058_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 13,
+      "options": [
+        "أَنزَلْنَآ",
+        "كُتُبًا",
+        "بَرَاهِينَ",
+        "نُورًا"
+      ]
+    },
+    {
+      "activityId": "act_058_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 14,
+      "options": [
+        "ءَايَـٰتٍۭ",
+        "وَاضِحَاتٍ",
+        "مُّحْكَمَاتٍ",
+        "ظَاهِرَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 18,
+      "options": [
+        "مُّهِينٌۭ",
+        "أَلِيمٌ",
+        "عَظِيمٌ",
+        "شَدِيدٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_058_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "يَبْعَثُهُمُ",
+        "يَحْشُرُهُمُ",
+        "يَجْمَعُهُمُ",
+        "يُحْيِيهِمُ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 4,
+      "options": [
+        "جَمِيعًۭا",
+        "كَافَّةً",
+        "مَعًا",
+        "أَجْمَعِينَ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "فَيُنَبِّئُهُم",
+        "فَيُجْزِيهِم",
+        "فَيُحَاسِبُهُم",
+        "فَيَسْأَلُهُم"
+      ]
+    },
+    {
+      "activityId": "act_058_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "عَمِلُوٓا۟ ۚ",
+        "كَسَبُوا",
+        "قَدَّمُوا",
+        "أَسْلَفُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "أَحْصَىٰهُ",
+        "كَتَبَهُ",
+        "حَفِظَهُ",
+        "عَلِمَهُ"
+      ]
+    },
+    {
+      "activityId": "act_058_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱللَّهُ",
+        "وَتَرَكُوهُ",
+        "وَأَضَاعُوهُ",
+        "وَغَفَلُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_02_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 15,
+      "options": [
+        "شَهِيدٌ",
+        "عَلِيمٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "وعيد الذين يعادون ويشاقون الله ورسوله بالخزي والهوان كما أُخزي الذين من قبلهم، وإحصاء الله لجميع أعمالهم وشهوده عليها يوم يبعثهم جميعاً."
+  }
+}

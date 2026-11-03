@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_072_05",
+  "title": "سورة الجن: إخلاص المساجد لله وتجريد النبي من ملك النفع والضر",
+  "surahId": 72,
+  "ayahStart": 18,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "activityId": "act_072_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَسَـٰجِدَ",
+        "ٱلْبُيُوتَ",
+        "ٱلْأَرْضَ",
+        "ٱلْعِبَادَةَ"
+      ]
+    },
+    {
+      "activityId": "act_072_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 5,
+      "options": [
+        "تَدْعُوا۟",
+        "تُشْرِكُوا",
+        "تَعْبُدُوا",
+        "تَجْعَلُوا"
+      ]
+    },
+    {
+      "activityId": "act_072_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_072_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "عَبْدُ",
+        "نَبِىُّ",
+        "رَسُولُ",
+        "حَبِيبُ"
+      ]
+    },
+    {
+      "activityId": "act_072_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 10,
+      "options": [
+        "لِبَدًۭا",
+        "أَفْوَاجًا",
+        "زُمَرًا",
+        "أَشْتَاتًا"
+      ]
+    },
+    {
+      "activityId": "act_072_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        18
+      ]
+    },
+    {
+      "activityId": "act_072_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 3,
+      "options": [
+        "أَدْعُوا۟",
+        "أَعْبُدُ",
+        "أَرْجُو",
+        "أَسْأَلُ"
+      ]
+    },
+    {
+      "activityId": "act_072_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        19
+      ]
+    },
+    {
+      "activityId": "act_072_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "ضَرًّۭا",
+        "خَوْفًا",
+        "شَرًّا",
+        "هَلَاكًا"
+      ]
+    },
+    {
+      "activityId": "act_072_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 8,
+      "options": [
+        "رَشَدًۭا",
+        "نَفْعًا",
+        "خَيْرًا",
+        "هُدًى"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "الأمر بإخلاص بيوت الله ومواضع السجود لله وحده، وتكالب الجن على سماع النبي ﷺ وإعلانه التام أنه لا يملك لأحد ضراً ولا رشداً"
+  }
+}

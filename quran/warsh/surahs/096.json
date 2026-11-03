@@ -1,0 +1,230 @@
+{
+  "number": 96,
+  "name_ar": "العَلَق",
+  "name_en": "Al-‘Alaq",
+  "ayahs_count": 20,
+  "page_start": 597,
+  "page_end": 598,
+  "ayahs": [
+    {
+      "id": 6084,
+      "number": 1,
+      "text_uthmani": "اَ۪قْرَأْ بِاسْمِ رَبِّكَ اَ۬لذِے خَلَقَۖ ١",
+      "text_simple": "اقرا باسم ربك الذے خلق ١",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    },
+    {
+      "id": 6085,
+      "number": 2,
+      "text_uthmani": "خَلَقَ اَ۬لِانسَٰنَ مِنْ عَلَقٍۖ ٢",
+      "text_simple": "خلق الانسن من علق ٢",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 11
+    },
+    {
+      "id": 6086,
+      "number": 3,
+      "text_uthmani": "اِ۪قْرَأْ وَرَبُّكَ اَ۬لَاكْرَمُ ٣",
+      "text_simple": "اقرا وربك الاكرم ٣",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 11,
+      "line_end": 12
+    },
+    {
+      "id": 6087,
+      "number": 4,
+      "text_uthmani": "اُ۬لذِے عَلَّمَ بِالْقَلَمِ ٤",
+      "text_simple": "الذے علم بالقلم ٤",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 12
+    },
+    {
+      "id": 6088,
+      "number": 5,
+      "text_uthmani": "عَلَّمَ اَ۬لِانسَٰنَ مَا لَمْ يَعْلَمْۖ ٥",
+      "text_simple": "علم الانسن ما لم يعلم ٥",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 12,
+      "line_end": 13
+    },
+    {
+      "id": 6089,
+      "number": 6,
+      "text_uthmani": "كَلَّآ إِنَّ اَ۬لِانسَٰنَ لَيَطْغ۪ىٰٓ ٦",
+      "text_simple": "كلآ ان الانسن ليطغيٓ ٦",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6090,
+      "number": 7,
+      "text_uthmani": "أَن رّ۪ء۪اهُ اُ۪سْتَغْن۪ىٰٓۖ ٧",
+      "text_simple": "ان رءاه استغنيٓ ٧",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6091,
+      "number": 8,
+      "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ اَ۬لرُّجْع۪ىٰٓۖ ٨",
+      "text_simple": "ان الي ربك الرجعيٓ ٨",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6092,
+      "number": 9,
+      "text_uthmani": "أَرَٰٓيْتَ اَ۬لذِے يَنْه۪ىٰ ٩",
+      "text_simple": "ارٓيت الذے ينهي ٩",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6093,
+      "number": 10,
+      "text_uthmani": "عَبْداً اِذَا صَلّ۪ىٰٓۖ ١٠",
+      "text_simple": "عبدا اذا صليٓ ١٠",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 15
+    },
+    {
+      "id": 6094,
+      "number": 11,
+      "text_uthmani": "أَرَٰٓيْتَ إِن كَانَ عَلَى اَ۬لْهُد۪ىٰٓ ١١",
+      "text_simple": "ارٓيت ان كان علي الهديٓ ١١",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6095,
+      "number": 12,
+      "text_uthmani": "أَوَ اَمَرَ بِالتَّقْو۪ىٰٓۖ ١٢",
+      "text_simple": "او امر بالتقويٓ ١٢",
+      "juz": 30,
+      "page": 597,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6096,
+      "number": 13,
+      "text_uthmani": "أَرَٰٓيْتَ إِن كَذَّبَ وَتَوَلّ۪ىٰٓ ١٣",
+      "text_simple": "ارٓيت ان كذب وتوليٓ ١٣",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6097,
+      "number": 14,
+      "text_uthmani": "أَلَمْ يَعْلَم بِأَنَّ اَ۬للَّهَ يَر۪ىٰۖ ١٤",
+      "text_simple": "الم يعلم بان الله يري ١٤",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 1
+    },
+    {
+      "id": 6098,
+      "number": 15,
+      "text_uthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ ١٥",
+      "text_simple": "كلا لئن لم ينته ١٥",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 1,
+      "line_end": 2
+    },
+    {
+      "id": 6099,
+      "number": 16,
+      "text_uthmani": "لَنَسْفَعاَۢ بِالنَّاصِيَةِ ١٦",
+      "text_simple": "لنسفعا بالناصيه ١٦",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 6100,
+      "number": 17,
+      "text_uthmani": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖۖ ١٧",
+      "text_simple": "ناصيهٖ كذبه خاطئهٖ ١٧",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 2
+    },
+    {
+      "id": 6101,
+      "number": 18,
+      "text_uthmani": "فَلْيَدْعُ نَادِيَهُۥ ١٨",
+      "text_simple": "فليدع ناديه ١٨",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 2,
+      "line_end": 3
+    },
+    {
+      "id": 6102,
+      "number": 19,
+      "text_uthmani": "سَنَدْعُ اُ۬لزَّبَانِيَةَۖ ١٩",
+      "text_simple": "سندع الزبانيه ١٩",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    },
+    {
+      "id": 6103,
+      "number": 20,
+      "text_uthmani": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبِۖ ٢٠",
+      "text_simple": "كلا لا تطعه واسجد واقترب ٢٠",
+      "juz": 30,
+      "page": 598,
+      "page_end": null,
+      "line_start": 3,
+      "line_end": 3
+    }
+  ]
+}

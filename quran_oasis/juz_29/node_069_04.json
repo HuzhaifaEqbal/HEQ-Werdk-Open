@@ -1,0 +1,172 @@
+{
+  "nodeId": "node_069_04",
+  "title": "سورة الحاقة: فرحة المؤمن بكتابه ونعيم الجنة العالية",
+  "surahId": 69,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "activityId": "act_069_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 5,
+      "options": [
+        "بِيَمِينِهِۦ",
+        "بِشِمَالِهِ",
+        "بِيَدِهِ",
+        "أَمَامَهُ"
+      ]
+    },
+    {
+      "activityId": "act_069_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "هَآؤُمُ",
+        "تَعَالَوا",
+        "أَقْبِلُوا",
+        "انْظُرُوا"
+      ]
+    },
+    {
+      "activityId": "act_069_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_069_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "مُلَـٰقٍ",
+        "عَالِمٌ",
+        "مُحَاسَبٌ",
+        "مُجْزًى"
+      ]
+    },
+    {
+      "activityId": "act_069_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_069_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "رَّاضِيَةٍۢ",
+        "عَالِيَةٍ",
+        "طَيِّبَةٍ",
+        "هَانِئَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_069_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "عَالِيَةٍۢ",
+        "دَانِيَةٍ",
+        "وَاسِعَةٍ",
+        "طَيِّبَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ]
+    },
+    {
+      "activityId": "act_069_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 1,
+      "options": [
+        "قُطُوفُهَا",
+        "ثِمَارُهَا",
+        "أَشْجَارُهَا",
+        "جَنَّاتُهَا"
+      ]
+    },
+    {
+      "activityId": "act_069_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "دَانِيَةٌۭ",
+        "عَالِيَةٌ",
+        "كَثِيرَةٌ",
+        "طَيِّبَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_069_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ]
+    },
+    {
+      "activityId": "act_069_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "أَسْلَفْتُمْ",
+        "قَدَّمْتُمْ",
+        "عَمِلْتُمْ",
+        "كَسَبْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_069_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْخَالِيَةِ",
+        "ٱلْمَاضِيَةِ",
+        "ٱلْأُولَىٰ",
+        "ٱلدُّنْيَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "فوز السعداء وأصحاب اليمين وفرحهم بعرض صحائفهم ونعيمهم في جنة عالية ثمارها دانية جزاء صالح عملهم في الدنيا"
+  }
+}

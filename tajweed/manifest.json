@@ -1,0 +1,139 @@
+{
+  "name": "Tajweed Interactive Curriculum",
+  "name_ar": "منهج التجويد التفاعلي المفتوح",
+  "version": "2.0.0",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/tajweed",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/tajweed",
+  "total_modules": 10,
+  "total_files": 50,
+  "scholarly_sources": [
+    "المقدمة الجزرية — الإمام ابن الجزري",
+    "تحفة الأطفال والغلمان في تجويد القرآن — الشيخ سليمان الجمزوري",
+    "التحديد في الإتقان والتسديد — الإمام أبو عمرو الداني",
+    "غاية المريد في علم التجويد — الشيخ عطية قابل نصر",
+    "حق التلاوة — الشيخ حسني شيخ عثمان"
+  ],
+  "modules": [
+    {
+      "id": "01_Basics_and_Makharij",
+      "title_ar": "أساسيات التجويد ومخارج الحروف",
+      "title_en": "Basics of Tajweed & Letter Articulations",
+      "files": [
+        { "file": "01_intro_and_importance.json", "type": "lesson", "title_ar": "مقدمة التجويد وأهميته" },
+        { "file": "02_makharij_jawf_halq.json", "type": "lesson", "title_ar": "مخارج الجوف والحلق" },
+        { "file": "03_makharij_lisan.json", "type": "lesson", "title_ar": "مخارج اللسان" },
+        { "file": "04_makharij_shafatain_khayshum.json", "type": "lesson", "title_ar": "مخارج الشفتين والخيشوم" },
+        { "file": "05_boss_level_makharij.json", "type": "boss_level", "title_ar": "اختبار المخارج النهائي" }
+      ]
+    },
+    {
+      "id": "02_Sifat_Al_Huroof",
+      "title_ar": "صفات الحروف",
+      "title_en": "Letter Characteristics (Sifat)",
+      "files": [
+        { "file": "01_sifat_intro.json", "type": "lesson", "title_ar": "مقدمة الصفات" },
+        { "file": "02_sifat_with_opposites.json", "type": "lesson", "title_ar": "الصفات ذات الأضداد" },
+        { "file": "03_sifat_without_opposites_1.json", "type": "lesson", "title_ar": "الصفات بلا ضد (الجزء الأول)" },
+        { "file": "04_sifat_without_opposites_2.json", "type": "lesson", "title_ar": "الصفات بلا ضد (الجزء الثاني)" },
+        { "file": "05_boss_level_sifat.json", "type": "boss_level", "title_ar": "اختبار الصفات النهائي" }
+      ]
+    },
+    {
+      "id": "03_Nun_Sakinah_and_Tanween",
+      "title_ar": "النون الساكنة والتنوين",
+      "title_en": "Nun Sakinah & Tanween Rules",
+      "files": [
+        { "file": "01_izhar_halqi.json", "type": "lesson", "title_ar": "الإظهار الحلقي" },
+        { "file": "02_idgham.json", "type": "lesson", "title_ar": "الإدغام (بغنة وبغير غنة)" },
+        { "file": "03_iqlab.json", "type": "lesson", "title_ar": "الإقلاب" },
+        { "file": "04_ikhfa_haqiqi.json", "type": "lesson", "title_ar": "الإخفاء الحقيقي" },
+        { "file": "05_boss_level_nun.json", "type": "boss_level", "title_ar": "اختبار النون النهائي" }
+      ]
+    },
+    {
+      "id": "04_Meem_Sakinah_and_Mushaddadah",
+      "title_ar": "الميم الساكنة والمشددة",
+      "title_en": "Meem Sakinah & Mushaddadah Rules",
+      "files": [
+        { "file": "01_ikhfa_shafawi.json", "type": "lesson", "title_ar": "الإخفاء الشفوي" },
+        { "file": "02_idgham_shafawi.json", "type": "lesson", "title_ar": "الإدغام الشفوي" },
+        { "file": "03_izhar_shafawi.json", "type": "lesson", "title_ar": "الإظهار الشفوي" },
+        { "file": "04_nun_meem_mushaddadah.json", "type": "lesson", "title_ar": "النون والميم المشددتان" },
+        { "file": "05_boss_level_meem.json", "type": "boss_level", "title_ar": "اختبار الميم النهائي" }
+      ]
+    },
+    {
+      "id": "05_Madd_Rules_Part_1",
+      "title_ar": "أحكام المد (الجزء الأول)",
+      "title_en": "Madd Rules (Part 1)",
+      "files": [
+        { "file": "01_madd_tabii.json", "type": "lesson", "title_ar": "المد الطبيعي (الأصلي)" },
+        { "file": "02_madd_awad.json", "type": "lesson", "title_ar": "مد العوض" },
+        { "file": "03_madd_badal.json", "type": "lesson", "title_ar": "مد البدل" },
+        { "file": "04_madd_silah_sughra.json", "type": "lesson", "title_ar": "مد الصلة الصغرى" },
+        { "file": "05_boss_level_madd_1.json", "type": "boss_level", "title_ar": "اختبار المد الجزء الأول" }
+      ]
+    },
+    {
+      "id": "06_Madd_Rules_Part_2",
+      "title_ar": "أحكام المد (الجزء الثاني)",
+      "title_en": "Madd Rules (Part 2)",
+      "files": [
+        { "file": "01_madd_muttasil.json", "type": "lesson", "title_ar": "المد المتصل" },
+        { "file": "02_madd_munfasil_and_kubra.json", "type": "lesson", "title_ar": "المد المنفصل والصلة الكبرى" },
+        { "file": "03_madd_aaridh_and_leen.json", "type": "lesson", "title_ar": "مد العارض للسكون ومد اللين" },
+        { "file": "04_madd_laazim.json", "type": "lesson", "title_ar": "المد اللازم" },
+        { "file": "05_boss_level_madd_2.json", "type": "boss_level", "title_ar": "اختبار المد الجزء الثاني" }
+      ]
+    },
+    {
+      "id": "07_Tafkheem_and_Tarqeeq",
+      "title_ar": "التفخيم والترقيق",
+      "title_en": "Tafkheem & Tarqeeq",
+      "files": [
+        { "file": "01_tafkheem_and_tarqeeq_basics.json", "type": "lesson", "title_ar": "أساسيات التفخيم والترقيق" },
+        { "file": "02_laam_lafth_aljalalah.json", "type": "lesson", "title_ar": "لام لفظ الجلالة" },
+        { "file": "03_raa_tafkheem.json", "type": "lesson", "title_ar": "تفخيم الراء وحالاته" },
+        { "file": "04_raa_tarqeeq_and_jawaaz.json", "type": "lesson", "title_ar": "ترقيق الراء وحالات الجواز" },
+        { "file": "05_boss_level_tafkheem.json", "type": "boss_level", "title_ar": "اختبار التفخيم والترقيق" }
+      ]
+    },
+    {
+      "id": "08_Relations_Between_Letters",
+      "title_ar": "العلاقات بين الحروف",
+      "title_en": "Letter Relationships",
+      "files": [
+        { "file": "01_mutamathilayn.json", "type": "lesson", "title_ar": "المتماثلان" },
+        { "file": "02_mutajanisayn.json", "type": "lesson", "title_ar": "المتجانسان" },
+        { "file": "03_mutaqaribayn.json", "type": "lesson", "title_ar": "المتقاربان" },
+        { "file": "04_types_of_relations.json", "type": "lesson", "title_ar": "أنواع العلاقات (الصغير/الكبير/المطلق)" },
+        { "file": "05_boss_level_relations.json", "type": "boss_level", "title_ar": "اختبار العلاقات النهائي" }
+      ]
+    },
+    {
+      "id": "09_Hamzat_and_Waqf",
+      "title_ar": "الهمزات والوقف",
+      "title_en": "Hamzah Rules & Stopping (Waqf)",
+      "files": [
+        { "file": "01_hamzat_wasl_verbs.json", "type": "lesson", "title_ar": "همزة الوصل في الأفعال", "title_en": "Hamzat Al-Wasl in Verbs" },
+        { "file": "02_hamzat_wasl_nouns.json", "type": "lesson", "title_ar": "همزة الوصل في الأسماء", "title_en": "Hamzat Al-Wasl in Nouns" },
+        { "file": "03_waqf_types.json", "type": "lesson", "title_ar": "أنواع الوقف (تام/كافي/حسن/قبيح)", "title_en": "Types of Waqf" },
+        { "file": "04_waqf_signs.json", "type": "lesson", "title_ar": "علامات الوقف في المصحف", "title_en": "Waqf Signs in the Quran" },
+        { "file": "05_boss_level_waqf.json", "type": "boss_level", "title_ar": "اختبار الهمزات والوقف النهائي", "title_en": "Boss Level: Hamzat & Waqf" }
+      ]
+    },
+    {
+      "id": "10_Maqtoo_Mawsool_and_Conclusion",
+      "title_ar": "المقطوع والموصول وخاتمة التجويد",
+      "title_en": "Maqtoo, Mawsool & Course Conclusion",
+      "files": [
+        { "file": "01_maqtoo_and_mawsool_basics.json", "type": "lesson", "title_ar": "أساسيات المقطوع والموصول", "title_en": "Maqtoo & Mawsool Basics" },
+        { "file": "02_taat_al_taneeth.json", "type": "lesson", "title_ar": "تاءات التأنيث (مفتوحة / مربوطة)", "title_en": "Feminine Taa Rules" },
+        { "file": "03_special_words_and_exceptions.json", "type": "lesson", "title_ar": "الكلمات الخاصة والسكتات والإشمام", "title_en": "Special Words, Sakt & Ishmam" },
+        { "file": "04_tajweed_mastery_final.json", "type": "lesson", "title_ar": "خاتمة التجويد: التعريف والمراتب والأحكام", "title_en": "Tajweed Mastery Final Summary" },
+        { "file": "05_boss_level_grand_finale.json", "type": "boss_level", "title_ar": "الاختبار الملكي الختامي الشامل", "title_en": "Grand Finale Boss Level" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "nodeId": "node_067_04",
+  "title": "سورة الملك: التحذير من عذاب السماء وبسط الطير بأمر الرحمن",
+  "surahId": 67,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "activityId": "act_067_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "يَخْسِفَ",
+        "يُهْلِكَ",
+        "يُسْقِطَ",
+        "يُعَذِّبَ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 11,
+      "options": [
+        "تَمُورُ",
+        "تَضْطَرِبُ",
+        "تَزُولُ",
+        "تَهْتَزُّ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_067_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 9,
+      "options": [
+        "حَاصِبًۭا",
+        "عَذَابًا",
+        "حِجَارَةً",
+        "رِيحًا"
+      ]
+    },
+    {
+      "activityId": "act_067_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 12,
+      "options": [
+        "نَذِيرِ",
+        "وَعِيدِ",
+        "عَذَابِى",
+        "أَمْرِى"
+      ]
+    },
+    {
+      "activityId": "act_067_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_067_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "نَكِيرِ",
+        "عِقَابِى",
+        "عَذَابِى",
+        "إِنْكَارِى"
+      ]
+    },
+    {
+      "activityId": "act_067_04_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ]
+    },
+    {
+      "activityId": "act_067_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "صَـٰٓفَّـٰتٍۢ",
+        "بَاسِطَاتٍ",
+        "مُحَلِّقَاتٍ",
+        "مُتَفَرِّقَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "وَيَقْبِضْنَ",
+        "وَيَطِرْنَ",
+        "وَيَسْبَحْنَ",
+        "وَيَهْبِطْنَ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلرَّحْمَـٰنُ",
+        "ٱللَّهُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْخَالِقُ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ]
+    },
+    {
+      "activityId": "act_067_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 5,
+      "options": [
+        "جُندٌۭ",
+        "نَصِيرٌ",
+        "عَوْنٌ",
+        "ظَهِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_067_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 15,
+      "options": [
+        "غُرُورٍ",
+        "ضَلَالٍ",
+        "عَمًى",
+        "خُسْرَانٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الملك",
+    "juz": 29,
+    "theme": "تخويف الكفار من بأس الله وخسف الأرض والحاصب، والتذكير بآية الطير الصافات، وبطلان نصرة الأصنام"
+  }
+}

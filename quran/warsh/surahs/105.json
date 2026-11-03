@@ -1,0 +1,65 @@
+{
+  "number": 105,
+  "name_ar": "الفِيل",
+  "name_en": "Al-Fīl",
+  "ayahs_count": 5,
+  "page_start": 601,
+  "page_end": 601,
+  "ayahs": [
+    {
+      "id": 6167,
+      "number": 1,
+      "text_uthmani": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ اِ۬لْفِيلِۖ ١",
+      "text_simple": "الم تر كيف فعل ربك باصحب الفيل ١",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 13
+    },
+    {
+      "id": 6168,
+      "number": 2,
+      "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِے تَضْلِيلٖ ٢",
+      "text_simple": "الم يجعل كيدهم فے تضليلٖ ٢",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 13,
+      "line_end": 14
+    },
+    {
+      "id": 6169,
+      "number": 3,
+      "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْراً اَبَابِيلَ ٣",
+      "text_simple": "وارسل عليهم طيرا ابابيل ٣",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 14,
+      "line_end": 14
+    },
+    {
+      "id": 6170,
+      "number": 4,
+      "text_uthmani": "تَرْمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ ٤",
+      "text_simple": "ترميهم بحجارهٖ من سجيلٖ ٤",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    },
+    {
+      "id": 6171,
+      "number": 5,
+      "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٖ مَّاكُولٖۖ ٥",
+      "text_simple": "فجعلهم كعصفٖ ماكولٖ ٥",
+      "juz": 30,
+      "page": 601,
+      "page_end": null,
+      "line_start": 15,
+      "line_end": 15
+    }
+  ]
+}

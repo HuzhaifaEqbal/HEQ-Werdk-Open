@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_06",
+  "title": "سورة النساء - الآيات 24-28",
+  "surahId": 4,
+  "ayahStart": 24,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَٱلۡمُحۡصَنَٰتُ",
+        "يَسۡتَنۢبِطُونَهُۥ",
+        "ٱلۡمُسۡتَضۡعَفِينَ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ],
+      "activityId": "act_004_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 23,
+      "options": [
+        "فَٱنكِحُوهُنَّ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_004_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَهۡدِيَكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_004_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "يَتَّبِعُونَ",
+        "ءَاتَيۡنَآ",
+        "ٱلۡإِنسَٰنُ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_004_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡإِنسَٰنُ",
+        "يَتَّبِعُونَ",
+        "ءَاتَيۡنَآ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر المحرمات من النساء وأحكام الزواج، ثم يأمر بأداء الأمانات والعدل في الحكم."
+  }
+}

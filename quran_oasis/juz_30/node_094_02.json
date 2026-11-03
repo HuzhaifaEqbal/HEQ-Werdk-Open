@@ -1,0 +1,127 @@
+{
+  "nodeId": "hifz_094_02",
+  "title": "سورة الشرح - المقطع الثاني (معية اليسر مع العسر والتفرغ للعبادة والرغبة لله)",
+  "surahId": 94,
+  "ayahStart": 5,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "ٱلْعُسْرِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعُسْرِ",
+        "ٱلشِّدَّةِ",
+        "ٱلْبَلَاءِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "يُسْرًا",
+      "missingWordPosition": 4,
+      "options": [
+        "يُسْرًا",
+        "فَرَجًا",
+        "نَصْرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "ٱلْعُسْرِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعُسْرِ",
+        "ٱلضِّيقِ",
+        "ٱلْكَرْبِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "يُسْرًا",
+      "missingWordPosition": 4,
+      "options": [
+        "يُسْرًا",
+        "خَيْرًا",
+        "أَجْرًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        8
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَرَغْتَ",
+      "missingWordPosition": 2,
+      "options": [
+        "فَرَغْتَ",
+        "قَضَيْتَ",
+        "أَتْمَمْتَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWord": "فَٱنصَبْ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱنصَبْ",
+        "فَٱسْجُدْ",
+        "فَٱجْتَهِدْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "رَبِّكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكَ",
+        "خَالِقِكَ",
+        "مَوْلَاكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "فَٱرْغَب",
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱرْغَب",
+        "فَٱطْمَعْ",
+        "فَٱتَّكِلْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إن مع كل ضيق وشدة يسراً وسعة عظيمة وفرجاً قريباً، ولن يغلب عسرٌ يسرين أبداً، فإذا فرغت من أعمالك الدنيوية أو من جهادك وأعباء الدعوة فاجتهد وأتعب بدنك في عبادة ربك والدعاء (فانصب)، وإلى ربك وحده لا إلى غيره وجّه رغبتك ورجاءك وتضرعك طامعاً في فضله ورضاه."
+  }
+}

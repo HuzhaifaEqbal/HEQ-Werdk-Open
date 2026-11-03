@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_072_06",
+  "title": "سورة الجن: مهمة البلاغ وعاقبة المعصية وعلم وقت الموعود",
+  "surahId": 72,
+  "ayahStart": 22,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_072_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 4,
+      "options": [
+        "يُجِيرَنِى",
+        "يَمْنَعَنِى",
+        "يَعْصِمَنِى",
+        "يُنْقِذَنِى"
+      ]
+    },
+    {
+      "activityId": "act_072_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "مُلْتَحَدًا",
+        "مَلْجَأً",
+        "حِصْنًا",
+        "مَأْوًى"
+      ]
+    },
+    {
+      "activityId": "act_072_06_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_072_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "بَلَـٰغًۭا",
+        "وَحْيًا",
+        "كِتَابًا",
+        "نُورًا"
+      ]
+    },
+    {
+      "activityId": "act_072_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 13,
+      "options": [
+        "جَهَنَّمَ",
+        "ٱلسَّعِيرِ",
+        "ٱلْحُطَمَةِ",
+        "ٱلْهَاوِيَةِ"
+      ]
+    },
+    {
+      "activityId": "act_072_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        22
+      ]
+    },
+    {
+      "activityId": "act_072_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "أَضْعَفُ",
+        "أَقَلُّ",
+        "أَذَلُّ",
+        "أَوْهَنُ"
+      ]
+    },
+    {
+      "activityId": "act_072_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 10,
+      "options": [
+        "وَأَقَلُّ",
+        "وَأَضْعَفُ",
+        "وَأَذَلُّ",
+        "وَأَوْهَنُ"
+      ]
+    },
+    {
+      "activityId": "act_072_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        23
+      ]
+    },
+    {
+      "activityId": "act_072_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "أَقَرِيبٌۭ",
+        "أَبَعِيدٌ",
+        "أَحَقٌّ",
+        "أَوَاقِعٌ"
+      ]
+    },
+    {
+      "activityId": "act_072_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 11,
+      "options": [
+        "أَمَدًا",
+        "أَجَلًا",
+        "وَقْتًا",
+        "عَهْدًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الجن",
+    "juz": 29,
+    "theme": "افتقار النبي ﷺ إلى حماية ربه وانحصار مهمته في البلاغ، ووعيد من عصى الله ورسوله بخلود جهنم، وجهله بوقت العذاب الموعود"
+  }
+}

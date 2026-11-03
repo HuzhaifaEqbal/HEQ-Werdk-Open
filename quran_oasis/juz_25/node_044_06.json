@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_044_06",
+  "title": "سورة الدخان: شجرة الزقوم طعام الأثيم وصب الحميم في رؤوس المعذبين",
+  "surahId": 44,
+  "ayahStart": 43,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "activityId": "act_044_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلزَّقُّومِ",
+        "ٱلضَّرِيعِ",
+        "ٱلْغِسْلِينِ",
+        "ٱلْحَمِيمِ"
+      ]
+    },
+    {
+      "activityId": "act_044_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_044_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَثِيمِ",
+        "ٱلْفَاجِرِ",
+        "ٱلْكَافِرِ",
+        "ٱلظَّالِمِ"
+      ]
+    },
+    {
+      "activityId": "act_044_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_044_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "كَٱلْمُهْلِ",
+        "كَٱلرَّصَاصِ",
+        "كَٱلنُّحَاسِ",
+        "كَٱلْقِطْرِ"
+      ]
+    },
+    {
+      "activityId": "act_044_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_044_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 2,
+      "options": [
+        "فَٱعْتِلُوهُ",
+        "فَٱسْحَبُوهُ",
+        "فَٱدْفَعُوهُ",
+        "فَٱسُوقُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_044_06_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        50
+      ]
+    },
+    {
+      "activityId": "act_044_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحَمِيمِ",
+        "ٱلْغَسَّاقِ",
+        "ٱلْجَحِيمِ",
+        "ٱلسَّعِيرِ"
+      ]
+    },
+    {
+      "activityId": "act_044_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        51
+      ]
+    },
+    {
+      "activityId": "act_044_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 6,
+      "options": [
+        "تَمْتَرُونَ",
+        "تَشُكُّونَ",
+        "تُكَذِّبُونَ",
+        "تَسْتَهْزِءُونَ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "nodeId": "node_066_01",
+  "title": "سورة التحريم: عتاب النبي في التحريم وحفظ الأسرار ونصرة الله لرسوله",
+  "surahId": 66,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_066_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "تُحَرِّمُ",
+        "تَمْنَعُ",
+        "تَتْرُكُ",
+        "تُبْطِلُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 6,
+      "options": [
+        "أَحَلَّ",
+        "أَبَاحَ",
+        "أَنْزَلَ",
+        "رَزَقَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 9,
+      "options": [
+        "تَبْتَغِى",
+        "تَطْلُبُ",
+        "تَرْجُو",
+        "تُرِيدُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "مَرْضَاتَ",
+        "مَحَبَّةَ",
+        "رِضَا",
+        "سُرُورَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 13,
+      "options": [
+        "غَفُورٌۭ",
+        "تَوَّابٌ",
+        "حَلِيمٌ",
+        "عَفُوٌّ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_066_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "فَرَضَ",
+        "شَرَعَ",
+        "أَمَرَ",
+        "كَتَبَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "تَحِلَّةَ",
+        "كَفَّارَةَ",
+        "فِدْيَةَ",
+        "بَرَاءَةَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "مَوْلَىٰكُمْ ۖ",
+        "حَافِظُكُمْ",
+        "نَاصِرُكُمْ",
+        "رَبُّكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَلِيمُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْغَفُورُ",
+        "ٱلْخَبِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_066_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "أَسَرَّ",
+        "أَفْضَى",
+        "أَوْحَى",
+        "قَالَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "حَدِيثًۭا",
+        "سِرًّا",
+        "أَمْرًا",
+        "كَلَامًا"
+      ]
+    },
+    {
+      "activityId": "act_066_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 11,
+      "options": [
+        "وَأَظْهَرَهُ",
+        "أَعْلَمَهُ",
+        "أَبْلَغَهُ",
+        "بَيَّنَهُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 28,
+      "options": [
+        "ٱلْعَلِيمُ",
+        "ٱلْقَدِيرُ",
+        "ٱلسَّمِيعُ",
+        "ٱلْحَكِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 29,
+      "options": [
+        "ٱلْخَبِيرُ",
+        "ٱلْبَصِيرُ",
+        "ٱلْعَظِيمُ",
+        "ٱلرَّحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ]
+    },
+    {
+      "activityId": "act_066_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "تَتُوبَآ",
+        "تَرْجِعَا",
+        "تَسْتَغْفِرَا",
+        "تُنِيبَا"
+      ]
+    },
+    {
+      "activityId": "act_066_01_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "صَغَتْ",
+        "مَالَتْ",
+        "زَاغَتْ",
+        "خَشَعَتْ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 9,
+      "options": [
+        "تَظَـٰهَرَا",
+        "تَعَاوَنَا",
+        "تَجْتَمِعَا",
+        "تَقُومَا"
+      ]
+    },
+    {
+      "activityId": "act_066_01_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "مَوْلَىٰهُ ۖ",
+        "نَصِيرُهُ",
+        "حَافِظُهُ",
+        "مُعِينُهُ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 21,
+      "options": [
+        "ظَهِيرٌ",
+        "أَعْوَانٌ",
+        "أَنْصَارٌ",
+        "حُرَّاسٌ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_066_01_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 6,
+      "options": [
+        "يُبْدِلَهُۥٓ",
+        "يُعَوِّضَهُۥٓ",
+        "يُعْطِيَهُۥٓ",
+        "يَرْزُقَهُۥٓ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "خَيْرًۭا",
+        "أَفْضَلَ",
+        "أَكْرَمَ",
+        "أَصْلَحَ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "قَـٰنِتَـٰتٍۢ",
+        "مُخْلِصَاتٍ",
+        "خَاشِعَاتٍ",
+        "صَابِرَاتٍ"
+      ]
+    },
+    {
+      "activityId": "act_066_01_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 15,
+      "options": [
+        "سَـٰٓئِحَـٰتٍۢ",
+        "صَائِمَاتٍ",
+        "مُهَاجِرَاتٍ",
+        "ذَاكِرَاتٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التحريم",
+    "juz": 28,
+    "theme": "عتاب الله اللطيف لنبيه ﷺ في تحريمه ما أحل الله إرضاءً لبعض أزواجه، وبيان كفارة اليمين، والتحذير من إفشاء الأسرار وتظاهر النساء، وتأييد الله وجبريل وصالح المؤمنين والملائكة للنبي ﷺ."
+  }
+}

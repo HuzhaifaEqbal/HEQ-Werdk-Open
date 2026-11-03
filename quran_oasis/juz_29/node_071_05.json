@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_071_05",
+  "title": "سورة نوح: مكر الكبراء والتمسك بأصنام الشرك والضلال",
+  "surahId": 71,
+  "ayahStart": 21,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "activityId": "act_071_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 5,
+      "options": [
+        "عَصَوْنِى",
+        "كَذَّبُونِى",
+        "حَارَبُونِى",
+        "أَنْكَرُونِى"
+      ]
+    },
+    {
+      "activityId": "act_071_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 13,
+      "options": [
+        "خَسَارًۭا",
+        "هَلَاكًا",
+        "ضَلَالًا",
+        "طُغْيَانًا"
+      ]
+    },
+    {
+      "activityId": "act_071_05_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_071_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "كُبَّارًۭا",
+        "عَظِيمًا",
+        "شَدِيدًا",
+        "مُهْلِكًا"
+      ]
+    },
+    {
+      "activityId": "act_071_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        21
+      ]
+    },
+    {
+      "activityId": "act_071_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 7,
+      "options": [
+        "وَدًّۭا",
+        "اللَّاتَ",
+        "العُزَّىٰ",
+        "مَنَاةَ"
+      ]
+    },
+    {
+      "activityId": "act_071_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 9,
+      "options": [
+        "سُوَاعًۭا",
+        "هُبَلَ",
+        "إِسَافَ",
+        "نَائِلَةَ"
+      ]
+    },
+    {
+      "activityId": "act_071_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 13,
+      "options": [
+        "وَنَسْرًۭا",
+        "وَطَاغُوتًا",
+        "وَصَنَمًا",
+        "وَوَثَنًا"
+      ]
+    },
+    {
+      "activityId": "act_071_05_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        22
+      ]
+    },
+    {
+      "activityId": "act_071_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "ضَلَـٰلًۭا",
+        "خَسَارًا",
+        "عَذَابًا",
+        "تَبَارًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "شكوى نوح من عناد قومه واتباعهم لكبرائهم ومكرهم العظيم، وتواصيهم بعبادة أصنامهم الخمسة: ود وسواع ويغوث ويعوق ونسر"
+  }
+}

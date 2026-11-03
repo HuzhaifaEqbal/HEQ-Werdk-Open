@@ -1,0 +1,250 @@
+{
+  "nodeId": "node_065_01",
+  "title": "سورة الطلاق: أحكام طلاق السنة وإحصاء العدة ومن يتق الله يجعل له مخرجاً",
+  "surahId": 65,
+  "ayahStart": 1,
+  "ayahEnd": 3,
+  "activities": [
+    {
+      "activityId": "act_065_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 7,
+      "options": [
+        "لِعِدَّتِهِنَّ",
+        "لِطُهْرِهِنَّ",
+        "لِأَجَلِهِنَّ",
+        "لِوَقْتِهِنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَحْصُوا۟",
+        "وَٱحْفَظُوا۟",
+        "وَٱعْلَمُوا۟",
+        "وَٱضْبِطُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_065_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 16,
+      "options": [
+        "بُيُوتِهِنَّ",
+        "مَنَازِلِهِنَّ",
+        "دِيَارِهِنَّ",
+        "أَهْلِهِنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 22,
+      "options": [
+        "بِفَـٰحِشَةٍۢ",
+        "بِمَعْصِيَةٍ",
+        "بِإِثْمٍ",
+        "بِظُلْمٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 23,
+      "options": [
+        "مُّبَيِّنَةٍۢ ۚ",
+        "ظَاهِرَةٍ",
+        "عَظِيمَةٍ",
+        "شَدِيدَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 28,
+      "options": [
+        "يَتَعَدَّ",
+        "يُخَالِفْ",
+        "يَعْصِ",
+        "يُنْكِرْ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 38,
+      "options": [
+        "يُحْدِثُ",
+        "يَقْضِى",
+        "يَأْتِى",
+        "يُنْزِلُ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        1
+      ]
+    },
+    {
+      "activityId": "act_065_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "أَجَلَهُنَّ",
+        "عِدَّتَهُنَّ",
+        "وَقْتَهُنَّ",
+        "مُدَّتَهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "بِمَعْرُوفٍ",
+        "بِإِحْسَانٍ",
+        "بِعَدْلٍ",
+        "بِفَضْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "فَارِقُوهُنَّ",
+        "سَرِّحُوهُنَّ",
+        "طَلِّقُوهُنَّ",
+        "ٱتْرُكُوهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "عَدْلٍۢ",
+        "صِدْقٍ",
+        "خَيْرٍ",
+        "إِيمَانٍ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 26,
+      "options": [
+        "يَتَّقِ",
+        "يَخْشَ",
+        "يُرَاقِبِ",
+        "يُطِعِ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 30,
+      "options": [
+        "مَخْرَجًۭا",
+        "فَرَجًا",
+        "نَجَاةً",
+        "يُسْرًا"
+      ]
+    },
+    {
+      "activityId": "act_065_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "activityId": "act_065_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "يَحْتَسِبُ ۚ",
+        "يَعْلَمُ",
+        "يَرْجُو",
+        "يَظُنُّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "يَتَوَكَّلْ",
+        "يَفَوِّضْ إِلَى",
+        "يَعْتَمِدْ عَلَى",
+        "يَصْبِرْ لِـ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 11,
+      "options": [
+        "حَسْبُهُۥٓ ۚ",
+        "نَصِيرُهُ",
+        "مُعِينُهُ",
+        "حَافِظُهُ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 14,
+      "options": [
+        "بَـٰلِغُ",
+        "نَافِذُ",
+        "قَاضِى",
+        "مُتِمُّ"
+      ]
+    },
+    {
+      "activityId": "act_065_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 21,
+      "options": [
+        "قَدْرًۭا",
+        "أَجَلًا",
+        "حَدًّا",
+        "حُكْمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطلاق",
+    "juz": 28,
+    "theme": "أحكام الطلاق المشروع في طهر لم يجامع فيه وإحصاء العدة، وحرمة إخراج المطلقات من بيوتهن، والإمساك أو المفارقة بالمعروف، والإشهاد، وبشارة المتقين بالمخرج والرزق والتوكل."
+  }
+}

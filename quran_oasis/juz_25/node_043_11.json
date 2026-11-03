@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_043_11",
+  "title": "سورة الزخرف: جدال المشركين في عيسى عليه السلام وإثبات عبوديته وعلامة الساعة",
+  "surahId": 43,
+  "ayahStart": 57,
+  "ayahEnd": 62,
+  "activities": [
+    {
+      "activityId": "act_043_11_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 9,
+      "options": [
+        "يَصِدُّونَ",
+        "يَضْحَكُونَ",
+        "يَعْجَبُونَ",
+        "يَسْخَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_11_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_043_11_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 14,
+      "options": [
+        "خَصِمُونَ",
+        "ظَالِمُونَ",
+        "مُجَادِلُونَ",
+        "مُعَانِدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_11_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        61
+      ]
+    },
+    {
+      "activityId": "act_043_11_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 4,
+      "options": [
+        "عَبْدٌ",
+        "نَبِىٌّ",
+        "رَسُولٌ",
+        "مَلَكٌ"
+      ]
+    },
+    {
+      "activityId": "act_043_11_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        62
+      ]
+    },
+    {
+      "activityId": "act_043_11_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 8,
+      "options": [
+        "يَخْلُفُونَ",
+        "يَعْبُدُونَ",
+        "يَسْكُنُونَ",
+        "يَمْشُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_11_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        63
+      ]
+    },
+    {
+      "activityId": "act_043_11_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 5,
+      "options": [
+        "تَمْتَرُنَّ",
+        "تَشُكُّنَّ",
+        "تَكْذِبُنَّ",
+        "تَغْفُلُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_043_11_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        64
+      ]
+    },
+    {
+      "activityId": "act_043_11_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 2,
+      "options": [
+        "يَصُدَّنَّكُمُ",
+        "يَمْنَعَنَّكُمُ",
+        "يَفْتِنَنَّكُمُ",
+        "يُضِلَّنَّكُمُ"
+      ]
+    }
+  ]
+}

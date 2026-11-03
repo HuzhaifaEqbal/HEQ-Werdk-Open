@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_19",
+  "title": "سورة الأعراف - الآيات 106-111",
+  "surahId": 7,
+  "ayahStart": 106,
+  "ayahEnd": 111,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "لِلنَّـٰظِرِينَ",
+        "ٱلْمَدَآئِنِ",
+        "أَرْضِكُمْ ۖ"
+      ],
+      "activityId": "act_007_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_007_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 5,
+      "options": [
+        "ثُعْبَانٌۭ",
+        "بَيْضَآءُ",
+        "فِرْعَوْنَ",
+        "وَأَرْسِلْ"
+      ],
+      "activityId": "act_007_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_007_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 6,
+      "options": [
+        "لِلنَّـٰظِرِينَ",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْمَدَآئِنِ",
+        "تَأْمُرُونَ"
+      ],
+      "activityId": "act_007_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_007_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَلَأُ",
+        "قَالُوٓا۟",
+        "وَأَخَاهُ",
+        "ثُعْبَانٌۭ"
+      ],
+      "activityId": "act_007_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_007_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 3,
+      "options": [
+        "يُخْرِجَكُم",
+        "حَـٰشِرِينَ",
+        "فَأَلْقَىٰ",
+        "ٱلْمَلَأُ"
+      ],
+      "activityId": "act_007_19_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_007_19_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمَدَآئِنِ",
+        "ٱلصَّـٰدِقِينَ",
+        "لِلنَّـٰظِرِينَ",
+        "يُخْرِجَكُم"
+      ],
+      "activityId": "act_007_19_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

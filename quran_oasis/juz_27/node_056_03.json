@@ -1,0 +1,288 @@
+{
+  "nodeId": "node_056_03",
+  "title": "سورة الواقعة: نعيم أصحاب اليمين وظل ممدود وحور عرب أتراب",
+  "surahId": 56,
+  "ayahStart": 27,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "activityId": "act_056_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَمِينِ",
+        "ٱلْمَيْمَنَةِ",
+        "ٱلْجَنَّةِ",
+        "ٱلْفَوْزِ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_056_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّخْضُودٍۢ",
+        "مَّنْضُودٍ",
+        "مَّمْدُودٍ",
+        "مَّرْفُوعٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_056_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 1,
+      "options": [
+        "وَطَلْحٍۢ",
+        "وَسِدْرٍ",
+        "وَنَخْلٍ",
+        "وَشَجَرٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "مَّنضُودٍۢ",
+        "مَّخْضُودٍ",
+        "مَّمْدُودٍ",
+        "مَّسْكُوبٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_056_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "مَّمْدُودٍۢ",
+        "مَّنْضُودٍ",
+        "مَّخْضُودٍ",
+        "دَائِمٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_056_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "مَّسْكُوبٍۢ",
+        "جَارٍ",
+        "عَذْبٍ",
+        "مَّعِينٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_056_03_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_056_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "مَمْنُوعَةٍۢ",
+        "مَّحْظُورَةٍ",
+        "بَعِيدَةٍ",
+        "قَلِيلَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_056_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "مَّرْفُوعَةٍ",
+        "مَّوْضُونَةٍ",
+        "مَّصْفُوفَةٍ",
+        "نَاعِمَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_056_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنشَأْنَـٰهُنَّ",
+        "خَلَقْنَاهُنَّ",
+        "أَبْدَعْنَاهُنَّ",
+        "صَوَّرْنَاهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_056_03_18",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_056_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "أَبْكَارًا",
+        "أَزْوَاجًا",
+        "طَاهِرَاتٍ",
+        "حِسَانًا"
+      ]
+    },
+    {
+      "activityId": "act_056_03_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_056_03_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 1,
+      "options": [
+        "عُرُبًا",
+        "حِسَانًا",
+        "حُورًا",
+        "أَزْوَاجًا"
+      ]
+    },
+    {
+      "activityId": "act_056_03_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 2,
+      "options": [
+        "أَتْرَابًۭا",
+        "أَمْثَالًا",
+        "أَزْوَاجًا",
+        "أَبْكَارًا"
+      ]
+    },
+    {
+      "activityId": "act_056_03_23",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_056_03_24",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_056_03_25",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الواقعة",
+    "juz": 27,
+    "theme": "بيان نعيم أصحاب اليمين في بساتين السدر منزوع الشوك، والموز المتراكم، والظل الممتد والماء المسكوب والحور الأبكار العرب الأتراب."
+  }
+}

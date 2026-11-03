@@ -1,0 +1,178 @@
+{
+  "nodeId": "node_064_04",
+  "title": "سورة التغابن: الصبر على المصائب وطاعة الرسول والتوكل على الله",
+  "surahId": 64,
+  "ayahStart": 11,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_064_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّصِيبَةٍ",
+        "بَلَاءٍ",
+        "شِدَّةٍ",
+        "فِتْنَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "بِإِذْنِ",
+        "بِأَمْرِ",
+        "بِقَدَرِ",
+        "بِحُكْمِ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 11,
+      "options": [
+        "يَهْدِ",
+        "يُثَبِّتْ",
+        "يَشْرَحْ",
+        "يَمْلَأْ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 12,
+      "options": [
+        "قَلْبَهُۥ ۚ",
+        "صَدْرَهُ",
+        "نَفْسَهُ",
+        "رُوحَهُ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 16,
+      "options": [
+        "عَلِيمٌۭ",
+        "خَبِيرٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        11
+      ]
+    },
+    {
+      "activityId": "act_064_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱللَّهَ",
+        "ٱلْخَالِقَ",
+        "ٱلرَّبَّ",
+        "ٱلْمَوْلَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلرَّسُولَ ۚ",
+        "ٱلنَّبِيَّ",
+        "ٱلْأَمِينَ",
+        "ٱلْمُصْطَفَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 6,
+      "options": [
+        "تَوَلَّيْتُمْ",
+        "أَعْرَضْتُمْ",
+        "عَصَيْتُمْ",
+        "خَالَفْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْبَلَـٰغُ",
+        "ٱلْإِنْذَارُ",
+        "ٱلدَّعْوَةُ",
+        "ٱلتَّبْيِينُ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْمُبِينُ",
+        "ٱلظَّاهِرُ",
+        "ٱلْوَاضِحُ",
+        "ٱلْكَامِلُ"
+      ]
+    },
+    {
+      "activityId": "act_064_04_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_064_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱللَّهُ",
+        "رَبُّنَا",
+        "إِلَٰهُنَا",
+        "خَالِقُنَا"
+      ]
+    },
+    {
+      "activityId": "act_064_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 8,
+      "options": [
+        "فَلْيَتَوَكَّلِ",
+        "فَلْيَعْتَمِدِ",
+        "فَلْيَصْبِرِ",
+        "فَلْيَرْجُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التغابن",
+    "juz": 28,
+    "theme": "بيان أن كل ما يصيب العبد بقضاء الله وقدره وأن من آمن هدى الله قلبه للرضا واليقين، ووجوب طاعة الله ورسوله والتوكل الخالص عليه وحده."
+  }
+}

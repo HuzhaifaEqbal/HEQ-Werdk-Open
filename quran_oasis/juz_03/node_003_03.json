@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_03",
+  "title": "سورة آل عمران - الآيات 11-15",
+  "surahId": 3,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 11,
+      "options": [
+        "بِذُنُوبِهِمۡۗ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "أَؤُنَبِّئُكُم"
+      ],
+      "activityId": "act_003_03_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        9
+      ],
+      "activityId": "act_003_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "سَتُغۡلَبُونَ",
+        "بِذُنُوبِهِمۡۗ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_03_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        10
+      ],
+      "activityId": "act_003_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡتَقَتَاۖ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "سَتُغۡلَبُونَ"
+      ],
+      "activityId": "act_003_03_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ],
+      "activityId": "act_003_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلۡقَنَٰطِيرِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "أَؤُنَبِّئُكُم"
+      ],
+      "activityId": "act_003_03_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ],
+      "activityId": "act_003_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 2,
+      "options": [
+        "أَؤُنَبِّئُكُم",
+        "بِذُنُوبِهِمۡۗ",
+        "سَتُغۡلَبُونَ",
+        "ءَأَسۡلَمۡتُمۡۚ"
+      ],
+      "activityId": "act_003_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يذكر المقطع عاقبة المكذبين، ويبين أن متاع الدنيا وزينتها لا تساوي ما أعده الله للمتقين."
+  }
+}

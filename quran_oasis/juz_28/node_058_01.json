@@ -1,0 +1,344 @@
+{
+  "nodeId": "node_058_01",
+  "title": "سورة المجادلة: شكوى خولة بنت ثعلبة وأحكام الظهار والكفارة",
+  "surahId": 58,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_058_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 2,
+      "options": [
+        "سَمِعَ",
+        "عَلِمَ",
+        "أَجَابَ",
+        "قَبِلَ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 6,
+      "options": [
+        "تُجَـٰدِلُكَ",
+        "تُحَاوِرُكَ",
+        "تُخَاطِبُكَ",
+        "تَسْأَلُكَ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 8,
+      "options": [
+        "زَوْجِهَا",
+        "بَعْلِهَا",
+        "أَهْلِهَا",
+        "قَوْمِهَا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 9,
+      "options": [
+        "وَتَشْتَكِىٓ",
+        "وَتَدْعُو",
+        "وَتَرْجُو",
+        "وَتَبْكِى"
+      ]
+    },
+    {
+      "activityId": "act_058_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 14,
+      "options": [
+        "تَحَاوُرَكُمَآ ۚ",
+        "كَلَامَكُمَا",
+        "حَدِيثَكُمَا",
+        "دُعَاءَكُمَا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 17,
+      "options": [
+        "سَمِيعٌۢ",
+        "عَلِيمٌ",
+        "قَرِيبٌ",
+        "خَبِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 18,
+      "options": [
+        "بَصِيرٌ",
+        "خَبِيرٌ",
+        "عَلِيمٌ",
+        "حَكِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_058_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "يُظَـٰهِرُونَ",
+        "يَمْقُتُونَ",
+        "يَفْسَقُونَ",
+        "يَبْغُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "نِّسَآئِهِم",
+        "أَزْوَاجِهِم",
+        "حَلَائِلِهِم",
+        "نِسْوَتِهِم"
+      ]
+    },
+    {
+      "activityId": "act_058_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 8,
+      "options": [
+        "أُمَّهَـٰتِهِمْ ۖ",
+        "أُمَّهَاتُهُمْ",
+        "أَخَوَاتُهُمْ",
+        "بَنَاتُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 16,
+      "options": [
+        "مُنكَرًۭا",
+        "بَاطِلًا",
+        "إِثْمًا",
+        "فِسْقًا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 19,
+      "options": [
+        "وَزُورًۭا ۚ",
+        "وَبُهْتَانًا",
+        "وَكِذْبًا",
+        "وَفِسْقًا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 22,
+      "options": [
+        "لَعَفُوٌّ",
+        "تَوَّابٌ",
+        "رَحِيمٌ",
+        "عَلِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_058_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 9,
+      "options": [
+        "فَتَحْرِيرُ",
+        "فَعِتْقُ",
+        "فَفِدَاءُ",
+        "فَصِيَامُ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 10,
+      "options": [
+        "رَقَبَةٍۢ",
+        "نَفْسٍ",
+        "مَمْلُوكٍ",
+        "أَسِيرٍ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 14,
+      "options": [
+        "يَتَمَآسَّا ۚ",
+        "يَتَلَاقَيَا",
+        "يَقْرَبَا",
+        "يَجْتَمِعَا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 16,
+      "options": [
+        "تُوعَظُونَ",
+        "تُؤْمَرُونَ",
+        "تُكَلَّفُونَ",
+        "تُؤْجَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 21,
+      "options": [
+        "خَبِيرٌۭ",
+        "بَصِيرٌ",
+        "عَلِيمٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_21",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_058_01_22",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "فَصِيَامُ",
+        "فَفِدْيَةُ",
+        "فَعِتْقُ",
+        "فَإِطْعَامُ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_23",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "شَهْرَيْنِ",
+        "عَامَيْنِ",
+        "شَهْرٍ",
+        "أَيَّامٍ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_24",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "مُتَتَابِعَيْنِ",
+        "مُتَفَرِّقَيْنِ",
+        "كَامِلَيْنِ",
+        "مَعْلُومَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_25",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "فَإِطْعَامُ",
+        "فَكِسْوَةُ",
+        "فَصِيَامُ",
+        "فَضِيَافَةُ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_26",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 15,
+      "options": [
+        "سِتِّينَ",
+        "عَشَرَةِ",
+        "ثَلَاثِينَ",
+        "مِائَةِ"
+      ]
+    },
+    {
+      "activityId": "act_058_01_27",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 16,
+      "options": [
+        "مِسْكِينًۭا ۚ",
+        "فَقِيرًا",
+        "مُحْتَاجًا",
+        "سَائِلًا"
+      ]
+    },
+    {
+      "activityId": "act_058_01_28",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 26,
+      "options": [
+        "أَلِيمٌ",
+        "شَدِيدٌ",
+        "مُّهِينٌ",
+        "مُّقِيمٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "سمع الله لدعاء وشكوى المرأة التي تجادل في زوجها، وبيان بطلان الظهار في الإسلام وفرض كفارته الصارمة من عتق رقبة أو صيام أو إطعام."
+  }
+}

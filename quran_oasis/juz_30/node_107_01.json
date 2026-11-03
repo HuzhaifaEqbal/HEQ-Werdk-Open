@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_107_01",
+  "title": "سورة الماعون: صفات المكذبين بالجزاء وحال الساهين عن الصلاة",
+  "surahId": 107,
+  "ayahStart": 1,
+  "ayahEnd": 7,
+  "activities": [
+    {
+      "activityId": "act_107_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "يُكَذِّبُ",
+        "يَجْحَدُ",
+        "يَكْفُرُ",
+        "يَرْتَابُ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلدِّينِ",
+        "بِٱلْحَقِّ",
+        "بِٱلْكِتَـٰبِ",
+        "بِٱلْبَعْثِ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_107_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "يَدُعُّ",
+        "يَقْهَرُ",
+        "يَظْلِمُ",
+        "يَطْرُدُ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْيَتِيمَ",
+        "ٱلْمِسْكِينَ",
+        "ٱلسَّآئِلَ",
+        "ٱلضَّعِيفَ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_107_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "يَحُضُّ",
+        "يَبْذُلُ",
+        "يُطْعِمُ",
+        "يُنْفِقُ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمِسْكِينِ",
+        "ٱلْيَتِيمِ",
+        "ٱلْفَقِيرِ",
+        "ٱلْمُحْتَاجِ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_107_01_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "لِّلْمُصَلِّينَ",
+        "لِّلْمُكَذِّبِينَ",
+        "لِّلْمُنَـٰفِقِينَ",
+        "لِّلْغَـٰفِلِينَ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_107_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 5,
+      "options": [
+        "سَاهُونَ",
+        "غَافِلُونَ",
+        "مُعْرِضُونَ",
+        "لَاعِبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ]
+    },
+    {
+      "activityId": "act_107_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "يُرَآءُونَ",
+        "يَبْخَلُونَ",
+        "يَسْتَكْبِرُونَ",
+        "يَمْنَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        5,
+        4
+      ]
+    },
+    {
+      "activityId": "act_107_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَمْنَعُونَ",
+        "وَيَحْبِسُونَ",
+        "وَيَبْخَلُونَ",
+        "وَيَقْتُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_107_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَاعُونَ",
+        "ٱلزَّكَوٰةَ",
+        "ٱلْإِحْسَانَ",
+        "ٱلْفَضْلَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الماعون",
+    "juz": 30,
+    "theme": "ذم أخلاق المنافقين والمكذبين بالدين: قسوة على اليتيم، وبخل بالطعام، وتهاون في الصلاة ورياء فيها، ومنع العون اليسير"
+  }
+}

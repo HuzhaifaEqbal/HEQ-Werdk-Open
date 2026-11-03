@@ -1,0 +1,191 @@
+{
+  "nodeId": "hifz_091_03",
+  "title": "سورة الشمس - المقطع الثالث (قصة ثمود وعقر الناقة والدمدمة عليهم)",
+  "surahId": 91,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "كَذَّبَتْ",
+      "missingWordPosition": 1,
+      "options": [
+        "كَذَّبَتْ",
+        "جَحَدَتْ",
+        "كَفَرَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ثَمُودُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ثَمُودُ",
+        "عَادٌ",
+        "مَدْيَنُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "بِطَغْوَىٰهَآ",
+      "missingWordPosition": 3,
+      "options": [
+        "بِطَغْوَىٰهَآ",
+        "بِكُفْرِهَا",
+        "بِظُلْمِهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ٱنۢبَعَثَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱنۢبَعَثَ",
+        "قَامَ",
+        "خَرَجَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "أَشْقَىٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "أَشْقَىٰهَا",
+        "أَظْلَمُهَا",
+        "كَبِيرُهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "رَسُولُ",
+      "missingWordPosition": 3,
+      "options": [
+        "رَسُولُ",
+        "نَبِيُّ",
+        "عَبْدُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "نَاقَةَ",
+      "missingWordPosition": 5,
+      "options": [
+        "نَاقَةَ",
+        "آيَةَ",
+        "بَيِّنَةَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "وَسُقْيَـٰهَا",
+      "missingWordPosition": 7,
+      "options": [
+        "وَسُقْيَـٰهَا",
+        "وَشِرْبَهَا",
+        "وَمَاءَهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        11,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "فَعَقَرُوهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "فَعَقَرُوهَا",
+        "فَقَتَلُوهَا",
+        "فَنَحَرُوهَا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "فَدَمْدَمَ",
+      "missingWordPosition": 3,
+      "options": [
+        "فَدَمْدَمَ",
+        "فَأَنْزَلَ",
+        "فَأَطْبَقَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "فَسَوَّىٰهَا",
+      "missingWordPosition": 7,
+      "options": [
+        "فَسَوَّىٰهَا",
+        "فَأَهْلَكَهَا",
+        "فَأَفْنَاهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَخَافُ",
+      "missingWordPosition": 2,
+      "options": [
+        "يَخَافُ",
+        "يَخْشَى",
+        "يَحْذَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "عُقْبَـٰهَا",
+      "missingWordPosition": 3,
+      "options": [
+        "عُقْبَـٰهَا",
+        "عَاقِبَتَهَا",
+        "جَزَاءَهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "كذبت قبيلة ثمود نبيها صالحاً بسبب طغيانها وتجاوزها الحد، حين سارع وانطلق أشقى القوم (قدار بن سالف) لعقر الناقة، فقال لهم نبي الله صالح محذراً: احذروا عقر ناقة الله واحذروا أن تعتدوا على نوبتها في الشرب (وسقياها)، فكذبوا نبيهم وعقروا الناقة استخفافاً بأمر الله، فأطبق الله عليهم العذاب والهلاك الشامل بذنبهم فسوّى الأرض عليهم فلم يبق منهم أحد، والله سبحانه لا يخاف عاقبة إهلاكهم وتبعاتها؛ فهو القاهر فوق عباده العادل في قضائه."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "nodeId": "node_070_07",
+  "title": "سورة المعارج: عفة المؤمنين وحفظ الفروج وحدود الحلال",
+  "surahId": 70,
+  "ayahStart": 29,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "activityId": "act_070_07_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 4,
+      "options": [
+        "حَـٰفِظُونَ",
+        "صَائِنُونَ",
+        "قَائِمُونَ",
+        "عَافُّونَ"
+      ]
+    },
+    {
+      "activityId": "act_070_07_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        28
+      ]
+    },
+    {
+      "activityId": "act_070_07_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "أَزْوَٰجِهِمْ",
+        "نِسَائِهِمْ",
+        "أَهْلِيهِمْ",
+        "حَلَائِلِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_070_07_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 10,
+      "options": [
+        "مَلُومِينَ",
+        "مُعَاقَبِينَ",
+        "آثِمِينَ",
+        "خَاطِئِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_07_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        29
+      ]
+    },
+    {
+      "activityId": "act_070_07_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱبْتَغَىٰ",
+        "طَلَبَ",
+        "أَرَادَ",
+        "تَعَدَّىٰ"
+      ]
+    },
+    {
+      "activityId": "act_070_07_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَادُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْفَـٰسِقُونَ",
+        "ٱلْخَـٰطِـُٔونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "صيانة الأعراض وحفظ الفروج إلا فيما أحل الله، وبيان أن من تجاوز ذلك فهو من المعتدين لحدود الله"
+  }
+}

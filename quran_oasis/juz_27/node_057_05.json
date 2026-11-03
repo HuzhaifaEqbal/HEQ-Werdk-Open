@@ -1,0 +1,196 @@
+{
+  "nodeId": "node_057_05",
+  "title": "سورة الحديد: خشوع القلوب لذكر الله وحقيقة متاع الغرور والمسابقة إلى الجنة",
+  "surahId": 57,
+  "ayahStart": 16,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "activityId": "act_057_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "تَخْشَعَ",
+        "تَلِينَ",
+        "تَطْمَئِنَّ",
+        "تَخْضَعَ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْأَمَدُ",
+        "ٱلْأَجَلُ",
+        "ٱلْعُمُرُ",
+        "ٱلزَّمَانُ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 24,
+      "options": [
+        "فَقَسَتْ",
+        "فَغَلُظَتْ",
+        "فَأَظْلَمَتْ",
+        "فَخَبُثَتْ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_057_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "يُحْىِ",
+        "يُنْبِتُ",
+        "يَخْلُقُ",
+        "يُعِيدُ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "activityId": "act_057_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُصَّدِّقِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُحْسِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_057_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلصِّدِّيقُونَ ۖ",
+        "ٱلْمُتَّقُونَ",
+        "ٱلْأَبْرَارُ",
+        "ٱلْمُقَرَّبُونَ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_057_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْكُفَّارَ",
+        "ٱلْفَلَّاحِينَ",
+        "ٱلنَّاسَ",
+        "ٱلْمُؤْمِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 25,
+      "options": [
+        "حُطَـٰمًۭا ۖ",
+        "هَشِيمًا",
+        "رَمَادًا",
+        "يَابِسًا"
+      ]
+    },
+    {
+      "activityId": "act_057_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 39,
+      "options": [
+        "ٱلْغُرُورِ",
+        "ٱلْفَنَاءِ",
+        "ٱلْخِدَاعِ",
+        "ٱلْبَاطِلِ"
+      ]
+    },
+    {
+      "activityId": "act_057_05_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "activityId": "act_057_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "سَابِقُوٓا۟",
+        "سَارِعُوٓا۟",
+        "فَفِرُّوٓا۟",
+        "فَٱسْعَوْا۟"
+      ]
+    },
+    {
+      "activityId": "act_057_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 7,
+      "options": [
+        "عَرْضُهَا",
+        "طُولُهَا",
+        "سِعَتُهَا",
+        "حُدُودُهَا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحديد",
+    "juz": 27,
+    "theme": "عتاب المؤمنين لتلين قلوبهم لذكر الله، وضرب مثل الحياة الدنيا بالنبات الزائل، والدعوة إلى المسابقة لمغفرة الله وجنة عرضها كعرض السماء والأرض."
+  }
+}

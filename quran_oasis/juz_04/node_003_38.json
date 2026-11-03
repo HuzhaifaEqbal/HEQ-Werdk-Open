@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_38",
+  "title": "سورة آل عمران - الآيات 183-187",
+  "surahId": 3,
+  "ayahStart": 183,
+  "ayahEnd": 187,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 183,
+      "missingWordPosition": 25,
+      "options": [
+        "قَتَلۡتُمُوهُمۡ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "لَتُبَيِّنُنَّهُۥ"
+      ],
+      "activityId": "act_003_38_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 183,
+      "correctNextAyahNumber": 184,
+      "wrongOptionsAyahNumbers": [
+        185,
+        181
+      ],
+      "activityId": "act_003_38_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 184,
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱلۡبَيِّنَٰتِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_38_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 184,
+      "correctNextAyahNumber": 185,
+      "wrongOptionsAyahNumbers": [
+        186,
+        182
+      ],
+      "activityId": "act_003_38_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 185,
+      "missingWordPosition": 7,
+      "options": [
+        "أُجُورَكُمۡ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ",
+        "بِٱلۡبَيِّنَٰتِ"
+      ],
+      "activityId": "act_003_38_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 185,
+      "correctNextAyahNumber": 186,
+      "wrongOptionsAyahNumbers": [
+        187,
+        183
+      ],
+      "activityId": "act_003_38_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 186,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ لَتُبۡلَوُنَّ",
+        "قَتَلۡتُمُوهُمۡ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_38_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 186,
+      "correctNextAyahNumber": 187,
+      "wrongOptionsAyahNumbers": [
+        188,
+        184
+      ],
+      "activityId": "act_003_38_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 187,
+      "missingWordPosition": 8,
+      "options": [
+        "لَتُبَيِّنُنَّهُۥ",
+        "۞ لَتُبۡلَوُنَّ",
+        "قَتَلۡتُمُوهُمۡ",
+        "أَوۡلِيَآءَهُۥ"
+      ],
+      "activityId": "act_003_38_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يحذر من الفرح بالإمهال، ويذكر أن البخل بالفضل شر لصاحبه وأن الميراث لله."
+  }
+}

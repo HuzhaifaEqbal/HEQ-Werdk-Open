@@ -1,0 +1,158 @@
+{
+  "nodeId": "hifz_082_01",
+  "title": "سورة الانفطار - المقطع الأول (انفطار السماء وبعثرة القبور)",
+  "surahId": 82,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "السَّمَاءُ",
+      "missingWordPosition": 2,
+      "options": [
+        "السَّمَاءُ",
+        "الْأَرْضُ",
+        "الشَّمْسُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "انفَطَرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "انفَطَرَتْ",
+        "انشَقَّتْ",
+        "كُشِطَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "الْكَوَاكِبُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْكَوَاكِبُ",
+        "النُّجُومُ",
+        "الشُّهُبُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "انتَثَرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "انتَثَرَتْ",
+        "انكَدَرَتْ",
+        "طُمِسَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "الْبِحَارُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْبِحَارُ",
+        "الْأَنْهَارُ",
+        "الْعُيُونُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "فُجِّرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "فُجِّرَتْ",
+        "سُجِّرَتْ",
+        "مُلِئَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "الْقُبُورُ",
+      "missingWordPosition": 2,
+      "options": [
+        "الْقُبُورُ",
+        "الْأَرْضُ",
+        "الْأَجْدَاثُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "بُعْثِرَتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "بُعْثِرَتْ",
+        "قُلِبَتْ",
+        "فُتِحَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "قَدَّمَتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "قَدَّمَتْ",
+        "أَحْضَرَتْ",
+        "عَمِلَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "وَأَخَّرَتْ",
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَخَّرَتْ",
+        "وَكَسَبَتْ",
+        "وَصَنَعَتْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "تستهل السورة بذكر أربعة أهوال كونية كبرى عند قيام الساعة؛ إذا تصدعت السماء وانشقت (انفطرت)، وإذا الكواكب والنجوم تساقطت متناثرة من مداراتها (انتثرت)، وإذا البحار فاض بعضها في بعض وفُجّرت فصارت بحراً واحداً، وإذا القبور قُلبت وبعثر ترابها فأُخرج موتاها أحياءً للجزاء. وحين يقع ذلك، تعلم كل نفس يقيناً ما قدمت من أعمال صالحة أو سيئة في حياتها، وما أخّرت من آثار وسنن تركتها بعدها."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_007_14",
+  "title": "سورة الأعراف - الآيات 79-82",
+  "surahId": 7,
+  "ayahStart": 79,
+  "ayahEnd": 82,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 6,
+      "options": [
+        "أَبْلَغْتُكُمْ",
+        "قَرْيَتِكُمْ ۖ",
+        "يَتَطَهَّرُونَ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_007_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_007_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "أَبْلَغْتُكُمْ",
+        "ٱلنَّـٰصِحِينَ",
+        "ٱلنِّسَآءِ ۚ"
+      ],
+      "activityId": "act_007_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_007_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلنِّسَآءِ ۚ",
+        "أَخْرِجُوهُم",
+        "أَبْلَغْتُكُمْ",
+        "قَرْيَتِكُمْ ۖ"
+      ],
+      "activityId": "act_007_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_007_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 8,
+      "options": [
+        "أَخْرِجُوهُم",
+        "ٱلنِّسَآءِ ۚ",
+        "ٱلنَّـٰصِحِينَ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_007_14_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 8,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

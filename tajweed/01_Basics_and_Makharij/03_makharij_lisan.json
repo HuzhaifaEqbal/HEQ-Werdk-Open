@@ -1,0 +1,106 @@
+{
+  "steps": [
+    {
+      "type": "concept",
+      "title": "مخرج اللسان - أوسع المخارج",
+      "content": "اللسان هو أوسع المخارج العامة وأكثرها حروفاً. يحتوي على 10 مخارج خاصة موزعة على أربع مناطق: أقصى اللسان، وسطه، حافته، وطرفه. ويخرج منه إجمالاً 18 حرفاً من حروف الهجاء.",
+      "example": "القاف والكاف من أقصى اللسان، والجيم والشين من وسطه، والضاد من حافته.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001003.mp3",
+      "visual_example": "<svg viewBox=\"0 0 220 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"220\" height=\"170\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">مناطق اللسان الأربع</text><ellipse cx=\"110\" cy=\"100\" rx=\"80\" ry=\"52\" fill=\"#FCE4EC\" stroke=\"#E91E63\" stroke-width=\"2\"/><line x1=\"60\" y1=\"100\" x2=\"160\" y2=\"100\" stroke=\"#C2185B\" stroke-width=\"1\" stroke-dasharray=\"4,2\"/><line x1=\"95\" y1=\"55\" x2=\"95\" y2=\"145\" stroke=\"#C2185B\" stroke-width=\"1\" stroke-dasharray=\"4,2\"/><text x=\"76\" y=\"82\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">أقصى</text><text x=\"76\" y=\"92\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">ق  ك</text><text x=\"135\" y=\"82\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">وسط</text><text x=\"135\" y=\"92\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">ج  ش  ي</text><text x=\"135\" y=\"118\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">حافة</text><text x=\"135\" y=\"128\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">ض  ل</text><text x=\"76\" y=\"118\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">طرف</text><text x=\"76\" y=\"128\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#880E4F\">ن  ر  ط  د  ت  ص  ز  س  ظ  ذ  ث</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "مخرج 'اللسان' هو أوسع المخارج العامة وأكثرها حروفاً. كم عدد المخارج الخاصة داخله، وكم حرفاً يخرج منها؟",
+      "options": [
+        "5 مخارج خاصة لـ 10 حروف",
+        "10 مخارج خاصة لـ 18 حرفاً",
+        "17 مخرجاً خاصاً لـ 28 حرفاً",
+        "3 مخارج خاصة لـ 6 حروف"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "اللسان هو العضو الرئيسي في النطق، ويحتوي على 10 مخارج خاصة تتوزع على 4 مناطق (أقصى اللسان، وسطه، حافته، وطرفه)، ويخرج منها إجمالاً 18 حرفاً من حروف الهجاء."
+    },
+    {
+      "type": "concept",
+      "title": "حروف أقصى اللسان",
+      "content": "من أقصى اللسان يخرج حرفان: القاف من أقصى اللسان مع الحنك الأعلى اللحمي (الرخو)، والكاف من أقصى اللسان مع الحنك اللحمي والعظمي معاً. فالقاف أعمق من الكاف بقليل.",
+      "example": "قوله تعالى: (قُلْ هُوَ اللَّهُ أَحَدٌ) - الإخلاص:1 - انطق (قُلْ) ثم (كُلْ) وستشعر أن القاف أعمق في الحلق من الكاف.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/112001.mp3"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "ما هما الحرفان اللذان يخرجان من منطقة 'أقصى اللسان' (وهي أبعد منطقة في اللسان من جهة الحلق)؟",
+      "options": [
+        "الجيم والشين",
+        "الضاد واللام",
+        "القاف والكاف",
+        "النون والراء"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "يخرج من أقصى اللسان حرفان: (القاف) مع ما يحاذيها من الحنك الأعلى اللحمي (الرخو)، وتحتها قليلاً تخرج (الكاف) من أقصى اللسان مع الحنك اللحمي والعظمي معاً."
+    },
+    {
+      "type": "concept",
+      "title": "الحروف الشجرية",
+      "content": "الحروف الشجرية هي: الجيم، والشين، والياء غير المدية. تخرج من وسط اللسان مع ما يحاذيه من سقف الحنك الأعلى. سُميت شجرية نسبة إلى شجر الفم أي منفتحه ومتسعه.",
+      "example": "قوله تعالى: (وَالشَّمْسِ وَضُحَاهَا) - الشمس:1 - الشين في (الشمس) حرف شجري يخرج من وسط اللسان مع الحنك الأعلى.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/091001.mp3"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "تُسمى حروف (الجيم، الشين، الياء غير المدية) بالحروف 'الشجرية'. من أين تخرج بالتحديد؟",
+      "options": [
+        "من طرف اللسان مع أصول الثنايا العليا",
+        "من إحدى حافتي اللسان أو كليهما مع الأضراس",
+        "من أدنى حافة اللسان إلى منتهاها",
+        "من وسط اللسان مع ما يحاذيه من الحنك الأعلى"
+      ],
+      "correct_answer_index": 3,
+      "explanation": "تخرج هذه الحروف الثلاثة (مجموعة في كلمة: جيش) من وسط اللسان مع ما يحاذيه من سقف الحنك الأعلى، وسُميت 'شجرية' نسبة إلى شجر الفم، أي منفتحه ومتسعه."
+    },
+    {
+      "type": "concept",
+      "title": "مخرج حرف الضاد",
+      "content": "حرف الضاد من أصعب الحروف العربية نطقاً. يخرج من إحدى حافتي اللسان (أو كلتيهما) مع ما يحاذيها من الصفحة الداخلية للأضراس العليا. النطق به من طرف اللسان مع الأسنان الأمامية خطأ شائع.",
+      "example": "قوله تعالى: (غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ) - الفاتحة:7 - الضاد في (الضَّالِّينَ): تلمس حافة لسانك بالأضراس العليا اليمنى أو اليسرى.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3",
+      "visual_example": "<svg viewBox=\"0 0 200 150\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"200\" height=\"150\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"100\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">مخرج حرف الضاد</text><ellipse cx=\"100\" cy=\"85\" rx=\"65\" ry=\"42\" fill=\"#FCE4EC\" stroke=\"#E91E63\" stroke-width=\"2\"/><rect x=\"20\" y=\"68\" width=\"18\" height=\"34\" rx=\"3\" fill=\"#B0BEC5\" stroke=\"#78909C\" stroke-width=\"1\"/><rect x=\"162\" y=\"68\" width=\"18\" height=\"34\" rx=\"3\" fill=\"#B0BEC5\" stroke=\"#78909C\" stroke-width=\"1\"/><text x=\"100\" y=\"90\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"14\" fill=\"#C2185B\">ض</text><text x=\"29\" y=\"115\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#546E7A\">أضراس</text><text x=\"171\" y=\"115\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#546E7A\">أضراس</text><text x=\"100\" y=\"140\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"9\" fill=\"#9CA3AF\">حافة اللسان ← الأضراس العليا</text></svg>"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "يُعتبر حرف 'الضاد' من أصعب الحروف العربية نطقاً. ما هو مخرجه الدقيق؟",
+      "options": [
+        "من إحدى حافتي اللسان (أو كلتيهما) مع ما يحاذيها من الصفحة الداخلية للأضراس العليا",
+        "من طرف اللسان مع أطراف الثنايا العليا",
+        "من وسط اللسان مع التصاقه التام بالحنك الأعلى",
+        "من أقصى اللسان مع ما يحاذيه من الحنك اللحمي"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "مخرج الضاد يكون من حافة اللسان (اليمين، أو اليسار، أو كلاهما معاً) وما يحاذيها من الأضراس العليا. النطق بالضاد من طرف اللسان مع الأسنان الأمامية (لتشبه الظاء) هو خطأ شائع جداً."
+    },
+    {
+      "type": "concept",
+      "title": "الحروف النطعية",
+      "content": "الحروف النطعية هي: الطاء، والدال، والتاء. تخرج من طرف اللسان مع أصول (جذور) الثنايا العليا. سُميت نطعية نسبة إلى نطع الفم وهو الجزء الأمامي المتجعد من سقف الحنك الأعلى.",
+      "example": "قوله تعالى: (وَالتِّينِ وَالزَّيْتُونِ) - التين:1 - التاء في (التِّينِ) حرف نطعي يخرج من طرف اللسان مع أصول الثنايا العليا.",
+      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/095001.mp3"
+    },
+    {
+      "type": "question",
+      "question_type": "multiple_choice",
+      "question_text": "تخرج حروف (الطاء، الدال، التاء) من طرف اللسان مع أصول (جذور) الثنايا العليا. ماذا تُسمى هذه المجموعة؟",
+      "options": [
+        "الحروف اللثوية",
+        "الحروف النطعية",
+        "الحروف الأسلية",
+        "الحروف الذلقية"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "تُسمى الحروف 'النطعية' لمجاورة مخرجها لـ 'نطع الفم' وهو الجزء الأمامي المتجعد من سقف الحنك الأعلى. أما الحروف اللثوية فهي (الظاء، الذال، الثاء)، والأسلية (الصاد، الزاي، السين)."
+    }
+  ]
+}

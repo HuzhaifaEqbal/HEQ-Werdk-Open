@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_40",
+  "title": "سورة آل عمران - الآيات 193-197",
+  "surahId": 3,
+  "ayahStart": 193,
+  "ayahEnd": 197,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 193,
+      "missingWordPosition": 20,
+      "options": [
+        "ٱلۡأَبۡرَارِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ٱلۡمِيعَادَ"
+      ],
+      "activityId": "act_003_40_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 193,
+      "correctNextAyahNumber": 194,
+      "wrongOptionsAyahNumbers": [
+        195,
+        191
+      ],
+      "activityId": "act_003_40_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 194,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلۡمِيعَادَ",
+        "ٱلۡأَبۡرَارِ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ"
+      ],
+      "activityId": "act_003_40_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 194,
+      "correctNextAyahNumber": 195,
+      "wrongOptionsAyahNumbers": [
+        196,
+        192
+      ],
+      "activityId": "act_003_40_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 195,
+      "missingWordPosition": 30,
+      "options": [
+        "وَلَأُدۡخِلَنَّهُمۡ",
+        "بِٱلۡمُفۡسِدِينَ",
+        "فَٱسۡتَغۡفَرُواْ",
+        "ٱلۡأَبۡرَارِ"
+      ],
+      "activityId": "act_003_40_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 195,
+      "correctNextAyahNumber": 196,
+      "wrongOptionsAyahNumbers": [
+        197,
+        193
+      ],
+      "activityId": "act_003_40_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 196,
+      "missingWordPosition": 2,
+      "options": [
+        "يَغُرَّنَّكَ",
+        "ءَامَنَّا",
+        "ءَانَآءَ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_40_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 196,
+      "correctNextAyahNumber": 197,
+      "wrongOptionsAyahNumbers": [
+        198,
+        194
+      ],
+      "activityId": "act_003_40_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 197,
+      "missingWordPosition": 4,
+      "options": [
+        "مَأۡوَىٰهُمۡ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ",
+        "يَغُرَّنَّكَ"
+      ],
+      "activityId": "act_003_40_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يذكر ابتلاء المؤمنين في الأموال والأنفس، وميثاق أهل الكتاب، ثم يدعو للتفكر في خلق السماوات والأرض."
+  }
+}

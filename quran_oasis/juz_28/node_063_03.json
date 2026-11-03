@@ -1,0 +1,202 @@
+{
+  "nodeId": "node_063_03",
+  "title": "سورة المنافقون: التحذير من فتنة الأموال والإنفاق قبل فوات الأجل",
+  "surahId": 63,
+  "ayahStart": 9,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_063_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "تُلْهِكُمْ",
+        "تَشْغَلْكُمْ",
+        "تَصْرِفْكُمْ",
+        "تَفْتِنْكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْلَـٰدُكُمْ",
+        "أَهْلُوكُمْ",
+        "عَشَائِرُكُمْ",
+        "دُنْيَاكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 10,
+      "options": [
+        "ذِكْرِ",
+        "طَاعَةِ",
+        "عِبَادَةِ",
+        "فَرَائِضِ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْخَـٰسِرُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْغَـٰفِلُونَ",
+        "ٱلْفَـٰسِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        9
+      ]
+    },
+    {
+      "activityId": "act_063_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَنفِقُوا۟",
+        "وَتَصَدَّقُوا۟",
+        "وَٱبْذُلُوا۟",
+        "وَأَعْطُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "رَزَقْنَـٰكُم",
+        "أَعْطَيْنَاكُم",
+        "آتَيْنَاكُم",
+        "مَنَحْنَاكُم"
+      ]
+    },
+    {
+      "activityId": "act_063_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمَوْتُ",
+        "ٱلْأَجَلُ",
+        "ٱلْيَقِينُ",
+        "ٱلْفِرَاقُ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 14,
+      "options": [
+        "أَخَّرْتَنِىٓ",
+        "أَمْهَلْتَنِىٓ",
+        "أَنْظَرْتَنِىٓ",
+        "أَبْقَيْتَنِىٓ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 18,
+      "options": [
+        "فَأَصَّدَّقَ",
+        "فَأُنْفِقَ",
+        "فَأُعْطِيَ",
+        "فَأَبْذُلَ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُحْسِنِينَ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_063_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "يُؤَخِّرَ",
+        "يُمْهِلَ",
+        "يُنْظِرَ",
+        "يَمْنَعَ"
+      ]
+    },
+    {
+      "activityId": "act_063_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "نَفْسًا",
+        "عَبْدًا",
+        "إِنْسَانًا",
+        "خَلْقًا"
+      ]
+    },
+    {
+      "activityId": "act_063_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "أَجَلُهَا ۚ",
+        "مَوْتُهَا",
+        "حِينُهَا",
+        "وَقْتُهَا"
+      ]
+    },
+    {
+      "activityId": "act_063_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 9,
+      "options": [
+        "خَبِيرٌۢ",
+        "عَلِيمٌ",
+        "بَصِيرٌ",
+        "مُحِيطٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المنافقون",
+    "juz": 28,
+    "theme": "تحذير المؤمنين من أن تشغلهم الأموال والأولاد عن ذكر الله، والأمر بالمسارعة إلى الإنفاق والصدقة قبل مباغتة الموت والندم حين لا ينفع الندم ولا يؤخر الله أجلاً."
+  }
+}

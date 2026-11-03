@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_004_36",
+  "title": "سورة النساء - الآيات 174-176",
+  "surahId": 4,
+  "ayahStart": 174,
+  "ayahEnd": 176,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَنزَلۡنَآ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_36_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "wrongOptionsAyahNumbers": [
+        176,
+        172
+      ],
+      "activityId": "act_004_36_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱعۡتَصَمُواْ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ٱلۡأُنثَيَيۡنِۗ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_36_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "wrongOptionsAyahNumbers": [
+        173,
+        172
+      ],
+      "activityId": "act_004_36_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 41,
+      "options": [
+        "ٱلۡأُنثَيَيۡنِۗ",
+        "وَٱعۡتَصَمُواْ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_36_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر برهان الله وكتابه، ويختم بأحكام المواريث في الكلالة."
+  }
+}

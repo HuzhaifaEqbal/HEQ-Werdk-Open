@@ -1,0 +1,140 @@
+{
+  "nodeId": "node_071_06",
+  "title": "سورة نوح: غرق الكافرين ودعاء نوح الجامع للمؤمنين",
+  "surahId": 71,
+  "ayahStart": 25,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "activityId": "act_071_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "أُغْرِقُوا۟",
+        "أُهْلِكُوا",
+        "عُذِّبُوا",
+        "دُمِّرُوا"
+      ]
+    },
+    {
+      "activityId": "act_071_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "نَارًۭا",
+        "جَحِيمًا",
+        "سَعِيرًا",
+        "عَذَابًا"
+      ]
+    },
+    {
+      "activityId": "act_071_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 12,
+      "options": [
+        "أَنصَارًۭا",
+        "شُفَعَاءَ",
+        "أَوْلِيَاءَ",
+        "مَانِعِينَ"
+      ]
+    },
+    {
+      "activityId": "act_071_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_071_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 10,
+      "options": [
+        "دَيَّارًا",
+        "أَحَدًا",
+        "بَاقِيًا",
+        "سَاكِنًا"
+      ]
+    },
+    {
+      "activityId": "act_071_06_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        25
+      ]
+    },
+    {
+      "activityId": "act_071_06_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 9,
+      "options": [
+        "فَاجِرًۭا",
+        "ظَالِمًا",
+        "فَاسِقًا",
+        "مُجْرِمًا"
+      ]
+    },
+    {
+      "activityId": "act_071_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 10,
+      "options": [
+        "كَفَّارًۭا",
+        "عَنِيدًا",
+        "أَثِيمًا",
+        "جَبَّارًا"
+      ]
+    },
+    {
+      "activityId": "act_071_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        26,
+        25
+      ]
+    },
+    {
+      "activityId": "act_071_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "وَلِوَٰلِدَىَّ",
+        "وَلِإِخْوَانِى",
+        "وَلِأَهْلِى",
+        "وَلِعَشِيرَتِى"
+      ]
+    },
+    {
+      "activityId": "act_071_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 15,
+      "options": [
+        "تَبَارًۢا",
+        "ضَلَالًا",
+        "خَسَارًا",
+        "هَلَاكًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "عقوبة قوم نوح بالطوفان وإدخالهم النار، ودعاء نوح باستئصال الكافرين ودعائه بالمغفرة لوالديه وللمؤمنين والمؤمنات"
+  }
+}

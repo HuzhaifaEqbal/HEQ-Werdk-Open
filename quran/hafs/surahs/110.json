@@ -1,0 +1,43 @@
+{
+  "number": 110,
+  "name_ar": "النَّصر",
+  "name_en": "An-Naṣr",
+  "ayahs_count": 3,
+  "page_start": 603,
+  "page_end": 603,
+  "ayahs": [
+    {
+      "id": 6214,
+      "number": 1,
+      "text_uthmani": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ ١",
+      "text_simple": "إذا جاء نصر الله والفتح",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6215,
+      "number": 2,
+      "text_uthmani": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا ٢",
+      "text_simple": "ورأيت الناس يدخلون في دين الله أفواجا",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 9
+    },
+    {
+      "id": 6216,
+      "number": 3,
+      "text_uthmani": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا ٣",
+      "text_simple": "فسبح بحمد ربك واستغفره إنه كان توابا",
+      "juz": 30,
+      "page": 603,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 10
+    }
+  ]
+}

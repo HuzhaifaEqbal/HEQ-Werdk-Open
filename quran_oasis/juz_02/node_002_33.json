@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_33",
+  "title": "سورة البقرة - الآيات 156-160",
+  "surahId": 2,
+  "ayahStart": 156,
+  "ayahEnd": 160,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 3,
+      "options": [
+        "أَصَٰبَتۡهُم",
+        "أَنزَلۡنَا",
+        "فَأُوْلَٰٓئِكَ",
+        "وَأُوْلَٰٓئِكَ"
+      ],
+      "activityId": "act_002_33_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "wrongOptionsAyahNumbers": [
+        158,
+        154
+      ],
+      "activityId": "act_002_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلۡمُهۡتَدُونَ",
+        "وَأَصۡلَحُواْ",
+        "وَيَلۡعَنُهُمُ",
+        "وَٱلۡمَرۡوَةَ"
+      ],
+      "activityId": "act_002_33_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 157,
+      "correctNextAyahNumber": 158,
+      "wrongOptionsAyahNumbers": [
+        159,
+        155
+      ],
+      "activityId": "act_002_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلۡمَرۡوَةَ",
+        "ٱللَّٰعِنُونَ",
+        "وَأَصۡلَحُواْ",
+        "وَيَلۡعَنُهُمُ"
+      ],
+      "activityId": "act_002_33_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "wrongOptionsAyahNumbers": [
+        160,
+        156
+      ],
+      "activityId": "act_002_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 19,
+      "options": [
+        "وَيَلۡعَنُهُمُ",
+        "وَٱلۡمَرۡوَةَ",
+        "ٱللَّٰعِنُونَ",
+        "وَأَصۡلَحُواْ"
+      ],
+      "activityId": "act_002_33_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "wrongOptionsAyahNumbers": [
+        161,
+        157
+      ],
+      "activityId": "act_002_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَصۡلَحُواْ",
+        "وَيَلۡعَنُهُمُ",
+        "وَٱلۡمَرۡوَةَ",
+        "ٱللَّٰعِنُونَ"
+      ],
+      "activityId": "act_002_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يعرض شعائر الصفا والمروة، ويحذر من كتمان البينات، ويفتح باب التوبة والرحمة."
+  }
+}

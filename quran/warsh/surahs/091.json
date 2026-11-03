@@ -1,0 +1,175 @@
+{
+  "number": 91,
+  "name_ar": "الشَّمس",
+  "name_en": "Ash-Shams",
+  "ayahs_count": 15,
+  "page_start": 595,
+  "page_end": 595,
+  "ayahs": [
+    {
+      "id": 6021,
+      "number": 1,
+      "text_uthmani": "وَالشَّمْسِ وَضُحَيٰهَا ١",
+      "text_simple": "والشمس وضحيها ١",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6022,
+      "number": 2,
+      "text_uthmani": "وَالْقَمَرِ إِذَا تَلَيٰهَا ٢",
+      "text_simple": "والقمر اذا تليها ٢",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6023,
+      "number": 3,
+      "text_uthmani": "وَالنَّه۪ارِ إِذَا جَلَّيٰهَا ٣",
+      "text_simple": "والنهار اذا جليها ٣",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 4,
+      "line_end": 4
+    },
+    {
+      "id": 6024,
+      "number": 4,
+      "text_uthmani": "وَاليْلِ إِذَا يَغْشَيٰهَا ٤",
+      "text_simple": "واليل اذا يغشيها ٤",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6025,
+      "number": 5,
+      "text_uthmani": "وَالسَّمَآءِ وَمَا بَنَيٰهَا ٥",
+      "text_simple": "والسمآء وما بنيها ٥",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 5
+    },
+    {
+      "id": 6026,
+      "number": 6,
+      "text_uthmani": "وَالَارْضِ وَمَا طَحَيٰهَا ٦",
+      "text_simple": "والارض وما طحيها ٦",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 5,
+      "line_end": 6
+    },
+    {
+      "id": 6027,
+      "number": 7,
+      "text_uthmani": "وَنَفْسٖ وَمَا سَوَّيٰهَا ٧",
+      "text_simple": "ونفسٖ وما سويها ٧",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 6
+    },
+    {
+      "id": 6028,
+      "number": 8,
+      "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَيٰهَا ٨",
+      "text_simple": "فالهمها فجورها وتقويها ٨",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 6,
+      "line_end": 7
+    },
+    {
+      "id": 6029,
+      "number": 9,
+      "text_uthmani": "قَدَ اَفْلَحَ مَن زَكَّيٰهَا ٩",
+      "text_simple": "قد افلح من زكيها ٩",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6030,
+      "number": 10,
+      "text_uthmani": "وَقَدْ خَابَ مَن دَسَّيٰهَاۖ ١٠",
+      "text_simple": "وقد خاب من دسيها ١٠",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 7,
+      "line_end": 7
+    },
+    {
+      "id": 6031,
+      "number": 11,
+      "text_uthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَيٰهَآ ١١",
+      "text_simple": "كذبت ثمود بطغويهآ ١١",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6032,
+      "number": 12,
+      "text_uthmani": "إِذِ اِ۪نۢبَعَثَ أَشْقَيٰهَا ١٢",
+      "text_simple": "اذ انبعث اشقيها ١٢",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 8
+    },
+    {
+      "id": 6033,
+      "number": 13,
+      "text_uthmani": "فَقَالَ لَهُمْ رَسُولُ اُ۬للَّهِ نَاقَةَ اَ۬للَّهِ وَسُقْيَاهَا ١٣",
+      "text_simple": "فقال لهم رسول الله ناقه الله وسقياها ١٣",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 8,
+      "line_end": 9
+    },
+    {
+      "id": 6034,
+      "number": 14,
+      "text_uthmani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّيٰهَاۖ ١٤",
+      "text_simple": "فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسويها ١٤",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 9,
+      "line_end": 10
+    },
+    {
+      "id": 6035,
+      "number": 15,
+      "text_uthmani": "فَلَا يَخَافُ عُقْبَٰهَاۖ ١٥",
+      "text_simple": "فلا يخاف عقبها ١٥",
+      "juz": 30,
+      "page": 595,
+      "page_end": null,
+      "line_start": 10,
+      "line_end": 10
+    }
+  ]
+}

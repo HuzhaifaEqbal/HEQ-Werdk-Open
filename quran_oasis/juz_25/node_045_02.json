@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_045_02",
+  "title": "سورة الجاثية: ويل للأفاك الأثيم وعاقبة الاستهزاء بآيات الله وعذاب جهنم",
+  "surahId": 45,
+  "ayahStart": 7,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "activityId": "act_045_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "أَفَّاكٍ",
+        "كَذَّابٍ",
+        "مُجْرِمٍ",
+        "ظَالِمٍ"
+      ]
+    },
+    {
+      "activityId": "act_045_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_045_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "يُصِرُّ",
+        "يَمْضِى",
+        "يَتَوَلَّىٰ",
+        "يُعْرِضُ"
+      ]
+    },
+    {
+      "activityId": "act_045_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "activityId": "act_045_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "هُزُوًا ۚ",
+        "لَعِبًا",
+        "بَاطِلًا",
+        "سُخْرِيًّا"
+      ]
+    },
+    {
+      "activityId": "act_045_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_045_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "جَهَنَّمُ ۖ",
+        "ٱلنَّارُ",
+        "ٱلسَّعِيرُ",
+        "ٱلْجَحِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_045_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "أَوْلِيَآءَ ۖ",
+        "شُفَعَاءَ",
+        "شُرَكَاءَ",
+        "أَنْدَادًا"
+      ]
+    },
+    {
+      "activityId": "act_045_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_045_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 10,
+      "options": [
+        "رِّجْزٍ",
+        "عَذَابٍ",
+        "غَضَبٍ",
+        "سَخَطٍ"
+      ]
+    }
+  ]
+}

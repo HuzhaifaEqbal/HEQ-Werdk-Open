@@ -1,0 +1,132 @@
+{
+  "nodeId": "node_064_03",
+  "title": "سورة التغابن: يوم الجمع ويوم التغابن وفوز المؤمنين وخسران الكافرين",
+  "surahId": 64,
+  "ayahStart": 9,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_064_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْجَمْعِ ۖ",
+        "ٱلْفَصْلِ",
+        "ٱلْحِسَابِ",
+        "ٱلدِّينِ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلتَّغَابُنِ ۗ",
+        "ٱلْحَسْرَةِ",
+        "ٱلْقِيَامَةِ",
+        "ٱلْجَزَاءِ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 13,
+      "options": [
+        "يُكَفِّرْ",
+        "يَمْحُ",
+        "يَسْتُرْ",
+        "يَغْفِرْ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 15,
+      "options": [
+        "سَيِّـَٔاتِهِۦ",
+        "ذُنُوبَهُ",
+        "خَطَايَاهُ",
+        "آثَامَهُ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلْأَنْهَـٰرُ",
+        "ٱلْعُيُونُ",
+        "ٱلسُّرُرُ",
+        "ٱلنَّعِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 26,
+      "options": [
+        "ٱلْفَوْزُ",
+        "ٱلنَّجَاحُ",
+        "ٱلْفَلَاحُ",
+        "ٱلْأَجْرُ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        9
+      ]
+    },
+    {
+      "activityId": "act_064_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "بِـَٔايَـٰتِنَآ",
+        "بِكُتُبِنَا",
+        "بِرُسُلِنَا",
+        "بِآيَاتِنَا"
+      ]
+    },
+    {
+      "activityId": "act_064_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلنَّارِ",
+        "جَهَنَّمَ",
+        "ٱلسَّعِيرِ",
+        "سَقَرَ"
+      ]
+    },
+    {
+      "activityId": "act_064_03_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمُنْقَلَبُ",
+        "ٱلْمَآبُ",
+        "ٱلْمَقَرُّ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التغابن",
+    "juz": 28,
+    "theme": "مشهد جمع الخلائق يوم القيامة للحساب والجزاء وهو يوم التغابن الذي يظهر فيه غبن الكافرين وفوز المؤمنين بالخلود في جنات النعيم، وخلود المكذبين في النار."
+  }
+}

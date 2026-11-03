@@ -1,0 +1,236 @@
+{
+  "nodeId": "node_063_02",
+  "title": "سورة المنافقون: استكبار المنافقين وقطع النفقة وزعم العزة",
+  "surahId": 63,
+  "ayahStart": 5,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "activityId": "act_063_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "تَعَالَوْا۟",
+        "أَقْبِلُوا۟",
+        "تُوبُوا۟",
+        "ٱرْجِعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_02_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "لَوَّوْا۟",
+        "أَمَالُوا۟",
+        "حَرَّكُوا۟",
+        "أَعْرَضُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 12,
+      "options": [
+        "يَصُدُّونَ",
+        "يُدْبِرُونَ",
+        "يُعْرِضُونَ",
+        "يَنْفِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 14,
+      "options": [
+        "مُّسْتَكْبِرُونَ",
+        "مُّعَانِدُونَ",
+        "ظَالِمُونَ",
+        "كَافِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "activityId": "act_063_02_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 1,
+      "options": [
+        "سَوَآءٌ",
+        "مِثْلٌ",
+        "وَاحِدٌ",
+        "حَقٌّ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 10,
+      "options": [
+        "يَغْفِرَ",
+        "يَعْفُوَ",
+        "يَصْفَحَ",
+        "يَرْحَمَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلْفَـٰسِقِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "wrongOptionsAyahNumbers": [
+        8,
+        5
+      ]
+    },
+    {
+      "activityId": "act_063_02_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "تُنفِقُوا۟",
+        "تُعْطُوا۟",
+        "تَبْذُلُوا۟",
+        "تَصِلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 12,
+      "options": [
+        "يَنفَضُّوا۟ ۗ",
+        "يَتَفَرَّقُوا۟",
+        "يَرْحَلُوا۟",
+        "يَخْرُجُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_063_02_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 14,
+      "options": [
+        "خَزَآئِنُ",
+        "أَمْوَالُ",
+        "أَرْزَاقُ",
+        "مُلْكُ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 20,
+      "options": [
+        "يَفْقَهُونَ",
+        "يَعْلَمُونَ",
+        "يُؤْمِنُونَ",
+        "يَسْمَعُونَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_063_02_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 3,
+      "options": [
+        "رَّجَعْنَآ",
+        "عُدْنَآ",
+        "آبْنَآ",
+        "قَدِمْنَآ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَعَزُّ",
+        "ٱلْأَقْوَىٰ",
+        "ٱلْأَعْلَىٰ",
+        "ٱلْأَشْرَفُ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَذَلَّ ۚ",
+        "ٱلْأَضْعَفَ",
+        "ٱلْمَهْزُومَ",
+        "ٱلْخَاسِرَ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْعِزَّةُ",
+        "ٱلْقُوَّةُ",
+        "ٱلْمُلْكُ",
+        "ٱلْفَخْرُ"
+      ]
+    },
+    {
+      "activityId": "act_063_02_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 17,
+      "options": [
+        "يَعْلَمُونَ",
+        "يَفْقَهُونَ",
+        "يُوقِنُونَ",
+        "يُبْصِرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المنافقون",
+    "juz": 28,
+    "theme": "استكبار المنافقين عن طلب مغفرة الرسول، ومؤامرتهم الخبيثة بمنع الإنفاق على فقراء المهاجرين، وزعم ابن سلول أن الأعز سيخرج الأذل، وتأكيد أن العزة لله ولرسوله وللمؤمنين."
+  }
+}

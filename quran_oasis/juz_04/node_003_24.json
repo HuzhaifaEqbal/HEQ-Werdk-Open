@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_24",
+  "title": "سورة آل عمران - الآيات 113-117",
+  "surahId": 3,
+  "ayahStart": 113,
+  "ayahEnd": 117,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ لَيۡسُواْ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "فَأَهۡلَكَتۡهُۚ"
+      ],
+      "activityId": "act_003_24_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_003_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلۡمَعۡرُوفِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "بِٱلۡمُتَّقِينَ"
+      ],
+      "activityId": "act_003_24_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_003_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱلۡمُتَّقِينَ",
+        "بِٱلۡمَعۡرُوفِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_24_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_003_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 7,
+      "options": [
+        "أَمۡوَٰلُهُمۡ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "۞ لَيۡسُواْ"
+      ],
+      "activityId": "act_003_24_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "wrongOptionsAyahNumbers": [
+        118,
+        114
+      ],
+      "activityId": "act_003_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 17,
+      "options": [
+        "فَأَهۡلَكَتۡهُۚ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "۞ لَيۡسُواْ"
+      ],
+      "activityId": "act_003_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يحذر المؤمنين من اتخاذ بطانة تسرها مشقتهم، ويذكر أن ما في الصدور يعلمه الله."
+  }
+}

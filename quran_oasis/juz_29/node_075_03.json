@@ -1,0 +1,254 @@
+{
+  "nodeId": "node_075_03",
+  "title": "سورة القيامة: إحاطة الإنسان بعمله وحفظ القرآن وبيانه",
+  "surahId": 75,
+  "ayahStart": 13,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "activityId": "act_075_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "يُنَبَّؤُا۟",
+        "يُجْزَى",
+        "يُحَاسَبُ",
+        "يُسْأَلُ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "قَدَّمَ",
+        "عَمِلَ",
+        "كَسَبَ",
+        "أَسْلَفَ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَخَّرَ",
+        "وَأَبْقَى",
+        "وَفَرَّطَ",
+        "وَأَضَاعَ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_075_03_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "نَفْسِهِۦ",
+        "عَمَلِهِ",
+        "جَوَارِحِهِ",
+        "كِتَابِهِ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "بَصِيرَةٌۭ",
+        "شَهِيدٌ",
+        "حَسِيبٌ",
+        "عَلِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_075_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 2,
+      "options": [
+        "أَلْقَىٰ",
+        "أَبْدَى",
+        "جَاءَ",
+        "قَدَّمَ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "مَعَاذِيرَهُۥ",
+        "حُجَجَهُ",
+        "أَعْذَارَهُ",
+        "بُرْهَانَهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_075_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "تُحَرِّكْ",
+        "تَبْسُطْ",
+        "تَرْفَعْ",
+        "تُجْهِدْ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "لِسَانَكَ",
+        "صَوْتَكَ",
+        "فَمَكَ",
+        "قَلْبَكَ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "لِتَعْجَلَ",
+        "لِتَسْبِقَ",
+        "لِتَحْفَظَ",
+        "لِتَفْهَمَ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "activityId": "act_075_03_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 3,
+      "options": [
+        "جَمْعَهُۥ",
+        "حِفْظَهُ",
+        "إِنْزَالَهُ",
+        "تَرْتِيلَهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "وَقُرْءَانَهُۥ",
+        "وَتِبْيَانَهُ",
+        "وَإِقْرَاءَهُ",
+        "وَتَفْسِيرَهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        13
+      ]
+    },
+    {
+      "activityId": "act_075_03_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "قَرَأْنَـٰهُ",
+        "تَلَوْنَاهُ",
+        "أَنْزَلْنَاهُ",
+        "أَوْحَيْنَاهُ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱتَّبِعْ",
+        "فَٱسْتَمِعْ",
+        "فَٱنْظُرْ",
+        "فَٱلْزَمْ"
+      ]
+    },
+    {
+      "activityId": "act_075_03_20",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_075_03_21",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "بَيَانَهُۥ",
+        "تَفْسِيرَهُ",
+        "حِسَابَهُ",
+        "إِحْكَامَهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القيامة",
+    "juz": 29,
+    "theme": "إعلام الإنسان يوم القيامة بجميع ما قدّم وأخّر وشهادته على نفسه، وتوجيه الله لرسوله ﷺ بعدم التعجل بالقرآن وتكفل الله بحفظه وبيانه."
+  }
+}

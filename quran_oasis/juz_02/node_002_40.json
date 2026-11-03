@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_40",
+  "title": "سورة البقرة - الآيات 191-195",
+  "surahId": 2,
+  "ayahStart": 191,
+  "ayahEnd": 195,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 191,
+      "missingWordPosition": 3,
+      "options": [
+        "ثَقِفۡتُمُوهُمۡ",
+        "فَٱقۡتُلُوهُمۡۗ",
+        "وَأَخۡرِجُوهُم",
+        "وَٱقۡتُلُوهُمۡ"
+      ],
+      "activityId": "act_002_40_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 191,
+      "correctNextAyahNumber": 192,
+      "wrongOptionsAyahNumbers": [
+        193,
+        189
+      ],
+      "activityId": "act_002_40_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 192,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱنتَهَوۡاْ",
+        "بِٱلشَّهۡرِ",
+        "قَٰتَلُوكُمۡ",
+        "وَٱتَّقُواْ"
+      ],
+      "activityId": "act_002_40_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 192,
+      "correctNextAyahNumber": 193,
+      "wrongOptionsAyahNumbers": [
+        194,
+        190
+      ],
+      "activityId": "act_002_40_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 193,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلظَّٰلِمِينَ",
+        "أَخۡرَجُوكُمۡۚ",
+        "بِأَيۡدِيكُمۡ",
+        "تُقَٰتِلُوهُمۡ"
+      ],
+      "activityId": "act_002_40_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 193,
+      "correctNextAyahNumber": 194,
+      "wrongOptionsAyahNumbers": [
+        195,
+        191
+      ],
+      "activityId": "act_002_40_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 194,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلۡحُرُمَٰتُ",
+        "فَٱعۡتَدُواْ",
+        "وَأَحۡسِنُوٓاْۚ",
+        "وَأَنفِقُواْ"
+      ],
+      "activityId": "act_002_40_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 194,
+      "correctNextAyahNumber": 195,
+      "wrongOptionsAyahNumbers": [
+        196,
+        192
+      ],
+      "activityId": "act_002_40_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 195,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلۡمُحۡسِنِينَ",
+        "ثَقِفۡتُمُوهُمۡ",
+        "فَٱقۡتُلُوهُمۡۗ",
+        "وَأَخۡرِجُوهُم"
+      ],
+      "activityId": "act_002_40_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يدعو إلى الإنفاق والصبر، ويورد دعاء المؤمنين واستغفارهم، ويذكر جزاء الأعمال."
+  }
+}

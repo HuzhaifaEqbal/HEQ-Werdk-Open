@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_11",
+  "title": "سورة النساء - الآيات 49-53",
+  "surahId": 4,
+  "ayahStart": 49,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 6,
+      "options": [
+        "أَنفُسَهُمۚ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "يَفۡتَرُونَ"
+      ],
+      "activityId": "act_004_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        47
+      ],
+      "activityId": "act_004_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "يَفۡتَرُونَ",
+        "أَنفُسَهُمۚ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ],
+      "activityId": "act_004_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلطَّٰغُوتِ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "أَنفُسَهُمۚ"
+      ],
+      "activityId": "act_004_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_004_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلَّذِينَ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ",
+        "ٱلۡمُلۡكِ"
+      ],
+      "activityId": "act_004_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_004_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلۡمُلۡكِ",
+        "ٱلَّذِينَ",
+        "ءَاذَانَ",
+        "أَبَوَاهُ"
+      ],
+      "activityId": "act_004_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يرد على التزكية بغير حق، ويذكر حال من أوتوا نصيباً من الكتاب ثم أعرضوا عنه."
+  }
+}

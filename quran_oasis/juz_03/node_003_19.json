@@ -1,0 +1,70 @@
+{
+  "nodeId": "hifz_003_19",
+  "title": "سورة آل عمران - الآيات 90-92",
+  "surahId": 3,
+  "ayahStart": 90,
+  "ayahEnd": 92,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱزۡدَادُواْ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_003_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَاتُواْ",
+        "ءَاخِرَهُۥ",
+        "تَنَالُواْ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_003_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 2,
+      "options": [
+        "تَنَالُواْ",
+        "وَمَاتُواْ",
+        "ءَاخِرَهُۥ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_003_19_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يبين أن البر لا ينال إلا ببذل المحبوب، ويذكر فضل البيت الحرام ومقام إبراهيم."
+  }
+}

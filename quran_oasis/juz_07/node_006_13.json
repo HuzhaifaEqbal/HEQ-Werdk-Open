@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_13",
+  "title": "سورة الأنعام - الآيات 73-78",
+  "surahId": 6,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 21,
+      "options": [
+        "وَٱلشَّهَـٰدَةِ ۚ",
+        "ٱلْمُوقِنِينَ",
+        "ٱلْـَٔافِلِينَ",
+        "ٱلضَّآلِّينَ"
+      ],
+      "activityId": "act_006_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_006_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 3,
+      "options": [
+        "إِبْرَٰهِيمُ",
+        "بِٱلْحَقِّ ۖ",
+        "كَوْكَبًۭا ۖ",
+        "لَأَكُونَنَّ"
+      ],
+      "activityId": "act_006_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_006_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُوقِنِينَ",
+        "وَٱلشَّهَـٰدَةِ ۚ",
+        "ٱلضَّآلِّينَ",
+        "ٱلْـَٔافِلِينَ"
+      ],
+      "activityId": "act_006_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_006_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْـَٔافِلِينَ",
+        "ٱلضَّآلِّينَ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "إِبْرَٰهِيمُ"
+      ],
+      "activityId": "act_006_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_006_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلضَّآلِّينَ",
+        "ٱلْـَٔافِلِينَ",
+        "ءَالِهَةً ۖ",
+        "تُشْرِكُونَ"
+      ],
+      "activityId": "act_006_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_006_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 17,
+      "options": [
+        "تُشْرِكُونَ",
+        "فَيَكُونُ ۚ",
+        "وَلِيَكُونَ",
+        "وَٱلْأَرْضَ"
+      ],
+      "activityId": "act_006_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

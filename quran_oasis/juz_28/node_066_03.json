@@ -1,0 +1,248 @@
+{
+  "nodeId": "node_066_03",
+  "title": "سورة التحريم: جهاد المنافقين ومثل امرأتي نوح ولوط ومثل آسية ومريم",
+  "surahId": 66,
+  "ayahStart": 9,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "activityId": "act_066_03_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "جَـٰهِدِ",
+        "قَاتِلِ",
+        "حَارِبِ",
+        "دَافِعِ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱغْلُظْ",
+        "وَٱشْدُدْ",
+        "وَأَقْسِطْ",
+        "وَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "وَمَأْوَىٰهُمْ",
+        "وَمَسْكَنُهُمْ",
+        "وَمَصِيرُهُمْ",
+        "وَمُنْقَلَبُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمُنْقَلَبُ",
+        "ٱلْمَآبُ",
+        "ٱلْمَقَرُّ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_066_03_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 15,
+      "options": [
+        "صَـٰلِحَيْنِ",
+        "نَبِيَّيْنِ",
+        "رَسُولَيْنِ",
+        "مُؤْمِنَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "فَخَانَتَاهُمَا",
+        "فَكَفَرَتَا",
+        "فَعَصَتَاهُمَا",
+        "فَخَالَفَتَاهُمَا"
+      ]
+    },
+    {
+      "activityId": "act_066_03_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 18,
+      "options": [
+        "يُغْنِيَا",
+        "يَمْنَعَا",
+        "يَدْفَعَا",
+        "يَنْصُرَا"
+      ]
+    },
+    {
+      "activityId": "act_066_03_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 25,
+      "options": [
+        "ٱلنَّارَ",
+        "جَهَنَّمَ",
+        "ٱلسَّعِيرَ",
+        "سَقَرَ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        9
+      ]
+    },
+    {
+      "activityId": "act_066_03_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱمْرَأَتَ",
+        "زَوْجَةَ",
+        "أَهْلَ",
+        "صَاحِبَةَ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 14,
+      "options": [
+        "بَيْتًۭا",
+        "قَصْرًا",
+        "مَقَامًا",
+        "دَارًا"
+      ]
+    },
+    {
+      "activityId": "act_066_03_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 17,
+      "options": [
+        "وَنَجِّنِى",
+        "وَأَنْقِذْنِى",
+        "وَٱحْمِنِى",
+        "وَٱصْرِفْنِى"
+      ]
+    },
+    {
+      "activityId": "act_066_03_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 24,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْفَـٰسِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "activityId": "act_066_03_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "وَمَرْيَمَ",
+        "وَصِدِّيقَةَ",
+        "وَطَاهِرَةَ",
+        "وَأُمَّ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "أَحْصَنَتْ",
+        "حَفِظَتْ",
+        "صَانَتْ",
+        "طَهَّرَتْ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 11,
+      "options": [
+        "وَصَدَّقَتْ",
+        "وَآمَنَتْ",
+        "وَأَيْقَنَتْ",
+        "وَٱتَّبَعَتْ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 14,
+      "options": [
+        "وَكُتُبِهِۦ",
+        "وَشَرْعِهِ",
+        "وَوَحْيِهِ",
+        "وَأَمْرِهِ"
+      ]
+    },
+    {
+      "activityId": "act_066_03_20",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْقَـٰنِتِينَ",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْمُخْلِصِينَ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التحريم",
+    "juz": 28,
+    "theme": "أمر النبي ﷺ بجهاد الكفار والمنافقين والغلظة عليهم، وضرب المثل للكفار بامرأتي نوح ولوط في عدم نفع الصلاح عند الكفر، وضرب المثل للمؤمنين بامرأة فرعون وبمريم ابنة عمران في العفة واليقين."
+  }
+}

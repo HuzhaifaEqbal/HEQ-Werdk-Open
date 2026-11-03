@@ -1,0 +1,224 @@
+{
+  "nodeId": "node_064_01",
+  "title": "سورة التغابن: تسبيح الكون وخلق الإنسان وإتقان التصوير وعلم السر",
+  "surahId": 64,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_064_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "يُسَبِّحُ",
+        "سَبَّحَ",
+        "يُسَبِّحُونَ",
+        "تُسَبِّحُ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُلْكُ",
+        "ٱلْأَمْرُ",
+        "ٱلْحُكْمُ",
+        "ٱلْخَلْقُ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْحَمْدُ ۖ",
+        "ٱلثَّنَاءُ",
+        "ٱلْفَضْلُ",
+        "ٱلشُّكْرُ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 17,
+      "options": [
+        "قَدِيرٌ",
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_064_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "خَلَقَكُمْ",
+        "أَوْجَدَكُمْ",
+        "أَنْشَأَكُمْ",
+        "صَوَّرَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "كَافِرٌۭ",
+        "فَاسِقٌ",
+        "ظَالِمٌ",
+        "مُجْرِمٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّؤْمِنٌۭ ۚ",
+        "مُحْسِنٌ",
+        "صَالِحٌ",
+        "مُتَّقٍ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "بَصِيرٌ",
+        "عَلِيمٌ",
+        "خَبِيرٌ",
+        "مُحِيطٌ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_064_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلْحَقِّ",
+        "بِٱلْعَدْلِ",
+        "بِٱلْحِكْمَةِ",
+        "بِٱلْأَمْرِ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "وَصَوَّرَكُمْ",
+        "وَأَنْشَأَكُمْ",
+        "وَخَلَقَكُمْ",
+        "وَرَكَّبَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "صُوَرَكُمْ ۖ",
+        "خَلْقَكُمْ",
+        "هَيْئَتَكُمْ",
+        "بُنْيَانَكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمَصِيرُ",
+        "ٱلْمَرْجِعُ",
+        "ٱلْمُنْتَهَىٰ",
+        "ٱلْمَآبُ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        2,
+        1
+      ]
+    },
+    {
+      "activityId": "act_064_01_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "تُسِرُّونَ",
+        "تَكْتُمُونَ",
+        "تُخْفُونَ",
+        "تُضْمِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "تُعْلِنُونَ ۚ",
+        "تُبْدُونَ",
+        "تُظْهِرُونَ",
+        "تَنْطِقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_064_01_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلصُّدُورِ",
+        "ٱلْقُلُوبِ",
+        "ٱلنُّفُوسِ",
+        "ٱلْأَفْئِدَةِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التغابن",
+    "juz": 28,
+    "theme": "تسبيح الكائنات لله ذي الملك والحمد والقدرة المطلقة، وخلق الناس وانقسامهم إلى كافر ومؤمن، وإحكام خلق السماوات وحسن تصوير الإنسان وعلم الله بما في الصدور."
+  }
+}

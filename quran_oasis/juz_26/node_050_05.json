@@ -1,0 +1,179 @@
+{
+  "nodeId": "node_050_05",
+  "title": "سورة ق: مجيء النفوس بسائق وشهيد ومصير الكفار والمعتدين في جهنم",
+  "surahId": 50,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "activityId": "act_050_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 5,
+      "options": [
+        "سَآئِقٌۭ",
+        "قَرِينٌ",
+        "مَلَكٌ",
+        "حَسِيبٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_050_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "غِطَآءَكَ",
+        "حِجَابَكَ",
+        "سِتْرَكَ",
+        "رَانَكَ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "حَدِيدٌۭ",
+        "حَسِيرٌ",
+        "نَافِذٌ",
+        "بَصِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_050_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "قَرِينُهُۥ",
+        "مَلَكُهُۥ",
+        "شَهِيدُهُۥ",
+        "حَسِيبُهُۥ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_050_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 1,
+      "options": [
+        "أَلْقِيَا",
+        "ادْفَعَا",
+        "سُوقَا",
+        "اطْرَحَا"
+      ]
+    },
+    {
+      "activityId": "act_050_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "عَنِيدٍۢ",
+        "مَّرِيدٍ",
+        "جَبَّارٍ",
+        "لَّئِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_050_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "مَّنَّاعٍۢ",
+        "صَادٍّ",
+        "حَابِسٍ",
+        "كَارِهٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّرِيبٍ",
+        "شَاكٍّ",
+        "فَاسِقٍ",
+        "ظَالِمٍ"
+      ]
+    },
+    {
+      "activityId": "act_050_05_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        28
+      ]
+    },
+    {
+      "activityId": "act_050_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 6,
+      "options": [
+        "ءَاخَرَ",
+        "شَرِيكًا",
+        "نِدًّا",
+        "صَاحِبًا"
+      ]
+    },
+    {
+      "activityId": "act_050_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلشَّدِيدِ",
+        "ٱلْأَلِيمِ",
+        "ٱلْمُهِينِ",
+        "ٱلْمُقِيمِ"
+      ]
+    }
+  ]
+}

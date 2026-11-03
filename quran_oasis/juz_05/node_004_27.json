@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_27",
+  "title": "سورة النساء - الآيات 129-133",
+  "surahId": 4,
+  "ayahStart": 129,
+  "ayahEnd": 133,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 2,
+      "options": [
+        "تَسۡتَطِيعُوٓاْ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_27_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "wrongOptionsAyahNumbers": [
+        131,
+        127
+      ],
+      "activityId": "act_004_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 2,
+      "options": [
+        "يَتَفَرَّقَا",
+        "ءَاتَيۡنَآ",
+        "يُذۡهِبۡكُمۡ",
+        "ٱلسَّمَٰوَٰتِ"
+      ],
+      "activityId": "act_004_27_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "wrongOptionsAyahNumbers": [
+        132,
+        128
+      ],
+      "activityId": "act_004_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "يَتَفَرَّقَا",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ"
+      ],
+      "activityId": "act_004_27_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "wrongOptionsAyahNumbers": [
+        133,
+        129
+      ],
+      "activityId": "act_004_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "يَتَفَرَّقَا",
+        "يُذۡهِبۡكُمۡ",
+        "ءَاتَىٰهُمُ"
+      ],
+      "activityId": "act_004_27_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 132,
+      "correctNextAyahNumber": 133,
+      "wrongOptionsAyahNumbers": [
+        134,
+        130
+      ],
+      "activityId": "act_004_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 3,
+      "options": [
+        "يُذۡهِبۡكُمۡ",
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَيۡنَآ",
+        "يَتَفَرَّقَا"
+      ],
+      "activityId": "act_004_27_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يبين سعة ملك الله، ويدعو إلى إقامة العدل، ويحذر من موالاة من يحارب الحق."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "nodeId": "hifz_090_03",
+  "title": "سورة البلد - المقطع الثالث (صفات أهل الإيمان وأصحاب الميمنة والمشأمة)",
+  "surahId": 90,
+  "ayahStart": 17,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "ءَامَنُوا۟",
+      "missingWordPosition": 5,
+      "options": [
+        "ءَامَنُوا۟",
+        "أَحْسَنُوا",
+        "تَابُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "بِٱلصَّبْرِ",
+      "missingWordPosition": 7,
+      "options": [
+        "بِٱلصَّبْرِ",
+        "بِٱلْحَقِّ",
+        "بِٱلتَّقْوَى"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "بِٱلْمَرْحَمَةِ",
+      "missingWordPosition": 9,
+      "options": [
+        "بِٱلْمَرْحَمَةِ",
+        "بِٱلْمَغْفِرَةِ",
+        "بِٱلْإِحْسَانِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "أَصْحَـٰبُ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَصْحَـٰبُ",
+        "أَهْلُ",
+        "وُجُوهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "ٱلْمَيْمَنَةِ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَيْمَنَةِ",
+        "ٱلْجَنَّةِ",
+        "ٱلْفَلَاحِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        17,
+        20
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "كَفَرُوا۟",
+      "missingWordPosition": 2,
+      "options": [
+        "كَفَرُوا۟",
+        "كَذَّبُوا",
+        "جَحَدُوا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "ٱلْمَشْـَٔمَةِ",
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمَشْـَٔمَةِ",
+        "ٱلْجَحِيمِ",
+        "ٱلنَّارِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "نَارٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "نَارٌ",
+        "عَذَابٌ",
+        "سَعِيرٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWord": "مُّؤْصَدَةٌۢ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُّؤْصَدَةٌۢ",
+        "مُّوقَدَةٌ",
+        "شَدِيدَةٌ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ثم كان مع بذله وإطعامه من الذين جمعوا بين الإيمان بالله والتواصي بالصبر على طاعة الله ومصائب الدنيا، والتواصي بالتراحم والعطف على الخلق؛ أولئك الموصوفون بتلك الأخلاق الجليلة هم أصحاب اليمين الفائزون بالكرامة، وأما الذين كفروا بآياتنا وجحدوا هدايتنا فهم أصحاب الشؤم والشمال، مصيرهم إلى نار جهنم مطبقة مغلقة عليهم الأبواب بإحكام (مؤصدة) فلا يُفتح لهم باب ولا يخرجون منها أبداً."
+  }
+}

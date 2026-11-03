@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_006_20",
+  "title": "سورة الأنعام - الآيات 111-116",
+  "surahId": 6,
+  "ayahStart": 111,
+  "ayahEnd": 116,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمَلَـٰٓئِكَةَ",
+        "ءَاتَيْنَـٰهُمُ",
+        "بِٱلْـَٔاخِرَةِ",
+        "مُّقْتَرِفُونَ"
+      ],
+      "activityId": "act_006_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_006_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 15,
+      "options": [
+        "غُرُورًۭا ۚ",
+        "وَحَشَرْنَا",
+        "وَٱلَّذِينَ",
+        "يَجْهَلُونَ"
+      ],
+      "activityId": "act_006_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_006_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلِيَقْتَرِفُوا۟",
+        "لِكَلِمَـٰتِهِۦ ۚ",
+        "ٱلْمُمْتَرِينَ",
+        "ٱلْمَلَـٰٓئِكَةَ"
+      ],
+      "activityId": "act_006_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "wrongOptionsAyahNumbers": [
+        115,
+        111
+      ],
+      "activityId": "act_006_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْمُمْتَرِينَ",
+        "لِكَلِمَـٰتِهِۦ ۚ",
+        "لِيُؤْمِنُوٓا۟",
+        "وَلِيَرْضَوْهُ"
+      ],
+      "activityId": "act_006_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_006_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 8,
+      "options": [
+        "لِكَلِمَـٰتِهِۦ ۚ",
+        "ٱلْمُمْتَرِينَ",
+        "وَلِيَقْتَرِفُوا۟",
+        "ٱلْمَلَـٰٓئِكَةَ"
+      ],
+      "activityId": "act_006_20_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_006_20_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 12,
+      "options": [
+        "يَتَّبِعُونَ",
+        "أَكْثَرَهُمْ",
+        "بِٱلْحَقِّ ۖ",
+        "وَعَدْلًۭا ۚ"
+      ],
+      "activityId": "act_006_20_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 8,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

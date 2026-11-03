@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_59",
+  "title": "سورة البقرة - الآيات 278-282",
+  "surahId": 2,
+  "ayahStart": 278,
+  "ayahEnd": 282,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 278,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَامَنُواْ",
+        "أَمۡوَٰلِكُمۡ",
+        "بِٱلۡعَدۡلِۚ",
+        "تَصَدَّقُواْ"
+      ],
+      "activityId": "act_002_59_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 278,
+      "correctNextAyahNumber": 279,
+      "wrongOptionsAyahNumbers": [
+        280,
+        276
+      ],
+      "activityId": "act_002_59_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 279,
+      "missingWordPosition": 8,
+      "options": [
+        "وَرَسُولِهِۦۖ",
+        "إِحۡدَىٰهُمَا",
+        "تَبَايَعۡتُمۡۚ",
+        "تَدَايَنتُم"
+      ],
+      "activityId": "act_002_59_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 279,
+      "correctNextAyahNumber": 280,
+      "wrongOptionsAyahNumbers": [
+        281,
+        277
+      ],
+      "activityId": "act_002_59_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 280,
+      "missingWordPosition": 9,
+      "options": [
+        "تَصَدَّقُواْ",
+        "تَفۡعَلُواْ",
+        "تَكۡتُبُوهُ",
+        "رِّجَالِكُمۡۖ"
+      ],
+      "activityId": "act_002_59_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 280,
+      "correctNextAyahNumber": 281,
+      "wrongOptionsAyahNumbers": [
+        282,
+        278
+      ],
+      "activityId": "act_002_59_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 281,
+      "missingWordPosition": 3,
+      "options": [
+        "تُرۡجَعُونَ",
+        "شَهِيدَيۡنِ",
+        "فَأۡذَنُواْ",
+        "فَلۡيَكۡتُبۡ"
+      ],
+      "activityId": "act_002_59_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 281,
+      "correctNextAyahNumber": 282,
+      "wrongOptionsAyahNumbers": [
+        283,
+        279
+      ],
+      "activityId": "act_002_59_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 282,
+      "missingWordPosition": 52,
+      "options": [
+        "وَٱسۡتَشۡهِدُواْ",
+        "تُدِيرُونَهَا",
+        "وَٱمۡرَأَتَانِ",
+        "تَرۡتَابُوٓاْ"
+      ],
+      "activityId": "act_002_59_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يأمر بإنظار المعسر أو التصدق عليه، ويذكر الحساب يوم القيامة، ويفصل توثيق الديون والشهادة."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_009_09",
+  "title": "سورة التوبة - الآيات 49-54",
+  "surahId": 9,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 15,
+      "options": [
+        "بِٱلْكَـٰفِرِينَ",
+        "بِأَيْدِينَا ۖ",
+        "وَبِرَسُولِهِۦ",
+        "ٱلْمُؤْمِنُونَ"
+      ],
+      "activityId": "act_009_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        47
+      ],
+      "activityId": "act_009_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 14,
+      "options": [
+        "وَيَتَوَلَّوا۟",
+        "فَتَرَبَّصُوٓا۟",
+        "فَلْيَتَوَكَّلِ",
+        "مَوْلَىٰنَا ۚ"
+      ],
+      "activityId": "act_009_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ],
+      "activityId": "act_009_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمُؤْمِنُونَ",
+        "بِٱلْكَـٰفِرِينَ",
+        "بِأَيْدِينَا ۖ",
+        "وَبِرَسُولِهِۦ"
+      ],
+      "activityId": "act_009_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_009_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحُسْنَيَيْنِ ۖ",
+        "بِٱلْكَـٰفِرِينَ",
+        "ٱلْمُؤْمِنُونَ",
+        "وَبِرَسُولِهِۦ"
+      ],
+      "activityId": "act_009_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_009_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنفِقُوا۟",
+        "يَقُولُوا۟",
+        "يُنفِقُونَ",
+        "سَقَطُوا۟ ۗ"
+      ],
+      "activityId": "act_009_09_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_009_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 11,
+      "options": [
+        "وَبِرَسُولِهِۦ",
+        "بِأَيْدِينَا ۖ",
+        "ٱلْمُؤْمِنُونَ",
+        "بِٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_009_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

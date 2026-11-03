@@ -1,0 +1,128 @@
+{
+  "nodeId": "node_070_09",
+  "title": "سورة المعارج: استهزاء الكفار وطمعهم الباطل في الجنة",
+  "surahId": 70,
+  "ayahStart": 36,
+  "ayahEnd": 39,
+  "activities": [
+    {
+      "activityId": "act_070_09_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "مُهْطِعِينَ",
+        "مُسْرِعِينَ",
+        "مُعْرِضِينَ",
+        "مُتَفَرِّقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_09_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_070_09_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَمِينِ",
+        "ٱلشَّرْقِ",
+        "ٱلْأَمَامِ",
+        "ٱلْقُدَّامِ"
+      ]
+    },
+    {
+      "activityId": "act_070_09_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "عِزِينَ",
+        "جَمَاعَاتٍ",
+        "أَفْوَاجًا",
+        "أَشْتَاتًا"
+      ]
+    },
+    {
+      "activityId": "act_070_09_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        36
+      ]
+    },
+    {
+      "activityId": "act_070_09_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 1,
+      "options": [
+        "أَيَطْمَعُ",
+        "أَيَرْجُو",
+        "أَيَحْسَبُ",
+        "أَيَظُنُّ"
+      ]
+    },
+    {
+      "activityId": "act_070_09_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 8,
+      "options": [
+        "نَعِيمٍۢ",
+        "خُلْدٍ",
+        "فِرْدَوْسٍ",
+        "عَدْنٍ"
+      ]
+    },
+    {
+      "activityId": "act_070_09_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        37
+      ]
+    },
+    {
+      "activityId": "act_070_09_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 1,
+      "options": [
+        "كَلَّآ",
+        "بَلَىٰ",
+        "حَقًّا",
+        "إِنَّمَا"
+      ]
+    },
+    {
+      "activityId": "act_070_09_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "يَعْلَمُونَ",
+        "يَشْهَدُونَ",
+        "يُبْصِرُونَ",
+        "يَفْقَهُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "إنكار سرعة إقبال المشركين حول النبي ﷺ متفرقين للاستهزاء به، وطمعهم الساذج في دخول الجنة وتذكيرهم بأصل خلقتهم الضعيفة من ماء مهين"
+  }
+}

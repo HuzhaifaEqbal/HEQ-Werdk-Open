@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_009_05",
+  "title": "سورة التوبة - الآيات 25-30",
+  "surahId": 9,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 10,
+      "options": [
+        "أَعْجَبَتْكُمْ",
+        "ٱلْكَـٰفِرِينَ",
+        "سَكِينَتَهُۥ",
+        "وَرَسُولُهُۥ"
+      ],
+      "activityId": "act_009_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_009_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُشْرِكُونَ",
+        "بِأَفْوَٰهِهِمْ ۖ",
+        "أَعْجَبَتْكُمْ"
+      ],
+      "activityId": "act_009_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_009_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 9,
+      "options": [
+        "يَشَآءُ ۗ",
+        "حُنَيْنٍ ۙ",
+        "عَلَيْكُمُ",
+        "فَضْلِهِۦٓ"
+      ],
+      "activityId": "act_009_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_009_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُشْرِكُونَ",
+        "ٱلْمُؤْمِنِينَ",
+        "بِأَفْوَٰهِهِمْ ۖ",
+        "أَعْجَبَتْكُمْ"
+      ],
+      "activityId": "act_009_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_009_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 14,
+      "options": [
+        "وَرَسُولُهُۥ",
+        "سَكِينَتَهُۥ",
+        "ٱلْكَـٰفِرِينَ",
+        "أَعْجَبَتْكُمْ"
+      ],
+      "activityId": "act_009_05_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_009_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 13,
+      "options": [
+        "بِأَفْوَٰهِهِمْ ۖ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُشْرِكُونَ",
+        "وَرَسُولُهُۥ"
+      ],
+      "activityId": "act_009_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "التوبة",
+    "juz": 10,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

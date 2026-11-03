@@ -1,0 +1,181 @@
+{
+  "nodeId": "node_049_01",
+  "title": "سورة الحجرات: أدب التعامل مع الله ورسوله وغض الصوت عند النبي",
+  "surahId": 49,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_049_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "تُقَدِّمُوا۟",
+        "تَقْضُوا۟",
+        "تَقُولُوا۟",
+        "تَحْكُمُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 14,
+      "options": [
+        "سَمِيعٌ",
+        "غَفُورٌ",
+        "خَبِيرٌ",
+        "بَصِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_049_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "تَرْفَعُوٓا۟",
+        "تَعْلُوٓا۟",
+        "تَشْتَدُّوٓا۟",
+        "تَصِيحُوٓا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 11,
+      "options": [
+        "تَجْهَرُوا۟",
+        "تَصْرُخُوا۟",
+        "تُنَادُوا۟",
+        "تُسْمِعُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 18,
+      "options": [
+        "تَحْبَطَ",
+        "تَضِيعَ",
+        "تَبْطُلَ",
+        "تَفْسُدَ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_049_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "يَغُضُّونَ",
+        "يَخْفِضُونَ",
+        "يَسْتُرُونَ",
+        "يَحْبِسُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱمْتَحَنَ",
+        "طَهَّرَ",
+        "شَرَحَ",
+        "اخْتَارَ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "activityId": "act_049_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْحُجُرَٰتِ",
+        "ٱلْبُيُوتِ",
+        "ٱلْأَبْوَابِ",
+        "ٱلْجُدُرِ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 9,
+      "options": [
+        "يَعْقِلُونَ",
+        "يَفْقَهُونَ",
+        "يَسْمَعُونَ",
+        "يَعْلَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_049_01_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "activityId": "act_049_01_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "صَبَرُوا۟",
+        "ٱنْتَظَرُوا۟",
+        "سَكَتُوا۟",
+        "تَمَهَّلُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_049_01_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "خَيْرًۭا",
+        "أَفْضَلَ",
+        "أَرْشَدَ",
+        "أَحْسَنَ"
+      ]
+    }
+  ]
+}

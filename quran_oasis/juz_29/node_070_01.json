@@ -1,0 +1,150 @@
+{
+  "nodeId": "node_070_01",
+  "title": "سورة المعارج: العذاب الواقع والصبر الجميل",
+  "surahId": 70,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "activityId": "act_070_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "سَأَلَ",
+        "دَعَا",
+        "طَلَبَ",
+        "نَادَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 4,
+      "options": [
+        "وَاقِعٍۢ",
+        "قَرِيبٍ",
+        "شَدِيدٍ",
+        "أَلِيمٍ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_070_01_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "دَافِعٌۭ",
+        "مَانِعٌ",
+        "عَاصِمٌ",
+        "نَاصِرٌ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "activityId": "act_070_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَعَارِجِ",
+        "ٱلْعَرْشِ",
+        "ٱلْجَلَالِ",
+        "ٱلْإِكْرَامِ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ]
+    },
+    {
+      "activityId": "act_070_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "تَعْرُجُ",
+        "تَصْعَدُ",
+        "تَنْزِلُ",
+        "تَسِيرُ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 9,
+      "options": [
+        "خَمْسِينَ",
+        "أَلْفَ",
+        "ثَلَاثِينَ",
+        "أَرْبَعِينَ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ]
+    },
+    {
+      "activityId": "act_070_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱصْبِرْ",
+        "فَٱسْتَقِمْ",
+        "فَٱعْرِضْ",
+        "فَٱصْفَحْ"
+      ]
+    },
+    {
+      "activityId": "act_070_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "جَمِيلًا",
+        "حَسَنًا",
+        "كَثِيرًا",
+        "عَظِيمًا"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المعارج",
+    "juz": 29,
+    "theme": "استعجال الكافرين بالعذاب النازل بهم لا محالة من ذي المعارج، وعروج الملائكة في يوم مقداره خمسون ألف سنة، وأمر النبي ﷺ بالصبر الجميل"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "nodeId": "node_074_10",
+  "title": "سورة المدثر: القرآن تذكرة ومشيئة الله وأهل التقوى والمغفرة",
+  "surahId": 74,
+  "ayahStart": 54,
+  "ayahEnd": 56,
+  "activities": [
+    {
+      "activityId": "act_074_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 3,
+      "options": [
+        "تَذْكِرَةٌۭ",
+        "مَوْعِظَةٌ",
+        "نُورٌ",
+        "هُدًى"
+      ]
+    },
+    {
+      "activityId": "act_074_10_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        53
+      ]
+    },
+    {
+      "activityId": "act_074_10_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "ذَكَرَهُۥ",
+        "آمَنَ",
+        "اتَّعَظَ",
+        "تَابَ"
+      ]
+    },
+    {
+      "activityId": "act_074_10_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        54,
+        53
+      ]
+    },
+    {
+      "activityId": "act_074_10_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 5,
+      "options": [
+        "يَشَآءَ",
+        "يَأْذَنَ",
+        "يَقْضِىَ",
+        "يَكْتُبَ"
+      ]
+    },
+    {
+      "activityId": "act_074_10_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلتَّقْوَىٰ",
+        "ٱلْإِيمَانِ",
+        "ٱلْفَضْلِ",
+        "ٱلْعَدْلِ"
+      ]
+    },
+    {
+      "activityId": "act_074_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْمَغْفِرَةِ",
+        "ٱلرَّحْمَةِ",
+        "ٱلْجَنَّةِ",
+        "ٱلنَّعِيمِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "بيان أن القرآن موعظة وتذكرة لمن شاء، وربط التذكر بمشيئة الله وتوفيقه، وخاتمة السورة بأنه سبحانه أهل أن يُتقى وأهل أن يغفر"
+  }
+}

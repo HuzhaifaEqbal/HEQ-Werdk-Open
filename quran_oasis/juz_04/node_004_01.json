@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_01",
+  "title": "سورة النساء - الآيات 1-5",
+  "surahId": 4,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 23,
+      "options": [
+        "وَٱلۡأَرۡحَامَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "وَٱرۡزُقُوهُمۡ"
+      ],
+      "activityId": "act_004_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_004_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "تَتَبَدَّلُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ",
+        "فَٱنكِحُواْ"
+      ],
+      "activityId": "act_004_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_004_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱنكِحُواْ",
+        "تَتَبَدَّلُواْ",
+        "ءَابَآؤُكُمۡ",
+        "أَبۡنَآئِكُمُ"
+      ],
+      "activityId": "act_004_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_004_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنِّسَآءَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "تَتَبَدَّلُواْ"
+      ],
+      "activityId": "act_004_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_004_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱرۡزُقُوهُمۡ",
+        "وَٱلۡأَرۡحَامَۚ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ"
+      ],
+      "activityId": "act_004_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 4,
+    "theme": "يفتتح المقطع بأحكام اليتامى والعدل في رعايتهم، ثم يبين أحكام الزواج والحقوق داخل الأسرة."
+  }
+}

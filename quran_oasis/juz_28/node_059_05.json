@@ -1,0 +1,166 @@
+{
+  "nodeId": "node_059_05",
+  "title": "سورة الحشر: مثل بني قينقاع وغرور الشيطان للإنسان والخلود في النار",
+  "surahId": 59,
+  "ayahStart": 15,
+  "ayahEnd": 17,
+  "activities": [
+    {
+      "activityId": "act_059_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "قَرِيبًۭا ۖ",
+        "سَابِقًا",
+        "مَاضِيًا",
+        "قَدِيمًا"
+      ]
+    },
+    {
+      "activityId": "act_059_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "ذَاقُوا۟",
+        "وَجَدُوا۟",
+        "لَقُوا۟",
+        "نَالُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_059_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "وَبَالَ",
+        "شُؤْمَ",
+        "عِقَابَ",
+        "جَزَاءَ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 11,
+      "options": [
+        "أَلِيمٌۭ",
+        "مُّهِينٌ",
+        "شَدِيدٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        15
+      ]
+    },
+    {
+      "activityId": "act_059_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلشَّيْطَـٰنِ",
+        "ٱلْخَبِيثِ",
+        "ٱلْمُنَافِقِ",
+        "ٱلْغَاوِى"
+      ]
+    },
+    {
+      "activityId": "act_059_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱكْفُرْ",
+        "ٱفْسُقْ",
+        "ٱضْلِلْ",
+        "ٱعْصِ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 11,
+      "options": [
+        "بَرِىٓءٌۭ",
+        "خَالٍ",
+        "بَعِيدٌ",
+        "مُعْتَزِلٌ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 14,
+      "options": [
+        "أَخَافُ",
+        "أَرْجُو",
+        "أَخْشَىٰ",
+        "أَحْذَرُ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_059_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "عَـٰقِبَتَهُمَآ",
+        "مَصِيرُهُمَا",
+        "جَزَاؤُهُمَا",
+        "مُنْقَلَبُهُمَا"
+      ]
+    },
+    {
+      "activityId": "act_059_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "خَـٰلِدَيْنِ",
+        "مُّعَذَّبَيْنِ",
+        "مُقِيمَيْنِ",
+        "بَاقِيَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_059_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْفَـٰسِقِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحشر",
+    "juz": 28,
+    "theme": "ضرب المثل لمصير بني النضير بمصير كفار قريش وبني قينقاع القريب، وبمثل الشيطان الذي يغري الإنسان بالكفر ثم يتبرأ منه ليخلدا معاً في النار."
+  }
+}

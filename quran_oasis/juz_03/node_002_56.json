@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_56",
+  "title": "سورة البقرة - الآيات 263-267",
+  "surahId": 2,
+  "ayahStart": 263,
+  "ayahEnd": 267,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 263,
+      "missingWordPosition": 3,
+      "options": [
+        "وَمَغۡفِرَةٌ",
+        "أَصَابَهَا",
+        "أَنفُسِهِمۡ",
+        "بِـَٔاخِذِيهِ"
+      ],
+      "activityId": "act_002_56_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 263,
+      "correctNextAyahNumber": 264,
+      "wrongOptionsAyahNumbers": [
+        265,
+        261
+      ],
+      "activityId": "act_002_56_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 264,
+      "missingWordPosition": 24,
+      "options": [
+        "فَأَصَابَهُۥ",
+        "فَأَصَابَهَآ",
+        "فَٱحۡتَرَقَتۡۗ",
+        "وَتَثۡبِيتٗا"
+      ],
+      "activityId": "act_002_56_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 264,
+      "correctNextAyahNumber": 265,
+      "wrongOptionsAyahNumbers": [
+        266,
+        262
+      ],
+      "activityId": "act_002_56_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 265,
+      "missingWordPosition": 8,
+      "options": [
+        "وَتَثۡبِيتٗا",
+        "فَأَصَابَهُۥ",
+        "تَتَفَكَّرُونَ",
+        "فَأَصَابَهَآ"
+      ],
+      "activityId": "act_002_56_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 265,
+      "correctNextAyahNumber": 266,
+      "wrongOptionsAyahNumbers": [
+        267,
+        263
+      ],
+      "activityId": "act_002_56_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 266,
+      "missingWordPosition": 24,
+      "options": [
+        "فَأَصَابَهَآ",
+        "فَأَصَابَهُۥ",
+        "فَٱحۡتَرَقَتۡۗ",
+        "وَتَثۡبِيتٗا"
+      ],
+      "activityId": "act_002_56_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 266,
+      "correctNextAyahNumber": 267,
+      "wrongOptionsAyahNumbers": [
+        268,
+        264
+      ],
+      "activityId": "act_002_56_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 267,
+      "missingWordPosition": 25,
+      "options": [
+        "وَٱعۡلَمُوٓاْ",
+        "ٱلۡكَٰفِرِينَ",
+        "تَتَفَكَّرُونَ",
+        "فَأَصَابَهَآ"
+      ],
+      "activityId": "act_002_56_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يرشد إلى حسن الصدقة وترك المنّ والأذى، ويضرب أمثالاً لما يقبل من الإنفاق وما يبطل أثره."
+  }
+}

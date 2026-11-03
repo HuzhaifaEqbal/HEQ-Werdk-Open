@@ -1,0 +1,48 @@
+{
+  "name": "An-Nawawi 40 Hadiths Interactive Dataset",
+  "name_ar": "الأربعون النووية — قاعدة البيانات الحديثية والإسنادية المفتوحة",
+  "version": "2.0.0",
+  "author": "الإمام يحيى بن شرف النووي الدمشقي",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/ALnawoi",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/ALnawoi",
+  "total_hadiths": 40,
+  "notes": "يحتوي الإصدار الحالي على الأحاديث الأربعين المعتمدة (1 إلى 40)، وجارٍ دراسة ومراجعة الحديثين 41 و42 لاستكمال المتن كاملاً.",
+  "files": [
+    {
+      "file": "nawawi_40_complete.json",
+      "type": "complete",
+      "range": "1 - 40",
+      "title_ar": "المتن المكتمل للأربعين النووية (40 حديثاً) مع سلاسل الأسانيد والفوائد الفقهية",
+      "title_en": "Available 40 Hadiths with Isnad Graph Chains & Fiqh Points"
+    },
+    {
+      "file": "nawawi_40_batch_01.json",
+      "type": "batch",
+      "range": "1 - 10",
+      "title_ar": "الدفعة الأولى: الأحاديث 1 إلى 10 (النيات، أركان الدين، القدر...)",
+      "title_en": "Batch 1: Hadiths 1 to 10"
+    },
+    {
+      "file": "nawawi_40_batch_02.json",
+      "type": "batch",
+      "range": "11 - 20",
+      "title_ar": "الدفعة الثانية: الأحاديث 11 إلى 20 (الورع، النصيحة، ترك ما لا يعني...)",
+      "title_en": "Batch 2: Hadiths 11 to 20"
+    },
+    {
+      "file": "nawawi_40_batch_03.json",
+      "type": "batch",
+      "range": "21 - 30",
+      "title_ar": "الدفعة الثالثة: الأحاديث 21 إلى 30 (الاستقامة، الصدقة، البر والإثم...)",
+      "title_en": "Batch 3: Hadiths 21 to 30"
+    },
+    {
+      "file": "nawawi_40_batch_04.json",
+      "type": "batch",
+      "range": "31 - 40",
+      "title_ar": "الدفعة الرابعة: الأحاديث 31 إلى 40 (الزهد، لا ضرر، البيّنة، التوبة والولاية...)",
+      "title_en": "Batch 4: Hadiths 31 to 40"
+    }
+  ]
+}

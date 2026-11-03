@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_36",
+  "title": "سورة البقرة - الآيات 171-175",
+  "surahId": 2,
+  "ayahStart": 171,
+  "ayahEnd": 175,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 18,
+      "options": [
+        "يَعۡقِلُونَ",
+        "أَصۡبَرَهُمۡ",
+        "بُطُونِهِمۡ",
+        "بِٱلۡهُدَىٰ"
+      ],
+      "activityId": "act_002_36_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "wrongOptionsAyahNumbers": [
+        173,
+        169
+      ],
+      "activityId": "act_002_36_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱشۡكُرُواْ",
+        "وَيَشۡتَرُونَ",
+        "وَٱلۡعَذَابَ",
+        "ٱلۡخِنزِيرِ"
+      ],
+      "activityId": "act_002_36_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 172,
+      "correctNextAyahNumber": 173,
+      "wrongOptionsAyahNumbers": [
+        174,
+        170
+      ],
+      "activityId": "act_002_36_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلۡخِنزِيرِ",
+        "وَيَشۡتَرُونَ",
+        "وَٱشۡكُرُواْ",
+        "وَٱلۡعَذَابَ"
+      ],
+      "activityId": "act_002_36_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "wrongOptionsAyahNumbers": [
+        175,
+        171
+      ],
+      "activityId": "act_002_36_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 9,
+      "options": [
+        "وَيَشۡتَرُونَ",
+        "ٱلۡخِنزِيرِ",
+        "وَٱشۡكُرُواْ",
+        "وَٱلۡعَذَابَ"
+      ],
+      "activityId": "act_002_36_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "wrongOptionsAyahNumbers": [
+        176,
+        172
+      ],
+      "activityId": "act_002_36_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 7,
+      "options": [
+        "بِٱلۡمَغۡفِرَةِۚ",
+        "وَيَشۡتَرُونَ",
+        "ٱلۡخِنزِيرِ",
+        "وَٱشۡكُرُواْ"
+      ],
+      "activityId": "act_002_36_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يبين أحكام المطعومات، ثم يقرر أن البر إيمان وعمل وبذل، ويذكر القصاص والوصية."
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "nodeId": "hifz_084_01",
+  "title": "سورة الانشقاق - المقطع الأول (انشقاق السماء ومد الأرض وكدح الإنسان)",
+  "surahId": 84,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱلسَّمَآءُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَآءُ",
+        "ٱلْأَرْضُ",
+        "ٱلْجِبَالُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWord": "ٱنشَقَّتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱنشَقَّتْ",
+        "ٱنفَطَرَتْ",
+        "كُوِّرَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَأَذِنَتْ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَذِنَتْ",
+        "وَأَطَاعَتْ",
+        "وَخَشَعَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWord": "وَحُقَّتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "وَحُقَّتْ",
+        "وَسَمِعَتْ",
+        "وَأَجَابَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "ٱلْأَرْضُ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَرْضُ",
+        "ٱلسَّمَاءُ",
+        "ٱلْجِبَالُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWord": "مُدَّتْ",
+      "missingWordPosition": 3,
+      "options": [
+        "مُدَّتْ",
+        "زُلْزِلَتْ",
+        "نُسِفَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَأَلْقَتْ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَلْقَتْ",
+        "وَأَخْرَجَتْ",
+        "وَرَمَتْ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWord": "وَتَخَلَّتْ",
+      "missingWordPosition": 4,
+      "options": [
+        "وَتَخَلَّتْ",
+        "وَاسْتَقَرَّتْ",
+        "وَتَشَقَّقَتْ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        2,
+        6
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWord": "لِرَبِّهَا",
+      "missingWordPosition": 2,
+      "options": [
+        "لِرَبِّهَا",
+        "لِخَالِقِهَا",
+        "لِأَمْرِهَا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        1,
+        3
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "كَادِحٌ",
+      "missingWordPosition": 4,
+      "options": [
+        "كَادِحٌ",
+        "سَاعٍ",
+        "مُنْقَلِبٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "كَدْحًا",
+      "missingWordPosition": 7,
+      "options": [
+        "كَدْحًا",
+        "سَعْيًا",
+        "عَمَلًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWord": "فَمُلَـٰقِيهِ",
+      "missingWordPosition": 8,
+      "options": [
+        "فَمُلَـٰقِيهِ",
+        "فَمُجَازِيهِ",
+        "فَمُحَاسِبُهُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "إذا السماء تصدعت وتشققت لنزول الملائكة، وسمعت أمر ربها وأطاعت وحُق لها أن تطيع خاضعة لجلاله، وإذا الأرض بُسطت ومُدّت وسُوّيت كمدّ الأديم فلم يبق عليها جبل ولا بناء، وقذفت ما في جوفها من الأموات والكنوز وتخلت عنهم تماماً، وأطاعت أمر ربها وحُق لها ذلك. يا أيها الإنسان إنك ساعٍ إلى ربك وعامل عملاً - خيراً كان أو شراً - كدحاً باجتهاد، فملاقٍ جزاء عملك وربك لا محالة يوم القيامة."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_043_04",
+  "title": "سورة الزخرف: حجة التقليد الأعمى للآباء وقول المترفين وعاقبة المكذبين",
+  "surahId": 43,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_043_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 8,
+      "options": [
+        "مُسْتَمْسِكُونَ",
+        "مُعْتَصِمُونَ",
+        "مُؤْمِنُونَ",
+        "مُتَمَسِّكُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_04_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "activityId": "act_043_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "أُمَّةٍۢ",
+        "مِلَّةٍ",
+        "دِينٍ",
+        "طَرِيقَةٍ"
+      ]
+    },
+    {
+      "activityId": "act_043_04_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "activityId": "act_043_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 12,
+      "options": [
+        "مُتْرَفُوهَآ",
+        "أَشْرَافُهَا",
+        "كُبَرَاؤُهَا",
+        "مَلَؤُهَا"
+      ]
+    },
+    {
+      "activityId": "act_043_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 21,
+      "options": [
+        "مُّقْتَدُونَ",
+        "مُّتَّبِعُونَ",
+        "مُّهْتَدُونَ",
+        "مُّمْسِكُونَ"
+      ]
+    },
+    {
+      "activityId": "act_043_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        26
+      ]
+    },
+    {
+      "activityId": "act_043_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "بِأَهْدَىٰ",
+        "بِأَفْضَلَ",
+        "بِأَحْسَنَ",
+        "بِأَصْدَقَ"
+      ]
+    },
+    {
+      "activityId": "act_043_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "activityId": "act_043_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱنتَقَمْنَا",
+        "فَأَهْلَكْنَاهُمْ",
+        "فَعَذَّبْنَاهُمْ",
+        "فَدَمَّرْنَاهُمْ"
+      ]
+    }
+  ]
+}

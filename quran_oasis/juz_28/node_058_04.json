@@ -1,0 +1,192 @@
+{
+  "nodeId": "node_058_04",
+  "title": "سورة المجادلة: أدب نجوى المؤمنين وتناجي الشيطان بالأوهام",
+  "surahId": 58,
+  "ayahStart": 9,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "activityId": "act_058_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "تَنَـٰجَيْتُمْ",
+        "تَحَدَّثْتُمْ",
+        "تَشَاوَرْتُمْ",
+        "ٱجْتَمَعْتُمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "تَتَنَـٰجَوْا۟",
+        "فَلَا تَتَكَلَّمُوا",
+        "فَلَا تَخُوضُوا",
+        "فَلَا تَقُولُوا"
+      ]
+    },
+    {
+      "activityId": "act_058_04_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْإِثْمِ",
+        "بِٱلْفُجُورِ",
+        "بِٱلْبَاطِلِ",
+        "بِٱلظُّلْمِ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلْعُدْوَٰنِ",
+        "وَٱلْبَغْيِ",
+        "وَٱلظُّلْمِ",
+        "وَٱلْفَسَادِ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلرَّسُولِ",
+        "ٱلنَّبِيِّ",
+        "ٱلْمَوْلَىٰ",
+        "ٱلْإِمَامِ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 13,
+      "options": [
+        "بِٱلْبِرِّ",
+        "بِٱلْخَيْرِ",
+        "بِٱلْحَقِّ",
+        "بِٱلصِّدْقِ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلتَّقْوَىٰ ۖ",
+        "وَٱلْإِحْسَانِ",
+        "وَٱلصَّلَاحِ",
+        "وَٱلْهُدَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 19,
+      "options": [
+        "تُحْشَرُونَ",
+        "تُرْجَعُونَ",
+        "تُعْرَضُونَ",
+        "تُسَاقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_058_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنَّجْوَىٰ",
+        "ٱلسِّرُّ",
+        "ٱلْكَيْدُ",
+        "ٱلْوَسْوَاسُ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشَّيْطَـٰنِ",
+        "مِنَ ٱلْهَوَىٰ",
+        "مِنَ ٱلْكُفَّارِ",
+        "مِنَ ٱلْمُنَافِقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 5,
+      "options": [
+        "لِيَحْزُنَ",
+        "لِيُخِيفَ",
+        "لِيُضِلَّ",
+        "لِيَفْتِنَ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 9,
+      "options": [
+        "بِضَآرِّهِمْ",
+        "بِمُؤْذِيهِمْ",
+        "بِمُهْلِكِهِمْ",
+        "بِغَالِبِهِمْ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 12,
+      "options": [
+        "بِإِذْنِ",
+        "بِأَمْرِ",
+        "بِقَدَرِ",
+        "بِحُكْمِ"
+      ]
+    },
+    {
+      "activityId": "act_058_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "فَلْيَتَوَكَّلِ",
+        "فَلْيَعْتَمِدِ",
+        "فَلْيَصْبِرِ",
+        "فَلْيَرْجُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المجادلة",
+    "juz": 28,
+    "theme": "أمر المؤمنين بأن تكون نجواهم خالصة في البر والتقوى لا في الإثم والعدوان، وبيان أن نجوى الشر من وسوسة الشيطان ليحزن المؤمنين ولن يضرهم إلا بإذن الله."
+  }
+}

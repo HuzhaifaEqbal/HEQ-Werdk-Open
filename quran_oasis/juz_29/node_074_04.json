@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_074_04",
+  "title": "سورة المدثر: تفكير الكافر وتقديره وافترائه على القرآن",
+  "surahId": 74,
+  "ayahStart": 18,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "activityId": "act_074_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "فَكَّرَ",
+        "دَبَّرَ",
+        "مَكَرَ",
+        "خَطَّطَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 3,
+      "options": [
+        "وَقَدَّرَ",
+        "وَقَرَّرَ",
+        "وَزَعَمَ",
+        "وَافْتَرَىٰ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "activityId": "act_074_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "فَقُتِلَ",
+        "فَهُلِكَ",
+        "فَلُعِنَ",
+        "فَخَسِرَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "activityId": "act_074_04_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 2,
+      "options": [
+        "نَظَرَ",
+        "فَكَّرَ",
+        "تَأَمَّلَ",
+        "سَكَتَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ]
+    },
+    {
+      "activityId": "act_074_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 2,
+      "options": [
+        "عَبَسَ",
+        "أَعْرَضَ",
+        "قَطَّبَ",
+        "حَزِنَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "وَبَسَرَ",
+        "وَأَدْبَرَ",
+        "وَتَوَلَّىٰ",
+        "وَتَكَبَّرَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ]
+    },
+    {
+      "activityId": "act_074_04_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْبَرَ",
+        "تَوَلَّىٰ",
+        "أَعْرَضَ",
+        "كَفَرَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱسْتَكْبَرَ",
+        "وَٱسْتَعْلَى",
+        "وَتَمَادَى",
+        "وَتَجَبَّرَ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ]
+    },
+    {
+      "activityId": "act_074_04_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "سِحْرٌۭ",
+        "شِعْرٌ",
+        "كَذِبٌ",
+        "كَهَانَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "يُؤْثَرُ",
+        "يُفْتَرَىٰ",
+        "يُتْلَىٰ",
+        "يُعْلَمُ"
+      ]
+    },
+    {
+      "activityId": "act_074_04_16",
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ]
+    },
+    {
+      "activityId": "act_074_04_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْبَشَرِ",
+        "ٱلْإِنْسِ",
+        "ٱلْكَاهِنِ",
+        "ٱلشَّاعِرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المدثر",
+    "juz": 29,
+    "theme": "تصوير حركات الوليد بن المغيرة النفسية وتفكيره الملتوي للطعن في القرآن، وعبوسه واستكباره وزعمه الباطل أن القرآن سحر يؤثر وقول البشر"
+  }
+}

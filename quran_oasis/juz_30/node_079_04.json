@@ -1,0 +1,147 @@
+{
+  "nodeId": "hifz_079_04",
+  "title": "سورة النازعات - المقطع الرابع (نداء موسى في الواد المقدس طوى)",
+  "surahId": 79,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "حَدِيثُ",
+      "missingWordPosition": 3,
+      "options": [
+        "حَدِيثُ",
+        "نَبَأُ",
+        "خَبَرُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "مُوسَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "مُوسَىٰ",
+        "إِبْرَاهِيمَ",
+        "يُوسُفَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "الْمُقَدَّسِ",
+      "missingWordPosition": 5,
+      "options": [
+        "الْمُقَدَّسِ",
+        "الْأَيْمَنِ",
+        "الْمُبَارَكِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "طُوًى",
+      "missingWordPosition": 6,
+      "options": [
+        "طُوًى",
+        "سِينِينَ",
+        "الْجُودِيِّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "فِرْعَوْنَ",
+      "missingWordPosition": 3,
+      "options": [
+        "فِرْعَوْنَ",
+        "قَوْمِكَ",
+        "الْمَلَإِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWord": "طَغَىٰ",
+      "missingWordPosition": 5,
+      "options": [
+        "طَغَىٰ",
+        "عَصَىٰ",
+        "تَوَلَّىٰ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        16,
+        19
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWord": "تَزَكَّىٰ",
+      "missingWordPosition": 6,
+      "options": [
+        "تَزَكَّىٰ",
+        "تَتَّقِيَ",
+        "تَهْتَدِيَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "وَأَهْدِيَكَ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَهْدِيَكَ",
+        "وَأَدْعُوَكَ",
+        "وَأُرْشِدَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWord": "فَتَخْشَىٰ",
+      "missingWordPosition": 4,
+      "options": [
+        "فَتَخْشَىٰ",
+        "فَتَرْضَىٰ",
+        "فَتَفُوزَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "يسوق الله تعالى لنبيه ﷺ قصة كليم الله موسى تثبيتاً لفؤاده وإنذاراً لطغاة قريش؛ حين ناداه ربه بالوادي المطهر المبارك المسمى (طوى) وكلّمه بالرسالة، وأمره بالذهاب إلى فرعون الذي جاوز حده في التجبر والكفر، وأن يدعوه بألطف أسلوب: هل لك ميل ورغبة إلى أن تتطهر من دنس الشرك، وأرشدك إلى عبادة ربك الحق فتخافه وتخشى عقابه؟"
+  }
+}

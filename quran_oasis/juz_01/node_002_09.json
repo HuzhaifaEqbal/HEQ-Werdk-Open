@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_09",
+  "title": "سورة البقرة - الآيات 40-44",
+  "surahId": 2,
+  "ayahStart": 40,
+  "ayahEnd": 44,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 13,
+      "options": [
+        "فَٱرۡهَبُونِ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَءَامِنُواْ"
+      ],
+      "activityId": "act_002_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_002_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 1,
+      "options": [
+        "وَءَامِنُواْ",
+        "فَٱرۡهَبُونِ",
+        "وَتَكۡتُمُواْ",
+        "وَٱرۡكَعُواْ"
+      ],
+      "activityId": "act_002_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_002_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 5,
+      "options": [
+        "وَتَكۡتُمُواْ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "فَٱرۡهَبُونِ"
+      ],
+      "activityId": "act_002_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ],
+      "activityId": "act_002_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱرۡكَعُواْ",
+        "وَءَامِنُواْ",
+        "وَتَكۡتُمُواْ",
+        "ءَاتَيۡنَٰكُم"
+      ],
+      "activityId": "act_002_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_002_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ أَتَأۡمُرُونَ",
+        "أَتَسۡتَبۡدِلُونَ",
+        "أَتُحَآجُّونَنَا",
+        "وَٱرۡكَعُواْ"
+      ],
+      "activityId": "act_002_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يفتتح المقطع نداء بني إسرائيل بذكر النعمة والوفاء بالعهد، ويدعوهم إلى الصلاة والاستعانة بالصبر والبر."
+  }
+}

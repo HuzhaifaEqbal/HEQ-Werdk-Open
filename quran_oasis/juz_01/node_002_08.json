@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_08",
+  "title": "سورة البقرة - الآيات 35-39",
+  "surahId": 2,
+  "ayahStart": 35,
+  "ayahEnd": 39,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلظَّٰلِمِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "يَأۡتِيَنَّكُم"
+      ],
+      "activityId": "act_002_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_002_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "فَأَخۡرَجَهُمَا",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "ٱلظَّٰلِمِينَ"
+      ],
+      "activityId": "act_002_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_002_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلتَّوَّابُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا",
+        "وَكَذَّبُواْ"
+      ],
+      "activityId": "act_002_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_002_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 6,
+      "options": [
+        "يَأۡتِيَنَّكُم",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "ٱلظَّٰلِمِينَ"
+      ],
+      "activityId": "act_002_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_002_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "وَكَذَّبُواْ",
+        "ٱلتَّوَّابُ",
+        "ءَابَآئِكَ",
+        "ءَاتَيۡنَا"
+      ],
+      "activityId": "act_002_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يعرض سكن آدم وزوجه الجنة، ثم هبوطهما إلى الأرض، ويبين أن الله يرسل الهدى وأن من اتبعه لا خوف عليه."
+  }
+}

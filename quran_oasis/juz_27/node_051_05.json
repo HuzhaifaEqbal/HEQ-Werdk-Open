@@ -1,0 +1,206 @@
+{
+  "nodeId": "node_051_05",
+  "title": "سورة الذاريات: هلاك قوم لوط بحجارة من طين ونجاة المؤمنين",
+  "surahId": 51,
+  "ayahStart": 31,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "activityId": "act_051_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "خَطْبُكُمْ",
+        "أَمْرُكُمْ",
+        "شَأْنُكُمْ",
+        "قَصْدُكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "activityId": "act_051_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّجْرِمِينَ",
+        "ظَـٰلِمِينَ",
+        "فَـٰسِقِينَ",
+        "مُّسْرِفِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        35
+      ]
+    },
+    {
+      "activityId": "act_051_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "حِجَارَةًۭ",
+        "صَيْحَةً",
+        "رِيحًا",
+        "نَارًا"
+      ]
+    },
+    {
+      "activityId": "act_051_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "طِينٍۢ",
+        "سِجِّيلٍ",
+        "نَّارٍ",
+        "حَدِيدٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        36
+      ]
+    },
+    {
+      "activityId": "act_051_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 1,
+      "options": [
+        "مُّسَوَّمَةً",
+        "مُعَلَّمَةً",
+        "مُهَيَّأَةً",
+        "مَكْتُوبَةً"
+      ]
+    },
+    {
+      "activityId": "act_051_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 4,
+      "options": [
+        "لِلْمُسْرِفِينَ",
+        "لِلظَّـٰلِمِينَ",
+        "لِلْكَـٰفِرِينَ",
+        "لِلْمُجْرِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        37
+      ]
+    },
+    {
+      "activityId": "act_051_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمُسْلِمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_051_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "بَيْتٍۢ",
+        "أَهْلٍ",
+        "نَفْسٍ",
+        "رَهْطٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_05_15",
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        39
+      ]
+    },
+    {
+      "activityId": "act_051_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَايَةًۭ",
+        "عِبْرَةً",
+        "ذِكْرَىٰ",
+        "بَيِّنَةً"
+      ]
+    },
+    {
+      "activityId": "act_051_05_17",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَلِيمَ",
+        "ٱلْعَظِيمَ",
+        "ٱلْمُهِينَ",
+        "ٱلشَّدِيدَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "بيان مهمة الملائكة في إنزال العذاب بقوم لوط ونجاة بيت لوط المؤمن وعبرة ديارهم لمن يخاف العذاب."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "nodeId": "node_042_06",
+  "title": "سورة الشورى: حكمة تقدير الرزق وتنزيل الغيث وعموم قدرة الله وبما كسبت الأيدي",
+  "surahId": 42,
+  "ayahStart": 27,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "activityId": "act_042_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 7,
+      "options": [
+        "فِى",
+        "لَطَغَوْا۟",
+        "لَفَسَدُوا۟",
+        "لَأَسْرَفُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_042_06_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        30
+      ]
+    },
+    {
+      "activityId": "act_042_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْغَيْثَ",
+        "ٱلْمَطَرَ",
+        "ٱلسَّحَابَ",
+        "ٱلرَّحْمَةَ"
+      ]
+    },
+    {
+      "activityId": "act_042_06_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "قَنَطُوا۟",
+        "يَئِسُوا۟",
+        "خَافُوا۟",
+        "ضَعُفُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_042_06_05",
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        31
+      ]
+    },
+    {
+      "activityId": "act_042_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 7,
+      "options": [
+        "بَثَّ",
+        "خَلَقَ",
+        "أَنْبَتَ",
+        "ذَرَأَ"
+      ]
+    },
+    {
+      "activityId": "act_042_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        32
+      ]
+    },
+    {
+      "activityId": "act_042_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّصِيبَةٍۢ",
+        "بَلِيَّةٍ",
+        "شِدَّةٍ",
+        "ضُرٍّ"
+      ]
+    },
+    {
+      "activityId": "act_042_06_09",
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        33
+      ]
+    },
+    {
+      "activityId": "act_042_06_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "بِمُعْجِزِينَ",
+        "بِسَابِقِينَ",
+        "بِفَائِتِينَ",
+        "بِنَاجِينَ"
+      ]
+    }
+  ]
+}

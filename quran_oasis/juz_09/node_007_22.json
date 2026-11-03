@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_007_22",
+  "title": "سورة الأعراف - الآيات 124-129",
+  "surahId": 7,
+  "ayahStart": 124,
+  "ayahEnd": 129,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 7,
+      "options": [
+        "لَأُصَلِّبَنَّكُمْ",
+        "وَءَالِهَتَكَ ۚ",
+        "وَٱصْبِرُوٓا۟ ۖ",
+        "ٱسْتَعِينُوا۟"
+      ],
+      "activityId": "act_007_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "wrongOptionsAyahNumbers": [
+        126,
+        122
+      ],
+      "activityId": "act_007_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 5,
+      "options": [
+        "مُنقَلِبُونَ",
+        "عِبَادِهِۦ ۖ",
+        "جَآءَتْنَا ۚ",
+        "لِيُفْسِدُوا۟"
+      ],
+      "activityId": "act_007_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_007_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 10,
+      "options": [
+        "جَآءَتْنَا ۚ",
+        "وَأَرْجُلَكُم",
+        "وَنَسْتَحْىِۦ",
+        "أَبْنَآءَهُمْ"
+      ],
+      "activityId": "act_007_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_007_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 13,
+      "options": [
+        "وَءَالِهَتَكَ ۚ",
+        "لَأُصَلِّبَنَّكُمْ",
+        "وَٱصْبِرُوٓا۟ ۖ",
+        "ٱسْتَعِينُوا۟"
+      ],
+      "activityId": "act_007_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "wrongOptionsAyahNumbers": [
+        129,
+        125
+      ],
+      "activityId": "act_007_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱسْتَعِينُوا۟",
+        "وَءَالِهَتَكَ ۚ",
+        "لَأُصَلِّبَنَّكُمْ",
+        "مُنقَلِبُونَ"
+      ],
+      "activityId": "act_007_22_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "wrongOptionsAyahNumbers": [
+        130,
+        126
+      ],
+      "activityId": "act_007_22_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 17,
+      "options": [
+        "وَيَسْتَخْلِفَكُمْ",
+        "لَأُصَلِّبَنَّكُمْ",
+        "وَءَالِهَتَكَ ۚ",
+        "وَٱصْبِرُوٓا۟ ۖ"
+      ],
+      "activityId": "act_007_22_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأعراف",
+    "juz": 9,
+    "theme": "عرض دلائل النبوة والوحي، وبيان سنن الله في الهداية والضلال، ثم تفصيل التوحيد والعبادة والوصايا الجامعة."
+  }
+}

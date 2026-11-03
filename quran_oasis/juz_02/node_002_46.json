@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_46",
+  "title": "سورة البقرة - الآيات 221-225",
+  "surahId": 2,
+  "ayahStart": 221,
+  "ayahEnd": 225,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 221,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلۡمُشۡرِكِينَ",
+        "فَٱعۡتَزِلُواْ",
+        "وَٱلۡمَغۡفِرَةِ",
+        "ٱلۡمُؤۡمِنِينَ"
+      ],
+      "activityId": "act_002_46_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 221,
+      "correctNextAyahNumber": 222,
+      "wrongOptionsAyahNumbers": [
+        223,
+        219
+      ],
+      "activityId": "act_002_46_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 222,
+      "missingWordPosition": 27,
+      "options": [
+        "ٱلۡمُتَطَهِّرِينَ",
+        "ٱلۡمُشۡرِكِينَ",
+        "فَٱعۡتَزِلُواْ",
+        "وَٱلۡمَغۡفِرَةِ"
+      ],
+      "activityId": "act_002_46_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 222,
+      "correctNextAyahNumber": 223,
+      "wrongOptionsAyahNumbers": [
+        224,
+        220
+      ],
+      "activityId": "act_002_46_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 223,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "ٱلۡمُشۡرِكِينَ",
+        "فَٱعۡتَزِلُواْ",
+        "وَٱلۡمَغۡفِرَةِ"
+      ],
+      "activityId": "act_002_46_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 223,
+      "correctNextAyahNumber": 224,
+      "wrongOptionsAyahNumbers": [
+        225,
+        221
+      ],
+      "activityId": "act_002_46_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 224,
+      "missingWordPosition": 5,
+      "options": [
+        "لِّأَيۡمَٰنِكُمۡ",
+        "أَعۡجَبَتۡكُمۡۗ",
+        "تَقۡرَبُوهُنَّ",
+        "لِأَنفُسِكُمۡۚ"
+      ],
+      "activityId": "act_002_46_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 224,
+      "correctNextAyahNumber": 225,
+      "wrongOptionsAyahNumbers": [
+        226,
+        222
+      ],
+      "activityId": "act_002_46_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 225,
+      "missingWordPosition": 2,
+      "options": [
+        "يُؤَاخِذُكُمُ",
+        "لِّأَيۡمَٰنِكُمۡ",
+        "وَتُصۡلِحُواْ",
+        "وَيَسۡـَٔلُونَكَ"
+      ],
+      "activityId": "act_002_46_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 2,
+    "theme": "يبين أحكام الزواج من المشركين، والعلاقات الزوجية، والحيض، وأحكام الطهارة."
+  }
+}

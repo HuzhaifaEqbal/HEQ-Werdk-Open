@@ -1,0 +1,153 @@
+{
+  "nodeId": "node_044_02",
+  "title": "سورة الدخان: وعيد الدخان المبين وتكذيب الرسول والبطشة الكبرى",
+  "surahId": 44,
+  "ayahStart": 9,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "activityId": "act_044_02_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "يَلْعَبُونَ",
+        "يَعْمَهُونَ",
+        "يَمْتَرُونَ",
+        "يَغْفُلُونَ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_044_02_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱرْتَقِبْ",
+        "فَٱنْتَظِرْ",
+        "فَٱصْبِرْ",
+        "فَتَرَبَّصْ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "activityId": "act_044_02_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "يَغْشَى",
+        "يُصِيبُ",
+        "يَنْزِلُ بِـ",
+        "يُحِيطُ بِـ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_044_02_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱكْشِفْ",
+        "ٱصْرِفْ",
+        "ٱرْفَعْ",
+        "خَفِّفْ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_044_02_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "مُعَلَّمٌۭ",
+        "سَاحِرٌ",
+        "كَاهِنٌ",
+        "شَاعِرٌ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_044_02_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 6,
+      "options": [
+        "عَآئِدُونَ",
+        "مُكَذِّبُونَ",
+        "ظَالِمُونَ",
+        "كَافِرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_044_02_12",
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        18
+      ]
+    },
+    {
+      "activityId": "act_044_02_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْكُبْرَىٰٓ",
+        "ٱلْعُظْمَىٰ",
+        "ٱلشَّدِيدَةَ",
+        "ٱلْأَلِيمَةَ"
+      ]
+    }
+  ]
+}

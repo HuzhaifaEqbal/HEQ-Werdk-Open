@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_58",
+  "title": "سورة البقرة - الآيات 273-277",
+  "surahId": 2,
+  "ayahStart": 273,
+  "ayahEnd": 277,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 273,
+      "missingWordPosition": 8,
+      "options": [
+        "يَسۡتَطِيعُونَ",
+        "لِلۡفُقَرَآءِ",
+        "وَأَقَامُواْ",
+        "وَعَلَانِيَةٗ"
+      ],
+      "activityId": "act_002_58_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 273,
+      "correctNextAyahNumber": 274,
+      "wrongOptionsAyahNumbers": [
+        275,
+        271
+      ],
+      "activityId": "act_002_58_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 274,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "لِلۡفُقَرَآءِ",
+        "وَأَقَامُواْ",
+        "وَعَلَانِيَةٗ"
+      ],
+      "activityId": "act_002_58_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 274,
+      "correctNextAyahNumber": 275,
+      "wrongOptionsAyahNumbers": [
+        276,
+        272
+      ],
+      "activityId": "act_002_58_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 275,
+      "missingWordPosition": 2,
+      "options": [
+        "يَأۡكُلُونَ",
+        "أَغۡنِيَآءَ",
+        "أُحۡصِرُواْ",
+        "إِلۡحَافٗاۗ"
+      ],
+      "activityId": "act_002_58_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 275,
+      "correctNextAyahNumber": 276,
+      "wrongOptionsAyahNumbers": [
+        277,
+        273
+      ],
+      "activityId": "act_002_58_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 276,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرِّبَوٰاْ",
+        "بِسِيمَٰهُمۡ",
+        "تَعۡرِفُهُم",
+        "تُنفِقُواْ"
+      ],
+      "activityId": "act_002_58_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 276,
+      "correctNextAyahNumber": 277,
+      "wrongOptionsAyahNumbers": [
+        278,
+        274
+      ],
+      "activityId": "act_002_58_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 277,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَقَامُواْ",
+        "لِلۡفُقَرَآءِ",
+        "وَعَلَانِيَةٗ",
+        "وَٱلنَّهَارِ"
+      ],
+      "activityId": "act_002_58_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 3,
+    "theme": "يقرر حرمة الربا وحل البيع، ويبين أثر الصدقة، ويدعو المؤمنين إلى التقوى وترك ما بقي من الربا."
+  }
+}

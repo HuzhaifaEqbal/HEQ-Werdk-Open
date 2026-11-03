@@ -1,0 +1,271 @@
+{
+  "nodeId": "hifz_090_02",
+  "title": "سورة البلد - المقطع الثاني (نعم الله واقتحام العقبة وفك الرقاب)",
+  "surahId": 90,
+  "ayahStart": 8,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWord": "عَيْنَيْنِ",
+      "missingWordPosition": 4,
+      "options": [
+        "عَيْنَيْنِ",
+        "أُذُنَيْنِ",
+        "قَلْبًا"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "wrongOptionsAyahNumbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "وَلِسَانًا",
+      "missingWordPosition": 1,
+      "options": [
+        "وَلِسَانًا",
+        "وَسَمْعًا",
+        "وَبَصَرًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWord": "وَشَفَتَيْنِ",
+      "missingWordPosition": 2,
+      "options": [
+        "وَشَفَتَيْنِ",
+        "وَأُذُنَيْنِ",
+        "وَيَدَيْنِ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "وَهَدَيْنَـٰهُ",
+      "missingWordPosition": 1,
+      "options": [
+        "وَهَدَيْنَـٰهُ",
+        "وَعَلَّمْنَاهُ",
+        "وَأَرَيْنَاهُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWord": "ٱلنَّجْدَيْنِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنَّجْدَيْنِ",
+        "ٱلصِّرَاطَ",
+        "ٱلْحَقَّ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱقْتَحَمَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱقْتَحَمَ",
+        "جَاوَزَ",
+        "سَلَكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWord": "ٱلْعَقَبَةَ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَقَبَةَ",
+        "ٱلْمَفَازَةَ",
+        "ٱلطَّرِيقَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "أَدْرَىٰكَ",
+      "missingWordPosition": 2,
+      "options": [
+        "أَدْرَىٰكَ",
+        "أَعْلَمَكَ",
+        "يُدْرِيكَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWord": "ٱلْعَقَبَةُ",
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَقَبَةُ",
+        "ٱلْقَارِعَةُ",
+        "ٱلْحَاقَّةُ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "فَكُّ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَكُّ",
+        "عِتْقُ",
+        "نَجَاةُ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWord": "رَقَبَةٍ",
+      "missingWordPosition": 2,
+      "options": [
+        "رَقَبَةٍ",
+        "أَسِيرٍ",
+        "مِسْكِينٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "إِطْعَـٰمٌ",
+      "missingWordPosition": 2,
+      "options": [
+        "إِطْعَـٰمٌ",
+        "إِنْفَاقٌ",
+        "إِحْسَانٌ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWord": "مَسْغَبَةٍ",
+      "missingWordPosition": 6,
+      "options": [
+        "مَسْغَبَةٍ",
+        "مَجَاعَةٍ",
+        "مَتْرَبَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        11,
+        16
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "يَتِيمًا",
+      "missingWordPosition": 1,
+      "options": [
+        "يَتِيمًا",
+        "مِسْكِينًا",
+        "فَقِيرًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWord": "مَقْرَبَةٍ",
+      "missingWordPosition": 3,
+      "options": [
+        "مَقْرَبَةٍ",
+        "مَتْرَبَةٍ",
+        "مَسْغَبَةٍ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "مِسْكِينًا",
+      "missingWordPosition": 2,
+      "options": [
+        "مِسْكِينًا",
+        "يَتِيمًا",
+        "سَائِلًا"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWord": "مَتْرَبَةٍ",
+      "missingWordPosition": 4,
+      "options": [
+        "مَتْرَبَةٍ",
+        "مَقْرَبَةٍ",
+        "مَسْغَبَةٍ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ألم نمنح الإنسان عينين يبصر بهما، ولساناً وشفتين ينطق بهما ويعبّر عما في ضميره، وبيّنا له طريقي الخير والشر (النجدين) ليميز بينهما؟ فهلا جاهد نفسه وبذل ماله ليجتاز مشاق الآخرة وأهوالها باقتحام العقبة؟! وما أعلمك ما اقتحام تلك العقبة العظيمة؟ إنه إعتاق الرقاب وتخليص الأسرى، أو إطعام الطعام في أوقات الشدة والجوع والمجاعة الشديدة (يوم ذي مسغبة) ليتيم ذي قرابة تعطفاً عليه، أو فقير معدم لاصق بالتراب من شدة الحاجة والفاقة (ذا متربة)."
+  }
+}

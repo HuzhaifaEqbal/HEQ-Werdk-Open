@@ -1,0 +1,43 @@
+{
+  "name": "Quran Oasis Micro-Hifz Curriculum",
+  "name_ar": "واحة القرآن الكريم — منهج الحفظ المصغر التفاعلي",
+  "version": "2.0.0",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/quran_oasis",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/quran_oasis",
+  "methodology": "Bite-sized Hifz (variable node length based on chunking algorithm), Strictly No Scrambling, Uthmanic Script",
+  "tafseer_integration": "Dynamic via external API chosen by developer (e.g. your_API_ForTafseer)",
+  "notes": "الأجزاء المدرجة أدناه هي المعتمدة في واجهة العرض، وبقية مجلدات الأجزاء في المستودع تعتبر مسودات قيد الاستكمال والتدقيق.",
+  "available_ajzaa": [
+    {
+      "juz": 30,
+      "name_ar": "جزء عمّ",
+      "name_en": "Juz 'Amma",
+      "path": "juz_30",
+      "surahs_count": 37,
+      "surah_range": "78 - 114",
+      "total_nodes": 108,
+      "hifz_nodes": 107,
+      "voice_challenges": 1,
+      "total_json_files": 108
+    },
+    {
+      "juz": 29,
+      "name_ar": "جزء تبارك",
+      "name_en": "Juz Tabarak",
+      "path": "juz_29",
+      "surahs_count": 11,
+      "surah_range": "67 - 77",
+      "total_nodes": 84
+    },
+    {
+      "juz": 1,
+      "name_ar": "جزء ألم",
+      "name_en": "Juz 1 (Al-Fatihah & Al-Baqarah)",
+      "path": "juz_01",
+      "surahs_count": 2,
+      "surah_range": "1 - 2",
+      "total_nodes": 30
+    }
+  ]
+}

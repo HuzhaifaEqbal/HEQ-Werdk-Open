@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_002_01",
+  "title": "سورة البقرة - الآيات 1-5",
+  "surahId": 2,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "الٓمٓ",
+        "ءَالِ",
+        "أَبَىٰ",
+        "ءَامَنَّا"
+      ],
+      "activityId": "act_002_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_002_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "لِّلۡمُتَّقِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ",
+        "وَيُقِيمُونَ"
+      ],
+      "activityId": "act_002_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_002_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "وَيُقِيمُونَ",
+        "لِّلۡمُتَّقِينَ",
+        "ءَاتَيۡنَٰكُم",
+        "ءَاتَيۡنَٰهُمُ"
+      ],
+      "activityId": "act_002_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_002_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 10,
+      "options": [
+        "وَبِٱلۡأٓخِرَةِ",
+        "ءَأَنذَرۡتَهُمۡ",
+        "بِأَسۡمَآئِهِمۡۖ",
+        "لِّلۡمُتَّقِينَ"
+      ],
+      "activityId": "act_002_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_002_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "أُوْلَٰٓئِكَ",
+        "ءَايَٰتِكَ",
+        "ءَامَنَّا",
+        "الٓمٓ"
+      ],
+      "activityId": "act_002_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "البقرة",
+    "juz": 1,
+    "theme": "يفتتح المقطع ببيان صفات المتقين الذين ينتفعون بالهدى: الإيمان بالغيب، وإقامة الصلاة، والإنفاق، والتصديق بالوحي، واليقين بالآخرة."
+  }
+}

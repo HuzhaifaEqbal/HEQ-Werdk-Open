@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_044_05",
+  "title": "سورة الدخان: إنكار المشركين للبعث وخلق السماوات بالحق ويوم الفصل وميقات الخلائق",
+  "surahId": 44,
+  "ayahStart": 34,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "activityId": "act_044_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 8,
+      "options": [
+        "بِمُنشَرِينَ",
+        "بِمَبْعُوثِينَ",
+        "بِمُخْرَجِينَ",
+        "بِمُحْيَيْنَ"
+      ]
+    },
+    {
+      "activityId": "act_044_05_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "activityId": "act_044_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "تُبَّعٍۢ",
+        "عَادٍ",
+        "ثَمُودَ",
+        "نُوحٍ"
+      ]
+    },
+    {
+      "activityId": "act_044_05_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        40
+      ]
+    },
+    {
+      "activityId": "act_044_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 7,
+      "options": [
+        "لَـٰعِبِينَ",
+        "عَبَثًا",
+        "بَاطِلًا",
+        "سُدًى"
+      ]
+    },
+    {
+      "activityId": "act_044_05_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_044_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَصْلِ",
+        "ٱلْقِيَامَةِ",
+        "ٱلْبَعْثِ",
+        "ٱلْحِسَابِ"
+      ]
+    },
+    {
+      "activityId": "act_044_05_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_044_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "مَوْلًى",
+        "قَرِيبٌ",
+        "نَصِيرٌ",
+        "شَفِيعٌ"
+      ]
+    },
+    {
+      "activityId": "act_044_05_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        44
+      ]
+    },
+    {
+      "activityId": "act_044_05_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْغَفُورُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْعَلِيمُ"
+      ]
+    }
+  ]
+}

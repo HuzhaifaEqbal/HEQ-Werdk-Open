@@ -1,0 +1,131 @@
+{
+  "nodeId": "node_043_10",
+  "title": "سورة الزخرف: تكبر فرعون بملك مصر واستخفافه بقومه وإغراقهم أجمعين",
+  "surahId": 43,
+  "ayahStart": 51,
+  "ayahEnd": 56,
+  "activities": [
+    {
+      "activityId": "act_043_10_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 10,
+      "options": [
+        "مِصْرَ",
+        "ٱلْأَرْضِ",
+        "ٱلْبَلَدِ",
+        "ٱلْمَدِينَةِ"
+      ]
+    },
+    {
+      "activityId": "act_043_10_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        54
+      ]
+    },
+    {
+      "activityId": "act_043_10_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 8,
+      "options": [
+        "مَهِينٌۭ",
+        "ضَعِيفٌ",
+        "فَقِيرٌ",
+        "حَقِيرٌ"
+      ]
+    },
+    {
+      "activityId": "act_043_10_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        55
+      ]
+    },
+    {
+      "activityId": "act_043_10_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 4,
+      "options": [
+        "أَسْوِرَةٌۭ",
+        "حِلْيَةٌ",
+        "تِيجَانٌ",
+        "خَزَائِنُ"
+      ]
+    },
+    {
+      "activityId": "act_043_10_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        56
+      ]
+    },
+    {
+      "activityId": "act_043_10_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱسْتَخَفَّ",
+        "فَٱسْتَغْوَى",
+        "فَخَدَعَ",
+        "فَأَضَلَّ"
+      ]
+    },
+    {
+      "activityId": "act_043_10_08",
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        57
+      ]
+    },
+    {
+      "activityId": "act_043_10_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاسَفُونَا",
+        "أَغْضَبُونَا",
+        "عَصَوْنَا",
+        "حَارَبُونَا"
+      ]
+    },
+    {
+      "activityId": "act_043_10_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        58
+      ]
+    },
+    {
+      "activityId": "act_043_10_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "سَلَفًۭا",
+        "عِبْرَةً",
+        "آيَةً",
+        "مَوْعِظَةً"
+      ]
+    }
+  ]
+}

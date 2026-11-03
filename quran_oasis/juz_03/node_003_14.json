@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_14",
+  "title": "سورة آل عمران - الآيات 66-70",
+  "surahId": 3,
+  "ayahStart": 66,
+  "ayahEnd": 70,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 9,
+      "options": [
+        "تُحَآجُّونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تَكۡفُرُونَ"
+      ],
+      "activityId": "act_003_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        64
+      ],
+      "activityId": "act_003_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلۡمُشۡرِكِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلۡمُؤۡمِنِينَ"
+      ],
+      "activityId": "act_003_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_003_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلۡمُؤۡمِنِينَ",
+        "ٱلۡمُشۡرِكِينَ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_003_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 7,
+      "options": [
+        "يُضِلُّونَكُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "تُحَآجُّونَ"
+      ],
+      "activityId": "act_003_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_003_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "تَكۡفُرُونَ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "تُحَآجُّونَ"
+      ],
+      "activityId": "act_003_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 3,
+    "theme": "يكشف المقطع تناقض بعض أهل الكتاب في دعوة المؤمنين واتباع الحق، وينهى عن خلطه بالباطل."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "nodeId": "hifz_006_18",
+  "title": "سورة الأنعام - الآيات 103-106",
+  "surahId": 6,
+  "ayahStart": 103,
+  "ayahEnd": 106,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْأَبْصَـٰرَ ۖ",
+        "فَعَلَيْهَا ۚ",
+        "فَلِنَفْسِهِۦ ۖ",
+        "وَلِنُبَيِّنَهُۥ"
+      ],
+      "activityId": "act_006_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_006_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 8,
+      "options": [
+        "فَلِنَفْسِهِۦ ۖ",
+        "وَلِيَقُولُوا۟",
+        "ٱلْمُشْرِكِينَ",
+        "وَلِنُبَيِّنَهُۥ"
+      ],
+      "activityId": "act_006_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "wrongOptionsAyahNumbers": [
+        106,
+        102
+      ],
+      "activityId": "act_006_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 4,
+      "options": [
+        "وَلِيَقُولُوا۟",
+        "ٱلْمُشْرِكِينَ",
+        "فَلِنَفْسِهِۦ ۖ",
+        "ٱلْأَبْصَـٰرَ ۖ"
+      ],
+      "activityId": "act_006_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_006_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "وَلِيَقُولُوا۟",
+        "فَلِنَفْسِهِۦ ۖ",
+        "وَلِنُبَيِّنَهُۥ"
+      ],
+      "activityId": "act_006_18_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنعام",
+    "juz": 7,
+    "theme": "تقرير توحيد الله وآيات قدرته، ودعوة المكذبين للنظر في مصائر الأمم، وبيان أصول الإيمان والبعث والولاية لله."
+  }
+}

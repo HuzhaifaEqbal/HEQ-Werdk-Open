@@ -1,0 +1,164 @@
+{
+  "nodeId": "node_071_01",
+  "title": "سورة نوح: بعثة نوح ودعوته لقومه إلى التوحيد والمغفرة",
+  "surahId": 71,
+  "ayahStart": 1,
+  "ayahEnd": 4,
+  "activities": [
+    {
+      "activityId": "act_071_01_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "نُوحًا",
+        "هُودًا",
+        "صَـٰلِحًا",
+        "إِبْرَاهِيمَ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 7,
+      "options": [
+        "أَنذِرْ",
+        "بَشِّرْ",
+        "عَلِّمْ",
+        "ادْعُ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 14,
+      "options": [
+        "أَلِيمٌۭ",
+        "شَدِيدٌ",
+        "عَظِيمٌ",
+        "قَرِيبٌ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "activityId": "act_071_01_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "نَذِيرٌۭ",
+        "رَسُولٌ",
+        "بَشِيرٌ",
+        "شَاهِدٌ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّبِينٌ",
+        "كَرِيمٌ",
+        "أَمِينٌ",
+        "عَظِيمٌ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        1
+      ]
+    },
+    {
+      "activityId": "act_071_01_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱعْبُدُوا۟",
+        "ٱشْكُرُوا",
+        "سَبِّحُوا",
+        "وَحِّدُوا"
+      ]
+    },
+    {
+      "activityId": "act_071_01_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱتَّقُوهُ",
+        "وَٱعْرِفُوهُ",
+        "وَٱذْكُرُوهُ",
+        "وَٱحْمَدُوهُ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        2
+      ]
+    },
+    {
+      "activityId": "act_071_01_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "يَغْفِرْ",
+        "يَتُبْ",
+        "يَعْفُ",
+        "يُفَرِّجْ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيُؤَخِّرْكُمْ",
+        "وَيَرْزُقْكُمْ",
+        "وَيَنْصُرْكُمْ",
+        "وَيُعِزَّكُمْ"
+      ]
+    },
+    {
+      "activityId": "act_071_01_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 15,
+      "options": [
+        "يُؤَخَّرُ",
+        "يُقَدَّمُ",
+        "يُرَدُّ",
+        "يَتَغَيَّرُ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "نوح",
+    "juz": 29,
+    "theme": "إرسال نوح عليه السلام نذيراً مبيناً لقومه، ودعوتهم لإفراد الله بالعبادة والتقوى لنيل مغفرة الذنوب وتأخير الأجل"
+  }
+}

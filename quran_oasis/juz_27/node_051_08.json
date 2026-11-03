@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_051_08",
+  "title": "سورة الذاريات: حكمة خلق الجن والإنس وإنعام الرزاق ذي القوة المتين",
+  "surahId": 51,
+  "ayahStart": 56,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "activityId": "act_051_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْجِنَّ",
+        "ٱلْخَلْقَ",
+        "ٱلْمَلَـٰٓئِكَةَ",
+        "ٱلثَّقَلَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْإِنسَ",
+        "وَٱلْبَشَرَ",
+        "وَٱلْخَلْقَ",
+        "وَٱلْعَالَمِينَ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 6,
+      "options": [
+        "لِيَعْبُدُونِ",
+        "لِيَعْرِفُونِ",
+        "لِيَشْكُرُونِ",
+        "لِيَسْأَلُونِ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        59
+      ]
+    },
+    {
+      "activityId": "act_051_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 5,
+      "options": [
+        "رِّزْقٍۢ",
+        "نَفْعٍ",
+        "عَوْنٍ",
+        "مَالٍ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 9,
+      "options": [
+        "يُطْعِمُونِ",
+        "يَسْقُونِ",
+        "يَرْزُقُونِ",
+        "يَنْصُرُونِ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        60
+      ]
+    },
+    {
+      "activityId": "act_051_08_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلرَّزَّاقُ",
+        "ٱلْوَهَّابُ",
+        "ٱلْفَتَّاحُ",
+        "ٱلْكَرِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقُوَّةِ",
+        "ٱلْعِزَّةِ",
+        "ٱلْفَضْلِ",
+        "ٱلْجَلَالِ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَتِينُ",
+        "ٱلْعَظِيمُ",
+        "ٱلْقَدِيرُ",
+        "ٱلْحَكِيمُ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        61
+      ]
+    },
+    {
+      "activityId": "act_051_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 4,
+      "options": [
+        "ذَنُوبًۭا",
+        "نَصِيبًا",
+        "عَذَابًا",
+        "حَظًّا"
+      ]
+    },
+    {
+      "activityId": "act_051_08_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسْتَعْجِلُونِ",
+        "يَمْتَرُونِ",
+        "يُكَذِّبُونِ",
+        "يَسْتَهْزِءُونِ"
+      ]
+    },
+    {
+      "activityId": "act_051_08_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        62
+      ]
+    },
+    {
+      "activityId": "act_051_08_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 1,
+      "options": [
+        "فَوَيْلٌۭ",
+        "فَهَلَاكٌ",
+        "فَخَسَارٌ",
+        "فَتَعْسًا"
+      ]
+    },
+    {
+      "activityId": "act_051_08_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "يُوعَدُونَ",
+        "يَكْفُرُونَ",
+        "يَخَافُونَ",
+        "يَحْذَرُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الذاريات",
+    "juz": 27,
+    "theme": "إعلان الغاية الكبرى من خلق المكلفين وهي عبادة الله وحده، وبيان كمال غناه ورزقه، والوعيد للكافرين بيومهم الموعود."
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "nodeId": "node_060_05",
+  "title": "سورة الممتحنة: شروط بيعة النساء وخاتمة النهي عن تولي المغضوب عليهم",
+  "surahId": 60,
+  "ayahStart": 12,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "activityId": "act_060_05_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 6,
+      "options": [
+        "يُبَايِعْنَكَ",
+        "يُعَاهِدْنَكَ",
+        "يُسَلِّمْنَكَ",
+        "يَطْلُبْنَكَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 10,
+      "options": [
+        "يُشْرِكْنَ",
+        "يَكْفُرْنَ",
+        "يَعْبُدْنَ غَيْرَ",
+        "يَجْعَلْنَ مَعَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 14,
+      "options": [
+        "يَسْرِقْنَ",
+        "يَخُنَّ",
+        "يَأْخُذْنَ مَالًا",
+        "يَغْلُلْنَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 16,
+      "options": [
+        "يَزْنِينَ",
+        "يَفْسُقْنَ",
+        "يَفْجُرْنَ",
+        "يَعْصِينَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 19,
+      "options": [
+        "أَوْلَـٰدَهُنَّ",
+        "بَنَاتِهِنَّ",
+        "أَطْفَالَهُنَّ",
+        "ذُرِّيَّتَهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 22,
+      "options": [
+        "بِبُهْتَـٰنٍۢ",
+        "بِكَذِبٍ",
+        "بِزُورٍ",
+        "بِإِثْمٍ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 28,
+      "options": [
+        "يَعْصِينَكَ",
+        "يُخَالِفْنَكَ",
+        "يَرُدَّنَ عَلَيْكَ",
+        "يَمْنَعْنَكَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 30,
+      "options": [
+        "مَعْرُوفٍۢ ۙ",
+        "طَاعَةٍ",
+        "حَقٍّ",
+        "عَدْلٍ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 31,
+      "options": [
+        "فَبَايِعْهُنَّ",
+        "فَعَاهِدْهُنَّ",
+        "فَٱقْبَلْهُنَّ",
+        "فَٱرْضَ عَنْهُنَّ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 38,
+      "options": [
+        "رَّحِيمٌۭ",
+        "تَوَّابٌ",
+        "حَلِيمٌ",
+        "عَفُوٌّ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "activityId": "act_060_05_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "تَتَوَلَّوْا۟",
+        "تُصَادِقُوا۟",
+        "تُوَالُوا۟",
+        "تَنْصُرُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_060_05_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱللَّهُ",
+        "سَخِطَ",
+        "لَعَنَ",
+        "عَاقَبَ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 11,
+      "options": [
+        "يَئِسُوا۟",
+        "قَنِطُوا۟",
+        "حُرِمُوا۟",
+        "أَبْلَسُوا۟"
+      ]
+    },
+    {
+      "activityId": "act_060_05_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْـَٔاخِرَةِ",
+        "ٱلْجَنَّةِ",
+        "ٱلثَّوَابِ",
+        "ٱلْبَعْثِ"
+      ]
+    },
+    {
+      "activityId": "act_060_05_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْقُبُورِ",
+        "ٱلْأَجْدَاثِ",
+        "ٱلنَّارِ",
+        "ٱلْأَرْضِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الممتحنة",
+    "juz": 28,
+    "theme": "شروط بيعة النساء للنبي ﷺ على الإيمان والعفة والبعد عن الكبائر وطاعة المعروف، وخاتمة السورة بالنهي المؤكد عن موالاة القوم الذين غضب الله عليهم."
+  }
+}

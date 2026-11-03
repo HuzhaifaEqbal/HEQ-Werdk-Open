@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_003_23",
+  "title": "سورة آل عمران - الآيات 108-112",
+  "surahId": 3,
+  "ayahStart": 108,
+  "ayahEnd": 112,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 11,
+      "options": [
+        "لِّلۡعَٰلَمِينَ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "يُقَٰتِلُوكُمۡ"
+      ],
+      "activityId": "act_003_23_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_003_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَٰوَٰتِ",
+        "ءَاتَىٰهُمُ",
+        "ءَاخِرَهُۥ",
+        "لِّلۡعَٰلَمِينَ"
+      ],
+      "activityId": "act_003_23_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_003_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 7,
+      "options": [
+        "بِٱلۡمَعۡرُوفِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ",
+        "ٱلۡأَنۢبِيَآءَ"
+      ],
+      "activityId": "act_003_23_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_003_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 6,
+      "options": [
+        "يُقَٰتِلُوكُمۡ",
+        "ءَأَسۡلَمۡتُمۡۚ",
+        "ءَأَقۡرَرۡتُمۡ",
+        "لِّلۡعَٰلَمِينَ"
+      ],
+      "activityId": "act_003_23_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_003_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 28,
+      "options": [
+        "ٱلۡأَنۢبِيَآءَ",
+        "بِٱلۡمَعۡرُوفِ",
+        "أَوۡلِيَآءَهُۥ",
+        "بِٱلتَّوۡرَىٰةِ"
+      ],
+      "activityId": "act_003_23_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "آل عمران",
+    "juz": 4,
+    "theme": "يعرض المقطع عاقبة بعض أهل الكتاب، ويؤكد أن ما يقدم من عمل صالح محفوظ عند الله."
+  }
+}

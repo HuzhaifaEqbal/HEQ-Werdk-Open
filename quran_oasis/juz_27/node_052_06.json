@@ -1,0 +1,232 @@
+{
+  "nodeId": "node_052_06",
+  "title": "سورة الطور: عناد المكذبين ومعية الله لرسوله والأمر بالصبر والتسبيح",
+  "surahId": 52,
+  "ayahStart": 44,
+  "ayahEnd": 49,
+  "activities": [
+    {
+      "activityId": "act_052_06_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "كِسْفًۭا",
+        "قِطَعًا",
+        "حِجَارَةً",
+        "صَاعِقَةً"
+      ]
+    },
+    {
+      "activityId": "act_052_06_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 8,
+      "options": [
+        "سَحَابٌۭ",
+        "غَمَامٌ",
+        "ضَبَابٌ",
+        "مَطَرٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 9,
+      "options": [
+        "مَّرْكُومٌۭ",
+        "مُّتَرَاكِمٌ",
+        "مَّاطِرٌ",
+        "مُّظْلِمٌ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        47
+      ]
+    },
+    {
+      "activityId": "act_052_06_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 1,
+      "options": [
+        "فَذَرْهُمْ",
+        "فَأَعْرِضْ",
+        "فَٱتْرُكْهُمْ",
+        "فَٱصْبِرْ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "يُصْعَقُونَ",
+        "يُهْلَكُونَ",
+        "يُعَذَّبُونَ",
+        "يُحْشَرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        48
+      ]
+    },
+    {
+      "activityId": "act_052_06_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "كَيْدُهُمْ",
+        "مَكْرُهُمْ",
+        "جَمْعُهُمْ",
+        "مَالُهُمْ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 9,
+      "options": [
+        "يُنصَرُونَ",
+        "يُنْقَذُونَ",
+        "يُفْلِحُونَ",
+        "يُرْحَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        49
+      ]
+    },
+    {
+      "activityId": "act_052_06_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 4,
+      "options": [
+        "عَذَابًۭا",
+        "عِقَابًا",
+        "بَأْسًا",
+        "خِزْيًا"
+      ]
+    },
+    {
+      "activityId": "act_052_06_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 10,
+      "options": [
+        "يَعْلَمُونَ",
+        "يُوقِنُونَ",
+        "يَعْقِلُونَ",
+        "يَشْعُرُونَ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_052_06_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱصْبِرْ",
+        "وَٱثْبُتْ",
+        "وَتَوَكَّلْ",
+        "وَٱسْتَقِمْ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 5,
+      "options": [
+        "بِأَعْيُنِنَا ۖ",
+        "بِحِفْظِنَا",
+        "بِكَلَاءَتِنَا",
+        "بِرِعَايَتِنَا"
+      ]
+    },
+    {
+      "activityId": "act_052_06_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 10,
+      "options": [
+        "تَقُومُ",
+        "تَصْحُو",
+        "تَنَامُ",
+        "تَجْلِسُ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_17",
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        45,
+        46
+      ]
+    },
+    {
+      "activityId": "act_052_06_18",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 4,
+      "options": [
+        "وَإِدْبَـٰرَ",
+        "وَإِقْبَالَ",
+        "وَطُلُوعَ",
+        "وَغُرُوبَ"
+      ]
+    },
+    {
+      "activityId": "act_052_06_19",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلنُّجُومِ",
+        "ٱلْكَوَاكِبِ",
+        "ٱلشَّمْسِ",
+        "ٱلْقَمَرِ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الطور",
+    "juz": 27,
+    "theme": "شدة عناد المكذبين، وتثبيت النبي صلى الله عليه وسلم بوعد الحفظ الإلهي والأمر بدوام التسبيح والصبر."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_19",
+  "title": "سورة النساء - الآيات 89-93",
+  "surahId": 4,
+  "ayahStart": 89,
+  "ayahEnd": 93,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 20,
+      "options": [
+        "وَٱقۡتُلُوهُمۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "فَلَقَٰتَلُوكُمۡۚ"
+      ],
+      "activityId": "act_004_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_004_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 23,
+      "options": [
+        "فَلَقَٰتَلُوكُمۡۚ",
+        "وَٱقۡتُلُوهُمۡ",
+        "يَعۡتَزِلُوكُمۡ",
+        "بِأَعۡدَآئِكُمۡۚ"
+      ],
+      "activityId": "act_004_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_004_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 17,
+      "options": [
+        "يَعۡتَزِلُوكُمۡ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "فَلَقَٰتَلُوكُمۡۚ",
+        "وَٱقۡتُلُوهُمۡ"
+      ],
+      "activityId": "act_004_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_004_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 13,
+      "options": [
+        "فَتَحۡرِيرُ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_004_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 5,
+      "options": [
+        "فَجَزَآؤُهُۥ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ",
+        "فَتَحۡرِيرُ"
+      ],
+      "activityId": "act_004_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يأمر بالقتال دفاعاً عن الحق، وبرد التحية بمثلها أو أحسن، ويذكر أحكاماً في التعامل مع المنافقين."
+  }
+}

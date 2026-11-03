@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_004_16",
+  "title": "سورة النساء - الآيات 74-78",
+  "surahId": 4,
+  "ayahStart": 74,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ فَلۡيُقَٰتِلۡ",
+        "بِأَعۡدَآئِكُمۡۚ",
+        "بِأَلۡسِنَتِهِمۡ",
+        "ءَابَآؤُكُمۡ"
+      ],
+      "activityId": "act_004_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_004_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلۡمُسۡتَضۡعَفِينَ",
+        "يَسۡتَنۢبِطُونَهُۥ",
+        "ٱلۡمُسۡتَضۡعَفِينَ",
+        "۞ فَلۡيُقَٰتِلۡ"
+      ],
+      "activityId": "act_004_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_004_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُواْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "تَكُونُواْ"
+      ],
+      "activityId": "act_004_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_004_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأَقِيمُواْ",
+        "أَبۡنَآئِكُمُ",
+        "ءَابَآؤُكُمۡ",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_004_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_004_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 2,
+      "options": [
+        "تَكُونُواْ",
+        "ءَاتَىٰهُمُ",
+        "ءَاتَيۡنَآ",
+        "ءَامَنُواْ"
+      ],
+      "activityId": "act_004_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 5,
+    "theme": "يذكر صلاة الخوف والاستعداد للعدو، ويبين أن الصلاة مكتوبة في أوقاتها."
+  }
+}

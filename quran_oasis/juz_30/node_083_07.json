@@ -1,0 +1,118 @@
+{
+  "nodeId": "hifz_083_07",
+  "title": "سورة المطففين - المقطع السابع (عزة المؤمنين يوم القيامة وجزاء الكفار العادل)",
+  "surahId": 83,
+  "ayahStart": 34,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "فَٱلْيَوْمَ",
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱلْيَوْمَ",
+        "فَغَدًا",
+        "فَيَوْمَئِذٍ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "ٱلْكُفَّارِ",
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْكُفَّارِ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْفُجَّارِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWord": "يَضْحَكُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَضْحَكُونَ",
+        "يَفْرَحُونَ",
+        "يَسْتَبْشِرُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        32,
+        36
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "ٱلْأَرَآئِكِ",
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَرَآئِكِ",
+        "ٱلسُّرُرِ",
+        "ٱلْمَقَاعِدِ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWord": "يَنظُرُونَ",
+      "missingWordPosition": 3,
+      "options": [
+        "يَنظُرُونَ",
+        "يَمْرَحُونَ",
+        "يَتَبَسَّمُونَ"
+      ]
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        33,
+        34
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "ثُوِّبَ",
+      "missingWordPosition": 2,
+      "options": [
+        "ثُوِّبَ",
+        "جُوزِيَ",
+        "عُوقِبَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "ٱلْكُفَّارُ",
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْكُفَّارُ",
+        "ٱلْأَشْقِيَاءُ",
+        "ٱلْمُجْرِمُونَ"
+      ]
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWord": "يَفْعَلُونَ",
+      "missingWordPosition": 6,
+      "options": [
+        "يَفْعَلُونَ",
+        "يَكْسِبُونَ",
+        "يَصْنَعُونَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "theme": "ففي هذا اليوم المشهود يوم القيامة تنعكس الموازين؛ فأهل الإيمان هم الذين يضحكون من الكفار حين يرونهم في العذاب مقيدين، وهم جالسون على الأرائك المزيّنة ينظرون إلى كرامة الله ونعيمه الدائم. هل جوزي الكفار وثُوّبوا في الآخرة إلا بما كانوا يفعلونه ويكسبونه في الدنيا من سخرية وتكذيب وظلم وعدوان؟ جزاءً وفاقاً وعدلاً من الله العليم الحكيم."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "nodeId": "node_069_08",
+  "title": "سورة الحاقة: قسم الله بما يرى وما لا يرى على صدق التنزيل",
+  "surahId": 69,
+  "ayahStart": 38,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "activityId": "act_069_08_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "تُبْصِرُونَ",
+        "تَعْلَمُونَ",
+        "تَسْمَعُونَ",
+        "تَشْهَدُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_02",
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        41
+      ]
+    },
+    {
+      "activityId": "act_069_08_03",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "تُبْصِرُونَ",
+        "تَعْلَمُونَ",
+        "تَشْهَدُونَ",
+        "تَفْقَهُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_04",
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        42
+      ]
+    },
+    {
+      "activityId": "act_069_08_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "رَسُولٍۢ",
+        "نَبِىٍّ",
+        "مَلَكٍ",
+        "مَلَكَيْنِ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_06",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "كَرِيمٍۢ",
+        "عَظِيمٍ",
+        "أَمِينٍ",
+        "مُّبِينٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_07",
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        43
+      ]
+    },
+    {
+      "activityId": "act_069_08_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "شَاعِرٍۢ",
+        "كَاهِنٍ",
+        "سَاحِرٍ",
+        "مَجْنُونٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "تُؤْمِنُونَ",
+        "تَذَكَّرُونَ",
+        "تَفْقَهُونَ",
+        "تَعْلَمُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_10",
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ]
+    },
+    {
+      "activityId": "act_069_08_11",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 3,
+      "options": [
+        "كَاهِنٍۢ",
+        "شَاعِرٍ",
+        "سَاحِرٍ",
+        "كَذَّابٍ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 6,
+      "options": [
+        "تَذَكَّرُونَ",
+        "تُؤْمِنُونَ",
+        "تُوقِنُونَ",
+        "تَتَّقُونَ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_13",
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        44,
+        40
+      ]
+    },
+    {
+      "activityId": "act_069_08_14",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "تَنزِيلٌۭ",
+        "وَحْىٌ",
+        "كِتَـٰبٌ",
+        "نُورٌ"
+      ]
+    },
+    {
+      "activityId": "act_069_08_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلنَّاسِ",
+        "ٱلْخَلْقِ",
+        "ٱلْمُتَّقِينَ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحاقة",
+    "juz": 29,
+    "theme": "قسم الله بجميع مخلوقاته المشاهدة والغيبية على أن القرآن قول رسول كريم منزه عن الشعر والكهانة، بل تنزيل من رب العالمين"
+  }
+}

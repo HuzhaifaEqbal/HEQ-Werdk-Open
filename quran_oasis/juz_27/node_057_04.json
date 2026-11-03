@@ -1,0 +1,198 @@
+{
+  "nodeId": "node_057_04",
+  "title": "سورة الحديد: القرض الحسن ونور المؤمنين وحسرة المنافقين وراء السور",
+  "surahId": 57,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "activityId": "act_057_04_01",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 7,
+      "options": [
+        "حَسَنًۭا",
+        "طَيِّبًا",
+        "كَبِيرًا",
+        "كَثِيرًا"
+      ]
+    },
+    {
+      "activityId": "act_057_04_02",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 12,
+      "options": [
+        "كَرِيمٌۭ",
+        "عَظِيمٌ",
+        "مُّقِيمٌ",
+        "جَزِيلٌ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_03",
+      "type": "next_ayah",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "wrongOptionsAyahNumbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "activityId": "act_057_04_04",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "بَيْنَ",
+        "يَمْشِى",
+        "يُضِيءُ",
+        "يَظْهَرُ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_05",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 22,
+      "options": [
+        "ٱلْعَظِيمُ",
+        "ٱلْكَبِيرُ",
+        "ٱلْمُبِينُ",
+        "ٱلْجَلِيلُ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_06",
+      "type": "next_ayah",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "wrongOptionsAyahNumbers": [
+        14,
+        15
+      ]
+    },
+    {
+      "activityId": "act_057_04_07",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 9,
+      "options": [
+        "مِن",
+        "ٱنْتَظِرُونَا",
+        "أَمْهِلُونَا",
+        "أَعِينُونَا"
+      ]
+    },
+    {
+      "activityId": "act_057_04_08",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 10,
+      "options": [
+        "نُّورِكُمْ",
+        "نَأْخُذْ",
+        "نَسْتَفِدْ",
+        "نَمْشِى"
+      ]
+    },
+    {
+      "activityId": "act_057_04_09",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 16,
+      "options": [
+        "فَضُرِبَ",
+        "بِسُورٍ",
+        "بِحِجَابٍ",
+        "بِبَابٍ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_10",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 22,
+      "options": [
+        "فِيهِ",
+        "ٱلْجَنَّةُ",
+        "ٱلنُّورُ",
+        "ٱلْفَوْزُ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_11",
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "activityId": "act_057_04_12",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْأَمَانِىُّ",
+        "ٱلْأَوْهَامُ",
+        "ٱلشَّيَاطِينُ",
+        "ٱلدُّنْيَا"
+      ]
+    },
+    {
+      "activityId": "act_057_04_13",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 20,
+      "options": [
+        "ٱلْغَرُورُ",
+        "ٱلشَّيْطَانُ",
+        "ٱلْهَوَى",
+        "ٱلْإِبْلِيسُ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_14",
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        17
+      ]
+    },
+    {
+      "activityId": "act_057_04_15",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "فِدْيَةٌۭ",
+        "عَدْلٌ",
+        "مَالٌ",
+        "شَفَاعَةٌ"
+      ]
+    },
+    {
+      "activityId": "act_057_04_16",
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 13,
+      "options": [
+        "مَوْلَىٰكُمْ ۖ",
+        "مَثْوَاكُمْ",
+        "مَقَرُّكُمْ",
+        "مَنْزِلُكُمْ"
+      ]
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحديد",
+    "juz": 27,
+    "theme": "فضل القرض الحسن ومضاعفته، ونور المؤمنين يوم القيامة يسعى بين أيديهم، وحرمان المنافقين بحجاب وسور ذي باب باطنه الرحمة وظاهره العذاب."
+  }
+}
