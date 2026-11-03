@@ -40,7 +40,6 @@ Developers can consume these datasets directly in mobile and web applications vi
 | [`/AlSera_Alnabaoia`](./AlSera_Alnabaoia/) | **8 أبواب زمنية تضم 59 درساً** لأحداث السيرة النبوية مرتبة تاريخياً | Chronological Seerah curriculum containing 59 interactive lessons | [`manifest.json`](https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/AlSera_Alnabaoia/manifest.json) | [دليل السيرة](./AlSera_Alnabaoia/README.md) |
 | [`/ALnawoi`](./ALnawoi/) | **أحاديث الأربعين النووية** مع سلاسل الأسانيد والفوائد الفقهية والتخريج | Imam Al-Nawawi's Hadiths with transmission chains & Fiqh points | [`manifest.json`](https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/ALnawoi/manifest.json) | [دليل الحديث](./ALnawoi/README.md) |
 | [`/seerah_map`](./seerah_map/) | **خريطة السيرة النبوية الجغرافية** مع إحداثيات GPS والربط القرآني | Geospatial Prophetic Seerah map with GPS coordinates | [`manifest.json`](https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/seerah_map/manifest.json) | [دليل الخريطة](./seerah_map/README.md) |
-| [`/File_md_ForAgent`](./File_md_ForAgent/) | **أدلة وبرومبتات الذكاء الاصطناعي** ومعمارية الأنظمة السحابية والـ SSO | AI Prompts, Flutter specs, mascot guides & system architectures | [فهرس البرومبتات](./File_md_ForAgent/README.md) | [دليل المعمارية](./File_md_ForAgent/README.md) |
 
 ---
 
@@ -171,6 +170,10 @@ curl -s "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/AlSera_Al
 هذا المستودع مرخص بموجب رخصة المشاع الإبداعي: **نسب المصنف - غير تجاري 4.0 دولي (CC BY-NC 4.0)**.  
 المشروع متاح كوقف تقني مفتوح لأغراض التعلم والتطوير غير الربحي لخدمة المحتوى الإسلامي والقرآني. الاستخدام التجاري المباشر غير مصرح به بدون إذن مسبق.  
 للاطلاع على تفاصيل الترخيص، راجع ملف [LICENSE](./LICENSE)، ولتفاصيل مصادر البيانات ونسبها راجع [ATTRIBUTION.md](./ATTRIBUTION.md).
+يخضع مجلد scripts/ لرخصة MIT (انظر scripts/LICENSE)، بينما البيانات والمحتوى التعليمي يخضعان لرخصة المشاع الإبداعي CC BY-NC 4.0.
+للاستخدام التجاري، تواصل معنا للحصول على إذن مكتوب: [CONTACT]
+
+الصور الموجودة في images/reciters/ وwallper/ وأي صور مجمّعة من الإنترنت جُمعت من مصادر متاحة على الإنترنت وأُجريت عليها تعديلات من فريق HEQ Werdk. حقوق الصور الأصلية تعود لأصحابها، ولا تشملها رخصة CC BY-NC 4.0 الخاصة بالمستودع. إن كنت صاحب حق وترغب بإزالة صورة، راسلنا على [CONTACT] وسنزيلها فوراً.
 
 ---
 
