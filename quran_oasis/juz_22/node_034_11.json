@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_034_11",
+  "title": "سورة سبأ - الآيات 51-54",
+  "surahId": 34,
+  "ayahStart": 51,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 4,
+      "options": [
+        "خَمْطٍۢ",
+        "لِمَنْ",
+        "فَلَا",
+        "وَمَا"
+      ],
+      "activityId": "act_034_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ"
+        }
+      ],
+      "activityId": "act_034_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 4,
+      "options": [
+        "لَهُمُ",
+        "مِنَ",
+        "يُؤْمِنُ",
+        "إِلَيْكَ"
+      ],
+      "activityId": "act_034_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قُلْ إِن ضَلَلْتُ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقَدْ كَفَرُوا۟ بِهِۦ"
+        }
+      ],
+      "activityId": "act_034_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "يَرْزُقُكُم",
+        "وَظَلَمُوٓا۟",
+        "مَوْقُوفُونَ",
+        "وَيَقْذِفُونَ"
+      ],
+      "activityId": "act_034_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قُل لَّا تُسْـَٔلُونَ"
+        }
+      ],
+      "activityId": "act_034_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "بِأَشْيَاعِهِم",
+        "مُّجْرِمِينَ",
+        "ءَاتَيْنَـٰهُم"
+      ],
+      "activityId": "act_034_11_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "فزع الكافرين عند معاينة العذاب وعجزهم عن التوبة بعد فوات الأوان."
+  }
+}

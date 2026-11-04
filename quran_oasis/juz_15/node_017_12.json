@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_12",
+  "title": "سورة الإسراء - الآيات 67-71",
+  "surahId": 17,
+  "ayahStart": 67,
+  "ayahEnd": 71,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 14,
+      "options": [
+        "أَعْرَضْتُمْ ۚ",
+        "أَفَأَمِنتُمْ",
+        "أُولَىٰهُمَا",
+        "بِإِمَـٰمِهِمْ ۖ"
+      ],
+      "activityId": "act_017_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "أَفَأَمِنتُمْ أَن يَخْسِفَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ أَمِنتُمْ أَن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا مَنَعَنَآ أَن"
+        }
+      ],
+      "activityId": "act_017_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 0,
+      "options": [
+        "أَفَأَمِنتُمْ",
+        "بِعِبَادِهِۦ",
+        "بِيَمِينِهِۦ",
+        "بِٱلنَّاسِ ۚ"
+      ],
+      "activityId": "act_017_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ أَمِنتُمْ أَن"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "فَأَرَادَ أَن يَسْتَفِزَّهُم"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "عَسَىٰ رَبُّكُمْ أَن"
+        }
+      ],
+      "activityId": "act_017_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 12,
+      "options": [
+        "فَيُغْرِقَكُم",
+        "بِٱلْبَنِينَ",
+        "بِٱلْخَيْرِ ۖ",
+        "بِٱلْعَهْدِ ۖ"
+      ],
+      "activityId": "act_017_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَقَالُوا۟ لَن نُّؤْمِنَ"
+        }
+      ],
+      "activityId": "act_017_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "وَحَمَلْنَـٰهُمْ",
+        "بِٱلْـَٔاخِرَةِ",
+        "تَنْهَرْهُمَا",
+        "تُؤْمِنُوٓا۟ ۚ"
+      ],
+      "activityId": "act_017_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "يَوْمَ نَدْعُوا۟ كُلَّ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "قُلْ كُلٌّۭ يَعْمَلُ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "كُلُّ ذَٰلِكَ كَانَ"
+        }
+      ],
+      "activityId": "act_017_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 4,
+      "options": [
+        "بِإِمَـٰمِهِمْ ۖ",
+        "خُشُوعًۭا ۩",
+        "شَاكِلَتِهِۦ",
+        "صُدُورِكُمْ ۚ"
+      ],
+      "activityId": "act_017_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

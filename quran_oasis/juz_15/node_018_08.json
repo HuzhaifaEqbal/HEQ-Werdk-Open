@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_08",
+  "title": "سورة الكهف - الآيات 43-48",
+  "surahId": 18,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "يَنصُرُونَهُۥ",
+        "۞ وَتَرَكْنَا",
+        "ءَاثَارِهِمَا",
+        "بِٱلْوَصِيدِ ۚ"
+      ],
+      "activityId": "act_018_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَرَبُّكَ ٱلْغَفُورُ ذُو"
+        }
+      ],
+      "activityId": "act_018_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْوَلَـٰيَةُ",
+        "حَاضِرًۭا ۗ",
+        "حُسْبَانًۭا",
+        "حُوتَهُمَا"
+      ],
+      "activityId": "act_018_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلَ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "۞ وَٱضْرِبْ لَهُم مَّثَلًۭا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ جَنَّـٰتُ"
+        }
+      ],
+      "activityId": "act_018_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحَيَوٰةِ",
+        "خَرَقَهَا ۖ",
+        "خَلَقْنَـٰكُمْ",
+        "خِلَـٰلَهُمَا"
+      ],
+      "activityId": "act_018_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "فَلَمَّا بَلَغَا مَجْمَعَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "فَلَمَّا جَاوَزَا قَالَ"
+        }
+      ],
+      "activityId": "act_018_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْبَنُونَ",
+        "وَٱتَّخَذُوٓا۟",
+        "وَٱلرَّقِيمِ",
+        "وَٱلْأَرْضِ ۖ"
+      ],
+      "activityId": "act_018_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَيَوْمَ يَقُولُ نَادُوا۟"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قَالَ إِنَّكَ لَن"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "قَالَ فَإِنِ ٱتَّبَعْتَنِى"
+        }
+      ],
+      "activityId": "act_018_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 6,
+      "options": [
+        "وَحَشَرْنَـٰهُمْ",
+        "وَٱلْبَـٰقِيَـٰتُ",
+        "وَٱلْبَنُونَ",
+        "يَتَنَـٰزَعُونَ"
+      ],
+      "activityId": "act_018_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَعُرِضُوا۟ عَلَىٰ رَبِّكَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَكَيْفَ تَصْبِرُ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "فَلَعَلَّكَ بَـٰخِعٌۭ نَّفْسَكَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ"
+        }
+      ],
+      "activityId": "act_018_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 5,
+      "options": [
+        "جِئْتُمُونَا",
+        "يَرْجُمُوكُمْ",
+        "يَـٰوَيْلَتَنَا",
+        "يُؤَاخِذُهُم"
+      ],
+      "activityId": "act_018_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

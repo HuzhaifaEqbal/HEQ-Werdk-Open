@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_07",
+  "title": "سورة فاطر - الآيات 32-36",
+  "surahId": 35,
+  "ayahStart": 32,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 10,
+      "options": [
+        "تُؤْفَكُونَ",
+        "يَسْتَوِى",
+        "وَمِنْهُم",
+        "وَلَئِن"
+      ],
+      "activityId": "act_035_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "إِن يَشَأْ يُذْهِبْكُمْ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يُولِجُ ٱلَّيْلَ فِى"
+        }
+      ],
+      "activityId": "act_035_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "كِتَـٰبٍ ۚ",
+        "أَسَاوِرَ",
+        "يُقْضَىٰ",
+        "إِنَّمَا"
+      ],
+      "activityId": "act_035_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "وَٱللَّهُ خَلَقَكُم مِّن"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا ذَٰلِكَ عَلَى"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_035_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "عَنَّا",
+        "وَمِن",
+        "هَلْ",
+        "نَعْمَلْ"
+      ],
+      "activityId": "act_035_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِىٓ أَحَلَّنَا دَارَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "مَّا يَفْتَحِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "۞ إِنَّ ٱللَّهَ يُمْسِكُ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ثُمَّ أَوْرَثْنَا ٱلْكِتَـٰبَ"
+        }
+      ],
+      "activityId": "act_035_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 8,
+      "options": [
+        "إِنَّآ",
+        "لِلَّهِ",
+        "فِيهَا",
+        "إِحْدَى"
+      ],
+      "activityId": "act_035_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "۞ إِنَّ ٱللَّهَ يُمْسِكُ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّ ٱلشَّيْطَـٰنَ لَكُمْ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ"
+        }
+      ],
+      "activityId": "act_035_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱللَّهَ",
+        "وَلَا",
+        "أَنَّ",
+        "جَهْدَ"
+      ],
+      "activityId": "act_035_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "تجارة المؤمنين الرابحة في تلاوة القرآن وإيراث الكتاب للصفوة من العباد وجنات عدن."
+  }
+}

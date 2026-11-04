@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_025_02",
+  "title": "سورة الفرقان - الآيات 6-10",
+  "surahId": 25,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْأَرْضِ ۚ",
+        "لِلْعَـٰلَمِينَ",
+        "لِلْمُتَّقِينَ",
+        "لِيَذَّكَّرُوا۟"
+      ],
+      "activityId": "act_025_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "وَقَالُوا۟ مَالِ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوْ يُلْقَىٰٓ إِلَيْهِ"
+        }
+      ],
+      "activityId": "act_025_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْأَسْوَاقِ ۙ",
+        "أَتَصْبِرُونَ ۗ",
+        "بِٱلسَّاعَةِ ۖ",
+        "تَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_025_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "أَوْ يُلْقَىٰٓ إِلَيْهِ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "ٱنظُرْ كَيْفَ ضَرَبُوا۟"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        }
+      ],
+      "activityId": "act_025_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "نُفُورًۭا ۩",
+        "وَأَعَانَهُۥ",
+        "وَأَعْتَدْنَا"
+      ],
+      "activityId": "act_025_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "ٱنظُرْ كَيْفَ ضَرَبُوا۟"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذَآ أُلْقُوا۟ مِنْهَا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "لَّا تَدْعُوا۟ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قُلْ أَذَٰلِكَ خَيْرٌ"
+        }
+      ],
+      "activityId": "act_025_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "كَٱلْأَنْعَـٰمِ ۖ",
+        "لِّلْمُجْرِمِينَ",
+        "وَءَابَآءَهُمْ"
+      ],
+      "activityId": "act_025_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "تَبَارَكَ ٱلَّذِىٓ إِن"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "تَبَارَكَ ٱلَّذِى نَزَّلَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "تَبَارَكَ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَإِذَا رَأَوْكَ إِن"
+        }
+      ],
+      "activityId": "act_025_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلْأَنْهَـٰرُ",
+        "أَزْوَٰجِنَا",
+        "أَضْلَلْتُمْ",
+        "أَكْثَرَهُمْ"
+      ],
+      "activityId": "act_025_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 18,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

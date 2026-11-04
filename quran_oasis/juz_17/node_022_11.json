@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_022_11",
+  "title": "سورة الحج - الآيات 59-63",
+  "surahId": 22,
+  "ayahStart": 59,
+  "ayahEnd": 63,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 0,
+      "options": [
+        "لَيُدْخِلَنَّهُم",
+        "وَٱلْقَاسِيَةِ",
+        "وَٱلْمَطْلُوبُ",
+        "وَٱلْمُعْتَرَّ ۚ"
+      ],
+      "activityId": "act_022_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَـٰتِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        }
+      ],
+      "activityId": "act_022_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 10,
+      "options": [
+        "لَيَنصُرَنَّهُ",
+        "ٱخْتَصَمُوا۟",
+        "ٱلرَّٰزِقِينَ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_022_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        }
+      ],
+      "activityId": "act_022_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنَّهَارِ",
+        "وَجَـٰهِدُوا۟",
+        "وَذُوقُوا۟",
+        "وَعَمِلُوا۟"
+      ],
+      "activityId": "act_022_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "ذَٰلِكَ بِمَا قَدَّمَتْ"
+        }
+      ],
+      "activityId": "act_022_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْكَبِيرُ",
+        "وَعْدَهُۥ ۚ",
+        "وَكَذَّبُوا۟",
+        "وَلِيَعْلَمَ"
+      ],
+      "activityId": "act_022_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "أَلَمْ تَعْلَمْ أَنَّ"
+        }
+      ],
+      "activityId": "act_022_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "وَيَصُدُّونَ",
+        "وَيَهْدِيهِ",
+        "وَٱلرُّكَّعِ"
+      ],
+      "activityId": "act_022_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

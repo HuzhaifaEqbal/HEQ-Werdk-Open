@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_19",
+  "title": "سورة الشعراء - الآيات 109-114",
+  "surahId": 26,
+  "ayahStart": 109,
+  "ayahEnd": 114,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "يَنقَلِبُونَ",
+        "ٱلذُّكْرَانَ",
+        "ٱلسَّـٰجِدِينَ"
+      ],
+      "activityId": "act_026_19_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "options": [
+        {
+          "ayahNumber": 110,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 213,
+          "text": "فَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        }
+      ],
+      "activityId": "act_026_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَطِيعُونِ",
+        "ٱلشَّيَـٰطِينُ",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلضَّآلِّينَ"
+      ],
+      "activityId": "act_026_19_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ"
+        },
+        {
+          "ayahNumber": 126,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 128,
+          "text": "أَتَبْنُونَ بِكُلِّ رِيعٍ"
+        },
+        {
+          "ayahNumber": 129,
+          "text": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ"
+        }
+      ],
+      "activityId": "act_026_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَرْذَلُونَ",
+        "يَنصُرُونَكُمْ",
+        "يَنفَعُونَكُمْ",
+        "ٱلْأَعْجَمِينَ"
+      ],
+      "activityId": "act_026_19_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "options": [
+        {
+          "ayahNumber": 112,
+          "text": "قَالَ وَمَا عِلْمِى"
+        },
+        {
+          "ayahNumber": 188,
+          "text": "قَالَ رَبِّىٓ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "قَالَ فِرْعَوْنُ وَمَا"
+        },
+        {
+          "ayahNumber": 155,
+          "text": "قَالَ هَـٰذِهِۦ نَاقَةٌۭ"
+        }
+      ],
+      "activityId": "act_026_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 5,
+      "options": [
+        "يَعْمَلُونَ",
+        "يَكُونُوا۟",
+        "يَهِيمُونَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_026_19_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "options": [
+        {
+          "ayahNumber": 113,
+          "text": "إِنْ حِسَابُهُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "إِنْ هَـٰذَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "إِنْ أَنَا۠ إِلَّا"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        }
+      ],
+      "activityId": "act_026_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 1,
+      "options": [
+        "حِسَابُهُمْ",
+        "يُبْعَثُونَ",
+        "يُخْرِجَكُم",
+        "يُصْلِحُونَ"
+      ],
+      "activityId": "act_026_19_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "options": [
+        {
+          "ayahNumber": 114,
+          "text": "وَمَآ أَنَا۠ بِطَارِدِ"
+        },
+        {
+          "ayahNumber": 208,
+          "text": "وَمَآ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 210,
+          "text": "وَمَا تَنَزَّلَتْ بِهِ"
+        },
+        {
+          "ayahNumber": 211,
+          "text": "وَمَا يَنۢبَغِى لَهُمْ"
+        }
+      ],
+      "activityId": "act_026_19_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْأَرْذَلُونَ",
+        "ٱلْأَقْدَمُونَ",
+        "ٱلْأَقْرَبِينَ"
+      ],
+      "activityId": "act_026_19_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

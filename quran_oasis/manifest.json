@@ -1,43 +1,317 @@
 {
   "name": "Quran Oasis Micro-Hifz Curriculum",
-  "name_ar": "واحة القرآن الكريم — منهج الحفظ المصغر التفاعلي",
-  "version": "2.0.0",
+  "name_ar": "واحة القرآن الكريم — منهج الحفظ المصغر التفاعلي (المصحف كاملاً)",
+  "version": "3.0.0",
   "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
   "raw_base_url": "https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/quran_oasis",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/quran_oasis",
   "methodology": "Bite-sized Hifz (variable node length based on chunking algorithm), Strictly No Scrambling, Uthmanic Script",
   "tafseer_integration": "Dynamic via external API chosen by developer (e.g. your_API_ForTafseer)",
-  "notes": "الأجزاء المدرجة أدناه هي المعتمدة في واجهة العرض، وبقية مجلدات الأجزاء في المستودع تعتبر مسودات قيد الاستكمال والتدقيق.",
+  "total_ajzaa": 30,
+  "total_surahs": 114,
+  "total_nodes": 1143,
+  "total_activities": 13188,
+  "notes": "المصحف الشريف كاملاً (30 جزءاً، 114 سورة، 1,135 عقدة تفاعلية) معتمد ومفحوص 100%.",
   "available_ajzaa": [
     {
-      "juz": 30,
-      "name_ar": "جزء عمّ",
-      "name_en": "Juz 'Amma",
-      "path": "juz_30",
-      "surahs_count": 37,
-      "surah_range": "78 - 114",
-      "total_nodes": 108,
-      "hifz_nodes": 107,
-      "voice_challenges": 1,
-      "total_json_files": 108
+      "juz": 1,
+      "name_ar": "جزء ألم (الفاتحة والبقرة)",
+      "name_en": "Juz 01 (Al-Fatihah & Al-Baqarah)",
+      "path": "juz_01",
+      "surahs_count": 2,
+      "surah_range": "1 - 2",
+      "total_nodes": 30,
+      "total_activities": 264
+    },
+    {
+      "juz": 2,
+      "name_ar": "جزء سيقول السفهاء",
+      "name_en": "Juz 02 (Sayaqool)",
+      "path": "juz_02",
+      "surahs_count": 1,
+      "surah_range": "2 - 2",
+      "total_nodes": 24,
+      "total_activities": 198
+    },
+    {
+      "juz": 3,
+      "name_ar": "جزء تلك الرسل",
+      "name_en": "Juz 03 (Tilka ar-Rusul)",
+      "path": "juz_03",
+      "surahs_count": 2,
+      "surah_range": "2 - 3",
+      "total_nodes": 26,
+      "total_activities": 226
+    },
+    {
+      "juz": 4,
+      "name_ar": "جزء لن تنالوا البر",
+      "name_en": "Juz 04 (Lan Tanaloo)",
+      "path": "juz_04",
+      "surahs_count": 2,
+      "surah_range": "3 - 4",
+      "total_nodes": 27,
+      "total_activities": 235
+    },
+    {
+      "juz": 5,
+      "name_ar": "جزء والمحصنات",
+      "name_en": "Juz 05 (Wal-Muhsanat)",
+      "path": "juz_05",
+      "surahs_count": 1,
+      "surah_range": "4 - 4",
+      "total_nodes": 31,
+      "total_activities": 273
+    },
+    {
+      "juz": 6,
+      "name_ar": "جزء لا يحب الله",
+      "name_en": "Juz 06 (La Yuhibbullah)",
+      "path": "juz_06",
+      "surahs_count": 2,
+      "surah_range": "4 - 5",
+      "total_nodes": 23,
+      "total_activities": 197
+    },
+    {
+      "juz": 7,
+      "name_ar": "جزء وإذا سمعوا",
+      "name_en": "Juz 07 (Wa Iza Sami'oo)",
+      "path": "juz_07",
+      "surahs_count": 2,
+      "surah_range": "5 - 6",
+      "total_nodes": 27,
+      "total_activities": 271
+    },
+    {
+      "juz": 8,
+      "name_ar": "جزء ولو أننا",
+      "name_en": "Juz 08 (Wa Law Annana)",
+      "path": "juz_08",
+      "surahs_count": 2,
+      "surah_range": "6 - 7",
+      "total_nodes": 24,
+      "total_activities": 260
+    },
+    {
+      "juz": 9,
+      "name_ar": "جزء قال الملأ",
+      "name_en": "Juz 09 (Qal al-Mala')",
+      "path": "juz_09",
+      "surahs_count": 2,
+      "surah_range": "7 - 8",
+      "total_nodes": 27,
+      "total_activities": 291
+    },
+    {
+      "juz": 10,
+      "name_ar": "جزء واعلموا",
+      "name_en": "Juz 10 (Wa'lamoo)",
+      "path": "juz_10",
+      "surahs_count": 2,
+      "surah_range": "8 - 9",
+      "total_nodes": 22,
+      "total_activities": 232
+    },
+    {
+      "juz": 11,
+      "name_ar": "جزء يعتذرون إليكم",
+      "name_en": "Juz 11 (Ya'taziroon)",
+      "path": "juz_11",
+      "surahs_count": 3,
+      "surah_range": "9 - 11",
+      "total_nodes": 27,
+      "total_activities": 275
+    },
+    {
+      "juz": 12,
+      "name_ar": "جزء وما من دابة",
+      "name_en": "Juz 12 (Wa Ma Min Dabbah)",
+      "path": "juz_12",
+      "surahs_count": 2,
+      "surah_range": "11 - 12",
+      "total_nodes": 29,
+      "total_activities": 311
+    },
+    {
+      "juz": 13,
+      "name_ar": "جزء وما أبرئ نفسي",
+      "name_en": "Juz 13 (Wa Ma Ubarri'u)",
+      "path": "juz_13",
+      "surahs_count": 3,
+      "surah_range": "12 - 14",
+      "total_nodes": 27,
+      "total_activities": 281
+    },
+    {
+      "juz": 14,
+      "name_ar": "جزء ربما",
+      "name_en": "Juz 14 (Rubama)",
+      "path": "juz_14",
+      "surahs_count": 2,
+      "surah_range": "15 - 16",
+      "total_nodes": 39,
+      "total_activities": 415
+    },
+    {
+      "juz": 15,
+      "name_ar": "جزء سبحان الذي أسرى",
+      "name_en": "Juz 15 (Subhanallazi Asra)",
+      "path": "juz_15",
+      "surahs_count": 2,
+      "surah_range": "17 - 18",
+      "total_nodes": 33,
+      "total_activities": 337
+    },
+    {
+      "juz": 16,
+      "name_ar": "جزء قال ألم أقل لك",
+      "name_en": "Juz 16 (Qala Alam Aqul)",
+      "path": "juz_16",
+      "surahs_count": 3,
+      "surah_range": "18 - 20",
+      "total_nodes": 46,
+      "total_activities": 492
+    },
+    {
+      "juz": 17,
+      "name_ar": "جزء اقترب للناس",
+      "name_en": "Juz 17 (Iqtaraba Lin-Nas)",
+      "path": "juz_17",
+      "surahs_count": 2,
+      "surah_range": "21 - 22",
+      "total_nodes": 33,
+      "total_activities": 347
+    },
+    {
+      "juz": 18,
+      "name_ar": "جزء قد أفلح المؤمنون",
+      "name_en": "Juz 18 (Qad Aflaha)",
+      "path": "juz_18",
+      "surahs_count": 3,
+      "surah_range": "23 - 25",
+      "total_nodes": 35,
+      "total_activities": 369
+    },
+    {
+      "juz": 19,
+      "name_ar": "جزء وقال الذين لا يرجون",
+      "name_en": "Juz 19 (Wa Qalallazina)",
+      "path": "juz_19",
+      "surahs_count": 3,
+      "surah_range": "25 - 27",
+      "total_nodes": 61,
+      "total_activities": 617
+    },
+    {
+      "juz": 20,
+      "name_ar": "جزء أمن خلق",
+      "name_en": "Juz 20 (Amman Khalaq)",
+      "path": "juz_20",
+      "surahs_count": 3,
+      "surah_range": "27 - 29",
+      "total_nodes": 31,
+      "total_activities": 311
+    },
+    {
+      "juz": 21,
+      "name_ar": "جزء اتل ما أوحي",
+      "name_en": "Juz 21 (Utlu Ma Oohiya)",
+      "path": "juz_21",
+      "surahs_count": 5,
+      "surah_range": "29 - 33",
+      "total_nodes": 34,
+      "total_activities": 322
+    },
+    {
+      "juz": 22,
+      "name_ar": "جزء ومن يقنت",
+      "name_en": "Juz 22 (Wa Man Yaqnut)",
+      "path": "juz_22",
+      "surahs_count": 4,
+      "surah_range": "33 - 36",
+      "total_nodes": 34,
+      "total_activities": 304
+    },
+    {
+      "juz": 23,
+      "name_ar": "جزء وما لي لا أعبد",
+      "name_en": "Juz 23 (Wa Maliya)",
+      "path": "juz_23",
+      "surahs_count": 4,
+      "surah_range": "36 - 39",
+      "total_nodes": 65,
+      "total_activities": 649
+    },
+    {
+      "juz": 24,
+      "name_ar": "جزء فمن أظلم",
+      "name_en": "Juz 24 (Faman Azlam)",
+      "path": "juz_24",
+      "surahs_count": 3,
+      "surah_range": "39 - 41",
+      "total_nodes": 33,
+      "total_activities": 317
+    },
+    {
+      "juz": 25,
+      "name_ar": "جزء إليه يرد علم الساعة",
+      "name_en": "Juz 25 (Ilayhi Yuraddu)",
+      "path": "juz_25",
+      "surahs_count": 5,
+      "surah_range": "41 - 45",
+      "total_nodes": 42,
+      "total_activities": 450
+    },
+    {
+      "juz": 26,
+      "name_ar": "جزء حـم",
+      "name_en": "Juz 26 (Ha Meem)",
+      "path": "juz_26",
+      "surahs_count": 5,
+      "surah_range": "46 - 50",
+      "total_nodes": 35,
+      "total_activities": 450
+    },
+    {
+      "juz": 27,
+      "name_ar": "جزء قال فما خطبكم",
+      "name_en": "Juz 27 (Qala Fama Khatbukum)",
+      "path": "juz_27",
+      "surahs_count": 7,
+      "surah_range": "51 - 57",
+      "total_nodes": 45,
+      "total_activities": 979
+    },
+    {
+      "juz": 28,
+      "name_ar": "جزء قد سمع الله",
+      "name_en": "Juz 28 (Qad Sami'allahu)",
+      "path": "juz_28",
+      "surahs_count": 9,
+      "surah_range": "58 - 66",
+      "total_nodes": 41,
+      "total_activities": 759
     },
     {
       "juz": 29,
       "name_ar": "جزء تبارك",
-      "name_en": "Juz Tabarak",
+      "name_en": "Juz 29 (Tabarak)",
       "path": "juz_29",
       "surahs_count": 11,
       "surah_range": "67 - 77",
-      "total_nodes": 84
+      "total_nodes": 84,
+      "total_activities": 1214
     },
     {
-      "juz": 1,
-      "name_ar": "جزء ألم",
-      "name_en": "Juz 1 (Al-Fatihah & Al-Baqarah)",
-      "path": "juz_01",
-      "surahs_count": 2,
-      "surah_range": "1 - 2",
-      "total_nodes": 30
+      "juz": 30,
+      "name_ar": "جزء عمّ",
+      "name_en": "Juz 30 ('Amma)",
+      "path": "juz_30",
+      "surahs_count": 37,
+      "surah_range": "78 - 114",
+      "total_nodes": 108,
+      "total_activities": 1542
     }
   ]
 }

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_08",
+  "title": "سورة العنكبوت - الآيات 35-39",
+  "surahId": 29,
+  "ayahStart": 35,
+  "ayahEnd": 39,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "أَرْضِى",
+        "تَّبَيَّنَ",
+        "أَهْلَ",
+        "ءَايَةًۢ"
+      ],
+      "activityId": "act_029_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "إِنَّ ٱللَّهَ يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَلَئِن سَأَلْتَهُم مَّنْ"
+        }
+      ],
+      "activityId": "act_029_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱللَّهَ",
+        "دُونِهِۦ",
+        "مَدْيَنَ",
+        "بَغْتَةًۭ"
+      ],
+      "activityId": "act_029_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَمَنْ أَظْلَمُ مِمَّنِ"
+        }
+      ],
+      "activityId": "act_029_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "وَقَـٰرُونَ",
+        "فَأَصْبَحُوا۟",
+        "أَنفُسَهُمْ",
+        "تَعْمَلُونَ"
+      ],
+      "activityId": "act_029_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَعَادًۭا وَثَمُودَا۟ وَقَد"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا"
+        }
+      ],
+      "activityId": "act_029_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 8,
+      "options": [
+        "بِمَآ",
+        "قُلْ",
+        "لَهُمُ",
+        "نَفْسٍۢ"
+      ],
+      "activityId": "act_029_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        }
+      ],
+      "activityId": "act_029_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلْبَيِّنَـٰتِ",
+        "وَإِبْرَٰهِيمَ",
+        "وَٱلْمُنكَرِ ۗ",
+        "بِـَٔايَـٰتِنَآ"
+      ],
+      "activityId": "act_029_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "ضرب مثل بيت العنكبوت للذين اتخذوا من دون الله أولياء في ضعفه ووهنه."
+  }
+}

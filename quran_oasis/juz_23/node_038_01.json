@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_01",
+  "title": "سورة ص - الآيات 1-6",
+  "surahId": 38,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "وَفِرْعَوْنُ",
+        "لَأَمْلَأَنَّ",
+        "وَٱلْقُرْءَانِ",
+        "سُلَيْمَـٰنَ"
+      ],
+      "activityId": "act_038_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَقَالُوا۟ مَا لَنَا"
+        }
+      ],
+      "activityId": "act_038_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "دَاوُۥدَ",
+        "كَفَرُوا۟",
+        "وَٱذْكُرْ",
+        "جَسَدًۭا"
+      ],
+      "activityId": "act_038_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "إِلَىٰ يَوْمِ ٱلْوَقْتِ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "إِذْ عُرِضَ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "كَمْ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ"
+        }
+      ],
+      "activityId": "act_038_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 5,
+      "options": [
+        "رَبِّى",
+        "بِسُؤَالِ",
+        "عِلْمٍۭ",
+        "قَرْنٍۢ"
+      ],
+      "activityId": "act_038_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَقَالُوا۟ رَبَّنَا عَجِّل"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَعَجِبُوٓا۟ أَن جَآءَهُم"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ"
+        }
+      ],
+      "activityId": "act_038_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلَّذِينَ",
+        "فَحَقَّ",
+        "أَمْسِكْ",
+        "وَقَالَ"
+      ],
+      "activityId": "act_038_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًۭا"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالُوا۟ رَبَّنَا مَن"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ"
+        }
+      ],
+      "activityId": "act_038_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "طِينٍۢ",
+        "إِنَّ",
+        "ذِى",
+        "إِنَّآ"
+      ],
+      "activityId": "act_038_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "مَا كَانَ لِىَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ"
+        }
+      ],
+      "activityId": "act_038_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "قَوْمُ",
+        "عَلَىٰٓ",
+        "ٱللَّهُ",
+        "لَهُۥٓ"
+      ],
+      "activityId": "act_038_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "القسم بالقرآن ذي الذكر واستكبار الكافرين في عزة وشقاق وإهلاك القرون السابقة."
+  }
+}

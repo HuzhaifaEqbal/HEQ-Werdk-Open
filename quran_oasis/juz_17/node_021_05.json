@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_05",
+  "title": "سورة الأنبياء - الآيات 25-30",
+  "surahId": 21,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 14,
+      "options": [
+        "فَٱعْبُدُونِ",
+        "وَأَصْلَحْنَا",
+        "وَأَنشَأْنَا",
+        "وَأَهْلَكْنَا"
+      ],
+      "activityId": "act_021_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "۞ وَمَن يَقُلْ مِنْهُمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "أَوَلَمْ يَرَ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_021_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "سُبْحَـٰنَهُۥ ۚ",
+        "وَأَوْحَيْنَآ",
+        "وَإِسْمَـٰعِيلَ",
+        "وَتَقَطَّعُوٓا۟"
+      ],
+      "activityId": "act_021_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "لَا يُسْـَٔلُ عَمَّا"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟"
+        }
+      ],
+      "activityId": "act_021_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 1,
+      "options": [
+        "يَسْبِقُونَهُۥ",
+        "وَأَدْخَلْنَـٰهُمْ",
+        "وَتَتَلَقَّىٰهُمُ",
+        "وَيَدْعُونَنَا"
+      ],
+      "activityId": "act_021_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "مَآ ءَامَنَتْ قَبْلَهُم"
+        }
+      ],
+      "activityId": "act_021_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "أَيْدِيهِمْ",
+        "بِٱلْقَوْلِ",
+        "تَأْتِيهِم",
+        "تَرْكُضُوا۟"
+      ],
+      "activityId": "act_021_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "۞ وَمَن يَقُلْ مِنْهُمْ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَجَعَلْنَا فِى ٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا"
+        }
+      ],
+      "activityId": "act_021_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "وَجَعَلْنَـٰهَا",
+        "وَجَعَلْنَـٰهُمْ",
+        "وَرَدُوهَا ۖ"
+      ],
+      "activityId": "act_021_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "أَوَلَمْ يَرَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِذَا رَءَاكَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "لَوْ يَعْلَمُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم"
+        }
+      ],
+      "activityId": "act_021_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "فَفَتَقْنَـٰهُمَا ۖ",
+        "يَسْبِقُونَهُۥ",
+        "يَسْتَحْسِرُونَ",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_021_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_16",
+  "title": "سورة النحل - الآيات 91-96",
+  "surahId": 16,
+  "ayahStart": 91,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 10,
+      "options": [
+        "تَوْكِيدِهَا",
+        "وَتَذُوقُوا۟",
+        "تَخْتَلِفُونَ",
+        "وَلَنَجْزِيَنَّ"
+      ],
+      "activityId": "act_016_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_016_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 25,
+      "options": [
+        "وَلَيُبَيِّنَنَّ",
+        "تَوْكِيدِهَا",
+        "وَلَنَجْزِيَنَّ",
+        "وَتَذُوقُوا۟"
+      ],
+      "activityId": "act_016_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_016_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 4,
+      "options": [
+        "لَجَعَلَكُمْ",
+        "تَتَّخِذُونَ",
+        "تَتَّخِذُوٓا۟",
+        "تَشْتَرُوا۟"
+      ],
+      "activityId": "act_016_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_016_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 10,
+      "options": [
+        "وَتَذُوقُوا۟",
+        "وَلَيُبَيِّنَنَّ",
+        "تَوْكِيدِهَا",
+        "تَخْتَلِفُونَ"
+      ],
+      "activityId": "act_016_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "wrongOptionsAyahNumbers": [
+        96,
+        92
+      ],
+      "activityId": "act_016_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 2,
+      "options": [
+        "تَشْتَرُوا۟",
+        "تَعْمَلُونَ",
+        "تَفْعَلُونَ",
+        "وَأَوْفُوا۟"
+      ],
+      "activityId": "act_016_16_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_016_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 8,
+      "options": [
+        "وَلَنَجْزِيَنَّ",
+        "وَلَيُبَيِّنَنَّ",
+        "تَخْتَلِفُونَ",
+        "تَوْكِيدِهَا"
+      ],
+      "activityId": "act_016_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

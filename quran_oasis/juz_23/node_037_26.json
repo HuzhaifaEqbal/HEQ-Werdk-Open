@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_26",
+  "title": "سورة الصافات - الآيات 143-147",
+  "surahId": 37,
+  "ayahStart": 143,
+  "ayahEnd": 147,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 143,
+      "missingWordPosition": 2,
+      "options": [
+        "كَانَ",
+        "وَإِذَا",
+        "وَقَالَ",
+        "بَل"
+      ],
+      "activityId": "act_037_26_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 143,
+      "correctNextAyahNumber": 144,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 128,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 144,
+          "text": "لَلَبِثَ فِى بَطْنِهِۦٓ"
+        }
+      ],
+      "activityId": "act_037_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 144,
+      "missingWordPosition": 3,
+      "options": [
+        "سِحْرٌۭ",
+        "إِنِّى",
+        "قَالَ",
+        "إِلَىٰ"
+      ],
+      "activityId": "act_037_26_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 144,
+      "correctNextAyahNumber": 145,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ"
+        }
+      ],
+      "activityId": "act_037_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 145,
+      "missingWordPosition": 2,
+      "options": [
+        "فَقَالَ",
+        "حَتَّىٰ",
+        "بَيْضٌۭ",
+        "وَهُوَ"
+      ],
+      "activityId": "act_037_26_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 145,
+      "correctNextAyahNumber": 146,
+      "options": [
+        {
+          "ayahNumber": 117,
+          "text": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ"
+        },
+        {
+          "ayahNumber": 172,
+          "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        }
+      ],
+      "activityId": "act_037_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 146,
+      "missingWordPosition": 2,
+      "options": [
+        "تَتَّقُونَ",
+        "شَجَرَةًۭ",
+        "فَكَفَرُوا۟",
+        "شَجَرَةٌۭ"
+      ],
+      "activityId": "act_037_26_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 146,
+      "correctNextAyahNumber": 147,
+      "options": [
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "وَٱللَّهُ خَلَقَكُمْ وَمَا"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "فَٱطَّلَعَ فَرَءَاهُ فِى"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ"
+        }
+      ],
+      "activityId": "act_037_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 147,
+      "missingWordPosition": 3,
+      "options": [
+        "أَلْفٍ",
+        "فَرَاغَ",
+        "رَأَوْا۟",
+        "وَبَيْنَ"
+      ],
+      "activityId": "act_037_26_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "إنكار نسبة البنات لله تعالى ونسبة البنين للمشركين وإبطال افتراءاتهم."
+  }
+}

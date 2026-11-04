@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_02",
+  "title": "سورة فاطر - الآيات 6-10",
+  "surahId": 35,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 6,
+      "options": [
+        "إِنَّمَا",
+        "خَـٰلِقٍ",
+        "عَمَلِهِۦ",
+        "جَنَّـٰتُ"
+      ],
+      "activityId": "act_035_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "إِنَّ ٱللَّهَ عَـٰلِمُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ"
+        }
+      ],
+      "activityId": "act_035_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "دُونِهِۦ",
+        "ءَامَنُوا۟",
+        "مُّسَمًّۭى ۚ",
+        "ٱلْعِزَّةَ"
+      ],
+      "activityId": "act_035_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تَزِرُ وَازِرَةٌۭ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِن تَدْعُوهُمْ لَا"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        }
+      ],
+      "activityId": "act_035_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْحَمِيدُ",
+        "تَزُولَا ۚ",
+        "وَيَهْدِى",
+        "نَذِيرٌۭ"
+      ],
+      "activityId": "act_035_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَلَوْ يُؤَاخِذُ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_035_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "مِثْلُ",
+        "أُمَّةٍ",
+        "سُنَّتَ",
+        "بَلَدٍۢ"
+      ],
+      "activityId": "act_035_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "مَن كَانَ يُرِيدُ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_035_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْقُبُورِ",
+        "وَأَقْسَمُوا۟",
+        "قَبْلِكَ ۚ",
+        "ٱلصَّـٰلِحُ"
+      ],
+      "activityId": "act_035_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "التحذير من غرور الدنيا ووساوس الشيطان وبيان عاقبة الكافرين ومغفرة المؤمنين."
+  }
+}

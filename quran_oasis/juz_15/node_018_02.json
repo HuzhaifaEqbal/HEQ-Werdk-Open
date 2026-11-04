@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_02",
+  "title": "سورة الكهف - الآيات 7-12",
+  "surahId": 18,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 7,
+      "options": [
+        "لِنَبْلُوَهُمْ",
+        "ءَاذَانِهِمْ",
+        "أَحْصَىٰهَا ۚ",
+        "أَخَرَقْتَهَا"
+      ],
+      "activityId": "act_018_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "وَإِنَّا لَجَـٰعِلُونَ مَا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَٱتْلُ مَآ أُوحِىَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "قَالَ ذَٰلِكَ مَا"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَكَيْفَ تَصْبِرُ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_018_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 1,
+      "options": [
+        "لَجَـٰعِلُونَ",
+        "ءَاثَـٰرِهِمْ",
+        "ءَامَنُوا۟",
+        "ءَايَـٰتِنَا"
+      ],
+      "activityId": "act_018_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ حَسِبْتَ أَنَّ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "إِنَّهُمْ إِن يَظْهَرُوا۟"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِلَّآ أَن يَشَآءَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "فَعَسَىٰ رَبِّىٓ أَن"
+        }
+      ],
+      "activityId": "act_018_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلرَّقِيمِ",
+        "أَذْكُرَهُۥ ۚ",
+        "أَشْهَدتُّهُمْ",
+        "أَفْوَٰهِهِمْ ۚ"
+      ],
+      "activityId": "act_018_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "إِذْ أَوَى ٱلْفِتْيَةُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَلَوْلَآ إِذْ دَخَلْتَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ أَرَءَيْتَ إِذْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ"
+        }
+      ],
+      "activityId": "act_018_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْفِتْيَةُ",
+        "أَبُوهُمَا",
+        "أَشُدَّهُمَا",
+        "أَعِيبَهَا"
+      ],
+      "activityId": "act_018_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَلَبِثُوا۟ فِى كَهْفِهِمْ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِنَّا مَكَّنَّا لَهُۥ"
+        }
+      ],
+      "activityId": "act_018_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاذَانِهِمْ",
+        "أَنسَىٰنِيهُ",
+        "أَهْلَكْنَـٰهُمْ",
+        "أَوْلِيَآءَ ۚ"
+      ],
+      "activityId": "act_018_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "ثُمَّ أَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَكَذَٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُوا۟"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "نَّحْنُ نَقُصُّ عَلَيْكَ"
+        }
+      ],
+      "activityId": "act_018_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحِزْبَيْنِ",
+        "بِٱلْغَدَوٰةِ",
+        "بِٱلْغَيْبِ ۖ",
+        "تُؤَاخِذْنِى"
+      ],
+      "activityId": "act_018_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_05",
+  "title": "سورة ص - الآيات 25-30",
+  "surahId": 38,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "لَهُۥ",
+        "عَنْهُ",
+        "لَا",
+        "أَنَا۠"
+      ],
+      "activityId": "act_038_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ"
+        }
+      ],
+      "activityId": "act_038_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 15,
+      "options": [
+        "سَبِيلِ",
+        "قَالَ",
+        "رَبُّ",
+        "نَعْجَةٌۭ"
+      ],
+      "activityId": "act_038_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَمَا خَلَقْنَا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "إِنْ هُوَ إِلَّا"
+        }
+      ],
+      "activityId": "act_038_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "ظَنُّ",
+        "وَهَبْ",
+        "أَخِى",
+        "مَعَهُۥ"
+      ],
+      "activityId": "act_038_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍۢ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ٱصْبِرْ عَلَىٰ مَا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "أَمْ نَجْعَلُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "كَمْ أَهْلَكْنَا مِن"
+        }
+      ],
+      "activityId": "act_038_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 6,
+      "options": [
+        "كَٱلْمُفْسِدِينَ",
+        "يَـٰٓإِبْلِيسُ",
+        "وَٱلْإِشْرَاقِ",
+        "لِّيَدَّبَّرُوٓا۟"
+      ],
+      "activityId": "act_038_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "إِذْ قَالَ رَبُّكَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ"
+        }
+      ],
+      "activityId": "act_038_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 4,
+      "options": [
+        "لِلْمَلَـٰٓئِكَةِ",
+        "وَلَتَعْلَمُنَّ",
+        "لِّلْعَـٰلَمِينَ",
+        "لِّيَدَّبَّرُوٓا۟"
+      ],
+      "activityId": "act_038_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًۭا"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "قَالَ لَقَدْ ظَلَمَكَ"
+        }
+      ],
+      "activityId": "act_038_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "كِتَـٰبٌ",
+        "كُلَّ",
+        "ٱمْشُوا۟",
+        "نِعْمَ"
+      ],
+      "activityId": "act_038_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "استخلاف داود في الأرض بالعدل وبيان حكمة خلق الكون وعدم استواء المتقين بالفجار."
+  }
+}

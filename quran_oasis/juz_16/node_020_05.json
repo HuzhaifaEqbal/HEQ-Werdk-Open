@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_05",
+  "title": "سورة طه - الآيات 25-30",
+  "surahId": 20,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱشْرَحْ",
+        "أَتَتْكَ",
+        "أَتَىٰكَ",
+        "أَثَرِى"
+      ],
+      "activityId": "act_020_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَيَسِّرْ لِىٓ أَمْرِى"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَٱجْعَل لِّى وَزِيرًۭا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَأَشْرِكْهُ فِىٓ أَمْرِى"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "أَلَّا تَتَّبِعَنِ ۖ أَفَعَصَيْتَ"
+        }
+      ],
+      "activityId": "act_020_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَسِّرْ",
+        "أَدُلُّكَ",
+        "أَزْرِى",
+        "أَسْرَفَ"
+      ],
+      "activityId": "act_020_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَٱحْلُلْ عُقْدَةًۭ مِّن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "إِنَّهُۥ مَن يَأْتِ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "جَنَّـٰتُ عَدْنٍۢ تَجْرِى"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "كُلُوا۟ مِن طَيِّبَـٰتِ"
+        }
+      ],
+      "activityId": "act_020_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱحْلُلْ",
+        "أَنۢبَآءِ",
+        "أُوتِيتَ",
+        "أُو۟لَآءِ"
+      ],
+      "activityId": "act_020_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "يَفْقَهُوا۟ قَوْلِى"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَيَسِّرْ لِىٓ أَمْرِى"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "هَـٰرُونَ أَخِى"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "ٱشْدُدْ بِهِۦٓ أَزْرِى"
+        }
+      ],
+      "activityId": "act_020_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 0,
+      "options": [
+        "يَفْقَهُوا۟",
+        "تَفْتَرُوا۟",
+        "تَنزِيلًۭا",
+        "جَمِيعًۢا ۖ"
+      ],
+      "activityId": "act_020_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "وَٱجْعَل لِّى وَزِيرًۭا"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "مَّنْ أَعْرَضَ عَنْهُ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَمَن يَعْمَلْ مِنَ"
+        }
+      ],
+      "activityId": "act_020_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱجْعَل",
+        "إِبْلِيسَ",
+        "إِلَـٰهُكُمْ",
+        "إِلَيْنَآ"
+      ],
+      "activityId": "act_020_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "هَـٰرُونَ أَخِى"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَلَقَدْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَفْقَهُوا۟ قَوْلِى"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "كَىْ نُسَبِّحَكَ كَثِيرًۭا"
+        }
+      ],
+      "activityId": "act_020_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 0,
+      "options": [
+        "هَـٰرُونَ",
+        "أَسْمَعُ",
+        "أَصْحَـٰبُ",
+        "أَعْرَضَ"
+      ],
+      "activityId": "act_020_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

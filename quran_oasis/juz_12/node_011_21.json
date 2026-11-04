@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_011_21",
+  "title": "سورة هود - الآيات 119-123",
+  "surahId": 11,
+  "ayahStart": 119,
+  "ayahEnd": 123,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 6,
+      "options": [
+        "خَلَقَهُمْ ۗ",
+        "تَعْمَلُونَ",
+        "فَٱعْبُدْهُ",
+        "فُؤَادَكَ ۚ"
+      ],
+      "activityId": "act_011_21_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "wrongOptionsAyahNumbers": [
+        121,
+        117
+      ],
+      "activityId": "act_011_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 17,
+      "options": [
+        "لِلْمُؤْمِنِينَ",
+        "وَٱنتَظِرُوٓا۟",
+        "مَكَانَتِكُمْ",
+        "مُنتَظِرُونَ"
+      ],
+      "activityId": "act_011_21_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "wrongOptionsAyahNumbers": [
+        122,
+        118
+      ],
+      "activityId": "act_011_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 7,
+      "options": [
+        "مَكَانَتِكُمْ",
+        "مُنتَظِرُونَ",
+        "لَأَمْلَأَنَّ",
+        "وَمَوْعِظَةٌۭ"
+      ],
+      "activityId": "act_011_21_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "wrongOptionsAyahNumbers": [
+        123,
+        119
+      ],
+      "activityId": "act_011_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱنتَظِرُوٓا۟",
+        "لِلْمُؤْمِنِينَ",
+        "مَكَانَتِكُمْ",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_011_21_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "wrongOptionsAyahNumbers": [
+        120,
+        119
+      ],
+      "activityId": "act_011_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "خَلَقَهُمْ ۗ",
+        "أَجْمَعِينَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_011_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_036_06",
+  "title": "سورة يس - الآيات 28-32",
+  "surahId": 36,
+  "ayahStart": 28,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "مِّنْ",
+        "جُندٍۢ",
+        "يَسْعَىٰ",
+        "مِمَّا"
+      ],
+      "activityId": "act_036_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "إِن كَانَتْ إِلَّا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَلَقَدْ أَضَلَّ مِنكُمْ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالُوا۟ رَبُّنَا يَعْلَمُ"
+        }
+      ],
+      "activityId": "act_036_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 4,
+      "options": [
+        "خَلْقَهُۥ ۖ",
+        "ٱلنَّهَارَ",
+        "وَٰحِدَةًۭ",
+        "وَلَهُمْ"
+      ],
+      "activityId": "act_036_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلْأَرْضُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذَا قِيلَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ"
+        }
+      ],
+      "activityId": "act_036_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "نُحْىِ",
+        "كُلَّهَا",
+        "رَّسُولٍ",
+        "يَنسِلُونَ"
+      ],
+      "activityId": "act_036_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ يَرَوْا۟ كَمْ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ"
+        }
+      ],
+      "activityId": "act_036_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 5,
+      "options": [
+        "مِّنَ",
+        "هُمْ",
+        "مَنِ",
+        "لَئِن"
+      ],
+      "activityId": "act_036_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "ٱلَّذِى جَعَلَ لَكُم"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قَالُوا۟ مَآ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَإِن كُلٌّۭ لَّمَّا"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ"
+        }
+      ],
+      "activityId": "act_036_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "جَمِيعٌۭ",
+        "بِثَالِثٍۢ",
+        "مِمَّا",
+        "قَوْمًۭا"
+      ],
+      "activityId": "act_036_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "إهلاك قوم أصحاب القرية بصيحة واحدة والحسرة على تكذيب الرسل وإهلاك القرون."
+  }
+}

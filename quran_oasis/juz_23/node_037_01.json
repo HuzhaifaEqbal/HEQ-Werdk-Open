@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_01",
+  "title": "سورة الصافات - الآيات 1-6",
+  "surahId": 37,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 1,
+      "options": [
+        "صَفًّۭا",
+        "سُرُرٍۢ",
+        "نَفْعَلُ",
+        "غَوْلٌۭ"
+      ],
+      "activityId": "act_037_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "أَمْ لَكُمْ سُلْطَـٰنٌۭ"
+        },
+        {
+          "ayahNumber": 177,
+          "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        }
+      ],
+      "activityId": "act_037_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "إِلَىٰٓ",
+        "زَجْرًۭا",
+        "فَكَانَ",
+        "ءَايَةًۭ"
+      ],
+      "activityId": "act_037_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ أَتَعْبُدُونَ مَا"
+        }
+      ],
+      "activityId": "act_037_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "كَانُوا۟",
+        "مِّنْهُمْ",
+        "لَهُوَ",
+        "ذِكْرًا"
+      ],
+      "activityId": "act_037_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا"
+        },
+        {
+          "ayahNumber": 133,
+          "text": "وَإِنَّ لُوطًۭا لَّمِنَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌۭ"
+        },
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        }
+      ],
+      "activityId": "act_037_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "إِلَـٰهَكُمْ",
+        "۞ ٱحْشُرُوا۟",
+        "بِٱلْحَقِّ",
+        "وَقَالُوٓا۟"
+      ],
+      "activityId": "act_037_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 182,
+          "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        }
+      ],
+      "activityId": "act_037_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "بَعْضٍۢ",
+        "مُوسَىٰ",
+        "وَمَا",
+        "أَم"
+      ],
+      "activityId": "act_037_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 126,
+          "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَلَوْلَا نِعْمَةُ رَبِّى"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَا تُجْزَوْنَ إِلَّا"
+        }
+      ],
+      "activityId": "act_037_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "أَءِنَّكَ",
+        "ٱلدُّنْيَا",
+        "صَـٰدِقِينَ",
+        "فَإِنَّمَا"
+      ],
+      "activityId": "act_037_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "القسم بالملائكة ووحدانية الله وتزيين السماء بالشهب لحفظها من الشياطين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_034_04",
+  "title": "سورة سبأ - الآيات 15-19",
+  "surahId": 34,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 10,
+      "options": [
+        "كُلُوا۟",
+        "ءَامَنَ",
+        "كُلَّ",
+        "بَـٰعِدْ"
+      ],
+      "activityId": "act_034_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَلَمَّا قَضَيْنَا عَلَيْهِ"
+        }
+      ],
+      "activityId": "act_034_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 8,
+      "options": [
+        "جَنَّتَانِ",
+        "ذَوَاتَىْ",
+        "أَيْدِيهِمْ",
+        "زُلْفَىٰٓ"
+      ],
+      "activityId": "act_034_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ جَآءَ ٱلْحَقُّ"
+        }
+      ],
+      "activityId": "act_034_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "لَّوْ",
+        "يَمْلِكُ",
+        "كَرِيمٌۭ",
+        "وَهَلْ"
+      ],
+      "activityId": "act_034_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَمَآ أَمْوَٰلُكُمْ وَلَآ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_034_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "ظَـٰهِرَةًۭ",
+        "جَزَيْنَـٰهُم",
+        "وَعَمِلُوا۟",
+        "رَبِّىٓ ۚ"
+      ],
+      "activityId": "act_034_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "قُلْ أَرُونِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَقَالُوا۟ رَبَّنَا بَـٰعِدْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        }
+      ],
+      "activityId": "act_034_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 9,
+      "options": [
+        "وَمَزَّقْنَـٰهُمْ",
+        "يَدْرُسُونَهَا ۖ",
+        "ٱسْتُضْعِفُوٓا۟",
+        "لِلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_034_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "نعمة الله على قوم سبأ وإعراضهم عن الشكر وحلول سيل العرم بهم."
+  }
+}

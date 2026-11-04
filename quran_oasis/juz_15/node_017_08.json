@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_08",
+  "title": "سورة الإسراء - الآيات 43-48",
+  "surahId": 17,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 0,
+      "options": [
+        "سُبْحَـٰنَهُۥ",
+        "تَخْوِيفًۭا",
+        "تَدْمِيرًۭا",
+        "تَرْجُوهَا"
+      ],
+      "activityId": "act_017_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَقَالُوٓا۟ أَءِذَا كُنَّا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "۞ قُلْ كُونُوا۟ حِجَارَةً"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ"
+        }
+      ],
+      "activityId": "act_017_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 16,
+      "options": [
+        "تَسْبِيحَهُمْ ۗ",
+        "ٱلْمَلْعُونَةَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُبَذِّرِينَ"
+      ],
+      "activityId": "act_017_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِذَآ أَرَدْنَآ أَن"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        }
+      ],
+      "activityId": "act_017_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "وَيَخَافُونَ",
+        "وَيَزِيدُهُمْ",
+        "وَيَسْـَٔلُونَكَ"
+      ],
+      "activityId": "act_017_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقُل لِّعِبَادِى يَقُولُوا۟"
+        }
+      ],
+      "activityId": "act_017_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "ءَاذَانِهِمْ",
+        "وَيَقُولُونَ",
+        "وَٱسْتَفْزِزْ",
+        "وَٱلشَّجَرَةَ"
+      ],
+      "activityId": "act_017_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "نَّحْنُ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "رَّبُّكُمْ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَرَبُّكَ أَعْلَمُ بِمَن"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "رَّبُّكُمْ أَعْلَمُ بِكُمْ ۖ"
+        }
+      ],
+      "activityId": "act_017_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "يَسْتَمِعُونَ",
+        "وَٱلنَّهَارَ",
+        "وَٱلْأَرْضِ ۗ",
+        "وَٱلْأَوْلَـٰدِ"
+      ],
+      "activityId": "act_017_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "ٱنظُرْ كَيْفَ ضَرَبُوا۟"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "ٱنظُرْ كَيْفَ فَضَّلْنَا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا مَنَعَنَآ أَن"
+        }
+      ],
+      "activityId": "act_017_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 7,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "أَفَأَصْفَىٰكُمْ",
+        "بِجَانِبِهِۦ ۖ",
+        "بِٱلْقِسْطَاسِ"
+      ],
+      "activityId": "act_017_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

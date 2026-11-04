@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_039_04",
+  "title": "سورة الزمر - الآيات 16-21",
+  "surahId": 39,
+  "ayahStart": 16,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 8,
+      "options": [
+        "ظُلَلٌۭ ۚ",
+        "فَأَنَّىٰ",
+        "يَعْمَلُونَ",
+        "فَٱتَّقُونِ"
+      ],
+      "activityId": "act_039_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "۞ وَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ"
+        }
+      ],
+      "activityId": "act_039_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "۞ قُلْ",
+        "هُنَّ",
+        "ذَٰلِكَ",
+        "إِلَى"
+      ],
+      "activityId": "act_039_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        }
+      ],
+      "activityId": "act_039_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "بِذَاتِ",
+        "رَّبِّكُم",
+        "ٱلَّذِينَ",
+        "أَرَادَ"
+      ],
+      "activityId": "act_039_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        }
+      ],
+      "activityId": "act_039_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْعَذَابِ",
+        "أَغْنَىٰ",
+        "ٱلْحَمْدُ",
+        "يَنظُرُونَ"
+      ],
+      "activityId": "act_039_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟"
+        }
+      ],
+      "activityId": "act_039_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسْتَبْشِرُونَ",
+        "وَٱسْتَكْبَرْتَ",
+        "مُمْسِكَـٰتُ",
+        "مَّبْنِيَّةٌۭ"
+      ],
+      "activityId": "act_039_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "ٱللَّهُ نَزَّلَ أَحْسَنَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_039_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 15,
+      "options": [
+        "زَرْعًۭا",
+        "ضَرَبْنَا",
+        "نَفْسٍۢ",
+        "مِمَّا"
+      ],
+      "activityId": "act_039_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "بشارة الذين اجتنبوا الطاغوت ومقارنة القلوب القاسية بوجوه الخاشعين عند سماع القرآن."
+  }
+}

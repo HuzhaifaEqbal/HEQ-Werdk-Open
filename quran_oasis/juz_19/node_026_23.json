@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_23",
+  "title": "سورة الشعراء - الآيات 133-137",
+  "surahId": 26,
+  "ayahStart": 133,
+  "ayahEnd": 137,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 0,
+      "options": [
+        "أَمَدَّكُم",
+        "عَلَّمَكُمُ",
+        "عُلَمَـٰٓؤُا۟",
+        "فَأَخَافُ"
+      ],
+      "activityId": "act_026_23_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "options": [
+        {
+          "ayahNumber": 134,
+          "text": "وَجَنَّـٰتٍۢ وَعُيُونٍ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ"
+        }
+      ],
+      "activityId": "act_026_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 1,
+      "options": [
+        "وَعُيُونٍ",
+        "فَأَرْسِلْ",
+        "فَأَسْقِطْ",
+        "فَأَلْقَىٰ"
+      ],
+      "activityId": "act_026_23_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 134,
+      "correctNextAyahNumber": 135,
+      "options": [
+        {
+          "ayahNumber": 135,
+          "text": "إِنِّىٓ أَخَافُ عَلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 178,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 143,
+          "text": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "قَالَ رَبِّ إِنِّىٓ"
+        }
+      ],
+      "activityId": "act_026_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَيْكُمْ",
+        "فَأْتِيَا",
+        "فَإِنَّهُمْ",
+        "فَتَكُونَ"
+      ],
+      "activityId": "act_026_23_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "options": [
+        {
+          "ayahNumber": 136,
+          "text": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        },
+        {
+          "ayahNumber": 185,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "قَالُوا۟ بَلْ وَجَدْنَآ"
+        }
+      ],
+      "activityId": "act_026_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْوَٰعِظِينَ",
+        "۞ قَالُوٓا۟",
+        "ءَابَآءَنَا",
+        "ءَابَآئِكُمُ"
+      ],
+      "activityId": "act_026_23_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "options": [
+        {
+          "ayahNumber": 137,
+          "text": "إِنْ هَـٰذَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "إِنْ حِسَابُهُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "إِنْ أَنَا۠ إِلَّا"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        }
+      ],
+      "activityId": "act_026_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَوَّلِينَ",
+        "أَتُتْرَكُونَ",
+        "أَزْوَٰجِكُم ۚ",
+        "أَشْيَآءَهُمْ"
+      ],
+      "activityId": "act_026_23_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_09",
+  "title": "سورة الروم - الآيات 43-47",
+  "surahId": 30,
+  "ayahStart": 43,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "لَّا",
+        "وَلَمْ",
+        "هُمُ",
+        "بَلِ"
+      ],
+      "activityId": "act_030_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "مَن كَفَرَ فَعَلَيْهِ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "مِنَ ٱلَّذِينَ فَرَّقُوا۟"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ"
+        }
+      ],
+      "activityId": "act_030_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "إِلَيْهِ",
+        "يُخْلِفُ",
+        "عَمَّا",
+        "عَمِلَ"
+      ],
+      "activityId": "act_030_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ"
+        }
+      ],
+      "activityId": "act_030_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "فَيَبْسُطُهُۥ",
+        "ءَايَـٰتِهِۦٓ",
+        "وَٱلْإِيمَـٰنَ"
+      ],
+      "activityId": "act_030_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "فِىٓ أَدْنَى ٱلْأَرْضِ"
+        }
+      ],
+      "activityId": "act_030_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُفْلِحُونَ",
+        "أَنفُسَكُمْ ۚ",
+        "رَّحْمَتِهِۦ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_030_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَقَدْ أَرْسَلْنَا مِن"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        }
+      ],
+      "activityId": "act_030_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 9,
+      "options": [
+        "عَلَيْهَا ۚ",
+        "وَيُنَزِّلُ",
+        "لَّيَقُولَنَّ",
+        "فَٱنتَقَمْنَا"
+      ],
+      "activityId": "act_030_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "ظهور الفساد في البر والبحر بكسب الناس والدعوة للاستقامة قبل يوم لا مرد له."
+  }
+}

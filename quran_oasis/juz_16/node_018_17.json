@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_17",
+  "title": "سورة الكهف - الآيات 93-98",
+  "surahId": 18,
+  "ayahStart": 93,
+  "ayahEnd": 98,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّدَّيْنِ",
+        "فَلْيُؤْمِن",
+        "فَٱخْتَلَطَ",
+        "فَٱرْتَدَّا"
+      ],
+      "activityId": "act_018_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "إِنَّهُمْ إِن يَظْهَرُوا۟"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ حَسِبْتَ أَنَّ"
+        }
+      ],
+      "activityId": "act_018_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقَرْنَيْنِ",
+        "لِّلْكَـٰفِرِينَ",
+        "وَءَاتَيْنَـٰهُ",
+        "وَإِسْتَبْرَقٍۢ"
+      ],
+      "activityId": "act_018_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "options": [
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ مَا مَكَّنِّى"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "قَالَ ذَٰلِكَ مَا"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ أَلَمْ أَقُلْ"
+        }
+      ],
+      "activityId": "act_018_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأَعِينُونِى",
+        "فَأَقَامَهُۥ ۖ",
+        "لِـَٔابَآئِهِمْ ۚ",
+        "مُّوَاقِعُوهَا"
+      ],
+      "activityId": "act_018_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "options": [
+        {
+          "ayahNumber": 96,
+          "text": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا"
+        }
+      ],
+      "activityId": "act_018_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْحَدِيدِ ۖ",
+        "وَتَحْسَبُهُمْ",
+        "وَثَامِنُهُمْ",
+        "وَحَشَرْنَـٰهُمْ"
+      ],
+      "activityId": "act_018_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "options": [
+        {
+          "ayahNumber": 97,
+          "text": "فَمَا ٱسْطَـٰعُوٓا۟ أَن"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_018_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱسْتَطَـٰعُوا۟",
+        "وَذُرِّيَّتَهُۥٓ",
+        "وَلِقَآئِهِۦ",
+        "وَلْيَتَلَطَّفْ"
+      ],
+      "activityId": "act_018_17_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "قَالَ هَـٰذَا رَحْمَةٌۭ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "قَالَ أَمَّا مَن"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ مَا مَكَّنِّى"
+        }
+      ],
+      "activityId": "act_018_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 9,
+      "options": [
+        "جَعَلَهُۥ",
+        "بَيْنَكُمْ",
+        "بَيْنَنَا",
+        "بَيْنَهُمْ"
+      ],
+      "activityId": "act_018_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

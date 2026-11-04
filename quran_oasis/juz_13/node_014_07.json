@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_014_07",
+  "title": "سورة إبراهيم - الآيات 37-42",
+  "surahId": 14,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 14,
+      "options": [
+        "لِيُقِيمُوا۟",
+        "إِسْمَـٰعِيلَ",
+        "ذُرِّيَّتِى ۚ",
+        "يُؤَخِّرُهُمْ"
+      ],
+      "activityId": "act_014_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_014_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "يَشْكُرُونَ",
+        "ٱلدُّعَآءِ",
+        "ٱلصَّلَوٰةَ"
+      ],
+      "activityId": "act_014_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_014_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 8,
+      "options": [
+        "إِسْمَـٰعِيلَ",
+        "ٱلْأَبْصَـٰرُ",
+        "وَلِوَٰلِدَىَّ",
+        "ٱلثَّمَرَٰتِ"
+      ],
+      "activityId": "act_014_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_014_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱجْعَلْنِى",
+        "ٱلْحِسَابُ",
+        "ٱلسَّمَآءِ",
+        "ٱلْمُحَرَّمِ"
+      ],
+      "activityId": "act_014_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_014_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "وَلِلْمُؤْمِنِينَ",
+        "ٱلظَّـٰلِمُونَ ۚ",
+        "لِيُقِيمُوا۟",
+        "وَٱرْزُقْهُم"
+      ],
+      "activityId": "act_014_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_014_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلظَّـٰلِمُونَ ۚ",
+        "وَلِلْمُؤْمِنِينَ",
+        "لِيُقِيمُوا۟",
+        "وَٱرْزُقْهُم"
+      ],
+      "activityId": "act_014_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "إبراهيم",
+    "juz": 13,
+    "theme": "تقرير رسالة الرسل وإخراج الناس من الظلمات إلى النور، وذكر نعم الله ومصير الشاكرين والجاحدين، ودعاء إبراهيم عليه السلام للبيت وذريته."
+  }
+}

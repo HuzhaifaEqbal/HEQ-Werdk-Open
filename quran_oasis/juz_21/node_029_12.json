@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_12",
+  "title": "سورة العنكبوت - الآيات 56-60",
+  "surahId": 29,
+  "ayahStart": 56,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱللَّهَ",
+        "ٱتْلُ",
+        "أَرْضِى",
+        "سِيرُوا۟"
+      ],
+      "activityId": "act_029_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَآ أَنتُم بِمُعْجِزِينَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَنجَيْنَـٰهُ وَأَصْحَـٰبَ ٱلسَّفِينَةِ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَمَا كُنتَ تَتْلُوا۟"
+        }
+      ],
+      "activityId": "act_029_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 3,
+      "options": [
+        "سُبُلَنَا ۚ",
+        "ٱلْحَمْدُ",
+        "مُنَجُّوكَ",
+        "ٱلْمَوْتِ ۖ"
+      ],
+      "activityId": "act_029_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ إِنَّ فِيهَا"
+        }
+      ],
+      "activityId": "act_029_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 8,
+      "options": [
+        "خَمْسِينَ",
+        "أُوتُوا۟",
+        "كُلُّ",
+        "تَجْرِى"
+      ],
+      "activityId": "act_029_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ"
+        }
+      ],
+      "activityId": "act_029_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنزَلْنَا",
+        "كُنَّا",
+        "دَارِهِمْ",
+        "وَعَلَىٰ"
+      ],
+      "activityId": "act_029_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "وَكَأَيِّن مِّن دَآبَّةٍۢ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ"
+        }
+      ],
+      "activityId": "act_029_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱللَّهُ",
+        "وَعَادًۭا",
+        "خَلَقَ",
+        "فِيهَا ۖ"
+      ],
+      "activityId": "act_029_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 21,
+    "theme": "الأمر بالهجرة عند الاضطهاد في الدين وحقيقة أن كل نفس ذائقة الموت."
+  }
+}

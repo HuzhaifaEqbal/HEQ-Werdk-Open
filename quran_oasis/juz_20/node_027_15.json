@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_15",
+  "title": "سورة النمل - الآيات 79-83",
+  "surahId": 27,
+  "ayahStart": 79,
+  "ayahEnd": 83,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُبِينِ",
+        "وَقَوْمَهَا",
+        "وَقَوْمَهُمْ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_027_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "إِنَّكَ لَا تُسْمِعُ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "ٱللَّهُ لَآ إِلَـٰهَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "قُل لَّا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_027_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَوْتَىٰ",
+        "وَمَكَرُوا۟",
+        "وَمَكَرْنَا",
+        "وَيُؤْتُونَ"
+      ],
+      "activityId": "act_027_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "وَمَآ أَنتَ بِهَـٰدِى"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَمَا مِنْ غَآئِبَةٍۢ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَمَن جَآءَ بِٱلسَّيِّئَةِ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_027_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 5,
+      "options": [
+        "ضَلَـٰلَتِهِمْ ۖ",
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "ٱلْقُرْءَانِ"
+      ],
+      "activityId": "act_027_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَلَا تَحْزَنْ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ"
+        }
+      ],
+      "activityId": "act_027_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَإِذَا",
+        "وَٱلطَّيْرِ",
+        "وَٱلْأَرْضِ",
+        "وَٱلْأَمْرُ"
+      ],
+      "activityId": "act_027_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "وَيَوْمَ نَحْشُرُ مِن"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "وَيَوْمَ يُنفَخُ فِى"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "مَن جَآءَ بِٱلْحَسَنَةِ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَتَبَسَّمَ ضَاحِكًۭا مِّن"
+        }
+      ],
+      "activityId": "act_027_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 8,
+      "options": [
+        "بِـَٔايَـٰتِنَا",
+        "وَٱلْإِنسِ",
+        "وَٱلْبَحْرِ",
+        "وُجُوهُهُمْ"
+      ],
+      "activityId": "act_027_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

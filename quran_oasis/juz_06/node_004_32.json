@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_004_32",
+  "title": "سورة النساء - الآيات 153-157",
+  "surahId": 4,
+  "ayahStart": 153,
+  "ayahEnd": 157,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 18,
+      "options": [
+        "كُنتُمْ",
+        "خَلِيلًۭا",
+        "عَدُوًّۭا",
+        "جَهْرَةًۭ"
+      ],
+      "activityId": "act_004_32_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 153,
+      "correctNextAyahNumber": 154,
+      "options": [
+        {
+          "ayahNumber": 154,
+          "text": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ"
+        },
+        {
+          "ayahNumber": 165,
+          "text": "رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ"
+        },
+        {
+          "ayahNumber": 133,
+          "text": "إِن يَشَأْ يُذْهِبْكُمْ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        }
+      ],
+      "activityId": "act_004_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 8,
+      "options": [
+        "أَيْدِيهِمْ",
+        "عَلَيْنَا",
+        "سُجَّدًۭا",
+        "خَيْرٌۭ"
+      ],
+      "activityId": "act_004_32_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "options": [
+        {
+          "ayahNumber": 120,
+          "text": "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 155,
+          "text": "فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "فَمِنْهُم مَّنْ ءَامَنَ"
+        }
+      ],
+      "activityId": "act_004_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 11,
+      "options": [
+        "يُرِيدَآ",
+        "فِئَتَيْنِ",
+        "قُلُوبُنَا",
+        "ضِعَـٰفًا"
+      ],
+      "activityId": "act_004_32_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "options": [
+        {
+          "ayahNumber": 168,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "إِن تَجْتَنِبُوا۟ كَبَآئِرَ"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_004_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 3,
+      "options": [
+        "طَوْلًا",
+        "رَّحِيمًا",
+        "قَوْلًۢا",
+        "مَرْيَمَ"
+      ],
+      "activityId": "act_004_32_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "options": [
+        {
+          "ayahNumber": 157,
+          "text": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "دَرَجَـٰتٍۢ مِّنْهُ وَمَغْفِرَةًۭ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        }
+      ],
+      "activityId": "act_004_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 16,
+      "options": [
+        "وَجِئْنَا",
+        "فَمَالِ",
+        "وَإِنَّ",
+        "يُتْلَىٰ"
+      ],
+      "activityId": "act_004_32_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "سؤال أهل الكتاب آية من السماء وجناياتهم ونقضهم الميثاق ودعواهم قتل المسيح وشبه لهم."
+  }
+}

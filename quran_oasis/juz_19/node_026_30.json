@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_30",
+  "title": "سورة الشعراء - الآيات 168-172",
+  "surahId": 26,
+  "ayahStart": 168,
+  "ayahEnd": 172,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقَالِينَ",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلضَّآلِّينَ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_026_30_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "options": [
+        {
+          "ayahNumber": 169,
+          "text": "رَبِّ نَجِّنِى وَأَهْلِى"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "رَبِّ هَبْ لِى"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "رَبِّ مُوسَىٰ وَهَـٰرُونَ"
+        },
+        {
+          "ayahNumber": 192,
+          "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ"
+        }
+      ],
+      "activityId": "act_026_30_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 4,
+      "options": [
+        "يَعْمَلُونَ",
+        "ٱلْعَزِيزُ",
+        "ٱلْمُبِينِ",
+        "ءَامَنتُمْ"
+      ],
+      "activityId": "act_026_30_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "options": [
+        {
+          "ayahNumber": 170,
+          "text": "فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ"
+        },
+        {
+          "ayahNumber": 193,
+          "text": "نَزَلَ بِهِ ٱلرُّوحُ"
+        },
+        {
+          "ayahNumber": 195,
+          "text": "بِلِسَانٍ عَرَبِىٍّۢ مُّبِينٍۢ"
+        },
+        {
+          "ayahNumber": 196,
+          "text": "وَإِنَّهُۥ لَفِى زُبُرِ"
+        }
+      ],
+      "activityId": "act_026_30_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 0,
+      "options": [
+        "فَنَجَّيْنَـٰهُ",
+        "ءَامَنُوا۟",
+        "ءَامِنِينَ",
+        "أَتَأْتُونَ"
+      ],
+      "activityId": "act_026_30_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "options": [
+        {
+          "ayahNumber": 171,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 227,
+          "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        },
+        {
+          "ayahNumber": 225,
+          "text": "أَلَمْ تَرَ أَنَّهُمْ"
+        }
+      ],
+      "activityId": "act_026_30_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلْأَوَّلِينَ",
+        "ٱلْبَاقِينَ",
+        "ٱلْجَمْعَانِ"
+      ],
+      "activityId": "act_026_30_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "options": [
+        {
+          "ayahNumber": 172,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "ثُمَّ أَغْرَقْنَا بَعْدُ"
+        },
+        {
+          "ayahNumber": 206,
+          "text": "ثُمَّ جَآءَهُم مَّا"
+        }
+      ],
+      "activityId": "act_026_30_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْـَٔاخَرِينَ",
+        "ٱلْعَذَابُ ۗ",
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْغَاوُۥنَ"
+      ],
+      "activityId": "act_026_30_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

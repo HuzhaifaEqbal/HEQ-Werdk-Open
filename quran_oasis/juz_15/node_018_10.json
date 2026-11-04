@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_018_10",
+  "title": "سورة الكهف - الآيات 55-59",
+  "surahId": 18,
+  "ayahStart": 55,
+  "ayahEnd": 59,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَسْتَغْفِرُوا۟",
+        "بِٱلْأَخْسَرِينَ",
+        "لِيَتَسَآءَلُوا۟",
+        "أَفَتَتَّخِذُونَهُۥ"
+      ],
+      "activityId": "act_018_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَمَآ أَظُنُّ ٱلسَّاعَةَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِلَّآ أَن يَشَآءَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا"
+        }
+      ],
+      "activityId": "act_018_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "يَسْتَجِيبُوا۟",
+        "يَسْتَطِيعُونَ",
+        "يَسْتَغِيثُوا۟"
+      ],
+      "activityId": "act_018_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ مَطْلِعَ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "كَذَٰلِكَ وَقَدْ أَحَطْنَا"
+        }
+      ],
+      "activityId": "act_018_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 20,
+      "options": [
+        "ءَاذَانِهِمْ",
+        "ٱسْتَطْعَمَآ",
+        "ٱلدُّنْيَا ۖ",
+        "ٱلرَّحْمَةِ ۖ"
+      ],
+      "activityId": "act_018_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَرَبُّكَ ٱلْغَفُورُ ذُو"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "ثُمَّ أَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ"
+        }
+      ],
+      "activityId": "act_018_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلرَّحْمَةِ ۖ",
+        "ٱلسَّفِينَةِ",
+        "ٱلشِّمَالِ ۖ",
+        "ٱلصَّدَفَيْنِ"
+      ],
+      "activityId": "act_018_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "وَتِلْكَ ٱلْقُرَىٰٓ أَهْلَكْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍۢ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍۢ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟"
+        }
+      ],
+      "activityId": "act_018_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 2,
+      "options": [
+        "أَهْلَكْنَـٰهُمْ",
+        "ٱلْأَوَّلِينَ",
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْجَنَّتَيْنِ"
+      ],
+      "activityId": "act_018_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

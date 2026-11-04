@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_05",
+  "title": "سورة يوسف - الآيات 25-30",
+  "surahId": 12,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱسْتَبَقَا",
+        "ٱلْمَدِينَةِ",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْخَاطِـِٔينَ"
+      ],
+      "activityId": "act_012_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_012_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْكَـٰذِبِينَ",
+        "وَٱسْتَبَقَا",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْخَاطِـِٔينَ"
+      ],
+      "activityId": "act_012_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_012_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْكَـٰذِبِينَ",
+        "وَٱسْتَبَقَا",
+        "ٱلْمَدِينَةِ"
+      ],
+      "activityId": "act_012_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_012_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "قَمِيصَهُۥ",
+        "ٱلْبَابِ ۚ",
+        "ٱلْعَزِيزِ",
+        "لَنَرَىٰهَا"
+      ],
+      "activityId": "act_012_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_012_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱسْتَغْفِرِى",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلصَّـٰدِقِينَ",
+        "وَٱسْتَبَقَا"
+      ],
+      "activityId": "act_012_05_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_012_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَدِينَةِ",
+        "ٱلْخَاطِـِٔينَ",
+        "ٱلْكَـٰذِبِينَ",
+        "وَٱسْتَبَقَا"
+      ],
+      "activityId": "act_012_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

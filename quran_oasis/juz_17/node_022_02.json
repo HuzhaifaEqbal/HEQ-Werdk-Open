@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_022_02",
+  "title": "سورة الحج - الآيات 7-12",
+  "surahId": 22,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّاعَةَ",
+        "أَنزَلْنَا",
+        "أَنزَلْنَـٰهُ",
+        "أَيْدِيهِمْ"
+      ],
+      "activityId": "act_022_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِن"
+        }
+      ],
+      "activityId": "act_022_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلنَّاسِ",
+        "أَرْضَعَتْ",
+        "أَسَاوِرَ",
+        "أَمْلَيْتُ"
+      ],
+      "activityId": "act_022_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌۭ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 10,
+      "options": [
+        "وَنُذِيقُهُۥ",
+        "أَخَذْتُهُمْ ۖ",
+        "أَسْلِمُوا۟ ۗ",
+        "أَهْلَكْنَـٰهَا"
+      ],
+      "activityId": "act_022_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "ذَٰلِكَ بِمَا قَدَّمَتْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَـٰٓئِرَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 8,
+      "options": [
+        "لِّلْعَبِيدِ",
+        "أُخْرِجُوا۟",
+        "أُعِيدُوا۟",
+        "إِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_022_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَهُدُوٓا۟ إِلَى ٱلطَّيِّبِ"
+        }
+      ],
+      "activityId": "act_022_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 20,
+      "options": [
+        "وَٱلْـَٔاخِرَةَ ۚ",
+        "أَفَأُنَبِّئُكُم",
+        "بِٱلْمَعْرُوفِ",
+        "تُفْلِحُونَ ۩"
+      ],
+      "activityId": "act_022_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "يَدْعُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يَدْعُوا۟ لَمَن ضَرُّهُۥٓ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "ٱللَّهُ يَصْطَفِى مِنَ"
+        }
+      ],
+      "activityId": "act_022_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 9,
+      "options": [
+        "يَنفَعُهُۥ ۚ",
+        "أُمْنِيَّتِهِۦ",
+        "إِبْرَٰهِيمَ ۚ",
+        "بِإِذْنِهِۦٓ ۗ"
+      ],
+      "activityId": "act_022_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

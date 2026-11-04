@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_025_03",
+  "title": "سورة الفرقان - الآيات 11-15",
+  "surahId": 25,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلسَّاعَةِ ۖ",
+        "يَسْتَطِيعُونَ",
+        "ٱسْتَكْبَرُوا۟",
+        "ٱلْأَسْوَاقِ ۙ"
+      ],
+      "activityId": "act_025_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "إِذَا رَأَتْهُم مِّن"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَهُوَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟"
+        }
+      ],
+      "activityId": "act_025_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 8,
+      "options": [
+        "وَزَفِيرًۭا",
+        "أَنفَقُوا۟",
+        "أَنفُسِهِمْ",
+        "أَوْلِيَآءَ"
+      ],
+      "activityId": "act_025_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذَآ أُلْقُوا۟ مِنْهَا"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَإِذَا رَأَوْكَ إِن"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَّهُمْ فِيهَا مَا"
+        }
+      ],
+      "activityId": "act_025_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "مُّقَرَّنِينَ",
+        "بَيْنَهُمَا",
+        "بِـَٔايَـٰتِنَا",
+        "بِٱللَّغْوِ"
+      ],
+      "activityId": "act_025_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "لَّا تَدْعُوا۟ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَٱلَّذِينَ لَا يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَٱلَّذِينَ لَا يَشْهَدُونَ"
+        }
+      ],
+      "activityId": "act_025_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱدْعُوا۟",
+        "بِٱلْغَمَـٰمِ",
+        "تَأْمُرُنَا",
+        "تَتَّبِعُونَ"
+      ],
+      "activityId": "act_025_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "قُلْ أَذَٰلِكَ خَيْرٌ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "قُلْ مَآ أَسْـَٔلُكُمْ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "قُلْ مَا يَعْبَؤُا۟"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ أَنزَلَهُ ٱلَّذِى"
+        }
+      ],
+      "activityId": "act_025_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُتَّقُونَ ۚ",
+        "ٱلْمُرْسَلِينَ",
+        "أَتَصْبِرُونَ ۗ",
+        "بِٱلسَّاعَةِ ۖ"
+      ],
+      "activityId": "act_025_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 18,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_019_16",
+  "title": "سورة مريم - الآيات 89-93",
+  "surahId": 19,
+  "ayahStart": 89,
+  "ayahEnd": 93,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 1,
+      "options": [
+        "جِئْتُمْ",
+        "أَطَّلَعَ",
+        "أَعُوذُ",
+        "أَعْلَمُ"
+      ],
+      "activityId": "act_019_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "تَكَادُ ٱلسَّمَـٰوَٰتُ يَتَفَطَّرْنَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ"
+        }
+      ],
+      "activityId": "act_019_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّمَـٰوَٰتُ",
+        "عَلَيْهِمْ ۖ",
+        "عِبَادَهُۥ",
+        "عِبَادِنَا"
+      ],
+      "activityId": "act_019_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "options": [
+        {
+          "ayahNumber": 91,
+          "text": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "إِن كُلُّ مَن"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ"
+        }
+      ],
+      "activityId": "act_019_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلرَّحْمَـٰنِ",
+        "فَأَشَارَتْ",
+        "فَأُو۟لَـٰٓئِكَ",
+        "فَلْيَمْدُدْ"
+      ],
+      "activityId": "act_019_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 92,
+          "text": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَا نَتَنَزَّلُ إِلَّا"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        }
+      ],
+      "activityId": "act_019_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلرَّحْمَـٰنِ",
+        "فَٱتَّخَذَتْ",
+        "فَٱخْتَلَفَ",
+        "فَٱعْبُدْهُ"
+      ],
+      "activityId": "act_019_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 93,
+          "text": "إِن كُلُّ مَن"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "قُلْ مَن كَانَ"
+        }
+      ],
+      "activityId": "act_019_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "لَأُوتَيَنَّ",
+        "لَنَنزِعَنَّ",
+        "لِلرَّحْمَـٰنِ"
+      ],
+      "activityId": "act_019_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

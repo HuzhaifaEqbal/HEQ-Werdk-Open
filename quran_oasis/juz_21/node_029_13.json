@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_13",
+  "title": "سورة العنكبوت - الآيات 61-65",
+  "surahId": 29,
+  "ayahStart": 61,
+  "ayahEnd": 65,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 6,
+      "options": [
+        "خَسَفْنَا",
+        "رِزْقًۭا",
+        "وَسَخَّرَ",
+        "تَصْنَعُونَ"
+      ],
+      "activityId": "act_029_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "أَمْ حَسِبَ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 7,
+      "options": [
+        "وَمِنْهُم",
+        "وَيَقْدِرُ",
+        "وَكَفَرُوا۟",
+        "شَىْءٍ ۖ"
+      ],
+      "activityId": "act_029_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "أَحَسِبَ ٱلنَّاسُ أَن"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَقَالَ إِنَّمَا ٱتَّخَذْتُم"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَلَئِن سَأَلْتَهُم مَّن"
+        }
+      ],
+      "activityId": "act_029_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 10,
+      "options": [
+        "لَكُم",
+        "مِنۢ",
+        "مَثَلُ",
+        "فِى"
+      ],
+      "activityId": "act_029_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "فَإِذَا رَكِبُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَا هَـٰذِهِ ٱلْحَيَوٰةُ"
+        }
+      ],
+      "activityId": "act_029_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 7,
+      "options": [
+        "أَهْلِ",
+        "وَإِنَّ",
+        "إِلَّآ",
+        "وَهُوَ"
+      ],
+      "activityId": "act_029_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "فَإِذَا رَكِبُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ وَلَا تُجَـٰدِلُوٓا۟ أَهْلَ"
+        }
+      ],
+      "activityId": "act_029_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 8,
+      "options": [
+        "جَآءَ",
+        "وَنَحْنُ",
+        "ٱلدِّينَ",
+        "شَىْءٍ ۖ"
+      ],
+      "activityId": "act_029_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 21,
+    "theme": "اعتراف المشركين بخلق الله ورزقه ثم شركهم به عند الرخاء."
+  }
+}

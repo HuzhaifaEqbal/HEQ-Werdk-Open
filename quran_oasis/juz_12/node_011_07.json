@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_07",
+  "title": "سورة هود - الآيات 36-41",
+  "surahId": 11,
+  "ayahStart": 36,
+  "ayahEnd": 41,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 17,
+      "options": [
+        "يَفْعَلُونَ",
+        "تَسْخَرُوا۟",
+        "تَسْخَرُونَ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_011_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_011_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 3,
+      "options": [
+        "بِأَعْيُنِنَا",
+        "مَجْر۪ىٰهَا",
+        "يَفْعَلُونَ",
+        "ٱلتَّنُّورُ"
+      ],
+      "activityId": "act_011_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_011_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 13,
+      "options": [
+        "تَسْخَرُوا۟",
+        "وَوَحْيِنَا",
+        "ظَلَمُوٓا۟ ۚ",
+        "مُّغْرَقُونَ"
+      ],
+      "activityId": "act_011_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_011_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "تَعْلَمُونَ",
+        "ٱرْكَبُوا۟",
+        "تُخَـٰطِبْنِى",
+        "۞ وَقَالَ"
+      ],
+      "activityId": "act_011_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_011_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلتَّنُّورُ",
+        "تَسْخَرُوا۟",
+        "تَسْخَرُونَ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_011_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_011_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "وَمُرْسَىٰهَآ ۚ",
+        "بِأَعْيُنِنَا",
+        "تُخَـٰطِبْنِى",
+        "ظَلَمُوٓا۟ ۚ"
+      ],
+      "activityId": "act_011_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

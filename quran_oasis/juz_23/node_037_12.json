@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_12",
+  "title": "سورة الصافات - الآيات 67-72",
+  "surahId": 37,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 3,
+      "options": [
+        "أَرْسَلْنَا",
+        "ذِكْرًۭا",
+        "عَلَيْهَا",
+        "ٱلْبَنَاتِ"
+      ],
+      "activityId": "act_037_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "ثُمَّ إِنَّ مَرْجِعَهُمْ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "أَصْطَفَى ٱلْبَنَاتِ عَلَى"
+        },
+        {
+          "ayahNumber": 182,
+          "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ"
+        }
+      ],
+      "activityId": "act_037_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 2,
+      "options": [
+        "مَرْجِعَهُمْ",
+        "فَإِنَّكُمْ",
+        "ٱلْأَعْلَىٰ",
+        "مُدْبِرِينَ"
+      ],
+      "activityId": "act_037_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 108,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ"
+        }
+      ],
+      "activityId": "act_037_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَابَآءَهُمْ",
+        "تَنْحِتُونَ",
+        "سَتَجِدُنِىٓ",
+        "إِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_037_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "فَٱلتَّـٰلِيَـٰتِ ذِكْرًا"
+        },
+        {
+          "ayahNumber": 126,
+          "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذَا ذُكِّرُوا۟ لَا"
+        }
+      ],
+      "activityId": "act_037_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاثَـٰرِهِمْ",
+        "وَيُقْذَفُونَ",
+        "إِلْ يَاسِينَ",
+        "مُؤْمِنِينَ"
+      ],
+      "activityId": "act_037_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 172,
+          "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌۭ"
+        }
+      ],
+      "activityId": "act_037_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 2,
+      "options": [
+        "وَلَقَدْ",
+        "وَحِفْظًۭا",
+        "قَبْلَهُمْ",
+        "ٱلْكَوَاكِبِ"
+      ],
+      "activityId": "act_037_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "وَلَقَدْ أَرْسَلْنَا فِيهِم"
+        },
+        {
+          "ayahNumber": 163,
+          "text": "إِلَّا مَنْ هُوَ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "فَنَظَرَ نَظْرَةًۭ فِى"
+        }
+      ],
+      "activityId": "act_037_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 2,
+      "options": [
+        "لَهُمُ",
+        "عَنْهُمْ",
+        "فَلَمَّا",
+        "فِيهِم"
+      ],
+      "activityId": "act_037_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "شراب أهل النار من حميم ثم مصيرهم إلى الجحيم وضلال آبائهم الأولين."
+  }
+}

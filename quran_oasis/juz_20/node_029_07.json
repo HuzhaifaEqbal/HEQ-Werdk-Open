@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_07",
+  "title": "سورة العنكبوت - الآيات 30-34",
+  "surahId": 29,
+  "ayahStart": 30,
+  "ayahEnd": 34,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 3,
+      "options": [
+        "وَقَالَ",
+        "وَلَا",
+        "عَلَى",
+        "وَإِنَّ"
+      ],
+      "activityId": "act_029_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَلَمَّا جَآءَتْ رُسُلُنَآ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَلَقَد تَّرَكْنَا مِنْهَآ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        }
+      ],
+      "activityId": "act_029_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "مُهْلِكُوٓا۟",
+        "ٱلصَّـٰدِقِينَ",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلْـَٔاخِرَةَ"
+      ],
+      "activityId": "act_029_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَنجَيْنَـٰهُ وَأَصْحَـٰبَ ٱلسَّفِينَةِ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "أَحَسِبَ ٱلنَّاسُ أَن"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ إِنَّ فِيهَا"
+        }
+      ],
+      "activityId": "act_029_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "لَمَعَ",
+        "وَيَقْدِرُ",
+        "فِيهَا ۖ",
+        "ءَايَـٰتٌۭ"
+      ],
+      "activityId": "act_029_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "إِنَّ ٱللَّهَ يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "بَلْ هُوَ ءَايَـٰتٌۢ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَمَن جَـٰهَدَ فَإِنَّمَا"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَمَّآ أَن جَآءَتْ"
+        }
+      ],
+      "activityId": "act_029_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 12,
+      "options": [
+        "تَخَفْ",
+        "لَهُمُ",
+        "لَهُۥٓ",
+        "حَرَمًا"
+      ],
+      "activityId": "act_029_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "وَلَمَّا جَآءَتْ رُسُلُنَآ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّا مُنزِلُونَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "يُعَذِّبُ مَن يَشَآءُ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_029_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 6,
+      "options": [
+        "عَلَيْهِ",
+        "أَنَا۠",
+        "رِجْزًۭا",
+        "فَتَنَّا"
+      ],
+      "activityId": "act_029_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "قصة شعيب مع قومه مدين وهلاك عاد وثمود وقارون وفرعون وهامان."
+  }
+}

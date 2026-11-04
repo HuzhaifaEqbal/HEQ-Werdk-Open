@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_04",
+  "title": "سورة فاطر - الآيات 16-20",
+  "surahId": 35,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 3,
+      "options": [
+        "نَعْمَلْ",
+        "كَبِيرٌ",
+        "وَيَأْتِ",
+        "مِنْهُمْ"
+      ],
+      "activityId": "act_035_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا ذَٰلِكَ عَلَى"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "هُوَ ٱلَّذِى جَعَلَكُمْ"
+        }
+      ],
+      "activityId": "act_035_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَى",
+        "أَنتُمُ",
+        "وَهُوَ",
+        "وَمَآ"
+      ],
+      "activityId": "act_035_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تَزِرُ وَازِرَةٌۭ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَلَا ٱلظِّلُّ وَلَا"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّ ٱلشَّيْطَـٰنَ لَكُمْ"
+        }
+      ],
+      "activityId": "act_035_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 18,
+      "options": [
+        "تُرْجَعُ",
+        "وَتَرَى",
+        "عَذْبٌۭ",
+        "إِنَّمَا"
+      ],
+      "activityId": "act_035_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا ذَٰلِكَ عَلَى"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        }
+      ],
+      "activityId": "act_035_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَنفَقُوا۟",
+        "ٱلْكِتَـٰبَ",
+        "ٱلْأَعْمَىٰ",
+        "عَدُوًّا ۚ"
+      ],
+      "activityId": "act_035_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "ثُمَّ أَوْرَثْنَا ٱلْكِتَـٰبَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَلَا ٱلظُّلُمَـٰتُ وَلَا"
+        }
+      ],
+      "activityId": "act_035_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "كُنَّا",
+        "عِندَ",
+        "وَلَا",
+        "جُدَدٌۢ"
+      ],
+      "activityId": "act_035_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "افتقار الناس جميعاً إلى الله وغناه عنهم، وحمل كل إنسان لوزره وتذكير أولي الألباب."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_014_05",
+  "title": "سورة إبراهيم - الآيات 25-30",
+  "surahId": 14,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَمْثَالَ",
+        "سَبِيلِهِۦ ۗ",
+        "ٱلْـَٔاخِرَةِ ۖ",
+        "تَمَتَّعُوا۟"
+      ],
+      "activityId": "act_014_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_014_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "خَبِيثَةٍۢ",
+        "بَدَّلُوا۟",
+        "رَبِّهَا ۗ",
+        "قَوْمَهُمْ"
+      ],
+      "activityId": "act_014_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_014_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلظَّـٰلِمِينَ ۚ",
+        "يَصْلَوْنَهَا ۖ",
+        "يَتَذَكَّرُونَ",
+        "ٱلْأَمْثَالَ"
+      ],
+      "activityId": "act_014_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_014_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأَحَلُّوا۟",
+        "بِٱلْقَوْلِ",
+        "لِّيُضِلُّوا۟",
+        "مَصِيرَكُمْ"
+      ],
+      "activityId": "act_014_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_014_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "يَصْلَوْنَهَا ۖ",
+        "ٱلظَّـٰلِمِينَ ۚ",
+        "ٱلْـَٔاخِرَةِ ۖ",
+        "يَتَذَكَّرُونَ"
+      ],
+      "activityId": "act_014_05_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_014_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "سَبِيلِهِۦ ۗ",
+        "ٱلْأَمْثَالَ",
+        "يَتَذَكَّرُونَ",
+        "ٱلْـَٔاخِرَةِ ۖ"
+      ],
+      "activityId": "act_014_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "إبراهيم",
+    "juz": 13,
+    "theme": "تقرير رسالة الرسل وإخراج الناس من الظلمات إلى النور، وذكر نعم الله ومصير الشاكرين والجاحدين، ودعاء إبراهيم عليه السلام للبيت وذريته."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_13",
+  "title": "سورة مريم - الآيات 73-78",
+  "surahId": 19,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْفَرِيقَيْنِ",
+        "ٱلْمُجْرِمِينَ",
+        "۞ فَحَمَلَتْهُ",
+        "بِعِبَادَتِهِمْ"
+      ],
+      "activityId": "act_019_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "قُلْ مَن كَانَ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        }
+      ],
+      "activityId": "act_019_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 1,
+      "options": [
+        "أَهْلَكْنَا",
+        "ءَاتَىٰنِىَ",
+        "ءَالِهَتِى",
+        "ءَامَنُوٓا۟"
+      ],
+      "activityId": "act_019_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "قُلْ مَن كَانَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "إِن كُلُّ مَن"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "مَا كَانَ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَٱتَّخَذَتْ مِن دُونِهِمْ"
+        }
+      ],
+      "activityId": "act_019_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 18,
+      "options": [
+        "فَسَيَعْلَمُونَ",
+        "ٱلْفَرِيقَيْنِ",
+        "فَٱعْبُدُوهُ ۚ",
+        "لَأَرْجُمَنَّكَ ۖ"
+      ],
+      "activityId": "act_019_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        }
+      ],
+      "activityId": "act_019_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْبَـٰقِيَـٰتُ",
+        "ٱعْتَزَلَهُمْ",
+        "ٱلشَّهَوَٰتِ ۖ",
+        "ٱلشَّيَـٰطِينَ"
+      ],
+      "activityId": "act_019_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "أَطَّلَعَ ٱلْغَيْبَ أَمِ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ"
+        }
+      ],
+      "activityId": "act_019_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 0,
+      "options": [
+        "أَفَرَءَيْتَ",
+        "ءَايَـٰتُنَا",
+        "أَحْصَىٰهُمْ",
+        "أَرْسَلْنَا"
+      ],
+      "activityId": "act_019_13_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "أَطَّلَعَ ٱلْغَيْبَ أَمِ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "لَّقَدْ جِئْتُمْ شَيْـًٔا"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ"
+        }
+      ],
+      "activityId": "act_019_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلرَّحْمَـٰنِ",
+        "أَضَاعُوا۟",
+        "أَفَرَءَيْتَ",
+        "أَهْلَكْنَا"
+      ],
+      "activityId": "act_019_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

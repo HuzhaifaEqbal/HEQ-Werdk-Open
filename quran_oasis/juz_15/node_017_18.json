@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_18",
+  "title": "سورة الإسراء - الآيات 97-101",
+  "surahId": 17,
+  "ayahStart": 97,
+  "ayahEnd": 101,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُهْتَدِ ۖ",
+        "نَّقْرَؤُهُۥ ۗ",
+        "وَءَاتَيْنَا",
+        "وَأَخْرِجْنِى"
+      ],
+      "activityId": "act_017_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "ذَٰلِكَ مِمَّآ أَوْحَىٰٓ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "كُلُّ ذَٰلِكَ كَانَ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "وَقُرْءَانًۭا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ"
+        }
+      ],
+      "activityId": "act_017_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 11,
+      "options": [
+        "لَمَبْعُوثُونَ",
+        "أَفَأَصْفَىٰكُمْ",
+        "بِجَانِبِهِۦ ۖ",
+        "بِٱلْقِسْطَاسِ"
+      ],
+      "activityId": "act_017_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "options": [
+        {
+          "ayahNumber": 99,
+          "text": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "فَأَرَادَ أَن يَسْتَفِزَّهُم"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَفَأَمِنتُمْ أَن يَخْسِفَ"
+        }
+      ],
+      "activityId": "act_017_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 20,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "وَإِيَّاكُمْ ۚ",
+        "وَبَيْنَكُمْ ۚ",
+        "وَجَعَلْنَـٰكُمْ"
+      ],
+      "activityId": "act_017_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "قُل لَّوْ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        }
+      ],
+      "activityId": "act_017_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْإِنفَاقِ ۚ",
+        "تَسْبِيحَهُمْ ۗ",
+        "فَسَيَقُولُونَ",
+        "فَسَيُنْغِضُونَ"
+      ],
+      "activityId": "act_017_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 101,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ"
+        }
+      ],
+      "activityId": "act_017_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 1,
+      "options": [
+        "ءَاتَيْنَا",
+        "لِتَفْتَرِىَ",
+        "لِسُنَّتِنَا",
+        "لِلْإِنسَـٰنِ"
+      ],
+      "activityId": "act_017_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

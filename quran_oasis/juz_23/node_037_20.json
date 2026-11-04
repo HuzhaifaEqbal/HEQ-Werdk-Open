@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_20",
+  "title": "سورة الصافات - الآيات 113-117",
+  "surahId": 37,
+  "ayahStart": 113,
+  "ayahEnd": 117,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُحْضَرِينَ",
+        "ذُرِّيَّتِهِمَا",
+        "بِٱلْمُجْرِمِينَ",
+        "يَسَّمَّعُونَ"
+      ],
+      "activityId": "act_037_20_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 113,
+      "correctNextAyahNumber": 114,
+      "options": [
+        {
+          "ayahNumber": 120,
+          "text": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "وَلَقَدْ مَنَنَّا عَلَىٰ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ"
+        }
+      ],
+      "activityId": "act_037_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 2,
+      "options": [
+        "وَهُمْ",
+        "نُوحٍۢ",
+        "عَلَىٰ",
+        "لَكُنَّا"
+      ],
+      "activityId": "act_037_20_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        },
+        {
+          "ayahNumber": 129,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ"
+        }
+      ],
+      "activityId": "act_037_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 2,
+      "options": [
+        "مِنَ",
+        "وَلَا",
+        "يَوْمُ",
+        "أَم"
+      ],
+      "activityId": "act_037_20_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "options": [
+        {
+          "ayahNumber": 159,
+          "text": "سُبْحَـٰنَ ٱللَّهِ عَمَّا"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ"
+        }
+      ],
+      "activityId": "act_037_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 2,
+      "options": [
+        "لَّمْ",
+        "قَدْ",
+        "إِنَّا",
+        "هُمُ"
+      ],
+      "activityId": "act_037_20_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ"
+        },
+        {
+          "ayahNumber": 132,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ"
+        }
+      ],
+      "activityId": "act_037_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْكِتَـٰبَ",
+        "وَعِظَـٰمًا",
+        "فَأَقْبَلَ",
+        "إِلْ يَاسِينَ"
+      ],
+      "activityId": "act_037_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "منة الله على موسى وهارون ونجاتهما وقومهما وإيتاؤهما الكتاب المستبين."
+  }
+}

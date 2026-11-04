@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_041_11",
+  "title": "سورة فصلت - الآيات 51-54",
+  "surahId": 41,
+  "ayahStart": 51,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 6,
+      "options": [
+        "يُلَقَّىٰهَآ",
+        "إِلَـٰهُكُمْ",
+        "ٱلْبَـٰطِلُ",
+        "بِجَانِبِهِۦ"
+      ],
+      "activityId": "act_041_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَجَعَلَ فِيهَا رَوَٰسِىَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَإِنْ أَعْرَضُوا۟ فَقُلْ"
+        }
+      ],
+      "activityId": "act_041_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 8,
+      "options": [
+        "كَفَرْتُم",
+        "ءَاذَانِنَا",
+        "تَحْزَنُوا۟",
+        "ٱلَّذِى"
+      ],
+      "activityId": "act_041_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا كُنتُمْ تَسْتَتِرُونَ"
+        }
+      ],
+      "activityId": "act_041_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلنَّهَارُ",
+        "شِقَاقٍۭ",
+        "ٱلْحَقُّ ۗ",
+        "جَآءَتْهُمُ"
+      ],
+      "activityId": "act_041_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "حمٓ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَمَا يُلَقَّىٰهَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "وَذَٰلِكُمْ",
+        "أَحْيَاهَا",
+        "رَبِّهِمْ ۗ",
+        "تَسْجُدُوا۟"
+      ],
+      "activityId": "act_041_11_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 25,
+    "theme": "آيات الآفاق والأنفس لبيان الحق وشك الكافرين في لقاء ربهم وإحاطة الله بكل شيء."
+  }
+}

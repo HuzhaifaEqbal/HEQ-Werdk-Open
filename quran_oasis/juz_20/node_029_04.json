@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_04",
+  "title": "سورة العنكبوت - الآيات 15-19",
+  "surahId": 29,
+  "ayahStart": 15,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "وَجَعَلْنَـٰهَآ",
+        "مُسْتَبْصِرِينَ",
+        "ٱلسَّيِّـَٔاتِ",
+        "يَتَوَكَّلُونَ"
+      ],
+      "activityId": "act_029_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "وَإِبْرَٰهِيمَ إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَوَلَمْ يَرَوْا۟ كَيْفَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَلَئِن سَأَلْتَهُم مَّن"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        }
+      ],
+      "activityId": "act_029_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْـَٔاخِرَةَ",
+        "وَٱتَّقُوهُ ۖ",
+        "ظَـٰلِمِينَ",
+        "ٱمْرَأَتَكَ"
+      ],
+      "activityId": "act_029_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَقَالُوا۟ لَوْلَآ أُنزِلَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "إِنَّمَا تَعْبُدُونَ مِن"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ"
+        }
+      ],
+      "activityId": "act_029_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 15,
+      "options": [
+        "وَٱلْكِتَـٰبَ",
+        "يَمْلِكُونَ",
+        "ٱلْحَكِيمُ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_029_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "وَلَمَّا جَآءَتْ رُسُلُنَآ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَإِن تُكَذِّبُوا۟ فَقَدْ"
+        }
+      ],
+      "activityId": "act_029_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنَّارِ ۚ",
+        "أَئِنَّكُمْ",
+        "قَبْلِكُمْ ۖ",
+        "مُهْلِكُوٓا۟"
+      ],
+      "activityId": "act_029_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "أَوَلَمْ يَرَوْا۟ كَيْفَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "إِنَّمَا تَعْبُدُونَ مِن"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَلَئِن سَأَلْتَهُم مَّن"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        }
+      ],
+      "activityId": "act_029_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "عَلَى",
+        "شَىْءٍ",
+        "فِينَا",
+        "ثُمَّ"
+      ],
+      "activityId": "act_029_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "قصة نوح عليه السلام ودعوته لقومه ونجاة المؤمنين وإهلاك المكذبين."
+  }
+}

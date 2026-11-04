@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_033_11",
+  "title": "سورة الأحزاب - الآيات 52-55",
+  "surahId": 33,
+  "ayahStart": 52,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 12,
+      "options": [
+        "وَلَوْ",
+        "لَعَنَ",
+        "يَتُوبَ",
+        "لَطِيفًا"
+      ],
+      "activityId": "act_033_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَإِن كُنتُنَّ تُرِدْنَ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ"
+        }
+      ],
+      "activityId": "act_033_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 33,
+      "options": [
+        "وَٱللَّهُ",
+        "يَنتَهِ",
+        "تُبْدُوا۟",
+        "ٱلْحَقَّ"
+      ],
+      "activityId": "act_033_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "إِن تُبْدُوا۟ شَيْـًٔا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "لَّا يَحِلُّ لَكَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "۞ تُرْجِى مَن تَشَآءُ"
+        }
+      ],
+      "activityId": "act_033_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "وَلَا",
+        "ٱللَّهَ",
+        "وَأَنزَلَ",
+        "سَرَاحًۭا"
+      ],
+      "activityId": "act_033_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "لَّا جُنَاحَ عَلَيْهِنَّ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ"
+        }
+      ],
+      "activityId": "act_033_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "تَخْشَىٰهُ ۖ",
+        "يَحْمِلْنَهَا",
+        "أَخَوَٰتِهِنَّ"
+      ],
+      "activityId": "act_033_11_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "حرمة نكاح أزواج النبي بعده وإباحة الحجاب أمام المحارم."
+  }
+}

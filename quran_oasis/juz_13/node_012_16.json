@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_16",
+  "title": "سورة يوسف - الآيات 89-94",
+  "surahId": 12,
+  "ayahStart": 89,
+  "ayahEnd": 94,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 3,
+      "options": [
+        "عَلِمْتُم",
+        "ءَاثَرَكَ",
+        "أَبُوهُمْ",
+        "بَصِيرًۭا"
+      ],
+      "activityId": "act_012_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_012_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "ٱلرَّٰحِمِينَ",
+        "بِأَهْلِكُمْ",
+        "تُفَنِّدُونِ"
+      ],
+      "activityId": "act_012_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_012_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 2,
+      "options": [
+        "تَٱللَّهِ",
+        "بِيُوسُفَ",
+        "تَثْرِيبَ",
+        "عَلِمْتُم"
+      ],
+      "activityId": "act_012_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_012_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلرَّٰحِمِينَ",
+        "عَلَيْنَآ ۖ",
+        "ٱلْمُحْسِنِينَ",
+        "أَجْمَعِينَ"
+      ],
+      "activityId": "act_012_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_012_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 2,
+      "options": [
+        "بِقَمِيصِى",
+        "ٱلْيَوْمَ ۖ",
+        "تُفَنِّدُونِ",
+        "عَلَيْنَآ ۖ"
+      ],
+      "activityId": "act_012_16_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_012_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 12,
+      "options": [
+        "تُفَنِّدُونِ",
+        "فَأَلْقُوهُ",
+        "بِقَمِيصِى",
+        "وَأْتُونِى"
+      ],
+      "activityId": "act_012_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

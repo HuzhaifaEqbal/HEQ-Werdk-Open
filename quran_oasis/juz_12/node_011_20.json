@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_011_20",
+  "title": "سورة هود - الآيات 114-118",
+  "surahId": 11,
+  "ayahStart": 114,
+  "ayahEnd": 118,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلسَّيِّـَٔاتِ ۚ",
+        "مُخْتَلِفِينَ",
+        "ٱلْمُحْسِنِينَ",
+        "أُتْرِفُوا۟"
+      ],
+      "activityId": "act_011_20_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "wrongOptionsAyahNumbers": [
+        116,
+        112
+      ],
+      "activityId": "act_011_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "لِلذَّٰكِرِينَ",
+        "ٱلسَّيِّـَٔاتِ ۚ",
+        "مُخْتَلِفِينَ"
+      ],
+      "activityId": "act_011_20_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "wrongOptionsAyahNumbers": [
+        117,
+        113
+      ],
+      "activityId": "act_011_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقُرُونِ",
+        "يَزَالُونَ",
+        "ٱلنَّهَارِ",
+        "مُصْلِحُونَ"
+      ],
+      "activityId": "act_011_20_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "wrongOptionsAyahNumbers": [
+        118,
+        114
+      ],
+      "activityId": "act_011_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَهْلُهَا",
+        "مُجْرِمِينَ",
+        "ٱلصَّلَوٰةَ",
+        "أَنجَيْنَا"
+      ],
+      "activityId": "act_011_20_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "wrongOptionsAyahNumbers": [
+        119,
+        115
+      ],
+      "activityId": "act_011_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 10,
+      "options": [
+        "مُخْتَلِفِينَ",
+        "لِلذَّٰكِرِينَ",
+        "ٱلسَّيِّـَٔاتِ ۚ",
+        "ٱلْحَسَنَـٰتِ"
+      ],
+      "activityId": "act_011_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

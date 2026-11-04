@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_25",
+  "title": "سورة الصافات - الآيات 138-142",
+  "surahId": 37,
+  "ayahStart": 138,
+  "ayahEnd": 142,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَلَا",
+        "مِتْنَا",
+        "وَإِذَا",
+        "عَذَابٌۭ"
+      ],
+      "activityId": "act_037_25_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 138,
+      "correctNextAyahNumber": 139,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "وَقَالُوٓا۟ إِنْ هَـٰذَآ"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَا لَكُمْ كَيْفَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذَا ذُكِّرُوا۟ لَا"
+        },
+        {
+          "ayahNumber": 139,
+          "text": "وَإِنَّ يُونُسَ لَمِنَ"
+        }
+      ],
+      "activityId": "act_037_25_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 2,
+      "options": [
+        "عَجِبْتَ",
+        "مِنْهَا",
+        "كَيْفَ",
+        "لَمِنَ"
+      ],
+      "activityId": "act_037_25_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى"
+        },
+        {
+          "ayahNumber": 150,
+          "text": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 140,
+          "text": "إِذْ أَبَقَ إِلَى"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَا تُجْزَوْنَ إِلَّا"
+        }
+      ],
+      "activityId": "act_037_25_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 2,
+      "options": [
+        "إِلَى",
+        "وَقَالَ",
+        "مِّن",
+        "عَلَىٰٓ"
+      ],
+      "activityId": "act_037_25_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 140,
+      "correctNextAyahNumber": 141,
+      "options": [
+        {
+          "ayahNumber": 160,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "هَـٰذَا يَوْمُ ٱلْفَصْلِ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "فَسَاهَمَ فَكَانَ مِنَ"
+        }
+      ],
+      "activityId": "act_037_25_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 2,
+      "options": [
+        "فِىٓ",
+        "إِن",
+        "مِنَ",
+        "مَا"
+      ],
+      "activityId": "act_037_25_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 141,
+      "correctNextAyahNumber": 142,
+      "options": [
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "إِنَّا جَعَلْنَـٰهَا فِتْنَةًۭ"
+        },
+        {
+          "ayahNumber": 126,
+          "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ"
+        }
+      ],
+      "activityId": "act_037_25_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 2,
+      "options": [
+        "كَانُوا۟",
+        "لَّا",
+        "يَوْمُ",
+        "وَهُوَ"
+      ],
+      "activityId": "act_037_25_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تسبيح يونس في بطن الحوت ونبذه بالعراء وشجرة اليقطين وإرساله لمائة ألف."
+  }
+}

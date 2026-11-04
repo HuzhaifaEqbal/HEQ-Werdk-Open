@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_028_15",
+  "title": "سورة القصص - الآيات 84-88",
+  "surahId": 28,
+  "ayahStart": 84,
+  "ayahEnd": 88,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلْحَسَنَةِ",
+        "وَجُنُودُهُۥ",
+        "وَنَجْعَلَهُمْ",
+        "وَيَخْتَارُ ۗ"
+      ],
+      "activityId": "act_028_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "options": [
+        {
+          "ayahNumber": 85,
+          "text": "إِنَّ ٱلَّذِى فَرَضَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ فِرْعَوْنَ عَلَا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَقَالُوٓا۟ إِن نَّتَّبِعِ"
+        }
+      ],
+      "activityId": "act_028_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "وَيَدْرَءُونَ",
+        "وَيَسْتَحْىِۦ",
+        "وَيْكَأَنَّهُۥ"
+      ],
+      "activityId": "act_028_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "وَمَا كُنتَ تَرْجُوٓا۟"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا كُنتَ بِجَانِبِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا كَانَ رَبُّكَ"
+        }
+      ],
+      "activityId": "act_028_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 14,
+      "options": [
+        "لِّلْكَـٰفِرِينَ",
+        "وَٱسْتَكْبَرَ",
+        "وَٱلنَّهَارَ",
+        "وَٱلْعَـٰقِبَةُ"
+      ],
+      "activityId": "act_028_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 87,
+          "text": "وَلَا يَصُدُّنَّكَ عَنْ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ"
+        }
+      ],
+      "activityId": "act_028_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُصْلِحِينَ",
+        "ٱلْمُفْسِدِينَ"
+      ],
+      "activityId": "act_028_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "وَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَهُوَ ٱللَّهُ لَآ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا"
+        }
+      ],
+      "activityId": "act_028_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 14,
+      "options": [
+        "وَجْهَهُۥ ۚ",
+        "فَجَآءَتْهُ",
+        "فَخَسَفْنَا",
+        "فَدَعَوْهُمْ"
+      ],
+      "activityId": "act_028_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

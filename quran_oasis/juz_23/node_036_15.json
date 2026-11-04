@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_15",
+  "title": "سورة يس - الآيات 78-83",
+  "surahId": 36,
+  "ayahStart": 78,
+  "ayahEnd": 83,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 5,
+      "options": [
+        "قَالَ",
+        "جَعَلَ",
+        "كُنَّا",
+        "مَنۢ"
+      ],
+      "activityId": "act_036_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "قَالُوٓا۟ إِنَّا تَطَيَّرْنَا"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "قُلْ يُحْيِيهَا ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَإِن نَّشَأْ نُغْرِقْهُمْ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_036_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 5,
+      "options": [
+        "يَـٰلَيْتَ",
+        "مَرَّةٍۢ ۖ",
+        "ٱلْمَوْتَىٰ",
+        "جَنَّـٰتٍۢ"
+      ],
+      "activityId": "act_036_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "لِتُنذِرَ قَوْمًۭا مَّآ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "ٱلَّذِى جَعَلَ لَكُم"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ"
+        }
+      ],
+      "activityId": "act_036_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 5,
+      "options": [
+        "كَثِيرًا ۖ",
+        "ٱلْأَخْضَرِ",
+        "يَنظُرُونَ",
+        "ٱلْعُيُونِ"
+      ],
+      "activityId": "act_036_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالُوا۟ رَبُّنَا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "أَوَلَيْسَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "إِنَّا نَحْنُ نُحْىِ"
+        }
+      ],
+      "activityId": "act_036_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 6,
+      "options": [
+        "صَيْحَةًۭ",
+        "عَلَىٰٓ",
+        "لَّفِى",
+        "نَارًۭا"
+      ],
+      "activityId": "act_036_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلْأَرْضُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "مَا يَنظُرُونَ إِلَّا"
+        }
+      ],
+      "activityId": "act_036_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 4,
+      "options": [
+        "إِذًۭا",
+        "شَيْـًٔا",
+        "وَتَشْهَدُ",
+        "ٱلْمُبِينُ"
+      ],
+      "activityId": "act_036_15_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا"
+        }
+      ],
+      "activityId": "act_036_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 4,
+      "options": [
+        "وَهُوَ",
+        "كُلِّ",
+        "وَإِذَا",
+        "وَإِن"
+      ],
+      "activityId": "act_036_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "ضرب المثل في إنكار البعث والرد القاطع بالخلق الأول وكون أمره إذا أراد شيئاً أن يقول له كن فيكون."
+  }
+}

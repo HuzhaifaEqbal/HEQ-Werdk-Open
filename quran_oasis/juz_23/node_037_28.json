@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_28",
+  "title": "سورة الصافات - الآيات 153-157",
+  "surahId": 37,
+  "ayahStart": 153,
+  "ayahEnd": 157,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 153,
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَى",
+        "مَعَهُ",
+        "سُرُرٍۢ",
+        "مَاذَا"
+      ],
+      "activityId": "act_037_28_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 153,
+      "correctNextAyahNumber": 154,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَا لَكُمْ كَيْفَ"
+        }
+      ],
+      "activityId": "act_037_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 154,
+      "missingWordPosition": 2,
+      "options": [
+        "عَنْهُ",
+        "بِهِۦ ۖ",
+        "كَيْفَ",
+        "لَكُنَّا"
+      ],
+      "activityId": "act_037_28_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 154,
+      "correctNextAyahNumber": 155,
+      "options": [
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 155,
+          "text": "أَفَلَا تَذَكَّرُونَ"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "بَلْ هُمُ ٱلْيَوْمَ"
+        }
+      ],
+      "activityId": "act_037_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 155,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّمَآءَ",
+        "تَذَكَّرُونَ",
+        "وَقَوْمِهِۦ",
+        "بِسَاحَتِهِمْ"
+      ],
+      "activityId": "act_037_28_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 155,
+      "correctNextAyahNumber": 156,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "فِى جَنَّـٰتِ ٱلنَّعِيمِ"
+        },
+        {
+          "ayahNumber": 149,
+          "text": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "أَمْ لَكُمْ سُلْطَـٰنٌۭ"
+        }
+      ],
+      "activityId": "act_037_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 156,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنظُرُونَ",
+        "تَحْكُمُونَ",
+        "سُلْطَـٰنٌۭ",
+        "لِّنَفْسِهِۦ"
+      ],
+      "activityId": "act_037_28_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 156,
+      "correctNextAyahNumber": 157,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لِقَوْمِهِۦٓ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن"
+        }
+      ],
+      "activityId": "act_037_28_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 157,
+      "missingWordPosition": 3,
+      "options": [
+        "كُنتُمْ",
+        "سُرُرٍۢ",
+        "رَبَّكُمْ",
+        "لِلَّهِ"
+      ],
+      "activityId": "act_037_28_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "عجز الكافرين عن فتنة أحد إلا من هو صال الجحيم ومقام الملائكة الصافين والمسبحين."
+  }
+}

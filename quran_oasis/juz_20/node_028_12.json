@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_12",
+  "title": "سورة القصص - الآيات 67-72",
+  "surahId": 28,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُفْلِحِينَ",
+        "وَجُنُودَهُمَا",
+        "وَزِينَتُهَا ۚ",
+        "وَلِتَبْتَغُوا۟"
+      ],
+      "activityId": "act_028_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَرَبُّكَ يَخْلُقُ مَا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَرَبُّكَ يَعْلَمُ مَا"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "طسٓمٓ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ"
+        }
+      ],
+      "activityId": "act_028_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 4,
+      "options": [
+        "وَيَخْتَارُ ۗ",
+        "بِٱلسَّيِّئَةِ",
+        "بِٱلْأَمْسِ ۖ",
+        "بِٱلْحَسَنَةِ"
+      ],
+      "activityId": "act_028_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَرَبُّكَ يَعْلَمُ مَا"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَهُوَ ٱللَّهُ لَآ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "فَأَمَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَمِن رَّحْمَتِهِۦ جَعَلَ"
+        }
+      ],
+      "activityId": "act_028_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 4,
+      "options": [
+        "صُدُورُهُمْ",
+        "سَتَجِدُنِىٓ",
+        "شُرَكَآءِىَ",
+        "شِيعَتِهِۦ"
+      ],
+      "activityId": "act_028_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "وَهُوَ ٱللَّهُ لَآ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّكَ لَا تَهْدِى"
+        }
+      ],
+      "activityId": "act_028_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلْـَٔاخِرَةِ ۖ",
+        "وَمَلَإِي۟هِۦٓ ۚ",
+        "يَتَسَآءَلُونَ",
+        "يَسْتَجِيبُوا۟"
+      ],
+      "activityId": "act_028_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ فَأْتُوا۟ بِكِتَـٰبٍۢ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَقَالُوٓا۟ إِن نَّتَّبِعِ"
+        }
+      ],
+      "activityId": "act_028_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 1,
+      "options": [
+        "أَرَءَيْتُمْ",
+        "صُدُورُهُمْ",
+        "عَدُوِّهِۦ ۖ",
+        "عَلَيْهِمْ ۖ"
+      ],
+      "activityId": "act_028_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ فَأْتُوا۟ بِكِتَـٰبٍۢ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "إِنَّ ٱلَّذِى فَرَضَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَنُرِيدُ أَن نَّمُنَّ"
+        }
+      ],
+      "activityId": "act_028_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 1,
+      "options": [
+        "أَرَءَيْتُمْ",
+        "عِبَادِهِۦ",
+        "غَوَيْنَا ۖ",
+        "فَأَخَذْنَـٰهُ"
+      ],
+      "activityId": "act_028_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

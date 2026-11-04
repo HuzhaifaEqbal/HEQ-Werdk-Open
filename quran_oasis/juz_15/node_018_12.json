@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_018_12",
+  "title": "سورة الكهف - الآيات 65-69",
+  "surahId": 18,
+  "ayahStart": 65,
+  "ayahEnd": 69,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 3,
+      "options": [
+        "عِبَادِنَآ",
+        "سَادِسُهُمْ",
+        "سَبِيلَهُۥ",
+        "سَتَجِدُنِىٓ"
+      ],
+      "activityId": "act_018_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ لَهُۥ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "قَالَ لَهُۥ صَاحِبُهُۥ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "قَالَ أَمَّا مَن"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "قَالَ هَـٰذَا رَحْمَةٌۭ"
+        }
+      ],
+      "activityId": "act_018_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 4,
+      "options": [
+        "أَتَّبِعُكَ",
+        "أَمْرِهِمْ",
+        "أَمْرِى ۚ",
+        "أَهْلَهَا"
+      ],
+      "activityId": "act_018_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "قَالَ إِنَّكَ لَن"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ أَلَمْ أَقُلْ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قَالَ سَتَجِدُنِىٓ إِن"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "قَالَ ذَٰلِكَ مَا"
+        }
+      ],
+      "activityId": "act_018_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 3,
+      "options": [
+        "تَسْتَطِيعَ",
+        "شُرَكَآءِىَ",
+        "صَاحِبُهُۥ",
+        "عُرُوشِهَا"
+      ],
+      "activityId": "act_018_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَكَيْفَ تَصْبِرُ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِنَّا جَعَلْنَا مَا"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَعُرِضُوا۟ عَلَىٰ رَبِّكَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَٱتْلُ مَآ أُوحِىَ"
+        }
+      ],
+      "activityId": "act_018_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 0,
+      "options": [
+        "وَكَيْفَ",
+        "أَبَدًۭا",
+        "أَبْرَحُ",
+        "أَبْصِرْ"
+      ],
+      "activityId": "act_018_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "قَالَ سَتَجِدُنِىٓ إِن"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ إِن سَأَلْتُكَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "قَالَ فَإِنِ ٱتَّبَعْتَنِى"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قَالَ إِنَّكَ لَن"
+        }
+      ],
+      "activityId": "act_018_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 1,
+      "options": [
+        "سَتَجِدُنِىٓ",
+        "عِبَادِنَآ",
+        "غَدَآءَنَا",
+        "فَأَرَدْنَآ"
+      ],
+      "activityId": "act_018_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_40",
+  "title": "سورة الشعراء - الآيات 218-222",
+  "surahId": 26,
+  "ayahStart": 218,
+  "ayahEnd": 222,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 218,
+      "missingWordPosition": 0,
+      "options": [
+        "ٱلَّذِى",
+        "بِعِزَّةِ",
+        "بِـَٔايَةٍ",
+        "بِقَلْبٍۢ"
+      ],
+      "activityId": "act_026_40_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 218,
+      "correctNextAyahNumber": 219,
+      "options": [
+        {
+          "ayahNumber": 219,
+          "text": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ"
+        },
+        {
+          "ayahNumber": 200,
+          "text": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 152,
+          "text": "ٱلَّذِينَ يُفْسِدُونَ فِى"
+        }
+      ],
+      "activityId": "act_026_40_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 219,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّـٰجِدِينَ",
+        "لَكَبِيرُكُمُ",
+        "لَمُدْرَكُونَ",
+        "لِلنَّـٰظِرِينَ"
+      ],
+      "activityId": "act_026_40_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 219,
+      "correctNextAyahNumber": 220,
+      "options": [
+        {
+          "ayahNumber": 220,
+          "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَٱلَّذِى هُوَ يُطْعِمُنِى"
+        },
+        {
+          "ayahNumber": 224,
+          "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ"
+        }
+      ],
+      "activityId": "act_026_40_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 220,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمِيعُ",
+        "لَتَكُونَنَّ",
+        "لَتَنزِيلُ",
+        "لَشِرْذِمَةٌۭ"
+      ],
+      "activityId": "act_026_40_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 220,
+      "correctNextAyahNumber": 221,
+      "options": [
+        {
+          "ayahNumber": 221,
+          "text": "هَلْ أُنَبِّئُكُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 194,
+          "text": "عَلَىٰ قَلْبِكَ لِتَكُونَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 203,
+          "text": "فَيَقُولُوا۟ هَلْ نَحْنُ"
+        }
+      ],
+      "activityId": "act_026_40_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 221,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلشَّيَـٰطِينُ",
+        "لِلْغَاوِينَ",
+        "لِلْمُتَّقِينَ",
+        "مُنقَلِبُونَ"
+      ],
+      "activityId": "act_026_40_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 221,
+      "correctNextAyahNumber": 222,
+      "options": [
+        {
+          "ayahNumber": 222,
+          "text": "تَنَزَّلُ عَلَىٰ كُلِّ"
+        },
+        {
+          "ayahNumber": 198,
+          "text": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَهُمْ عَلَىَّ ذَنۢبٌۭ"
+        }
+      ],
+      "activityId": "act_026_40_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 222,
+      "missingWordPosition": 0,
+      "options": [
+        "تَنَزَّلُ",
+        "تَرَٰٓءَا",
+        "تَقُومُ",
+        "تَلْقَفُ"
+      ],
+      "activityId": "act_026_40_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

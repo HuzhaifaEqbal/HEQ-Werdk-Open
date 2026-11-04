@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_019_14",
+  "title": "سورة مريم - الآيات 79-83",
+  "surahId": 19,
+  "ayahStart": 79,
+  "ayahEnd": 83,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَذَابِ",
+        "أَيْدِينَا",
+        "إِبْرَٰهِيمَ",
+        "إِدْرِيسَ ۚ"
+      ],
+      "activityId": "act_019_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "وَنَرِثُهُۥ مَا يَقُولُ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَيَقُولُ ٱلْإِنسَـٰنُ أَءِذَا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَجَعَلَنِى مُبَارَكًا أَيْنَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "مَا كَانَ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_019_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 3,
+      "options": [
+        "وَيَأْتِينَا",
+        "ٱلشَّيْطَـٰنَ ۖ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_019_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَحَنَانًۭا مِّن لَّدُنَّا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "يَرِثُنِى وَيَرِثُ مِنْ"
+        }
+      ],
+      "activityId": "act_019_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱتَّخَذُوا۟",
+        "ٱلْأَحْزَابُ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمُتَّقِينَ"
+      ],
+      "activityId": "act_019_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "كَلَّا ۚ سَنَكْتُبُ مَا"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "ذِكْرُ رَحْمَتِ رَبِّكَ"
+        }
+      ],
+      "activityId": "act_019_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "بِعِبَادَتِهِمْ",
+        "فَسَيَعْلَمُونَ",
+        "لَنَحْشُرَنَّهُمْ",
+        "لَنُحْضِرَنَّهُمْ"
+      ],
+      "activityId": "act_019_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "أَلَمْ تَرَ أَنَّآ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّا نَحْنُ نَرِثُ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "أَوَلَا يَذْكُرُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ"
+        }
+      ],
+      "activityId": "act_019_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشَّيَـٰطِينَ",
+        "ٱلْمِحْرَابِ",
+        "إِبْرَٰهِيمَ ۚ",
+        "إِسْمَـٰعِيلَ ۚ"
+      ],
+      "activityId": "act_019_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

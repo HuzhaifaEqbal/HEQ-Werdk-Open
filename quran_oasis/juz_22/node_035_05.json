@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_035_05",
+  "title": "سورة فاطر - الآيات 21-26",
+  "surahId": 35,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 2,
+      "options": [
+        "وَإِلَى",
+        "وَلَا",
+        "إِحْدَى",
+        "يَشَأْ"
+      ],
+      "activityId": "act_035_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        }
+      ],
+      "activityId": "act_035_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "يُسْمِعُ",
+        "تَزِرُ",
+        "لَهَا ۖ",
+        "عَزِيزٌ"
+      ],
+      "activityId": "act_035_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَلَوْ يُؤَاخِذُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنْ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        }
+      ],
+      "activityId": "act_035_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "تَذْهَبْ",
+        "إِلَّا",
+        "خَـٰلِقٍ",
+        "يُقْضَىٰ"
+      ],
+      "activityId": "act_035_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "ثُمَّ أَخَذْتُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        }
+      ],
+      "activityId": "act_035_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "كَانَ",
+        "مِّنْ",
+        "لَهُمْ",
+        "تَزِرُ"
+      ],
+      "activityId": "act_035_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِن تَدْعُوهُمْ لَا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ"
+        }
+      ],
+      "activityId": "act_035_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 7,
+      "options": [
+        "جَآءَتْهُمْ",
+        "عَدُوًّا ۚ",
+        "أَجْنِحَةٍۢ",
+        "مُّخْتَلِفٌ"
+      ],
+      "activityId": "act_035_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "ثُمَّ أَخَذْتُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "إِنَّ ٱللَّهَ عَـٰلِمُ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        }
+      ],
+      "activityId": "act_035_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "يَغُرَّنَّكُم",
+        "كَفَرُوا۟ ۖ",
+        "ٱلصَّلَوٰةَ",
+        "يَسْمَعُوا۟"
+      ],
+      "activityId": "act_035_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "المقارنة بين الأعمى والبصير والظلمات والنور ومهمة النبي بالبشارة والنذارة."
+  }
+}

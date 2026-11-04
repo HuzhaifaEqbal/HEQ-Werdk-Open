@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_06",
+  "title": "سورة الحجر - الآيات 31-36",
+  "surahId": 15,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسَّـٰجِدِينَ",
+        "فَأَنظِرْنِىٓ",
+        "يَـٰٓإِبْلِيسُ",
+        "خَلَقْتَهُۥ"
+      ],
+      "activityId": "act_015_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_015_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلسَّـٰجِدِينَ",
+        "فَأَنظِرْنِىٓ",
+        "يُبْعَثُونَ",
+        "ٱللَّعْنَةَ"
+      ],
+      "activityId": "act_015_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_015_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "خَلَقْتَهُۥ",
+        "يُبْعَثُونَ",
+        "ٱللَّعْنَةَ",
+        "يَـٰٓإِبْلِيسُ"
+      ],
+      "activityId": "act_015_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_015_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "فَٱخْرُجْ",
+        "إِبْلِيسَ",
+        "ٱلدِّينِ",
+        "لِّأَسْجُدَ"
+      ],
+      "activityId": "act_015_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_015_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱللَّعْنَةَ",
+        "خَلَقْتَهُۥ",
+        "يُبْعَثُونَ",
+        "يَـٰٓإِبْلِيسُ"
+      ],
+      "activityId": "act_015_06_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_015_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَنظِرْنِىٓ",
+        "ٱلسَّـٰجِدِينَ",
+        "خَلَقْتَهُۥ",
+        "ٱللَّعْنَةَ"
+      ],
+      "activityId": "act_015_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

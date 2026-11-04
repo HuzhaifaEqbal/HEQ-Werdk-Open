@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_012_19",
+  "title": "سورة يوسف - الآيات 107-111",
+  "surahId": 12,
+  "ayahStart": 107,
+  "ayahEnd": 111,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَأَمِنُوٓا۟",
+        "ٱتَّبَعَنِى ۖ",
+        "ٱلْأَلْبَـٰبِ ۗ",
+        "فَيَنظُرُوا۟"
+      ],
+      "activityId": "act_012_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_012_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "أَفَأَمِنُوٓا۟",
+        "ٱلْأَلْبَـٰبِ ۗ"
+      ],
+      "activityId": "act_012_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_012_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 16,
+      "options": [
+        "فَيَنظُرُوا۟",
+        "ٱتَّبَعَنِى ۖ",
+        "أَفَأَمِنُوٓا۟",
+        "ٱلْأَلْبَـٰبِ ۗ"
+      ],
+      "activityId": "act_012_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_012_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "فَيَنظُرُوا۟",
+        "أَفَأَمِنُوٓا۟"
+      ],
+      "activityId": "act_012_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        108,
+        107
+      ],
+      "activityId": "act_012_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَلْبَـٰبِ ۗ",
+        "ٱتَّبَعَنِى ۖ",
+        "فَيَنظُرُوا۟",
+        "أَفَأَمِنُوٓا۟"
+      ],
+      "activityId": "act_012_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

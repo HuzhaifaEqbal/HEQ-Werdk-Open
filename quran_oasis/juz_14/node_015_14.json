@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_14",
+  "title": "سورة الحجر - الآيات 79-84",
+  "surahId": 15,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱنتَقَمْنَا",
+        "ٱلْمُرْسَلِينَ",
+        "وَءَاتَيْنَـٰهُمْ",
+        "فَأَخَذَتْهُمُ"
+      ],
+      "activityId": "act_015_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_015_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "فَٱنتَقَمْنَا",
+        "وَءَاتَيْنَـٰهُمْ",
+        "فَأَخَذَتْهُمُ"
+      ],
+      "activityId": "act_015_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_015_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 1,
+      "options": [
+        "وَءَاتَيْنَـٰهُمْ",
+        "ٱلْمُرْسَلِينَ",
+        "فَٱنتَقَمْنَا",
+        "فَأَخَذَتْهُمُ"
+      ],
+      "activityId": "act_015_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_015_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنْحِتُونَ",
+        "مُصْبِحِينَ",
+        "مُعْرِضِينَ",
+        "يَكْسِبُونَ"
+      ],
+      "activityId": "act_015_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_015_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَخَذَتْهُمُ",
+        "ءَايَـٰتِنَا",
+        "لَبِإِمَامٍۢ",
+        "وَإِنَّهُمَا"
+      ],
+      "activityId": "act_015_14_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_015_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 6,
+      "options": [
+        "يَكْسِبُونَ",
+        "يَنْحِتُونَ",
+        "ٱلصَّيْحَةُ",
+        "ءَامِنِينَ"
+      ],
+      "activityId": "act_015_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

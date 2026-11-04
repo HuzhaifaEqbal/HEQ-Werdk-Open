@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_013_05",
+  "title": "سورة الرعد - الآيات 24-28",
+  "surahId": 13,
+  "ayahStart": 24,
+  "ayahEnd": 28,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "صَبَرْتُمْ ۚ",
+        "مِيثَـٰقِهِۦ",
+        "وَيَقْدِرُ ۚ",
+        "وَتَطْمَئِنُّ"
+      ],
+      "activityId": "act_013_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ],
+      "activityId": "act_013_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَقْطَعُونَ",
+        "بِٱلْحَيَوٰةِ",
+        "ٱلْـَٔاخِرَةِ",
+        "صَبَرْتُمْ ۚ"
+      ],
+      "activityId": "act_013_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_013_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "بِٱلْحَيَوٰةِ",
+        "وَيَقْطَعُونَ",
+        "وَيُفْسِدُونَ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_013_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_013_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلَّذِينَ",
+        "عَلَيْكُم",
+        "ٱلرِّزْقَ",
+        "ٱللَّهِ ۗ"
+      ],
+      "activityId": "act_013_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_013_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُوا۟",
+        "يَنقُضُونَ",
+        "ٱلدُّنْيَا",
+        "وَفَرِحُوا۟"
+      ],
+      "activityId": "act_013_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرعد",
+    "juz": 13,
+    "theme": "عرض دلائل قدرة الله في الخلق والتدبير، وبيان أثر الوحي والإيمان، ومثل الحق والباطل، وصفات أولي الألباب ومآلهم."
+  }
+}

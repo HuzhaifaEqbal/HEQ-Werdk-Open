@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_022_06",
+  "title": "سورة الحج - الآيات 31-36",
+  "surahId": 22,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "مُشْرِكِينَ",
+        "جَعَلْنَـٰهَا",
+        "جُنُوبُهَا",
+        "خَلَقْنَـٰكُم"
+      ],
+      "activityId": "act_022_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَـٰتِ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "ذَٰلِكَ بِمَا قَدَّمَتْ"
+        }
+      ],
+      "activityId": "act_022_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْقُلُوبِ",
+        "خَلْفَهُمْ ۗ",
+        "دِمَآؤُهَا",
+        "رَزَقْنَـٰهُمْ"
+      ],
+      "activityId": "act_022_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "لَكُمْ فِيهَا مَنَـٰفِعُ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلْبُدْنَ جَعَلْنَـٰهَا لَكُم"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "لِّيَشْهَدُوا۟ مَنَـٰفِعَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَهُدُوٓا۟ إِلَى ٱلطَّيِّبِ"
+        }
+      ],
+      "activityId": "act_022_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَتِيقِ",
+        "رُءُوسِهِمُ",
+        "سَخَّرْنَـٰهَا",
+        "ظُلِمُوا۟ ۚ"
+      ],
+      "activityId": "act_022_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلِكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "لِّكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "أُذِنَ لِلَّذِينَ يُقَـٰتَلُونَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        }
+      ],
+      "activityId": "act_022_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْمُخْبِتِينَ",
+        "وَٱلْـَٔاخِرَةَ ۚ",
+        "وَٱلْقَاسِيَةِ",
+        "وَٱلْمَطْلُوبُ"
+      ],
+      "activityId": "act_022_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ إِذَا ذُكِرَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "ٱلَّذِينَ أُخْرِجُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنَّ ٱللَّهَ يُدْخِلُ"
+        }
+      ],
+      "activityId": "act_022_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلصَّـٰبِرِينَ",
+        "وَٱلْمُعْتَرَّ ۚ",
+        "يَرْضَوْنَهُۥ ۗ",
+        "يَسْتَنقِذُوهُ"
+      ],
+      "activityId": "act_022_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلْبُدْنَ جَعَلْنَـٰهَا لَكُم"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "فَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        }
+      ],
+      "activityId": "act_022_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 21,
+      "options": [
+        "وَٱلْمُعْتَرَّ ۚ",
+        "وَٱلْمُقِيمِى",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُخْبِتِينَ"
+      ],
+      "activityId": "act_022_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_08",
+  "title": "سورة الأنبياء - الآيات 43-48",
+  "surahId": 21,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 7,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "أَهْلَكْنَـٰهَآ ۖ",
+        "تَسْتَعْجِلُونِ",
+        "فَأَغْرَقْنَـٰهُمْ"
+      ],
+      "activityId": "act_021_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "بَلْ مَتَّعْنَا هَـٰٓؤُلَآءِ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "بَلْ تَأْتِيهِم بَغْتَةًۭ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "بَلْ نَقْذِفُ بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "بَلْ قَالُوٓا۟ أَضْغَـٰثُ"
+        }
+      ],
+      "activityId": "act_021_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "وَءَابَآءَهُمْ",
+        "فَأَنجَيْنَـٰهُمْ",
+        "فَٱسْتَجَبْنَا",
+        "وَءَابَآؤُكُمْ"
+      ],
+      "activityId": "act_021_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "قُلْ إِنَّمَآ أُنذِرُكُم"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "قُلْ إِنَّمَا يُوحَىٰٓ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ مَن يَكْلَؤُكُم"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "قَـٰلَ رَبِّ ٱحْكُم"
+        }
+      ],
+      "activityId": "act_021_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْوَحْىِ ۚ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_021_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَمِنَ ٱلشَّيَـٰطِينِ مَن"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَمَن يَعْمَلْ مِنَ"
+        }
+      ],
+      "activityId": "act_021_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 6,
+      "options": [
+        "لَيَقُولُنَّ",
+        "تُرْجَعُونَ",
+        "تُوعَدُونَ",
+        "جَعَلْنَـٰهُمْ"
+      ],
+      "activityId": "act_021_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَهَـٰذَا ذِكْرٌۭ مُّبَارَكٌ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        }
+      ],
+      "activityId": "act_021_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمَوَٰزِينَ",
+        "ٱللَّـٰعِبِينَ",
+        "ٱلْأَوَّلُونَ",
+        "ٱلْخَبَـٰٓئِثَ ۗ"
+      ],
+      "activityId": "act_021_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "وَلَقَدْ كَتَبْنَا فِى"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "فَفَهَّمْنَـٰهَا سُلَيْمَـٰنَ ۚ وَكُلًّا"
+        }
+      ],
+      "activityId": "act_021_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْفُرْقَانَ",
+        "ٱلْخَـٰلِدُونَ",
+        "ٱلْغَـٰلِبُونَ",
+        "ٱلْمَلَـٰٓئِكَةُ"
+      ],
+      "activityId": "act_021_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_04",
+  "title": "سورة الأنبياء - الآيات 19-24",
+  "surahId": 21,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 8,
+      "options": [
+        "يَسْتَكْبِرُونَ",
+        "فَأَنجَيْنَـٰهُمْ",
+        "وَءَابَآءَهُمْ",
+        "وَءَابَآؤُكُمْ"
+      ],
+      "activityId": "act_021_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "لَا يُسْـَٔلُ عَمَّا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَهُوَ ٱلَّذِى خَلَقَ"
+        }
+      ],
+      "activityId": "act_021_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلنَّهَارَ",
+        "لِلْعَـٰبِدِينَ",
+        "لِلْعَـٰلَمِينَ",
+        "لَّٱتَّخَذْنَـٰهُ"
+      ],
+      "activityId": "act_021_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةًۭ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمْ لَهُمْ ءَالِهَةٌۭ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ"
+        }
+      ],
+      "activityId": "act_021_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱتَّخَذُوٓا۟",
+        "بِٱلَّذِينَ",
+        "بِٱلْحَقِّ ۗ",
+        "بِٱلْغَيْبِ"
+      ],
+      "activityId": "act_021_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "لَوْ كَانَ فِيهِمَآ"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "لَوْ كَانَ هَـٰٓؤُلَآءِ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "لَوْ أَرَدْنَآ أَن"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "لَوْ يَعْلَمُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_021_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "لَفَسَدَتَا ۚ",
+        "لِّلْمُتَّقِينَ",
+        "مَّحْفُوظًۭا ۖ",
+        "نُّعِيدُهُۥ ۚ"
+      ],
+      "activityId": "act_021_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "لَا يُسْـَٔلُ عَمَّا"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ"
+        }
+      ],
+      "activityId": "act_021_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 5,
+      "options": [
+        "يُسْـَٔلُونَ",
+        "ءَالِهَةًۭ",
+        "ءَامَنَتْ",
+        "ءَايَـٰتِى"
+      ],
+      "activityId": "act_021_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةًۭ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمْ لَهُمْ ءَالِهَةٌۭ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ أَفَتَعْبُدُونَ مِن"
+        }
+      ],
+      "activityId": "act_021_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 7,
+      "options": [
+        "بُرْهَـٰنَكُمْ ۖ",
+        "وَءَاتَيْنَـٰهُ",
+        "وَأَدْخَلْنَـٰهُ",
+        "وَأَرَادُوا۟"
+      ],
+      "activityId": "act_021_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

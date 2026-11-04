@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_32",
+  "title": "سورة الصافات - الآيات 173-177",
+  "surahId": 37,
+  "ayahStart": 173,
+  "ayahEnd": 177,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 2,
+      "options": [
+        "لَهُمُ",
+        "نُوحٍۢ",
+        "جَانِبٍۢ",
+        "أَفَمَا"
+      ],
+      "activityId": "act_037_32_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "options": [
+        {
+          "ayahNumber": 174,
+          "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا"
+        },
+        {
+          "ayahNumber": 158,
+          "text": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        }
+      ],
+      "activityId": "act_037_32_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 2,
+      "options": [
+        "إِنَّا",
+        "وَصَدَّقَ",
+        "حَتَّىٰ",
+        "وَلَوْلَا"
+      ],
+      "activityId": "act_037_32_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "options": [
+        {
+          "ayahNumber": 175,
+          "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 144,
+          "text": "لَلَبِثَ فِى بَطْنِهِۦٓ"
+        }
+      ],
+      "activityId": "act_037_32_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 1,
+      "options": [
+        "إِلَىٰٓ",
+        "عَظِيمٍۢ",
+        "فَسَوْفَ",
+        "لِمِثْلِ"
+      ],
+      "activityId": "act_037_32_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "options": [
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        }
+      ],
+      "activityId": "act_037_32_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمَشَـٰرِقِ",
+        "يَسْتَعْجِلُونَ",
+        "وَيُقْذَفُونَ",
+        "أَوَءَابَآؤُنَا"
+      ],
+      "activityId": "act_037_32_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 176,
+      "correctNextAyahNumber": 177,
+      "options": [
+        {
+          "ayahNumber": 166,
+          "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        },
+        {
+          "ayahNumber": 177,
+          "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ"
+        },
+        {
+          "ayahNumber": 134,
+          "text": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ"
+        }
+      ],
+      "activityId": "act_037_32_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 177,
+      "missingWordPosition": 3,
+      "options": [
+        "فَكَانُوا۟",
+        "فَسَآءَ",
+        "طِينٍۢ",
+        "إِنَّهُۥ"
+      ],
+      "activityId": "act_037_32_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "الأمر بالإعراض عن المعاندين حتى حين وإبصار ما يحل بهم من نقمة الله."
+  }
+}

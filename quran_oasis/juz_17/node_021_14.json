@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_14",
+  "title": "سورة الأنبياء - الآيات 79-84",
+  "surahId": 21,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 0,
+      "options": [
+        "فَفَهَّمْنَـٰهَا",
+        "وَأَدْخَلْنَـٰهُ",
+        "وَأَصْلَحْنَا",
+        "وَأَنشَأْنَا"
+      ],
+      "activityId": "act_021_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "وَعَلَّمْنَـٰهُ صَنْعَةَ لَبُوسٍۢ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "أُفٍّۢ لَّكُمْ وَلِمَا"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ"
+        }
+      ],
+      "activityId": "act_021_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 4,
+      "options": [
+        "لِتُحْصِنَكُم",
+        "وَأَهْلَكْنَا",
+        "وَأَوْحَيْنَآ",
+        "وَإِسْمَـٰعِيلَ"
+      ],
+      "activityId": "act_021_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "لَهُمْ فِيهَا زَفِيرٌۭ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "فَإِن تَوَلَّوْا۟ فَقُلْ"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "وَإِنْ أَدْرِى لَعَلَّهُۥ"
+        }
+      ],
+      "activityId": "act_021_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 0,
+      "options": [
+        "وَلِسُلَيْمَـٰنَ",
+        "وَتَقَطَّعُوٓا۟",
+        "وَجَعَلْنَـٰهَا",
+        "وَجَعَلْنَـٰهُمْ"
+      ],
+      "activityId": "act_021_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "وَمِنَ ٱلشَّيَـٰطِينِ مَن"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَنَصَرْنَـٰهُ مِنَ ٱلْقَوْمِ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ"
+        }
+      ],
+      "activityId": "act_021_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلشَّيَـٰطِينِ",
+        "وَرَدُوهَا ۖ",
+        "وَلِسُلَيْمَـٰنَ",
+        "وَمَسَـٰكِنِكُمْ"
+      ],
+      "activityId": "act_021_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَأَيُّوبَ إِذْ نَادَىٰ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "وَزَكَرِيَّآ إِذْ نَادَىٰ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَنُوحًا إِذْ نَادَىٰ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَدَاوُۥدَ وَسُلَيْمَـٰنَ إِذْ"
+        }
+      ],
+      "activityId": "act_021_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَأَيُّوبَ",
+        "وَنَبْلُوكُم",
+        "وَيَعْمَلُونَ",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_021_14_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "options": [
+        {
+          "ayahNumber": 84,
+          "text": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        }
+      ],
+      "activityId": "act_021_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 0,
+      "options": [
+        "فَٱسْتَجَبْنَا",
+        "فَأَغْرَقْنَـٰهُمْ",
+        "فَأَنجَيْنَـٰهُمْ",
+        "وَءَابَآءَهُمْ"
+      ],
+      "activityId": "act_021_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

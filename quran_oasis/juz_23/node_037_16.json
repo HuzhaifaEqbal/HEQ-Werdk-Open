@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_16",
+  "title": "سورة الصافات - الآيات 91-96",
+  "surahId": 37,
+  "ayahStart": 91,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 3,
+      "options": [
+        "إِلَىٰ",
+        "عَلَيْهَا",
+        "فَقَالَ",
+        "لَكُمْ"
+      ],
+      "activityId": "act_037_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "مَا لَكُمْ لَا"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لَّا يَسَّمَّعُونَ إِلَى"
+        }
+      ],
+      "activityId": "act_037_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 3,
+      "options": [
+        "تَنطِقُونَ",
+        "ٱلْعَظِيمِ",
+        "فَأْتُوا۟",
+        "ثَاقِبٌۭ"
+      ],
+      "activityId": "act_037_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 131,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا"
+        },
+        {
+          "ayahNumber": 138,
+          "text": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ"
+        }
+      ],
+      "activityId": "act_037_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 2,
+      "options": [
+        "رُءُوسُ",
+        "ضَرْبًۢا",
+        "لَهُوَ",
+        "حِينٍۢ"
+      ],
+      "activityId": "act_037_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "بَلْ عَجِبْتَ وَيَسْخَرُونَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        }
+      ],
+      "activityId": "act_037_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 1,
+      "options": [
+        "مِا۟ئَةِ",
+        "ٱلَّذِى",
+        "إِلَيْهِ",
+        "لَهُمُ"
+      ],
+      "activityId": "act_037_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "options": [
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ أَتَعْبُدُونَ مَا"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "مَا لَكُمْ لَا"
+        }
+      ],
+      "activityId": "act_037_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 1,
+      "options": [
+        "أَتَعْبُدُونَ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلزَّقُّومِ",
+        "لِقَوْمِهِۦٓ"
+      ],
+      "activityId": "act_037_16_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "قَالُوا۟ بَل لَّمْ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فِى جَنَّـٰتِ ٱلنَّعِيمِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "وَٱللَّهُ خَلَقَكُمْ وَمَا"
+        }
+      ],
+      "activityId": "act_037_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 2,
+      "options": [
+        "وَمَا",
+        "خَلْقًا",
+        "إِذْ",
+        "إِلَىٰٓ"
+      ],
+      "activityId": "act_037_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تكسير إبراهيم للأصنام ومحاججة قومه بأن الله خلقهم وما يعملون."
+  }
+}

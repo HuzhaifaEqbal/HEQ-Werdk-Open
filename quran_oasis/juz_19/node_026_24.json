@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_24",
+  "title": "سورة الشعراء - الآيات 138-142",
+  "surahId": 26,
+  "ayahStart": 138,
+  "ayahEnd": 142,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 138,
+      "missingWordPosition": 2,
+      "options": [
+        "بِمُعَذَّبِينَ",
+        "أَفَرَءَيْتُم",
+        "بَيْنَهُمَآ ۖ",
+        "بِـَٔايَـٰتِنَآ ۖ"
+      ],
+      "activityId": "act_026_24_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 138,
+      "correctNextAyahNumber": 139,
+      "options": [
+        {
+          "ayahNumber": 139,
+          "text": "فَكَذَّبُوهُ فَأَهْلَكْنَـٰهُمْ ۗ إِنَّ"
+        },
+        {
+          "ayahNumber": 189,
+          "text": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ"
+        },
+        {
+          "ayahNumber": 158,
+          "text": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ"
+        },
+        {
+          "ayahNumber": 190,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        }
+      ],
+      "activityId": "act_026_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 139,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأَهْلَكْنَـٰهُمْ ۗ",
+        "ٱلْمَرْجُومِينَ",
+        "وَلَأُصَلِّبَنَّكُمْ",
+        "ٱلْمَسْجُونِينَ"
+      ],
+      "activityId": "act_026_24_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 139,
+      "correctNextAyahNumber": 140,
+      "options": [
+        {
+          "ayahNumber": 140,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 122,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 159,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 217,
+          "text": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ"
+        }
+      ],
+      "activityId": "act_026_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 140,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْأَلِيمَ",
+        "ٱلْأَمِينُ",
+        "ٱلْبَحْرَ ۖ"
+      ],
+      "activityId": "act_026_24_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 140,
+      "correctNextAyahNumber": 141,
+      "options": [
+        {
+          "ayahNumber": 141,
+          "text": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "كَذَّبَتْ قَوْمُ لُوطٍ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "كَذَّبَتْ قَوْمُ نُوحٍ"
+        }
+      ],
+      "activityId": "act_026_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 141,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "ٱلْمُسْتَقِيمِ",
+        "ٱلْمُسْرِفِينَ",
+        "ٱلْمُعَذَّبِينَ"
+      ],
+      "activityId": "act_026_24_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 141,
+      "correctNextAyahNumber": 142,
+      "options": [
+        {
+          "ayahNumber": 142,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ"
+        }
+      ],
+      "activityId": "act_026_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 142,
+      "missingWordPosition": 3,
+      "options": [
+        "أَخُوهُمْ",
+        "فَعْلَتَكَ",
+        "فَـٰرِهِينَ",
+        "فَفَرَرْتُ"
+      ],
+      "activityId": "act_026_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

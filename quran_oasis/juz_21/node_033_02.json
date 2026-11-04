@@ -1,0 +1,98 @@
+{
+  "nodeId": "hifz_033_02",
+  "title": "سورة الأحزاب - الآيات 6-8",
+  "surahId": 33,
+  "ayahStart": 6,
+  "ayahEnd": 8,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 14,
+      "options": [
+        "وَلَوْ",
+        "قَالَت",
+        "ٱللَّهِ",
+        "هَـٰذَا"
+      ],
+      "activityId": "act_033_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "۞ قَدْ يَعْلَمُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَوْ دُخِلَتْ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَإِذْ أَخَذْنَا مِنَ"
+        }
+      ],
+      "activityId": "act_033_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱتَّقَيْتُنَّ",
+        "وَإِبْرَٰهِيمَ",
+        "لِّيُعَذِّبَ",
+        "ٱلنِّسَآءِ ۚ"
+      ],
+      "activityId": "act_033_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        }
+      ],
+      "activityId": "act_033_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "سَدِيدًۭا",
+        "خَالِكَ",
+        "تَطْهِيرًۭا",
+        "وَأَعَدَّ"
+      ],
+      "activityId": "act_033_02_05"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "أولوية النبي ﷺ بالمؤمنين من أنفسهم وأزواجه أمهاتهم والميثاق الغليظ."
+  }
+}

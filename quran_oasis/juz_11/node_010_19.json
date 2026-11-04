@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_010_19",
+  "title": "سورة يونس - الآيات 105-109",
+  "surahId": 10,
+  "ayahStart": 105,
+  "ayahEnd": 109,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْحَـٰكِمِينَ",
+        "لِفَضْلِهِۦ ۚ"
+      ],
+      "activityId": "act_010_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_010_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "لِنَفْسِهِۦ ۖ",
+        "عِبَادِهِۦ ۚ",
+        "ٱلْحَـٰكِمِينَ"
+      ],
+      "activityId": "act_010_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_010_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 15,
+      "options": [
+        "لِفَضْلِهِۦ ۚ",
+        "لِنَفْسِهِۦ ۖ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْحَـٰكِمِينَ"
+      ],
+      "activityId": "act_010_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_010_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 13,
+      "options": [
+        "لِنَفْسِهِۦ ۖ",
+        "لِفَضْلِهِۦ ۚ",
+        "عِبَادِهِۦ ۚ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_010_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        106,
+        105
+      ],
+      "activityId": "act_010_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْحَـٰكِمِينَ",
+        "لِفَضْلِهِۦ ۚ",
+        "لِنَفْسِهِۦ ۖ",
+        "عِبَادِهِۦ ۚ"
+      ],
+      "activityId": "act_010_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

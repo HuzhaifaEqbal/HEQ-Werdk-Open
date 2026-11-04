@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_12",
+  "title": "سورة الحجر - الآيات 67-72",
+  "surahId": 15,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 4,
+      "options": [
+        "يَسْتَبْشِرُونَ",
+        "ٱلْعَـٰلَمِينَ",
+        "سَكْرَتِهِمْ",
+        "تَفْضَحُونِ"
+      ],
+      "activityId": "act_015_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_015_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 6,
+      "options": [
+        "تَفْضَحُونِ",
+        "وَٱتَّقُوا۟",
+        "يَعْمَهُونَ",
+        "سَكْرَتِهِمْ"
+      ],
+      "activityId": "act_015_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_015_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱتَّقُوا۟",
+        "تَفْضَحُونِ",
+        "يَعْمَهُونَ",
+        "سَكْرَتِهِمْ"
+      ],
+      "activityId": "act_015_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_015_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْمَدِينَةِ",
+        "يَسْتَبْشِرُونَ",
+        "وَٱتَّقُوا۟"
+      ],
+      "activityId": "act_015_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        68
+      ],
+      "activityId": "act_015_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 2,
+      "options": [
+        "هَـٰٓؤُلَآءِ",
+        "لَعَمْرُكَ",
+        "تُخْزُونِ",
+        "قَالُوٓا۟"
+      ],
+      "activityId": "act_015_12_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_015_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "سَكْرَتِهِمْ",
+        "تَفْضَحُونِ",
+        "وَٱتَّقُوا۟",
+        "فَـٰعِلِينَ"
+      ],
+      "activityId": "act_015_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

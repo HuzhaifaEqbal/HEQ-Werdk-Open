@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_027_01",
+  "title": "سورة النمل - الآيات 1-6",
+  "surahId": 27,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْقُرْءَانِ",
+        "أَتُمِدُّونَنِ",
+        "أَفْسَدُوهَا",
+        "بِحُكْمِهِۦ ۚ"
+      ],
+      "activityId": "act_027_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "هُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَإِنَّهُۥ لَهُدًۭى وَرَحْمَةٌۭ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_027_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْمُؤْمِنِينَ",
+        "تَسْتَعْجِلُونَ",
+        "تَسْتَغْفِرُونَ",
+        "لَأُعَذِّبَنَّهُۥ"
+      ],
+      "activityId": "act_027_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        }
+      ],
+      "activityId": "act_027_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلْـَٔاخِرَةِ",
+        "بِهَدِيَّتِكُمْ",
+        "بِٱلسَّيِّئَةِ",
+        "بِٱلْحَسَنَةِ"
+      ],
+      "activityId": "act_027_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "إِنَّ رَبَّكَ يَقْضِى"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "فَلَمَّا جَآءَهَا نُودِىَ"
+        }
+      ],
+      "activityId": "act_027_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلْـَٔاخِرَةِ",
+        "تَقَاسَمُوا۟",
+        "رَحْمَتِهِۦٓ ۗ",
+        "سَاقَيْهَا ۚ"
+      ],
+      "activityId": "act_027_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        }
+      ],
+      "activityId": "act_027_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَخْسَرُونَ",
+        "لَنُبَيِّتَنَّهُۥ",
+        "لِلْمُؤْمِنِينَ",
+        "وَءَابَآؤُنَآ"
+      ],
+      "activityId": "act_027_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "طسٓ ۚ تِلْكَ ءَايَـٰتُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِلَّا مَن ظَلَمَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ"
+        }
+      ],
+      "activityId": "act_027_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "بِٱلْـَٔاخِرَةِ",
+        "ضَلَـٰلَتِهِمْ ۖ",
+        "فَأَنجَيْنَـٰهُ"
+      ],
+      "activityId": "act_027_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

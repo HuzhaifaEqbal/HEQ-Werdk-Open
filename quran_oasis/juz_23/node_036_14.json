@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_14",
+  "title": "سورة يس - الآيات 72-77",
+  "surahId": 36,
+  "ayahStart": 72,
+  "ayahEnd": 77,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 3,
+      "options": [
+        "مَلَكُوتُ",
+        "ٱتَّبِعُوا۟",
+        "رَكُوبُهُمْ",
+        "إِلَيْكُم"
+      ],
+      "activityId": "act_036_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "وَلَهُمْ فِيهَا مَنَـٰفِعُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ"
+        }
+      ],
+      "activityId": "act_036_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 3,
+      "options": [
+        "يَخِصِّمُونَ",
+        "ٱلْأَجْدَاثِ",
+        "وَمَشَارِبُ ۖ",
+        "نُغْرِقْهُمْ"
+      ],
+      "activityId": "act_036_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "فَٱلْيَوْمَ لَا تُظْلَمُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالُوا۟ رَبُّنَا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "إِن كَانَتْ إِلَّا"
+        }
+      ],
+      "activityId": "act_036_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 4,
+      "options": [
+        "أَنْعَـٰمًۭا",
+        "ءَالِهَةًۭ",
+        "تَعْبُدُوا۟",
+        "مِّثْلُنَا"
+      ],
+      "activityId": "act_036_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "ءَأَتَّخِذُ مِن دُونِهِۦٓ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلْأَرْضُ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "أَوَلَيْسَ ٱلَّذِى خَلَقَ"
+        }
+      ],
+      "activityId": "act_036_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 4,
+      "options": [
+        "لَهُمْ",
+        "لَّهَا ۚ",
+        "أَفَلَمْ",
+        "قِيلَ"
+      ],
+      "activityId": "act_036_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "ٱلَّذِى جَعَلَ لَكُم"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        }
+      ],
+      "activityId": "act_036_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 4,
+      "options": [
+        "بَلَىٰ",
+        "نَعْلَمُ",
+        "ءَادَمَ",
+        "وَجَآءَ"
+      ],
+      "activityId": "act_036_14_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "لَقَدْ حَقَّ ٱلْقَوْلُ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ"
+        }
+      ],
+      "activityId": "act_036_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَحِقَّ",
+        "ٱلْأَخْضَرِ",
+        "نُّطْفَةٍۢ",
+        "وَمَتَـٰعًا"
+      ],
+      "activityId": "act_036_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "نعم الله في تسخير الأنعام ركوباً ومأكلاً ومشارب وعجز الآلهة الباطلة عن النصر."
+  }
+}

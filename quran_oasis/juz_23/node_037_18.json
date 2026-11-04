@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_18",
+  "title": "سورة الصافات - الآيات 103-107",
+  "surahId": 37,
+  "ayahStart": 103,
+  "ayahEnd": 107,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 2,
+      "options": [
+        "مَقَامٌۭ",
+        "يَـٰٓأَبَتِ",
+        "وَتَلَّهُۥ",
+        "بَيْضَآءَ"
+      ],
+      "activityId": "act_037_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 134,
+          "text": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        }
+      ],
+      "activityId": "act_037_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 2,
+      "options": [
+        "أَوَءَابَآؤُنَا",
+        "يَـٰٓإِبْرَٰهِيمُ",
+        "۞ فَنَبَذْنَـٰهُ",
+        "بِٱلْمُجْرِمِينَ"
+      ],
+      "activityId": "act_037_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا"
+        },
+        {
+          "ayahNumber": 177,
+          "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَإِنَّمَا هِىَ زَجْرَةٌۭ"
+        }
+      ],
+      "activityId": "act_037_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 3,
+      "options": [
+        "قَدْ",
+        "أَلْفٍ",
+        "شِهَابٌۭ",
+        "إِنَّا"
+      ],
+      "activityId": "act_037_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 143,
+          "text": "فَلَوْلَآ أَنَّهُۥ كَانَ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "فَقَالَ إِنِّى سَقِيمٌۭ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        }
+      ],
+      "activityId": "act_037_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 2,
+      "options": [
+        "بَيْضٌۭ",
+        "لَهُوَ",
+        "وَلَهُمْ",
+        "هُوَ"
+      ],
+      "activityId": "act_037_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍۢ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ"
+        }
+      ],
+      "activityId": "act_037_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 1,
+      "options": [
+        "كَأَنَّهُۥ",
+        "شَجَرَةًۭ",
+        "ٱلَّذِينَ",
+        "بِذِبْحٍ"
+      ],
+      "activityId": "act_037_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "فداء إسماعيل بذبح عظيم وبقاء الثناء على إبراهيم في العالمين."
+  }
+}

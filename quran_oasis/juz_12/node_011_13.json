@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_13",
+  "title": "سورة هود - الآيات 72-77",
+  "surahId": 11,
+  "ayahStart": 72,
+  "ayahEnd": 77,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 2,
+      "options": [
+        "يَـٰوَيْلَتَىٰٓ",
+        "يُجَـٰدِلُنَا",
+        "إِبْرَٰهِيمَ",
+        "وَجَآءَتْهُ"
+      ],
+      "activityId": "act_011_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_011_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "أَتَعْجَبِينَ",
+        "يَـٰٓإِبْرَٰهِيمُ",
+        "يَـٰوَيْلَتَىٰٓ",
+        "ٱلْبُشْرَىٰ"
+      ],
+      "activityId": "act_011_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_011_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 4,
+      "options": [
+        "إِبْرَٰهِيمَ",
+        "ٱلْبَيْتِ ۚ",
+        "ءَاتِيهِمْ",
+        "يَـٰوَيْلَتَىٰٓ"
+      ],
+      "activityId": "act_011_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_011_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 2,
+      "options": [
+        "إِبْرَٰهِيمَ",
+        "وَجَآءَتْهُ",
+        "يُجَـٰدِلُنَا",
+        "ٱلْبَيْتِ ۚ"
+      ],
+      "activityId": "act_011_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_011_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 1,
+      "options": [
+        "يَـٰٓإِبْرَٰهِيمُ",
+        "وَبَرَكَـٰتُهُۥ",
+        "أَتَعْجَبِينَ",
+        "إِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_011_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_011_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 3,
+      "options": [
+        "رُسُلُنَا",
+        "شَيْخًا ۖ",
+        "قَالُوٓا۟",
+        "لَحَلِيمٌ"
+      ],
+      "activityId": "act_011_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

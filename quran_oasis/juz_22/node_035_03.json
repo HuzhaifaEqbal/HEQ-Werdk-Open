@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_03",
+  "title": "سورة فاطر - الآيات 11-15",
+  "surahId": 35,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 16,
+      "options": [
+        "إِلَّا",
+        "حَرِيرٌۭ",
+        "بِمَا",
+        "أُنثَىٰ"
+      ],
+      "activityId": "act_035_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ثُمَّ أَوْرَثْنَا ٱلْكِتَـٰبَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ"
+        }
+      ],
+      "activityId": "act_035_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 13,
+      "options": [
+        "بِٱلْحَقِّ",
+        "ٱلْحَرُورُ",
+        "تَأْكُلُونَ",
+        "أُجَاجٌۭ ۖ"
+      ],
+      "activityId": "act_035_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يُولِجُ ٱلَّيْلَ فِى"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تَزِرُ وَازِرَةٌۭ"
+        }
+      ],
+      "activityId": "act_035_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 13,
+      "options": [
+        "تَشْكُرُونَ",
+        "جُدَدٌۢ",
+        "لِأَجَلٍۢ",
+        "ٱللَّهُ"
+      ],
+      "activityId": "act_035_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِىٓ أَحَلَّنَا دَارَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنْ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِن تَدْعُوهُمْ لَا"
+        }
+      ],
+      "activityId": "act_035_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 10,
+      "options": [
+        "وَمِنْهُمْ",
+        "وَيَوْمَ",
+        "مُخْتَلِفٌ",
+        "يَخْشَوْنَ"
+      ],
+      "activityId": "act_035_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "إِن يَشَأْ يُذْهِبْكُمْ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا ذَٰلِكَ عَلَى"
+        }
+      ],
+      "activityId": "act_035_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَهْدِى",
+        "أُجُورَهُمْ",
+        "لَكُمْ ۖ",
+        "ٱللَّهِ ۖ"
+      ],
+      "activityId": "act_035_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "بيان آيات الله في الرياح والسحاب والبحار وخلق الإنسان من تراب وعلم الله الشامل."
+  }
+}

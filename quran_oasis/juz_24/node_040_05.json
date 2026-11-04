@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_05",
+  "title": "سورة غافر - الآيات 25-30",
+  "surahId": 40,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 9,
+      "options": [
+        "لَأَظُنُّهُۥ",
+        "ٱلسَّمِيعُ",
+        "وَرَزَقَكُم",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_040_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "هُدًۭى وَذِكْرَىٰ لِأُو۟لِى"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "ذَٰلِكُم بِمَا كُنتُمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ"
+        }
+      ],
+      "activityId": "act_040_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 7,
+      "options": [
+        "وَعَلَى",
+        "إِنِّىٓ",
+        "يُنِيبُ",
+        "ٱبْنِ"
+      ],
+      "activityId": "act_040_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَقَالَ مُوسَىٰٓ إِنِّى"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "ذَٰلِكَ بِأَنَّهُمْ كَانَت"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو"
+        }
+      ],
+      "activityId": "act_040_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "لِىٓ",
+        "وَلَا",
+        "مِّن",
+        "تَقِ"
+      ],
+      "activityId": "act_040_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ٱلْيَوْمَ تُجْزَىٰ كُلُّ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌۭ"
+        }
+      ],
+      "activityId": "act_040_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 20,
+      "options": [
+        "كُن",
+        "يَكُ",
+        "بَل",
+        "أَنتُم"
+      ],
+      "activityId": "act_040_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَوْمَ هُم بَـٰرِزُونَ ۖ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مِن دُونِ ٱللَّهِ ۖ"
+        }
+      ],
+      "activityId": "act_040_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 14,
+      "options": [
+        "أَخَافُ",
+        "أَن",
+        "قَالَ",
+        "لَدَى"
+      ],
+      "activityId": "act_040_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلَّذِىٓ ءَامَنَ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَلَمَّا رَأَوْا۟ بَأْسَنَا"
+        }
+      ],
+      "activityId": "act_040_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "أَعْبُدَ",
+        "ٱلْأَرْضَ",
+        "كَذَّبَتْ",
+        "أَخَافُ"
+      ],
+      "activityId": "act_040_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "إرسال موسى بالآيات إلى فرعون وهامان وقارون ومؤامرة قتل أبناء المؤمنين ومكرهم."
+  }
+}

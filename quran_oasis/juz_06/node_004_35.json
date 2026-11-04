@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_004_35",
+  "title": "سورة النساء - الآيات 168-172",
+  "surahId": 4,
+  "ayahStart": 168,
+  "ayahEnd": 172,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 6,
+      "options": [
+        "تَوْبَةًۭ",
+        "وَمَاذَا",
+        "خَبِيرًۭا",
+        "ٱللَّهُ"
+      ],
+      "activityId": "act_004_35_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "options": [
+        {
+          "ayahNumber": 145,
+          "text": "إِنَّ ٱلْمُنَـٰفِقِينَ فِى"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "إِلَّا طَرِيقَ جَهَنَّمَ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "وَمَن يَعْمَلْ مِنَ"
+        },
+        {
+          "ayahNumber": 158,
+          "text": "بَل رَّفَعَهُ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_004_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 5,
+      "options": [
+        "تَأْوِيلًا",
+        "أَبَدًۭا ۚ",
+        "مُضَآرٍّۢ ۚ",
+        "سَيِّئَةٍۢ"
+      ],
+      "activityId": "act_004_35_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "options": [
+        {
+          "ayahNumber": 170,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "وَإِذَا كُنتَ فِيهِمْ"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "لَّـٰكِنِ ٱللَّهُ يَشْهَدُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَٱللَّهُ يُرِيدُ أَن"
+        }
+      ],
+      "activityId": "act_004_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 11,
+      "options": [
+        "أَحَدٌۭ",
+        "يُجْزَ",
+        "وَإِن",
+        "لَهُ"
+      ],
+      "activityId": "act_004_35_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "options": [
+        {
+          "ayahNumber": 146,
+          "text": "إِلَّا ٱلَّذِينَ تَابُوا۟"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_004_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 25,
+      "options": [
+        "فَـَٔامِنُوا۟",
+        "وَٱلْوِلْدَٰنِ",
+        "يَعْمَلُونَ",
+        "نَفْسِهِۦ ۚ"
+      ],
+      "activityId": "act_004_35_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "options": [
+        {
+          "ayahNumber": 147,
+          "text": "مَّا يَفْعَلُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 172,
+          "text": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "ٱنظُرْ كَيْفَ يَفْتَرُونَ"
+        },
+        {
+          "ayahNumber": 163,
+          "text": "۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ"
+        }
+      ],
+      "activityId": "act_004_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأُو۟لَـٰٓئِكُمْ",
+        "ٱلْأُنثَيَيْنِ ۗ",
+        "ٱلْمُقَرَّبُونَ ۚ",
+        "بَدَّلْنَـٰهُمْ"
+      ],
+      "activityId": "act_004_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "وعيد الكافرين والظالمين وموعظة الناس بالرسول الحق ونهي أهل الكتاب عن الغلو في المسيح."
+  }
+}

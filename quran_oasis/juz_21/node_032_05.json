@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_05",
+  "title": "سورة السجدة - الآيات 21-25",
+  "surahId": 32,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "إِذِ",
+        "دُونَ",
+        "هُدًۭى",
+        "رَيْبَ"
+      ],
+      "activityId": "act_032_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يُدَبِّرُ ٱلْأَمْرَ مِنَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قُلْ يَوْمَ ٱلْفَتْحِ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_032_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "ثُمَّ",
+        "طِينٍۢ",
+        "مِمَّن",
+        "دُونَ"
+      ],
+      "activityId": "act_032_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ رَبَّكَ هُوَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ"
+        }
+      ],
+      "activityId": "act_032_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 7,
+      "options": [
+        "تَعُدُّونَ",
+        "نَسْلَهُۥ",
+        "مِرْيَةٍۢ",
+        "مِّمَّا"
+      ],
+      "activityId": "act_032_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةًۭ"
+        }
+      ],
+      "activityId": "act_032_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "وَقِيلَ",
+        "إِذِ",
+        "عَلَى",
+        "لَمَّا"
+      ],
+      "activityId": "act_032_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ رَبَّكَ هُوَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_032_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "يَوْمَ",
+        "إِنَّهُم",
+        "هَـٰذَآ",
+        "تَكُن"
+      ],
+      "activityId": "act_032_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "تفضيل المؤمن على الفاسق وإيتاء موسى الكتاب وجعل أئمة يهدون بأمر الله بالصبر."
+  }
+}

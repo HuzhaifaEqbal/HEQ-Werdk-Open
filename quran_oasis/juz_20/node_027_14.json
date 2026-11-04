@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_14",
+  "title": "سورة النمل - الآيات 74-78",
+  "surahId": 27,
+  "ayahStart": 74,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 5,
+      "options": [
+        "صُدُورُهُمْ",
+        "وَأْتُونِى",
+        "وَجَحَدُوا۟",
+        "وَجَدتُّهَا"
+      ],
+      "activityId": "act_027_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "وَمَا مِنْ غَآئِبَةٍۢ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَمَآ أَنتَ بِهَـٰدِى"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "وَيَوْمَ نَحْشُرُ مِن"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ"
+        }
+      ],
+      "activityId": "act_027_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "وَجَعَلُوٓا۟",
+        "وَسُلَيْمَـٰنَ",
+        "وَعُلُوًّۭا ۚ"
+      ],
+      "activityId": "act_027_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "إِنَّ رَبَّكَ يَقْضِى"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "إِنَّمَآ أُمِرْتُ أَنْ"
+        }
+      ],
+      "activityId": "act_027_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلنِّسَآءِ ۚ",
+        "ٱلْأَوَّلِينَ"
+      ],
+      "activityId": "act_027_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "وَإِنَّهُۥ لَهُدًۭى وَرَحْمَةٌۭ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "هُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّهُۥ مِن سُلَيْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا"
+        }
+      ],
+      "activityId": "act_027_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْمُؤْمِنِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُرْسَلُونَ"
+      ],
+      "activityId": "act_027_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "إِنَّ رَبَّكَ يَقْضِى"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَإِنَّ رَبَّكَ لَذُو"
+        }
+      ],
+      "activityId": "act_027_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 4,
+      "options": [
+        "بِحُكْمِهِۦ ۚ",
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْحَسَنَةِ ۖ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_027_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

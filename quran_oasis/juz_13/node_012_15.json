@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_15",
+  "title": "سورة يوسف - الآيات 83-88",
+  "surahId": 12,
+  "ayahStart": 83,
+  "ayahEnd": 88,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنفُسُكُمْ",
+        "تَعْلَمُونَ",
+        "وَأَهْلَنَا",
+        "عَلَيْنَآ ۖ"
+      ],
+      "activityId": "act_012_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_012_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱبْيَضَّتْ",
+        "أَنفُسُكُمْ",
+        "يَأْتِيَنِى",
+        "تَا۟يْـَٔسُوا۟"
+      ],
+      "activityId": "act_012_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_012_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْهَـٰلِكِينَ",
+        "فَتَحَسَّسُوا۟",
+        "ٱلْكَـٰفِرُونَ",
+        "وَٱبْيَضَّتْ"
+      ],
+      "activityId": "act_012_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_012_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 13,
+      "options": [
+        "تَعْلَمُونَ",
+        "جَمِيعًا ۚ",
+        "ٱذْهَبُوا۟",
+        "ٱلْحَكِيمُ"
+      ],
+      "activityId": "act_012_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_012_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 3,
+      "options": [
+        "فَتَحَسَّسُوا۟",
+        "ٱلْهَـٰلِكِينَ",
+        "ٱلْعَزِيزُ",
+        "ٱلْعَلِيمُ"
+      ],
+      "activityId": "act_012_15_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_012_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلْمُتَصَدِّقِينَ",
+        "فَتَحَسَّسُوا۟",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْهَـٰلِكِينَ"
+      ],
+      "activityId": "act_012_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

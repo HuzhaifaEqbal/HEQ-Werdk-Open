@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_16",
+  "title": "سورة الأنبياء - الآيات 91-96",
+  "surahId": 21,
+  "ayahStart": 91,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 7,
+      "options": [
+        "وَجَعَلْنَـٰهَا",
+        "ٱلرَّحْمَـٰنِ ۗ",
+        "ٱلرَّٰحِمِينَ",
+        "ٱلزَّكَوٰةِ ۖ"
+      ],
+      "activityId": "act_021_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 92,
+          "text": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "إِنَّ ٱلَّذِينَ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ فِى هَـٰذَا"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "لَوْ أَرَدْنَآ أَن"
+        }
+      ],
+      "activityId": "act_021_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱعْبُدُونِ",
+        "ٱلشَّـٰهِدِينَ",
+        "ٱلشَّيَـٰطِينِ",
+        "ٱلصَّـٰبِرِينَ"
+      ],
+      "activityId": "act_021_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 93,
+          "text": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَمَا زَالَت تِّلْكَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟"
+        }
+      ],
+      "activityId": "act_021_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 0,
+      "options": [
+        "وَتَقَطَّعُوٓا۟",
+        "ٱلصَّـٰلِحُونَ",
+        "ٱلصَّـٰلِحِينَ",
+        "ٱلظَّـٰلِمُونَ"
+      ],
+      "activityId": "act_021_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَمَن يَعْمَلْ مِنَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَكَمْ قَصَمْنَا مِن"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَمِنَ ٱلشَّيَـٰطِينِ مَن"
+        }
+      ],
+      "activityId": "act_021_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "وَإِدْرِيسَ",
+        "وَإِلَيْنَا",
+        "وَإِيتَآءَ"
+      ],
+      "activityId": "act_021_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "options": [
+        {
+          "ayahNumber": 95,
+          "text": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "ثُمَّ نُكِسُوا۟ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَكَمْ قَصَمْنَا مِن"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "بَلْ نَقْذِفُ بِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_021_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 3,
+      "options": [
+        "أَهْلَكْنَـٰهَآ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱللَّـٰعِبِينَ",
+        "ٱلْأَوَّلُونَ"
+      ],
+      "activityId": "act_021_16_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "options": [
+        {
+          "ayahNumber": 96,
+          "text": "حَتَّىٰٓ إِذَا فُتِحَتْ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ"
+        }
+      ],
+      "activityId": "act_021_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَأْجُوجُ",
+        "وَتَٱللَّهِ",
+        "وَجَعَلْنَا",
+        "وَدَاوُۥدَ"
+      ],
+      "activityId": "act_021_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_30",
+  "title": "سورة الصافات - الآيات 163-167",
+  "surahId": 37,
+  "ayahStart": 163,
+  "ayahEnd": 167,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 2,
+      "options": [
+        "هُوَ",
+        "لَّا",
+        "وَهُمْ",
+        "مِّن"
+      ],
+      "activityId": "act_037_30_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "فَإِنَّمَا هِىَ زَجْرَةٌۭ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "وَٱللَّهُ خَلَقَكُمْ وَمَا"
+        },
+        {
+          "ayahNumber": 164,
+          "text": "وَمَا مِنَّآ إِلَّا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "مَا لَكُمْ لَا"
+        }
+      ],
+      "activityId": "act_037_30_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 3,
+      "options": [
+        "كَانَ",
+        "لَهُۥ",
+        "فَإِذَا",
+        "نُوحٌۭ"
+      ],
+      "activityId": "act_037_30_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "options": [
+        {
+          "ayahNumber": 134,
+          "text": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+        },
+        {
+          "ayahNumber": 138,
+          "text": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ"
+        },
+        {
+          "ayahNumber": 165,
+          "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ"
+        }
+      ],
+      "activityId": "act_037_30_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 1,
+      "options": [
+        "لَنَحْنُ",
+        "وَلَقَدْ",
+        "صَبَاحُ",
+        "تُؤْمَرُ ۖ"
+      ],
+      "activityId": "act_037_30_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 165,
+      "correctNextAyahNumber": 166,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قُلْ نَعَمْ وَأَنتُمْ"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ"
+        }
+      ],
+      "activityId": "act_037_30_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 1,
+      "options": [
+        "لَنَحْنُ",
+        "بَلَغَ",
+        "عِبَادَ",
+        "ٱلْجِنَّةِ"
+      ],
+      "activityId": "act_037_30_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "options": [
+        {
+          "ayahNumber": 175,
+          "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+        },
+        {
+          "ayahNumber": 167,
+          "text": "وَإِن كَانُوا۟ لَيَقُولُونَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "أَئِفْكًا ءَالِهَةًۭ دُونَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_037_30_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 1,
+      "options": [
+        "مَقَامٌۭ",
+        "كَانُوا۟",
+        "شَجَرَةٌۭ",
+        "كَذَٰلِكَ"
+      ],
+      "activityId": "act_037_30_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "إن جندنا لهم الغالبون وتولي الرسول عنهم حتى ينزل العذاب بساحتهم."
+  }
+}

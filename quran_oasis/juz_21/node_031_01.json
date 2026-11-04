@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_031_01",
+  "title": "سورة لقمان - الآيات 1-6",
+  "surahId": 31,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "أَلَمْ",
+        "وَٱنْهَ",
+        "ٱللَّهَ",
+        "الٓمٓ"
+      ],
+      "activityId": "act_031_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "هَـٰذَا خَلْقُ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_031_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "قَلِيلًۭا",
+        "ٱلْكِتَـٰبِ",
+        "ٱلَّذِينَ",
+        "ٱلشَّمْسَ"
+      ],
+      "activityId": "act_031_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "يَـٰبُنَىَّ إِنَّهَآ إِن"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ"
+        }
+      ],
+      "activityId": "act_031_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَنزَلْنَا",
+        "وَرَحْمَةًۭ",
+        "مُخْتَالٍۢ",
+        "وَيُؤْتُونَ"
+      ],
+      "activityId": "act_031_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تُصَعِّرْ خَدَّكَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَـٰبُنَىَّ إِنَّهَآ إِن"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ"
+        }
+      ],
+      "activityId": "act_031_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "وَيُؤْتُونَ",
+        "وَٱقْصِدْ",
+        "ٱلزَّكَوٰةَ",
+        "كَنَفْسٍۢ"
+      ],
+      "activityId": "act_031_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَـٰبُنَىَّ إِنَّهَآ إِن"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_031_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأَرْضَ",
+        "ٱلشَّيْطَـٰنُ",
+        "عَمِلُوٓا۟ ۚ",
+        "رَّبِّهِمْ ۖ"
+      ],
+      "activityId": "act_031_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "مَّا خَلْقُكُمْ وَلَا"
+        }
+      ],
+      "activityId": "act_031_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 10,
+      "options": [
+        "وَيَعْلَمُ",
+        "بِغَيْرِ",
+        "يُقِيمُونَ",
+        "كُنتُمْ"
+      ],
+      "activityId": "act_031_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "لقمان",
+    "juz": 21,
+    "theme": "أوصاف المحسنين وجزاؤهم في مقابل من يشتري لهو الحديث ليضل عن سبيل الله."
+  }
+}

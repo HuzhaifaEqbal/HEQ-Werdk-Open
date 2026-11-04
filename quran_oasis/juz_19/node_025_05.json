@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_025_05",
+  "title": "سورة الفرقان - الآيات 21-26",
+  "surahId": 25,
+  "ayahStart": 21,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱسْتَكْبَرُوا۟",
+        "ٱلْمُرْسَلِينَ",
+        "أَتَصْبِرُونَ ۗ",
+        "بِٱلسَّاعَةِ ۖ"
+      ],
+      "activityId": "act_025_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "يُضَـٰعَفْ لَهُ ٱلْعَذَابُ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "لَّا تَدْعُوا۟ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَٱلَّذِينَ لَا يَدْعُونَ"
+        }
+      ],
+      "activityId": "act_025_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "لِّلْمُجْرِمِينَ",
+        "تَسْتَطِيعُونَ",
+        "كَٱلْأَنْعَـٰمِ ۖ",
+        "وَءَابَآءَهُمْ"
+      ],
+      "activityId": "act_025_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَقَدِمْنَآ إِلَىٰ مَا"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قَالُوا۟ سُبْحَـٰنَكَ مَا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَقُلْنَا ٱذْهَبَآ إِلَى"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "أَلَمْ تَرَ إِلَىٰ"
+        }
+      ],
+      "activityId": "act_025_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقَدِمْنَآ",
+        "تَنزِيلًا",
+        "جَآءَنِى ۗ",
+        "خَاطَبَهُمُ"
+      ],
+      "activityId": "act_025_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قُلْ أَذَٰلِكَ خَيْرٌ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ"
+        }
+      ],
+      "activityId": "act_025_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّسْتَقَرًّۭا",
+        "خَـٰلِدِينَ ۚ",
+        "سَيِّـَٔاتِهِمْ",
+        "عَذَابَهَا"
+      ],
+      "activityId": "act_025_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَيَوْمَ يَعَضُّ ٱلظَّالِمُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَيَوْمَ يَحْشُرُهُمْ وَمَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "لَّقَدْ أَضَلَّنِى عَنِ"
+        }
+      ],
+      "activityId": "act_025_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمَلَـٰٓئِكَةُ",
+        "وَأَنزَلْنَا",
+        "وَجَعَلْنَـٰهُمْ",
+        "وَذُرِّيَّـٰتِنَا"
+      ],
+      "activityId": "act_025_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَقَدْ كَذَّبُوكُم بِمَا"
+        }
+      ],
+      "activityId": "act_025_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "لِلرَّحْمَـٰنِ ۚ",
+        "وَعُمْيَانًۭا",
+        "وَنُسْقِيَهُۥ",
+        "وَيَعْبُدُونَ"
+      ],
+      "activityId": "act_025_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

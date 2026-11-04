@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_41",
+  "title": "سورة الشعراء - الآيات 223-227",
+  "surahId": 26,
+  "ayahStart": 223,
+  "ayahEnd": 227,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 223,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَكْثَرُهُمْ",
+        "مُّجْتَمِعُونَ",
+        "مُّسْتَمِعُونَ",
+        "وَأَرْجُلَكُم"
+      ],
+      "activityId": "act_026_41_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 223,
+      "correctNextAyahNumber": 224,
+      "options": [
+        {
+          "ayahNumber": 224,
+          "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ"
+        },
+        {
+          "ayahNumber": 214,
+          "text": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ"
+        },
+        {
+          "ayahNumber": 205,
+          "text": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 204,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        }
+      ],
+      "activityId": "act_026_41_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 224,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلشُّعَرَآءُ",
+        "يَنصُرُونَكُمْ",
+        "يَنفَعُونَكُمْ",
+        "ٱلْأَرْذَلُونَ"
+      ],
+      "activityId": "act_026_41_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 224,
+      "correctNextAyahNumber": 225,
+      "options": [
+        {
+          "ayahNumber": 225,
+          "text": "أَلَمْ تَرَ أَنَّهُمْ"
+        },
+        {
+          "ayahNumber": 212,
+          "text": "إِنَّهُمْ عَنِ ٱلسَّمْعِ"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "أَتُتْرَكُونَ فِى مَا"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ"
+        }
+      ],
+      "activityId": "act_026_41_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 225,
+      "missingWordPosition": 6,
+      "options": [
+        "يَهِيمُونَ",
+        "لَمَجْنُونٌۭ",
+        "لِعَمَلِكُم",
+        "لِفِرْعَوْنَ"
+      ],
+      "activityId": "act_026_41_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 225,
+      "correctNextAyahNumber": 226,
+      "options": [
+        {
+          "ayahNumber": 226,
+          "text": "وَأَنَّهُمْ يَقُولُونَ مَا"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَإِنَّهُمْ لَنَا لَغَآئِظُونَ"
+        },
+        {
+          "ayahNumber": 201,
+          "text": "لَا يُؤْمِنُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 207,
+          "text": "مَآ أَغْنَىٰ عَنْهُم"
+        }
+      ],
+      "activityId": "act_026_41_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 226,
+      "missingWordPosition": 1,
+      "options": [
+        "يَقُولُونَ",
+        "مُؤْمِنِينَ",
+        "مُعْرِضِينَ",
+        "مُفْسِدِينَ"
+      ],
+      "activityId": "act_026_41_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 226,
+      "correctNextAyahNumber": 227,
+      "options": [
+        {
+          "ayahNumber": 227,
+          "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "قَوْمَ فِرْعَوْنَ ۚ أَلَا"
+        }
+      ],
+      "activityId": "act_026_41_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 227,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱنتَصَرُوا۟",
+        "ٱلْأَعْجَمِينَ",
+        "ٱلْأَقْدَمُونَ",
+        "ٱلْأَقْرَبِينَ"
+      ],
+      "activityId": "act_026_41_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

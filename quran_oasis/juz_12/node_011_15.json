@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_15",
+  "title": "سورة هود - الآيات 84-89",
+  "surahId": 11,
+  "ayahStart": 84,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 17,
+      "options": [
+        "وَٱلْمِيزَانَ ۚ",
+        "وَٱلْمِيزَانَ",
+        "يَجْرِمَنَّكُمْ",
+        "أَشْيَآءَهُمْ"
+      ],
+      "activityId": "act_011_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "wrongOptionsAyahNumbers": [
+        86,
+        82
+      ],
+      "activityId": "act_011_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْمِيزَانَ",
+        "ءَابَآؤُنَآ",
+        "أُخَالِفَكُمْ",
+        "ٱسْتَطَعْتُ ۚ"
+      ],
+      "activityId": "act_011_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_011_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّؤْمِنِينَ ۚ",
+        "بِٱلْقِسْطِ ۖ",
+        "ٱلْمِكْيَالَ",
+        "أَشْيَآءَهُمْ"
+      ],
+      "activityId": "act_011_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_011_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَابَآؤُنَآ",
+        "مُّؤْمِنِينَ ۚ",
+        "أُخَالِفَكُمْ",
+        "بِٱلْقِسْطِ ۖ"
+      ],
+      "activityId": "act_011_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_011_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 17,
+      "options": [
+        "أُخَالِفَكُمْ",
+        "ءَابَآؤُنَآ",
+        "مُّؤْمِنِينَ ۚ",
+        "ٱلْمِكْيَالَ"
+      ],
+      "activityId": "act_011_15_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_011_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 3,
+      "options": [
+        "يَجْرِمَنَّكُمْ",
+        "ٱسْتَطَعْتُ ۚ",
+        "أَشْيَآءَهُمْ",
+        "مُّؤْمِنِينَ ۚ"
+      ],
+      "activityId": "act_011_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_09",
+  "title": "سورة هود - الآيات 48-53",
+  "surahId": 11,
+  "ayahStart": 48,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 13,
+      "options": [
+        "سَنُمَتِّعُهُمْ",
+        "لِلْمُتَّقِينَ",
+        "بِمُؤْمِنِينَ",
+        "ءَالِهَتِنَا"
+      ],
+      "activityId": "act_011_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "wrongOptionsAyahNumbers": [
+        50,
+        46
+      ],
+      "activityId": "act_011_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 19,
+      "options": [
+        "لِلْمُتَّقِينَ",
+        "سَنُمَتِّعُهُمْ",
+        "بِمُؤْمِنِينَ",
+        "ءَالِهَتِنَا"
+      ],
+      "activityId": "act_011_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        47
+      ],
+      "activityId": "act_011_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱعْبُدُوا۟",
+        "نُوحِيهَآ",
+        "بِتَارِكِىٓ",
+        "تَعْقِلُونَ"
+      ],
+      "activityId": "act_011_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ],
+      "activityId": "act_011_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 11,
+      "options": [
+        "فَطَرَنِىٓ ۚ",
+        "تَعْلَمُهَآ",
+        "غَيْرُهُۥٓ ۖ",
+        "مِّدْرَارًۭا"
+      ],
+      "activityId": "act_011_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_011_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسْتَغْفِرُوا۟",
+        "لِلْمُتَّقِينَ",
+        "سَنُمَتِّعُهُمْ",
+        "بِمُؤْمِنِينَ"
+      ],
+      "activityId": "act_011_09_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_011_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَالِهَتِنَا",
+        "لِلْمُتَّقِينَ",
+        "سَنُمَتِّعُهُمْ",
+        "فَطَرَنِىٓ ۚ"
+      ],
+      "activityId": "act_011_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

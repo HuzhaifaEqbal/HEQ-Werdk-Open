@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_004_36",
+  "title": "سورة النساء - الآيات 173-176",
+  "surahId": 4,
+  "ayahStart": 173,
+  "ayahEnd": 176,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 13,
+      "options": [
+        "أَبْنَآئِكُمُ",
+        "ٱلْكَلَـٰلَةِ ۚ",
+        "فَتُهَاجِرُوا۟",
+        "وَٱسْتَكْبَرُوا۟"
+      ],
+      "activityId": "act_004_36_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "فَكَيْفَ إِذَآ أَصَـٰبَتْهُم"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "إِنَّ ٱلْمُنَـٰفِقِينَ يُخَـٰدِعُونَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ"
+        }
+      ],
+      "activityId": "act_004_36_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 5,
+      "options": [
+        "فِىٓ",
+        "قَوْمٍ",
+        "مِنَ",
+        "مِّن"
+      ],
+      "activityId": "act_004_36_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "options": [
+        {
+          "ayahNumber": 175,
+          "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَمَن يَعْصِ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَءَاتُوا۟ ٱلْيَتَـٰمَىٰٓ أَمْوَٰلَهُمْ ۖ"
+        }
+      ],
+      "activityId": "act_004_36_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 8,
+      "options": [
+        "جَهَنَّمُ ۖ",
+        "وَصَّيْنَا",
+        "أَمْوَٰلَ",
+        "رَحْمَةٍۢ"
+      ],
+      "activityId": "act_004_36_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "مِّنَ ٱلَّذِينَ هَادُوا۟"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "فَأُو۟لَـٰٓئِكَ عَسَى ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَا تَنكِحُوا۟ مَا"
+        }
+      ],
+      "activityId": "act_004_36_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 26,
+      "options": [
+        "غُلْفٌۢ ۚ",
+        "كَانَتَا",
+        "مَّرِيدًۭا",
+        "ٱلْجَهْرَ"
+      ],
+      "activityId": "act_004_36_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "توفية أجور المؤمنين واستنكاف المستكبرين وبيان النور والبرهان وحكم الكلالة في المواريث."
+  }
+}

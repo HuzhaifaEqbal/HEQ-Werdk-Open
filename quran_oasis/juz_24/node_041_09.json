@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_041_09",
+  "title": "سورة فصلت - الآيات 41-46",
+  "surahId": 41,
+  "ayahStart": 41,
+  "ayahEnd": 46,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 4,
+      "options": [
+        "لَمَّا",
+        "إِنَّنَا",
+        "وَلَئِن",
+        "وَٰحِدٌۭ"
+      ],
+      "activityId": "act_041_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ جَآءَتْهُمُ ٱلرُّسُلُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "نَحْنُ أَوْلِيَآؤُكُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 6,
+      "options": [
+        "خَلَتْ",
+        "وَلَا",
+        "حَتَّىٰ",
+        "أَنطَقَ"
+      ],
+      "activityId": "act_041_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "مَّا يُقَالُ لَكَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى"
+        }
+      ],
+      "activityId": "act_041_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱعْمَلُوا۟",
+        "قَبْلِكَ ۚ",
+        "خَـٰشِعَةًۭ",
+        "إِنَّمَآ"
+      ],
+      "activityId": "act_041_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "نَحْنُ أَوْلِيَآؤُكُمْ فِى"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَجَعَلَ فِيهَا رَوَٰسِىَ"
+        }
+      ],
+      "activityId": "act_041_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 14,
+      "options": [
+        "فِىٓ",
+        "هُدًۭى",
+        "أَنَا۠",
+        "حَظٍّ"
+      ],
+      "activityId": "act_041_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ جَآءَتْهُمُ ٱلرُّسُلُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا كُنتُمْ تَسْتَتِرُونَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_041_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 8,
+      "options": [
+        "سَبَقَتْ",
+        "ٱلْأَرْضِ",
+        "خَيْرٌ",
+        "صَرْصَرًۭا"
+      ],
+      "activityId": "act_041_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "وَلَئِنْ أَذَقْنَـٰهُ رَحْمَةًۭ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "مَّنْ عَمِلَ صَـٰلِحًۭا"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ لَا يُؤْتُونَ"
+        }
+      ],
+      "activityId": "act_041_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "جَآءُوهَا",
+        "مِّمَّا",
+        "أَسَآءَ",
+        "فَوْقِهَا"
+      ],
+      "activityId": "act_041_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "آيات الليل والنهار والشمس والقمر وسجود الخلائق وتحدي إحياء الأرض الميتة ومكانة الكتاب العزيز."
+  }
+}

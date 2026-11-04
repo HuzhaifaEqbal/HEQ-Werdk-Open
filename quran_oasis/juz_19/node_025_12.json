@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_025_12",
+  "title": "سورة الفرقان - الآيات 63-67",
+  "surahId": 25,
+  "ayahStart": 63,
+  "ayahEnd": 67,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْجَـٰهِلُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْأَمْثَـٰلَ ۖ",
+        "ٱلْأَوَّلِينَ"
+      ],
+      "activityId": "act_025_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَٱلَّذِينَ لَا يَشْهَدُونَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَٱلَّذِينَ إِذَا ذُكِّرُوا۟"
+        }
+      ],
+      "activityId": "act_025_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "وَٱلْأَرْضِ",
+        "وُجُوهِهِمْ",
+        "يَأْتُونَكَ"
+      ],
+      "activityId": "act_025_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَٱلَّذِينَ لَا يَدْعُونَ"
+        }
+      ],
+      "activityId": "act_025_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "يَبِيتُونَ",
+        "يَحْشُرُهُمْ",
+        "يَخْلُقُونَ"
+      ],
+      "activityId": "act_025_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "إِنَّهَا سَآءَتْ مُسْتَقَرًّۭا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_025_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 2,
+      "options": [
+        "مُسْتَقَرًّۭا",
+        "وَٱلَّذِينَ",
+        "يَزْنُونَ ۚ",
+        "يَسْمَعُونَ"
+      ],
+      "activityId": "act_025_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَٱلَّذِينَ إِذَا ذُكِّرُوا۟"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ"
+        }
+      ],
+      "activityId": "act_025_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "يَشَآءُونَ",
+        "يَشْهَدُونَ",
+        "يَضُرُّهُمْ ۗ"
+      ],
+      "activityId": "act_025_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

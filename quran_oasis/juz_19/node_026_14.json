@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_14",
+  "title": "سورة الشعراء - الآيات 79-84",
+  "surahId": 26,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 2,
+      "options": [
+        "يُطْعِمُنِى",
+        "وَتَقَلُّبَكَ",
+        "وَجَعَلَنِى",
+        "وَذَكَرُوا۟"
+      ],
+      "activityId": "act_026_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "وَإِذَا مَرِضْتُ فَهُوَ"
+        },
+        {
+          "ayahNumber": 130,
+          "text": "وَإِذَا بَطَشْتُم بَطَشْتُمْ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "ٱلَّذِى خَلَقَنِى فَهُوَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ"
+        }
+      ],
+      "activityId": "act_026_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 3,
+      "options": [
+        "يَشْفِينِ",
+        "حَـٰشِرِينَ",
+        "حَوْلَهُۥٓ",
+        "خَطَـٰيَـٰنَآ"
+      ],
+      "activityId": "act_026_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "وَٱلَّذِى يُمِيتُنِى ثُمَّ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَٱلَّذِى هُوَ يُطْعِمُنِى"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَٱلَّذِىٓ أَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_026_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 1,
+      "options": [
+        "يُمِيتُنِى",
+        "وَسَيَعْلَمُ",
+        "وَعَمِلُوا۟",
+        "وَعِصِيَّهُمْ"
+      ],
+      "activityId": "act_026_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "وَٱلَّذِىٓ أَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَٱلَّذِى هُوَ يُطْعِمُنِى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "إِنَّا نَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "تَٱللَّهِ إِن كُنَّا"
+        }
+      ],
+      "activityId": "act_026_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِىٓ",
+        "خَـٰضِعِينَ",
+        "خَلَقَكُمْ",
+        "خَلَقَنِى"
+      ],
+      "activityId": "act_026_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "رَبِّ هَبْ لِى"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "رَبِّ نَجِّنِى وَأَهْلِى"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "رَبِّ مُوسَىٰ وَهَـٰرُونَ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "وَٱجْعَل لِّى لِسَانَ"
+        }
+      ],
+      "activityId": "act_026_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلصَّـٰلِحِينَ",
+        "ٱلْمُعَذَّبِينَ",
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْمُنذَرِينَ"
+      ],
+      "activityId": "act_026_14_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "options": [
+        {
+          "ayahNumber": 84,
+          "text": "وَٱجْعَل لِّى لِسَانَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "فَإِنَّهُمْ عَدُوٌّۭ لِّىٓ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ"
+        }
+      ],
+      "activityId": "act_026_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْـَٔاخِرِينَ",
+        "لَأَجْعَلَنَّكَ",
+        "لَغَآئِظُونَ",
+        "لَكَبِيرُكُمُ"
+      ],
+      "activityId": "act_026_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

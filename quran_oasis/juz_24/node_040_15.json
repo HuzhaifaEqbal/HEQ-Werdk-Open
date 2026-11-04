@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_040_15",
+  "title": "سورة غافر - الآيات 81-85",
+  "surahId": 40,
+  "ayahStart": 81,
+  "ayahEnd": 85,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَايَـٰتِ",
+        "كَفَرُوٓا۟",
+        "ٱلْعَلِىِّ",
+        "قَبْلُ ۖ"
+      ],
+      "activityId": "act_040_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "يَوْمَ تُوَلُّونَ مُدْبِرِينَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "أَفَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلَّذِىٓ ءَامَنَ"
+        }
+      ],
+      "activityId": "act_040_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 13,
+      "options": [
+        "مِنْهُمْ",
+        "شَدِيدُ",
+        "رِزْقًۭا ۚ",
+        "إِنِّىٓ"
+      ],
+      "activityId": "act_040_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "إِنَّا لَنَنصُرُ رُسُلَنَا"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "فَلَمَّا جَآءَتْهُمْ رُسُلُهُم"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّـٰتِ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "يَـٰقَوْمِ إِنَّمَا هَـٰذِهِ"
+        }
+      ],
+      "activityId": "act_040_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 7,
+      "options": [
+        "يُحْىِۦ",
+        "مِّنَ",
+        "أَلَمْ",
+        "لَيْسَ"
+      ],
+      "activityId": "act_040_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّـٰتِ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَلَمَّا رَأَوْا۟ بَأْسَنَا"
+        }
+      ],
+      "activityId": "act_040_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأُفَوِّضُ",
+        "وَحْدَهُۥ",
+        "يُبَدِّلَ",
+        "يُعْرَضُونَ"
+      ],
+      "activityId": "act_040_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "مَنْ عَمِلَ سَيِّئَةًۭ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱلَّذِينَ يُجَـٰدِلُونَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَقَالَ مُوسَىٰٓ إِنِّى"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "فَلَمْ يَكُ يَنفَعُهُمْ"
+        }
+      ],
+      "activityId": "act_040_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱللَّهِ",
+        "نُهِيتُ",
+        "دُونِ",
+        "جَآءَهُم"
+      ],
+      "activityId": "act_040_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "نعم الله في الأنعام وآياته العظيمة وعجز الكافرين عند رؤية بأس الله واعترافهم بعد فوات الأوان."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_01",
+  "title": "سورة الشعراء - الآيات 1-6",
+  "surahId": 26,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "طسٓمٓ",
+        "أَئِنَّ",
+        "أَتَى",
+        "أَسْرِ"
+      ],
+      "activityId": "act_026_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "لَعَلَّكَ بَـٰخِعٌۭ نَّفْسَكَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِن نَّشَأْ نُنَزِّلْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَمَا يَأْتِيهِم مِّن"
+        }
+      ],
+      "activityId": "act_026_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُبِينِ",
+        "ءَامَنتُمْ",
+        "ءَامَنُوا۟",
+        "ءَامِنِينَ"
+      ],
+      "activityId": "act_026_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "لَعَلَّكَ بَـٰخِعٌۭ نَّفْسَكَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "قَوْمَ فِرْعَوْنَ ۚ أَلَا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قَالَ لِمَنْ حَوْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "فَإِنَّهُمْ عَدُوٌّۭ لِّىٓ"
+        }
+      ],
+      "activityId": "act_026_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "يَكُونُوا۟",
+        "أَتَأْتُونَ",
+        "أَتَبْنُونَ",
+        "أَجْمَعُونَ"
+      ],
+      "activityId": "act_026_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "إِن نَّشَأْ نُنَزِّلْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَنْ أَرْسِلْ مَعَنَا"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌۭ"
+        }
+      ],
+      "activityId": "act_026_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "أَجْمَعِينَ",
+        "أَصْنَامًۭا",
+        "أَغْرَقْنَا"
+      ],
+      "activityId": "act_026_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "وَمَا يَأْتِيهِم مِّن"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 127,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ"
+        }
+      ],
+      "activityId": "act_026_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "يَأْتِيهِم",
+        "أَعْنَـٰقُهُمْ",
+        "أَفَرَءَيْتَ",
+        "أَكْثَرُهُم"
+      ],
+      "activityId": "act_026_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "أَوَلَمْ يَرَوْا۟ إِلَى"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        }
+      ],
+      "activityId": "act_026_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 2,
+      "options": [
+        "فَسَيَأْتِيهِمْ",
+        "بِٱلصَّـٰلِحِينَ",
+        "بِٱلْقِسْطَاسِ",
+        "فَأَتْبَعُوهُم"
+      ],
+      "activityId": "act_026_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

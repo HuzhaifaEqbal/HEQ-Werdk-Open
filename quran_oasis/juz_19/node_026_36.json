@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_36",
+  "title": "سورة الشعراء - الآيات 198-202",
+  "surahId": 26,
+  "ayahStart": 198,
+  "ayahEnd": 202,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 198,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَعْجَمِينَ",
+        "ٱلْمُسَحَّرِينَ",
+        "ٱلْمُسْتَقِيمِ",
+        "ٱلْمُسْرِفِينَ"
+      ],
+      "activityId": "act_026_36_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 198,
+      "correctNextAyahNumber": 199,
+      "options": [
+        {
+          "ayahNumber": 199,
+          "text": "فَقَرَأَهُۥ عَلَيْهِم مَّا"
+        },
+        {
+          "ayahNumber": 206,
+          "text": "ثُمَّ جَآءَهُم مَّا"
+        },
+        {
+          "ayahNumber": 173,
+          "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ"
+        },
+        {
+          "ayahNumber": 226,
+          "text": "وَأَنَّهُمْ يَقُولُونَ مَا"
+        }
+      ],
+      "activityId": "act_026_36_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 199,
+      "missingWordPosition": 0,
+      "options": [
+        "فَقَرَأَهُۥ",
+        "تَعْمَلُونَ",
+        "تَكُونُوا۟",
+        "تَمَسُّوهَا"
+      ],
+      "activityId": "act_026_36_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 199,
+      "correctNextAyahNumber": 200,
+      "options": [
+        {
+          "ayahNumber": 200,
+          "text": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "فَأَرْسَلَ فِرْعَوْنُ فِى"
+        },
+        {
+          "ayahNumber": 219,
+          "text": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ"
+        }
+      ],
+      "activityId": "act_026_36_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 200,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُعَذَّبِينَ",
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْمُنذَرِينَ"
+      ],
+      "activityId": "act_026_36_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 200,
+      "correctNextAyahNumber": 201,
+      "options": [
+        {
+          "ayahNumber": 201,
+          "text": "لَا يُؤْمِنُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 202,
+          "text": "فَيَأْتِيَهُم بَغْتَةًۭ وَهُمْ"
+        },
+        {
+          "ayahNumber": 226,
+          "text": "وَأَنَّهُمْ يَقُولُونَ مَا"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "يَوْمَ لَا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_026_36_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 201,
+      "missingWordPosition": 1,
+      "options": [
+        "يُؤْمِنُونَ",
+        "تُطِيعُوٓا۟",
+        "جَبَّارِينَ",
+        "حِبَالَهُمْ"
+      ],
+      "activityId": "act_026_36_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 201,
+      "correctNextAyahNumber": 202,
+      "options": [
+        {
+          "ayahNumber": 202,
+          "text": "فَيَأْتِيَهُم بَغْتَةًۭ وَهُمْ"
+        },
+        {
+          "ayahNumber": 226,
+          "text": "وَأَنَّهُمْ يَقُولُونَ مَا"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالُوا۟ وَهُمْ فِيهَا"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "يَوْمَ لَا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_026_36_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 202,
+      "missingWordPosition": 0,
+      "options": [
+        "فَيَأْتِيَهُم",
+        "فَأَنجَيْنَـٰهُ",
+        "فَأَوْحَيْنَآ",
+        "فَعَقَرُوهَا"
+      ],
+      "activityId": "act_026_36_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

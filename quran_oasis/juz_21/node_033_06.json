@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_033_06",
+  "title": "سورة الأحزاب - الآيات 25-30",
+  "surahId": 33,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 8,
+      "options": [
+        "وَكَفَى",
+        "جَمِيلًۭا",
+        "فَازَ",
+        "رَءَا"
+      ],
+      "activityId": "act_033_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "لَّا يَحِلُّ لَكَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "لَّقَدْ كَانَ لَكُمْ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ"
+        }
+      ],
+      "activityId": "act_033_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "وَقَذَفَ",
+        "لَّقَدْ",
+        "زَادَهُمْ",
+        "ءَايَـٰتِ"
+      ],
+      "activityId": "act_033_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ"
+        }
+      ],
+      "activityId": "act_033_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "يَـٰٓأَيُّهَا",
+        "أَزْوَٰجَهُۥ",
+        "مُّبَيِّنَةٍۢ",
+        "تَطَـُٔوهَا ۚ"
+      ],
+      "activityId": "act_033_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَت طَّآئِفَةٌۭ"
+        }
+      ],
+      "activityId": "act_033_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "نَكَحْتُمُ",
+        "ٱلْقِتَالَ ۚ",
+        "ٱلْـَٔاخِرَ",
+        "ٱلدُّنْيَا"
+      ],
+      "activityId": "act_033_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَرْنَ فِى بُيُوتِكُنَّ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَإِن كُنتُنَّ تُرِدْنَ"
+        }
+      ],
+      "activityId": "act_033_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 7,
+      "options": [
+        "فَإِنَّ",
+        "وَدَعْ",
+        "وَخَاتَمَ",
+        "مُحَمَّدٌ"
+      ],
+      "activityId": "act_033_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ لَّئِن لَّمْ يَنتَهِ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        }
+      ],
+      "activityId": "act_033_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 8,
+      "options": [
+        "ضَلَّ",
+        "وَرَدَّ",
+        "لَهَا",
+        "يَنتَهِ"
+      ],
+      "activityId": "act_033_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "رد الله للذين كفروا بغيظهم وإيراث المؤمنين أرض بني قريظة وتخيير أزواج النبي."
+  }
+}

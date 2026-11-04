@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_022_08",
+  "title": "سورة الحج - الآيات 43-48",
+  "surahId": 22,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 1,
+      "options": [
+        "إِبْرَٰهِيمَ",
+        "فَكَأَنَّمَا",
+        "فَلْيَمْدُدْ",
+        "فَلْيَنظُرْ"
+      ],
+      "activityId": "act_022_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "وَأَصْحَـٰبُ مَدْيَنَ ۖ وَكُذِّبَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "لِّيَجْعَلَ مَا يُلْقِى"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَلَا يَزَالُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_022_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "لِلْكَـٰفِرِينَ",
+        "وَٱلْأَرْضِ ۗ",
+        "وَٱلْبَادِ ۚ",
+        "وَٱلْجُلُودُ"
+      ],
+      "activityId": "act_022_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "فَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "ٱللَّهُ يَصْطَفِى مِنَ"
+        }
+      ],
+      "activityId": "act_022_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "أَهْلَكْنَـٰهَا",
+        "وَٱلْجِبَالُ",
+        "وَٱلْـَٔاخِرَةِ",
+        "وَٱلْمَجُوسَ"
+      ],
+      "activityId": "act_022_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "أَفَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ هَاجَرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَجَـٰهِدُوا۟ فِى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        }
+      ],
+      "activityId": "act_022_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "يَسِيرُوا۟",
+        "فَٱلَّذِينَ",
+        "قَدْرِهِۦٓ ۗ",
+        "قُلُوبُهُمْ"
+      ],
+      "activityId": "act_022_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "ٱلْمُلْكُ يَوْمَئِذٍۢ لِّلَّهِ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ ذَٰلِكَ وَمَنْ عَاقَبَ"
+        }
+      ],
+      "activityId": "act_022_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَسْتَعْجِلُونَكَ",
+        "وَٱلْقَآئِمِينَ",
+        "لَيَرْزُقَنَّهُمُ",
+        "لَيُدْخِلَنَّهُم"
+      ],
+      "activityId": "act_022_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "فَكَأَيِّن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "يَدْعُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "كُتِبَ عَلَيْهِ أَنَّهُۥ"
+        }
+      ],
+      "activityId": "act_022_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 8,
+      "options": [
+        "أَخَذْتُهَا",
+        "كَثِيرًۭا ۗ",
+        "كَفَرُوا۟ ۖ",
+        "لُحُومُهَا"
+      ],
+      "activityId": "act_022_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

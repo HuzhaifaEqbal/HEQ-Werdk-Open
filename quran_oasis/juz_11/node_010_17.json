@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_010_17",
+  "title": "سورة يونس - الآيات 95-99",
+  "surahId": 10,
+  "ayahStart": 95,
+  "ayahEnd": 99,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْخَـٰسِرِينَ",
+        "وَمَتَّعْنَـٰهُمْ",
+        "إِيمَـٰنُهَآ",
+        "جَآءَتْهُمْ"
+      ],
+      "activityId": "act_010_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_010_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 8,
+      "options": [
+        "يُؤْمِنُونَ",
+        "مُؤْمِنِينَ",
+        "ٱلْحَيَوٰةِ",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_010_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_010_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 2,
+      "options": [
+        "جَآءَتْهُمْ",
+        "فَنَفَعَهَآ",
+        "يُؤْمِنُونَ",
+        "جَمِيعًا ۚ"
+      ],
+      "activityId": "act_010_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_010_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 19,
+      "options": [
+        "وَمَتَّعْنَـٰهُمْ",
+        "ٱلْخَـٰسِرِينَ",
+        "يَكُونُوا۟",
+        "ٱلْأَلِيمَ"
+      ],
+      "activityId": "act_010_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_010_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 9,
+      "options": [
+        "جَمِيعًا ۚ",
+        "ٱلدُّنْيَا",
+        "ٱلْعَذَابَ",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_010_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

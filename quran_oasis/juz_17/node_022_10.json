@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_022_10",
+  "title": "سورة الحج - الآيات 54-58",
+  "surahId": 22,
+  "ayahStart": 54,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 8,
+      "options": [
+        "فَيُؤْمِنُوا۟",
+        "يُحْيِيكُمْ ۗ",
+        "ٱجْتَبَىٰكُمْ",
+        "ٱجْتَمَعُوا۟"
+      ],
+      "activityId": "act_022_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "وَلَا يَزَالُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_022_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 8,
+      "options": [
+        "تَأْتِيَهُمُ",
+        "مُعَـٰجِزِينَ",
+        "نُخْرِجُكُمْ",
+        "نُذُورَهُمْ"
+      ],
+      "activityId": "act_022_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "ٱلْمُلْكُ يَوْمَئِذٍۢ لِّلَّهِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "ٱللَّهُ يَحْكُمُ بَيْنَكُمْ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "حُنَفَآءَ لِلَّهِ غَيْرَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ ءَايَـٰتٍۭ"
+        }
+      ],
+      "activityId": "act_022_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "بَيْنَهُمْ ۚ",
+        "نَّفْعِهِۦ ۚ",
+        "هَاجَرُوا۟",
+        "هَدَىٰكُمْ ۗ"
+      ],
+      "activityId": "act_022_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ هَاجَرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَلَا يَزَالُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_022_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "وَءَاتَوُا۟",
+        "وَأَمَرُوا۟",
+        "وَأَنۢبَتَتْ"
+      ],
+      "activityId": "act_022_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ هَاجَرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَجَـٰهِدُوا۟ فِى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَذِّن فِى ٱلنَّاسِ"
+        }
+      ],
+      "activityId": "act_022_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 9,
+      "options": [
+        "لَيَرْزُقَنَّهُمُ",
+        "وَٱعْتَصِمُوا۟",
+        "وَٱلصَّـٰبِرِينَ",
+        "وَٱلْـَٔاخِرَةَ ۚ"
+      ],
+      "activityId": "act_022_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_14",
+  "title": "سورة الصافات - الآيات 79-84",
+  "surahId": 37,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 2,
+      "options": [
+        "عَظِيمٍۢ",
+        "فَٱنظُرْ",
+        "ٱللَّهِ",
+        "نُوحٍۢ"
+      ],
+      "activityId": "act_037_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "مَا لَكُمْ لَا"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "ثُمَّ إِنَّ مَرْجِعَهُمْ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        }
+      ],
+      "activityId": "act_037_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 2,
+      "options": [
+        "لَكُمْ",
+        "عَلَيْكُم",
+        "وَتَوَلَّ",
+        "نَجْزِى"
+      ],
+      "activityId": "act_037_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "سَلَـٰمٌ عَلَىٰ نُوحٍۢ"
+        }
+      ],
+      "activityId": "act_037_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 2,
+      "options": [
+        "إِنَّهُم",
+        "مُبِينٌۭ",
+        "وَتَلَّهُۥ",
+        "عِبَادِنَا"
+      ],
+      "activityId": "act_037_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَلَقَدْ أَرْسَلْنَا فِيهِم"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ"
+        }
+      ],
+      "activityId": "act_037_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 1,
+      "options": [
+        "أَغْرَقْنَا",
+        "يَنظُرُونَ",
+        "بِإِسْحَـٰقَ",
+        "لَوَٰحِدٌۭ"
+      ],
+      "activityId": "act_037_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قَالَ تَٱللَّهِ إِن"
+        }
+      ],
+      "activityId": "act_037_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 2,
+      "options": [
+        "تُجْزَوْنَ",
+        "شِيعَتِهِۦ",
+        "سَبَقَتْ",
+        "لَوَٰحِدٌۭ"
+      ],
+      "activityId": "act_037_14_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "options": [
+        {
+          "ayahNumber": 145,
+          "text": "۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "أَصْطَفَى ٱلْبَنَاتِ عَلَى"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِذْ جَآءَ رَبَّهُۥ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_037_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 2,
+      "options": [
+        "لَذَّةٍۢ",
+        "رَبَّهُۥ",
+        "جَنَّـٰتِ",
+        "زَجْرَةٌۭ"
+      ],
+      "activityId": "act_037_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "سلام على نوح في العالمين وبداية قصة إبراهيم عليه السلام وقلبه السليم."
+  }
+}

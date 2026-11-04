@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_039_08",
+  "title": "سورة الزمر - الآيات 38-41",
+  "surahId": 39,
+  "ayahStart": 38,
+  "ayahEnd": 41,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 18,
+      "options": [
+        "ٱللَّهُ",
+        "بِضُرٍّ",
+        "يَحْذَرُ",
+        "يَهْدِى"
+      ],
+      "activityId": "act_039_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "فَٱعْبُدُوا۟ مَا شِئْتُم"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قُرْءَانًا عَرَبِيًّا غَيْرَ"
+        }
+      ],
+      "activityId": "act_039_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "يَـٰعِبَادِىَ",
+        "لَيَقُولُنَّ",
+        "ٱلْقِيَـٰمَةِ",
+        "مَكَانَتِكُمْ"
+      ],
+      "activityId": "act_039_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَنُفِخَ فِى ٱلصُّورِ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَن يَأْتِيهِ عَذَابٌۭ"
+        }
+      ],
+      "activityId": "act_039_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "وَيَحِلُّ",
+        "ٱلنَّهَارِ",
+        "ٱهْتَدَىٰ",
+        "يُكَوِّرُ"
+      ],
+      "activityId": "act_039_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّآ أَنزَلْنَا عَلَيْكَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأُمِرْتُ لِأَنْ أَكُونَ"
+        }
+      ],
+      "activityId": "act_039_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 9,
+      "options": [
+        "جَآءَ",
+        "أَنْ",
+        "وَمَن",
+        "دُونِ"
+      ],
+      "activityId": "act_039_08_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "عجز الشركاء عند الضر والرحمة وحسبنا الله ووعيد الكافرين بسوء المصير."
+  }
+}

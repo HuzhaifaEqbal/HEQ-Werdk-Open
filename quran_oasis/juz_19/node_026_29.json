@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_29",
+  "title": "سورة الشعراء - الآيات 163-167",
+  "surahId": 26,
+  "ayahStart": 163,
+  "ayahEnd": 167,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَطِيعُونِ",
+        "وَأَنجَيْنَا",
+        "وَتَتَّخِذُونَ",
+        "وَتَنْحِتُونَ"
+      ],
+      "activityId": "act_026_29_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "options": [
+        {
+          "ayahNumber": 164,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ"
+        },
+        {
+          "ayahNumber": 180,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ"
+        }
+      ],
+      "activityId": "act_026_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "وَٱجْعَلْنِى",
+        "وَٱلْجِبِلَّةَ",
+        "وَٱلْمَغْرِبِ"
+      ],
+      "activityId": "act_026_29_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "options": [
+        {
+          "ayahNumber": 165,
+          "text": "أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ"
+        },
+        {
+          "ayahNumber": 149,
+          "text": "وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ"
+        },
+        {
+          "ayahNumber": 187,
+          "text": "فَأَسْقِطْ عَلَيْنَا كِسَفًۭا"
+        },
+        {
+          "ayahNumber": 192,
+          "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ"
+        }
+      ],
+      "activityId": "act_026_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلذُّكْرَانَ",
+        "يَخْتَصِمُونَ",
+        "يَنتَصِرُونَ",
+        "يَنقَلِبُونَ"
+      ],
+      "activityId": "act_026_29_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 165,
+      "correctNextAyahNumber": 166,
+      "options": [
+        {
+          "ayahNumber": 166,
+          "text": "وَتَذَرُونَ مَا خَلَقَ"
+        },
+        {
+          "ayahNumber": 162,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَآ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 125,
+          "text": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ"
+        }
+      ],
+      "activityId": "act_026_29_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 6,
+      "options": [
+        "أَزْوَٰجِكُم ۚ",
+        "ٱلذُّكْرَانَ",
+        "ٱلسَّـٰجِدِينَ",
+        "ٱلشَّيَـٰطِينُ"
+      ],
+      "activityId": "act_026_29_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "options": [
+        {
+          "ayahNumber": 167,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قَالُوا۟ نَعْبُدُ أَصْنَامًۭا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالُوا۟ لَا ضَيْرَ ۖ"
+        }
+      ],
+      "activityId": "act_026_29_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُخْرَجِينَ",
+        "وَءَابَآؤُكُمُ",
+        "وَأَوْرَثْنَـٰهَا",
+        "وَٱلشُّعَرَآءُ"
+      ],
+      "activityId": "act_026_29_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

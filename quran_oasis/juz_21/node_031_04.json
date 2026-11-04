@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_031_04",
+  "title": "سورة لقمان - الآيات 16-19",
+  "surahId": 31,
+  "ayahStart": 16,
+  "ayahEnd": 19,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 13,
+      "options": [
+        "فَأُنَبِّئُكُم",
+        "عَمِلُوٓا۟ ۚ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "دَآبَّةٍۢ ۚ"
+      ],
+      "activityId": "act_031_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "أَلَمْ تَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        }
+      ],
+      "activityId": "act_031_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 8,
+      "options": [
+        "مُّهِينٌۭ",
+        "ٱسْتَمْسَكَ",
+        "رَبَّكُمْ",
+        "وَٱصْبِرْ"
+      ],
+      "activityId": "act_031_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تُصَعِّرْ خَدَّكَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَ لُقْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَـٰبُنَىَّ إِنَّهَآ إِن"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَلَوْ أَنَّمَا فِى"
+        }
+      ],
+      "activityId": "act_031_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 8,
+      "options": [
+        "مَرَحًا ۖ",
+        "وَٱخْشَوْا۟",
+        "ٱلْمُنكَرِ",
+        "يَشْكُرُ"
+      ],
+      "activityId": "act_031_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَٱقْصِدْ فِى مَشْيِكَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّ ٱللَّهَ عِندَهُۥ"
+        }
+      ],
+      "activityId": "act_031_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "ثُمَّ",
+        "خَلَقَ",
+        "إِلَىَّ",
+        "إِنَّ"
+      ],
+      "activityId": "act_031_04_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "لقمان",
+    "juz": 21,
+    "theme": "إحاطة علم الله بمثقال حبة الخردل والأمر بالصلاة والأمر بالمعروف وخفض الصوت."
+  }
+}

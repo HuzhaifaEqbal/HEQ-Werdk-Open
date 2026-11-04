@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_13",
+  "title": "سورة الصافات - الآيات 73-78",
+  "surahId": 37,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكَ",
+        "كَانَ",
+        "لِلَّهِ",
+        "لَنَا"
+      ],
+      "activityId": "act_037_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 127,
+          "text": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "أَصْطَفَى ٱلْبَنَاتِ عَلَى"
+        }
+      ],
+      "activityId": "act_037_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱللَّهَ",
+        "ٱللَّهِ",
+        "بَيْنَهُۥ",
+        "وَتَوَلَّ"
+      ],
+      "activityId": "act_037_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ"
+        },
+        {
+          "ayahNumber": 148,
+          "text": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        }
+      ],
+      "activityId": "act_037_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 2,
+      "options": [
+        "فَسَوْفَ",
+        "نُوحٌۭ",
+        "أَصْلِ",
+        "لَكُمْ"
+      ],
+      "activityId": "act_037_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمَا تُجْزَوْنَ إِلَّا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ"
+        }
+      ],
+      "activityId": "act_037_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "كَانَ",
+        "مِّنْ",
+        "مِنَ",
+        "مَعَهُ"
+      ],
+      "activityId": "act_037_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        },
+        {
+          "ayahNumber": 159,
+          "text": "سُبْحَـٰنَ ٱللَّهِ عَمَّا"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَا لَكُمْ كَيْفَ"
+        }
+      ],
+      "activityId": "act_037_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 2,
+      "options": [
+        "وَمَا",
+        "لَّا",
+        "هَلْ",
+        "هُمُ"
+      ],
+      "activityId": "act_037_13_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "وَإِنَّ إِلْيَاسَ لَمِنَ"
+        }
+      ],
+      "activityId": "act_037_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 1,
+      "options": [
+        "سُرُرٍۢ",
+        "قَبْلَهُمْ",
+        "عَلَيْهِ",
+        "ٱلْبَنَاتِ"
+      ],
+      "activityId": "act_037_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "نداء نوح عليه السلام وإجابة الله له ونجاته وأهله من الكرب العظيم."
+  }
+}

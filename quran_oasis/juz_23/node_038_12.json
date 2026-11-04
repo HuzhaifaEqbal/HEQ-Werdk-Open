@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_12",
+  "title": "سورة ص - الآيات 64-68",
+  "surahId": 38,
+  "ayahStart": 64,
+  "ayahEnd": 68,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "أَوَّابٌۭ",
+        "لَشَرَّ",
+        "تَخَاصُمُ",
+        "مُلْكَهُۥ"
+      ],
+      "activityId": "act_038_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "هَـٰذَا فَوْجٌۭ مُّقْتَحِمٌۭ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ"
+        }
+      ],
+      "activityId": "act_038_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 5,
+      "options": [
+        "مِنۢ",
+        "كَانَ",
+        "مِنْ",
+        "لَهُم"
+      ],
+      "activityId": "act_038_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "إِنَّ هَـٰذَا لَرِزْقُنَا"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالُوا۟ رَبَّنَا مَن"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "جُندٌۭ مَّا هُنَالِكَ"
+        }
+      ],
+      "activityId": "act_038_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 3,
+      "options": [
+        "يَوْمَ",
+        "مِنْ",
+        "سَبِيلِ",
+        "وَمَا"
+      ],
+      "activityId": "act_038_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالُوا۟ رَبَّنَا مَن"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        }
+      ],
+      "activityId": "act_038_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 2,
+      "options": [
+        "صَالُوا۟",
+        "نَبَؤٌا۟",
+        "إِنَّا",
+        "بِٱلْحَقِّ"
+      ],
+      "activityId": "act_038_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "وَعَجِبُوٓا۟ أَن جَآءَهُم"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "هَـٰذَا مَا تُوعَدُونَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَنتُمْ عَنْهُ مُعْرِضُونَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ"
+        }
+      ],
+      "activityId": "act_038_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 1,
+      "options": [
+        "مِّنَ",
+        "يَوْمِ",
+        "عَنْهُ",
+        "عَدْنٍۢ"
+      ],
+      "activityId": "act_038_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "تساؤل أهل النار عن رجال كانوا يعدونهم من الأشرار وبيان أن ذلك لحق تخاصم أهل النار."
+  }
+}

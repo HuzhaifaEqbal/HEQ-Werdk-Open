@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_024_11",
+  "title": "سورة النور - الآيات 60-64",
+  "surahId": 24,
+  "ayahStart": 60,
+  "ayahEnd": 64,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلْقَوَٰعِدُ",
+        "ٱلرَّسُولَ ۖ",
+        "ٱلزَّانِيَةُ",
+        "ٱلزَّكَوٰةِ ۙ"
+      ],
+      "activityId": "act_024_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "لَّيْسَ عَلَيْكُمْ جُنَاحٌ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "فَإِن لَّمْ تَجِدُوا۟"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "ٱلْخَبِيثَـٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ"
+        }
+      ],
+      "activityId": "act_024_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 21,
+      "options": [
+        "ءَابَآئِكُمْ",
+        "ٱلزُّجَاجَةُ",
+        "ٱلشَّيْطَـٰنِ ۚ",
+        "ٱلصَّـٰدِقِينَ"
+      ],
+      "activityId": "act_024_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "إِنَّمَا كَانَ قَوْلَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_024_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمُؤْمِنُونَ",
+        "وَٱلنَّهَارَ ۚ",
+        "وَٱلْـَٔاخِرَةِ ۚ",
+        "وَٱلْمَسَـٰكِينَ"
+      ],
+      "activityId": "act_024_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "لَّا تَجْعَلُوا۟ دُعَآءَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَا تَحْسَبَنَّ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ٱلزَّانِى لَا يَنكِحُ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "رِجَالٌۭ لَّا تُلْهِيهِمْ"
+        }
+      ],
+      "activityId": "act_024_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 12,
+      "options": [
+        "يَتَسَلَّلُونَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلظَّهِيرَةِ",
+        "ٱلنِّسَآءِ ۖ"
+      ],
+      "activityId": "act_024_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "أَلَآ إِنَّ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "إِلَّا ٱلَّذِينَ تَابُوا۟"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_024_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْأَرْضِ ۖ",
+        "ٱلْخَبِيثَـٰتُ",
+        "ٱلْعِشَآءِ ۚ",
+        "ٱلْفَـٰسِقُونَ"
+      ],
+      "activityId": "act_024_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النور",
+    "juz": 18,
+    "theme": "تنظم آيات هذا المقطع أحكام العفة والأسرة والاستئذان، وتعرض قصة الإفك وآية النور، وتدل على طاعة الله ورسوله ونوره في السماوات والأرض."
+  }
+}

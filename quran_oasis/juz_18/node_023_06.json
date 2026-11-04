@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_06",
+  "title": "سورة المؤمنون - الآيات 31-36",
+  "surahId": 23,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 1,
+      "options": [
+        "أَنشَأْنَا",
+        "تُحْمَلُونَ",
+        "تُخَـٰطِبْنِى",
+        "تُرْجَعُونَ"
+      ],
+      "activityId": "act_023_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "فَأَرْسَلْنَا فِيهِمْ رَسُولًۭا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَئِنْ أَطَعْتُم بَشَرًۭا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَقُل رَّبِّ أَنزِلْنِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا"
+        }
+      ],
+      "activityId": "act_023_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَرْسَلْنَا",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْأَوَّلُونَ",
+        "ٱلْأَوَّلِينَ"
+      ],
+      "activityId": "act_023_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَقَالَ ٱلْمَلَأُ مِن"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "قُلْ مَنۢ بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "مَا ٱتَّخَذَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "إِنَّهُۥ كَانَ فَرِيقٌۭ"
+        }
+      ],
+      "activityId": "act_023_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأَتْرَفْنَـٰهُمْ",
+        "وَٱلنَّهَارِ ۚ",
+        "وَٱلْأَفْـِٔدَةَ ۚ",
+        "يَتَسَآءَلُونَ"
+      ],
+      "activityId": "act_023_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلَئِنْ أَطَعْتُم بَشَرًۭا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَأَرْسَلْنَا فِيهِمْ رَسُولًۭا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_023_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 6,
+      "options": [
+        "لَّخَـٰسِرُونَ",
+        "تُسْحَرُونَ",
+        "تُكَذِّبُونَ",
+        "تُكَلِّمُونِ"
+      ],
+      "activityId": "act_023_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "حَتَّىٰٓ إِذَآ أَخَذْنَا"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "حَتَّىٰٓ إِذَا فَتَحْنَا"
+        }
+      ],
+      "activityId": "act_023_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 0,
+      "options": [
+        "أَيَعِدُكُمْ",
+        "تُنصَرُونَ",
+        "تُوعَدُونَ",
+        "جَزَيْتُهُمُ"
+      ],
+      "activityId": "act_023_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "۞ هَيْهَاتَ هَيْهَاتَ لِمَا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ"
+        }
+      ],
+      "activityId": "act_023_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ هَيْهَاتَ",
+        "ٱلْخَـٰلِقِينَ",
+        "ٱلْخَيْرَٰتِ ۚ",
+        "ٱلْعَادُونَ"
+      ],
+      "activityId": "act_023_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

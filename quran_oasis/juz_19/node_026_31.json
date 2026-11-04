@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_31",
+  "title": "سورة الشعراء - الآيات 173-177",
+  "surahId": 26,
+  "ayahStart": 173,
+  "ayahEnd": 177,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 173,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُنذَرِينَ",
+        "وَٱلْغَاوُۥنَ",
+        "وَٱنتَصَرُوا۟",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_026_31_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 173,
+      "correctNextAyahNumber": 174,
+      "options": [
+        {
+          "ayahNumber": 174,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ"
+        },
+        {
+          "ayahNumber": 190,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ"
+        }
+      ],
+      "activityId": "act_026_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 174,
+      "missingWordPosition": 6,
+      "options": [
+        "أَكْثَرُهُم",
+        "أَتَبْنُونَ",
+        "أَجْمَعُونَ",
+        "أَجْمَعِينَ"
+      ],
+      "activityId": "act_026_31_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 174,
+      "correctNextAyahNumber": 175,
+      "options": [
+        {
+          "ayahNumber": 175,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 191,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 217,
+          "text": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ"
+        }
+      ],
+      "activityId": "act_026_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 175,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "أَصْنَامًۭا",
+        "أَعْنَـٰقُهُمْ",
+        "أَغْرَقْنَا"
+      ],
+      "activityId": "act_026_31_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 175,
+      "correctNextAyahNumber": 176,
+      "options": [
+        {
+          "ayahNumber": 176,
+          "text": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "كَذَّبَتْ قَوْمُ لُوطٍ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ"
+        }
+      ],
+      "activityId": "act_026_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 176,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "يَسْتَعْجِلُونَ",
+        "يَسْتَهْزِءُونَ",
+        "يَسْمَعُونَكُمْ"
+      ],
+      "activityId": "act_026_31_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 176,
+      "correctNextAyahNumber": 177,
+      "options": [
+        {
+          "ayahNumber": 177,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ"
+        }
+      ],
+      "activityId": "act_026_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 177,
+      "missingWordPosition": 5,
+      "options": [
+        "تَتَّقُونَ",
+        "لَجَمِيعٌ",
+        "لَعَلَّكُمْ",
+        "لَعَلَّنَا"
+      ],
+      "activityId": "act_026_31_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

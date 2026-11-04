@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_06",
+  "title": "سورة غافر - الآيات 31-36",
+  "surahId": 40,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "فَهَلْ",
+        "كَيْدُ",
+        "وَمَا",
+        "مِنۢ"
+      ],
+      "activityId": "act_040_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        }
+      ],
+      "activityId": "act_040_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَسَادَ",
+        "يُتَوَفَّىٰ",
+        "عَلَيْكُمْ",
+        "يُسْحَبُونَ"
+      ],
+      "activityId": "act_040_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "يَوْمَ تُوَلُّونَ مُدْبِرِينَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "فَلَمْ يَكُ يَنفَعُهُمْ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ"
+        }
+      ],
+      "activityId": "act_040_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 8,
+      "options": [
+        "وَذَٰلِكَ",
+        "أَشُدَّكُمْ",
+        "عَاصِمٍۢ ۗ",
+        "ٱلْبَصِيرُ"
+      ],
+      "activityId": "act_040_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 49,
+          "text": "وَقَالَ ٱلَّذِينَ فِى"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَقَدْ جَآءَكُمْ يُوسُفُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا"
+        }
+      ],
+      "activityId": "act_040_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 15,
+      "options": [
+        "هَلَكَ",
+        "يَكْتُمُ",
+        "لَدَى",
+        "حَاجَةًۭ"
+      ],
+      "activityId": "act_040_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّـٰتِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "ثُمَّ قِيلَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ"
+        }
+      ],
+      "activityId": "act_040_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱللَّهِ",
+        "هَادٍۢ",
+        "وَأَنَا۠",
+        "كَانُوٓا۟"
+      ],
+      "activityId": "act_040_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَقَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "إِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌۭ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَلَمْ تَرَ إِلَى"
+        }
+      ],
+      "activityId": "act_040_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "لَهُمْ",
+        "نَعِدُهُمْ",
+        "صَرْحًۭا",
+        "بِٱلْحَقِّ"
+      ],
+      "activityId": "act_040_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "ظهور مؤمن آل فرعون ودعوته لقومه بالحق وتحذيرهم من يوم التناد وسوء العاقبة."
+  }
+}

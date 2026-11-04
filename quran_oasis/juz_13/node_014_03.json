@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_014_03",
+  "title": "سورة إبراهيم - الآيات 13-18",
+  "surahId": 14,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "لَنُخْرِجَنَّكُم",
+        "وَٱسْتَفْتَحُوا۟",
+        "يَتَجَرَّعُهُۥ",
+        "وَلَنُسْكِنَنَّكُمُ"
+      ],
+      "activityId": "act_014_03_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ],
+      "activityId": "act_014_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 1,
+      "options": [
+        "وَلَنُسْكِنَنَّكُمُ",
+        "وَٱسْتَفْتَحُوا۟",
+        "لَنُخْرِجَنَّكُم",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_014_03_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ],
+      "activityId": "act_014_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱسْتَفْتَحُوا۟",
+        "وَلَنُسْكِنَنَّكُمُ",
+        "لَنُخْرِجَنَّكُم",
+        "يَتَجَرَّعُهُۥ"
+      ],
+      "activityId": "act_014_03_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        13
+      ],
+      "activityId": "act_014_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 2,
+      "options": [
+        "وَرَآئِهِۦ",
+        "وَيَأْتِيهِ",
+        "يَقْدِرُونَ",
+        "بَعْدِهِمْ ۚ"
+      ],
+      "activityId": "act_014_03_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_014_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "يَتَجَرَّعُهُۥ",
+        "ٱلظَّـٰلِمِينَ",
+        "أَعْمَـٰلُهُمْ",
+        "بِرَبِّهِمْ ۖ"
+      ],
+      "activityId": "act_014_03_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_014_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "بِرَبِّهِمْ ۖ",
+        "لَنُهْلِكَنَّ",
+        "لَتَعُودُنَّ",
+        "لِرُسُلِهِمْ"
+      ],
+      "activityId": "act_014_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "إبراهيم",
+    "juz": 13,
+    "theme": "تقرير رسالة الرسل وإخراج الناس من الظلمات إلى النور، وذكر نعم الله ومصير الشاكرين والجاحدين، ودعاء إبراهيم عليه السلام للبيت وذريته."
+  }
+}

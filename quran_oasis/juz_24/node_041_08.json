@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_08",
+  "title": "سورة فصلت - الآيات 36-40",
+  "surahId": 41,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَزِيزِ",
+        "فَٱسْتَعِذْ",
+        "يَسْـَٔمُ",
+        "بِظَلَّـٰمٍۢ"
+      ],
+      "activityId": "act_041_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "مَّا يُقَالُ لَكَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_041_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلَا",
+        "أَلَآ",
+        "حَظٍّ",
+        "فِىٓ"
+      ],
+      "activityId": "act_041_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        }
+      ],
+      "activityId": "act_041_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "وَنَذِيرًۭا",
+        "يُسَبِّحُونَ",
+        "أَحْيَاهَا",
+        "تَشْتَهِىٓ"
+      ],
+      "activityId": "act_041_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّ ٱلَّذِينَ يُلْحِدُونَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "حمٓ"
+        }
+      ],
+      "activityId": "act_041_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 11,
+      "options": [
+        "مِرْيَةٍۢ",
+        "عَـٰمِلُونَ",
+        "وَرَبَتْ ۚ",
+        "وَلَوْلَا"
+      ],
+      "activityId": "act_041_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّ ٱلَّذِينَ يُلْحِدُونَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَإِنْ أَعْرَضُوا۟ فَقُلْ"
+        }
+      ],
+      "activityId": "act_041_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 14,
+      "options": [
+        "نَحْنُ",
+        "وَهُم",
+        "مَّن",
+        "أَم"
+      ],
+      "activityId": "act_041_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "الدعوة إلى الله بالحسنى ودفع السيئة بالتي هي أحسن وصفات الصابرين والاستعاذة من الشيطان."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_09",
+  "title": "سورة طه - الآيات 49-54",
+  "surahId": 20,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 2,
+      "options": [
+        "رَّبُّكُمَا",
+        "خَـٰلِدِينَ",
+        "خَلْفَهُمْ",
+        "خَلْقَهُۥ"
+      ],
+      "activityId": "act_020_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "قَالَ رَبُّنَا ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالَ بَصُرْتُ بِمَا"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "قَالَ فَٱذْهَبْ فَإِنَّ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "قَالَ ٱهْبِطَا مِنْهَا"
+        }
+      ],
+      "activityId": "act_020_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 6,
+      "options": [
+        "خَلْقَهُۥ",
+        "رَبِّهِۦ ۚ",
+        "رَسُولَا",
+        "رِزْقًۭا ۖ"
+      ],
+      "activityId": "act_020_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ فَمَا بَالُ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ فَمَا خَطْبُكَ"
+        },
+        {
+          "ayahNumber": 125,
+          "text": "قَالَ رَبِّ لِمَ"
+        },
+        {
+          "ayahNumber": 126,
+          "text": "قَالَ كَذَٰلِكَ أَتَتْكَ"
+        }
+      ],
+      "activityId": "act_020_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْقُرُونِ",
+        "فَغَشِيَهُم",
+        "فَقَالُوا۟",
+        "فَلْيُلْقِهِ"
+      ],
+      "activityId": "act_020_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قَالَ عِلْمُهَا عِندَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قَالَ فَمَن رَّبُّكُمَا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "قَالَ مَوْعِدُكُمْ يَوْمُ"
+        }
+      ],
+      "activityId": "act_020_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 1,
+      "options": [
+        "عِلْمُهَا",
+        "رَّبُّكُمَا",
+        "سِحْرِهِمْ",
+        "صَفْصَفًۭا"
+      ],
+      "activityId": "act_020_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "ٱلَّذِى جَعَلَ لَكُمُ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِنَّمَآ إِلَـٰهُكُمُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "تَنزِيلًۭا مِّمَّنْ خَلَقَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالَ رَبُّنَا ٱلَّذِىٓ"
+        }
+      ],
+      "activityId": "act_020_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 13,
+      "options": [
+        "فَأَخْرَجْنَا",
+        "لِلْمَلَـٰٓئِكَةِ",
+        "لِنَفْتِنَهُمْ",
+        "مَسَـٰكِنِهِمْ ۗ"
+      ],
+      "activityId": "act_020_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "كُلُوا۟ وَٱرْعَوْا۟ أَنْعَـٰمَكُمْ ۗ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "كُلُوا۟ مِن طَيِّبَـٰتِ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "فَقُلْنَا يَـٰٓـَٔادَمُ إِنَّ"
+        }
+      ],
+      "activityId": "act_020_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنْعَـٰمَكُمْ ۗ",
+        "وَأَرْجُلَكُم",
+        "وَأَطِيعُوٓا۟",
+        "وَلَتَعْلَمُنَّ"
+      ],
+      "activityId": "act_020_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_27",
+  "title": "سورة الصافات - الآيات 148-152",
+  "surahId": 37,
+  "ayahStart": 148,
+  "ayahEnd": 152,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱللَّهِ",
+        "إِلَىٰ",
+        "نَعَمْ",
+        "نُّزُلًا"
+      ],
+      "activityId": "act_037_27_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّۭا"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 149,
+          "text": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ"
+        }
+      ],
+      "activityId": "act_037_27_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْبَنَاتُ",
+        "بِمَيِّتِينَ",
+        "سَتَجِدُنِىٓ",
+        "بِٱلْيَمِينِ"
+      ],
+      "activityId": "act_037_27_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "options": [
+        {
+          "ayahNumber": 138,
+          "text": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ"
+        },
+        {
+          "ayahNumber": 150,
+          "text": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "بَلْ جَآءَ بِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_037_27_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 3,
+      "options": [
+        "فَسَاهَمَ",
+        "لَتُرْدِينِ",
+        "حَلِيمٍۢ",
+        "إِنَـٰثًۭا"
+      ],
+      "activityId": "act_037_27_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "options": [
+        {
+          "ayahNumber": 162,
+          "text": "مَآ أَنتُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 151,
+          "text": "أَلَآ إِنَّهُم مِّنْ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ"
+        }
+      ],
+      "activityId": "act_037_27_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 2,
+      "options": [
+        "لَكُمْ",
+        "بَعْضٍۢ",
+        "مِّنْ",
+        "وَرَبَّ"
+      ],
+      "activityId": "act_037_27_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "رَبِّ هَبْ لِى"
+        },
+        {
+          "ayahNumber": 140,
+          "text": "إِذْ أَبَقَ إِلَى"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 152,
+          "text": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ"
+        }
+      ],
+      "activityId": "act_037_27_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 2,
+      "options": [
+        "وَإِنَّهُمْ",
+        "أَتَدْعُونَ",
+        "تَأْكُلُونَ",
+        "إِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_037_27_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "محاجة المشركين في سلطانهم وتنزيه الله عما يصفون إلا عباد الله المخلصين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_03",
+  "title": "سورة فصلت - الآيات 11-15",
+  "surahId": 41,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلْقَمَرُ ۚ",
+        "ٱلشَّيْطَـٰنِ",
+        "وَلِلْأَرْضِ",
+        "فَٱلَّذِينَ"
+      ],
+      "activityId": "act_041_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَقَالُوا۟ لِجُلُودِهِمْ لِمَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        }
+      ],
+      "activityId": "act_041_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 10,
+      "options": [
+        "وَزَيَّنَّا",
+        "ٱلْقَوْلُ",
+        "مَّكَانٍۭ",
+        "يُنَادِيهِمْ"
+      ],
+      "activityId": "act_041_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَمَنْ أَحْسَنُ قَوْلًۭا"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَإِنْ أَعْرَضُوا۟ فَقُلْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ جَآءَتْهُمُ ٱلرُّسُلُ"
+        }
+      ],
+      "activityId": "act_041_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "بَيْنِنَا",
+        "صَـٰعِقَةًۭ",
+        "رَبَّنَآ",
+        "أَنذَرْتُكُمْ"
+      ],
+      "activityId": "act_041_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "مَّنْ عَمِلَ صَـٰلِحًۭا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ جَآءَتْهُمُ ٱلرُّسُلُ"
+        }
+      ],
+      "activityId": "act_041_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 11,
+      "options": [
+        "أَرْبَعَةِ",
+        "ٱللَّهَ ۖ",
+        "يَسْـَٔمُ",
+        "رِيحًۭا"
+      ],
+      "activityId": "act_041_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّ ٱلَّذِينَ يُلْحِدُونَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        }
+      ],
+      "activityId": "act_041_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱلَّتِى",
+        "لِلَّذِينَ",
+        "يَرَوْا۟",
+        "رَحْمَةًۭ"
+      ],
+      "activityId": "act_041_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "آيات خلق الأرض في يومين وجعل الرواسي فيها وتقدير الأقوات واستواء السماء وهي دخان."
+  }
+}

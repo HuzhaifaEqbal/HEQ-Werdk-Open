@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_04",
+  "title": "سورة غافر - الآيات 19-24",
+  "surahId": 40,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "هُوَ ۖ",
+        "وَمَا",
+        "ءَالِ",
+        "تَقُومُ"
+      ],
+      "activityId": "act_040_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَٱللَّهُ يَقْضِى بِٱلْحَقِّ ۖ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْـَٔازِفَةِ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        }
+      ],
+      "activityId": "act_040_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 8,
+      "options": [
+        "بَأْسَنَا",
+        "فِرْعَوْنُ",
+        "يَقْضُونَ",
+        "يُصْرَفُونَ"
+      ],
+      "activityId": "act_040_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "هُوَ ٱلْحَىُّ لَآ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ أَوَلَمْ يَسِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_040_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 15,
+      "options": [
+        "خُرُوجٍۢ",
+        "طِفْلًۭا",
+        "مِنْهُمْ",
+        "رُسُلَنَا"
+      ],
+      "activityId": "act_040_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "ذَٰلِكَ بِأَنَّهُمْ كَانَت"
+        }
+      ],
+      "activityId": "act_040_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "دَعْوَةٌۭ",
+        "ٱلْأَلْبَـٰبِ",
+        "كَذِبُهُۥ ۖ",
+        "فَكَفَرُوا۟"
+      ],
+      "activityId": "act_040_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "ٱلَّذِينَ كَذَّبُوا۟ بِٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ"
+        }
+      ],
+      "activityId": "act_040_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "إِسْرَٰٓءِيلَ",
+        "ٱلْـَٔازِفَةِ",
+        "لِلظَّـٰلِمِينَ",
+        "بِـَٔايَـٰتِنَا"
+      ],
+      "activityId": "act_040_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "۞ قُلْ إِنِّى نُهِيتُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذْ يَتَحَآجُّونَ فِى"
+        }
+      ],
+      "activityId": "act_040_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحَمْدُ",
+        "قَلِيلًۭا",
+        "وَقَـٰرُونَ",
+        "ٱلذَّنۢبِ"
+      ],
+      "activityId": "act_040_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "يوم الآزفة إذ القلوب لدى الحناجر كاظمين، وعلم الله بخائنة الأعين وما تخفي الصدور."
+  }
+}

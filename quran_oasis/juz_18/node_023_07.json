@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_07",
+  "title": "سورة المؤمنون - الآيات 37-42",
+  "surahId": 23,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 9,
+      "options": [
+        "بِمَبْعُوثِينَ",
+        "ٱسْتَكَانُوا۟",
+        "ٱلْفَآئِزُونَ",
+        "ٱلْمُؤْمِنُونَ"
+      ],
+      "activityId": "act_023_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "إِنْ هُوَ إِلَّا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنْ هُوَ إِلَّا رَجُلٌۢ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "إِنَّ ٱلَّذِينَ هُم"
+        }
+      ],
+      "activityId": "act_023_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 11,
+      "options": [
+        "بِمُؤْمِنِينَ",
+        "ٱلْعَآدِّينَ",
+        "ٱلْفِرْدَوْسَ",
+        "ٱلْكَـٰفِرُونَ"
+      ],
+      "activityId": "act_023_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى بِمَا"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قَالَ عَمَّا قَلِيلٍۢ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "قَالَ ٱخْسَـُٔوا۟ فِيهَا"
+        }
+      ],
+      "activityId": "act_023_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱنصُرْنِى",
+        "حَيَاتُنَا",
+        "حِسَابُهُۥ",
+        "خَلَقْنَـٰكُمْ"
+      ],
+      "activityId": "act_023_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "قَالَ عَمَّا قَلِيلٍۢ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "قَالَ ٱخْسَـُٔوا۟ فِيهَا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ"
+        }
+      ],
+      "activityId": "act_023_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 3,
+      "options": [
+        "لَّيُصْبِحُنَّ",
+        "رَحِمْنَـٰهُمْ",
+        "رَسُولَهُمْ",
+        "رَّسُولُهَا"
+      ],
+      "activityId": "act_023_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "فَذَرْهُمْ فِى غَمْرَتِهِمْ"
+        }
+      ],
+      "activityId": "act_023_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَخَذَتْهُمُ",
+        "ٱلْوَٰرِثُونَ",
+        "۞ هَيْهَاتَ",
+        "ءَابَآءَهُمُ"
+      ],
+      "activityId": "act_023_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "ثُمَّ أَنشَأْنَا مِنۢ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "ثُمَّ أَرْسَلْنَا رُسُلَنَا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "ثُمَّ أَرْسَلْنَا مُوسَىٰ"
+        }
+      ],
+      "activityId": "act_023_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 1,
+      "options": [
+        "أَنشَأْنَا",
+        "شِقْوَتُنَا",
+        "صَلَاتِهِمْ",
+        "صَلَوَٰتِهِمْ"
+      ],
+      "activityId": "act_023_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_07",
+  "title": "سورة الأحزاب - الآيات 31-35",
+  "surahId": 33,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "تَشَآءُ ۖ",
+        "عَلَيْكَ ۚ",
+        "نُّؤْتِهَآ",
+        "بِبَعْضٍۢ"
+      ],
+      "activityId": "act_033_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَمَا كَانَ لِمُؤْمِنٍۢ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَّا جَعَلَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ"
+        }
+      ],
+      "activityId": "act_033_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱتَّقِينَ",
+        "تَخْضَعْنَ",
+        "رَّسُولَ",
+        "عَلَيْهِ"
+      ],
+      "activityId": "act_033_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَرْنَ فِى بُيُوتِكُنَّ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ"
+        }
+      ],
+      "activityId": "act_033_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 13,
+      "options": [
+        "ضَلَّ",
+        "ٱللَّهَ",
+        "أَسْفَلَ",
+        "أَيْنَمَا"
+      ],
+      "activityId": "act_033_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَٱذْكُرْنَ مَا يُتْلَىٰ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَٱتَّبِعْ مَا يُوحَىٰٓ"
+        }
+      ],
+      "activityId": "act_033_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلْحِكْمَةِ ۚ",
+        "بِأَفْوَٰهِكُمْ ۖ",
+        "يَحْمِلْنَهَا",
+        "فَتَعَالَيْنَ"
+      ],
+      "activityId": "act_033_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "لَّا يَحِلُّ لَكَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        }
+      ],
+      "activityId": "act_033_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُؤْمِنَـٰتِ",
+        "وَٱلصَّـٰٓئِمِينَ",
+        "وَٱلْحِكْمَةِ ۚ",
+        "مَّلْعُونِينَ ۖ"
+      ],
+      "activityId": "act_033_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "مضاعفة الأجر لأمهات المؤمنين في الطاعة وأوصاف المؤمنين والمؤمنات وجزاؤهم."
+  }
+}

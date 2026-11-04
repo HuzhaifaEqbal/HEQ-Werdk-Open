@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_09",
+  "title": "سورة القصص - الآيات 49-54",
+  "surahId": 28,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 1,
+      "options": [
+        "فَأْتُوا۟",
+        "ءَانَسْتُ",
+        "ءَايَـٰتِكَ",
+        "أَتَىٰهَا"
+      ],
+      "activityId": "act_028_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "فَإِن لَّمْ يَسْتَجِيبُوا۟"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أُو۟لَـٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَإِذَا سَمِعُوا۟ ٱللَّغْوَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا"
+        }
+      ],
+      "activityId": "act_028_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْتَجِيبُوا۟",
+        "يَتَسَآءَلُونَ",
+        "يَكْفُلُونَهُۥ",
+        "يَنصُرُونَهُۥ"
+      ],
+      "activityId": "act_028_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "۞ وَلَقَدْ وَصَّلْنَا لَهُمُ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَنُمَكِّنَ لَهُمْ فِى"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ"
+        }
+      ],
+      "activityId": "act_028_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَذَكَّرُونَ",
+        "ٱلْغَـٰلِبُونَ",
+        "ٱلْـَٔاخِرَةَ ۖ",
+        "ٱلْـَٔامِنِينَ"
+      ],
+      "activityId": "act_028_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "فَأَمَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَنَزَعْنَا مِن كُلِّ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "۞ إِنَّ قَـٰرُونَ كَانَ"
+        }
+      ],
+      "activityId": "act_028_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 1,
+      "options": [
+        "ءَاتَيْنَـٰهُمُ",
+        "ٱلْفَرِحِينَ",
+        "ٱلْقُرْءَانَ",
+        "ٱلْكَـٰذِبِينَ"
+      ],
+      "activityId": "act_028_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَإِذَا سَمِعُوا۟ ٱللَّغْوَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ ٱلَّذِينَ حَقَّ"
+        }
+      ],
+      "activityId": "act_028_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 14,
+      "options": [
+        "مُسْلِمِينَ",
+        "تُبْصِرُونَ",
+        "تُرْجَعُونَ",
+        "تُصِيبَهُم"
+      ],
+      "activityId": "act_028_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "أُو۟لَـٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَرَبُّكَ يَخْلُقُ مَا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَرَبُّكَ يَعْلَمُ مَا"
+        }
+      ],
+      "activityId": "act_028_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَدْرَءُونَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْمَدِينَةَ",
+        "ٱلْمَرَاضِعَ"
+      ],
+      "activityId": "act_028_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

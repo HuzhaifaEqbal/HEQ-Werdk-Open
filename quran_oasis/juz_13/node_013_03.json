@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_013_03",
+  "title": "سورة الرعد - الآيات 13-18",
+  "surahId": 13,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْمَلَـٰٓئِكَةُ",
+        "أَفَٱتَّخَذْتُم",
+        "يَسْتَجِيبُوا۟",
+        "يَسْتَجِيبُونَ"
+      ],
+      "activityId": "act_013_03_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "wrongOptionsAyahNumbers": [
+        15,
+        11
+      ],
+      "activityId": "act_013_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسْتَجِيبُونَ",
+        "ٱسْتَجَابُوا۟",
+        "وَٱلْمَلَـٰٓئِكَةُ",
+        "يَسْتَجِيبُوا۟"
+      ],
+      "activityId": "act_013_03_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "wrongOptionsAyahNumbers": [
+        16,
+        12
+      ],
+      "activityId": "act_013_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلْـَٔاصَالِ ۩",
+        "أَفَٱتَّخَذْتُم",
+        "وَٱلْمَلَـٰٓئِكَةُ",
+        "يَسْتَجِيبُونَ"
+      ],
+      "activityId": "act_013_03_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "wrongOptionsAyahNumbers": [
+        17,
+        13
+      ],
+      "activityId": "act_013_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 9,
+      "options": [
+        "أَفَٱتَّخَذْتُم",
+        "ٱسْتَجَابُوا۟",
+        "يَسْتَجِيبُوا۟",
+        "يَسْتَجِيبُونَ"
+      ],
+      "activityId": "act_013_03_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "wrongOptionsAyahNumbers": [
+        18,
+        14
+      ],
+      "activityId": "act_013_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 27,
+      "options": [
+        "وَٱلْبَـٰطِلَ ۚ",
+        "بِبَـٰلِغِهِۦ ۚ",
+        "وَمَأْوَىٰهُمْ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_013_03_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "wrongOptionsAyahNumbers": [
+        19,
+        15
+      ],
+      "activityId": "act_013_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسْتَجَابُوا۟",
+        "أَفَٱتَّخَذْتُم",
+        "وَٱلْمَلَـٰٓئِكَةُ",
+        "يَسْتَجِيبُونَ"
+      ],
+      "activityId": "act_013_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرعد",
+    "juz": 13,
+    "theme": "عرض دلائل قدرة الله في الخلق والتدبير، وبيان أثر الوحي والإيمان، ومثل الحق والباطل، وصفات أولي الألباب ومآلهم."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_03",
+  "title": "سورة غافر - الآيات 13-18",
+  "surahId": 40,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "غَافِرِ",
+        "مِّنَ",
+        "وَبِمَا",
+        "ءَالَ"
+      ],
+      "activityId": "act_040_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ"
+        }
+      ],
+      "activityId": "act_040_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 4,
+      "options": [
+        "جَنَّـٰتِ",
+        "ٱلدِّينَ",
+        "أَسْبَـٰبَ",
+        "بِإِذْنِ"
+      ],
+      "activityId": "act_040_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْـَٔازِفَةِ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَقَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ"
+        }
+      ],
+      "activityId": "act_040_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 8,
+      "options": [
+        "أَمْرِىٓ",
+        "مِنَ",
+        "عَلَىٰ",
+        "فَسَوْفَ"
+      ],
+      "activityId": "act_040_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "فَلَمَّا جَآءَهُم بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَوْمَ هُم بَـٰرِزُونَ ۖ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ"
+        }
+      ],
+      "activityId": "act_040_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 8,
+      "options": [
+        "عِقَابِ",
+        "حَوْلَهُۥ",
+        "ٱلدُّنْيَا",
+        "شَىْءٌۭ ۚ"
+      ],
+      "activityId": "act_040_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "ٱلْيَوْمَ تُجْزَىٰ كُلُّ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَيَـٰقَوْمِ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ"
+        }
+      ],
+      "activityId": "act_040_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 7,
+      "options": [
+        "تُجْزَىٰ",
+        "دُونِ",
+        "بِإِذْنِ",
+        "ظُلْمَ"
+      ],
+      "activityId": "act_040_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْـَٔازِفَةِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_040_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 7,
+      "options": [
+        "كَفَرْتُمْ ۖ",
+        "كَـٰظِمِينَ ۚ",
+        "لِيَأْخُذُوهُ ۖ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_040_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "الدعاء بإخلاص الدين لله رفيع الدرجات ذو العرش ويوم التلاق والبروز لله الواحد القهار."
+  }
+}

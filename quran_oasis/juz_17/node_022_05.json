@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_022_05",
+  "title": "سورة الحج - الآيات 25-30",
+  "surahId": 22,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْمَسْجِدِ",
+        "وَلُؤْلُؤًۭا ۖ",
+        "وَلِبَاسُهُمْ",
+        "وَنُذِيقُهُۥ"
+      ],
+      "activityId": "act_022_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "لِّيَشْهَدُوا۟ مَنَـٰفِعَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "حُنَفَآءَ لِلَّهِ غَيْرَ"
+        }
+      ],
+      "activityId": "act_022_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلْقَآئِمِينَ",
+        "فَٱجْتَنِبُوا۟",
+        "فَٱسْتَمِعُوا۟",
+        "لَيَرْزُقَنَّهُمُ"
+      ],
+      "activityId": "act_022_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَأَذِّن فِى ٱلنَّاسِ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "أَفَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        }
+      ],
+      "activityId": "act_022_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنَّاسِ",
+        "أُوتُوا۟",
+        "أُو۟لَـٰٓئِكَ",
+        "بَعْضَهُم"
+      ],
+      "activityId": "act_022_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "لِّيَشْهَدُوا۟ مَنَـٰفِعَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "لَكُمْ فِيهَا مَنَـٰفِعُ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلِكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        }
+      ],
+      "activityId": "act_022_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 0,
+      "options": [
+        "لِّيَشْهَدُوا۟",
+        "وَيَعْبُدُونَ",
+        "وَٱسْجُدُوا۟",
+        "وَٱعْبُدُوا۟"
+      ],
+      "activityId": "act_022_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ إِذَا ذُكِرَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "لَن يَنَالَ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 5,
+      "options": [
+        "وَلْيَطَّوَّفُوا۟",
+        "لَيُدْخِلَنَّهُم",
+        "لِلطَّآئِفِينَ",
+        "وَٱجْتَنِبُوا۟"
+      ],
+      "activityId": "act_022_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَـٰٓئِرَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "ذَٰلِكَ بِمَا قَدَّمَتْ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 17,
+      "options": [
+        "فَٱجْتَنِبُوا۟",
+        "وَلْيَطَّوَّفُوا۟",
+        "وَٱعْتَصِمُوا۟",
+        "وَٱلصَّـٰبِرِينَ"
+      ],
+      "activityId": "act_022_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

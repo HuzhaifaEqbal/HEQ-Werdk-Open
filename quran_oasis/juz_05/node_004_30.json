@@ -1,114 +1,134 @@
 {
   "nodeId": "hifz_004_30",
-  "title": "سورة النساء - الآيات 144-148",
+  "title": "سورة النساء - الآيات 144-147",
   "surahId": 4,
   "ayahStart": 144,
-  "ayahEnd": 148,
+  "ayahEnd": 147,
   "activities": [
     {
       "type": "fill_in_the_blank",
       "ayahNumber": 144,
-      "missingWordPosition": 10,
+      "missingWordPosition": 9,
       "options": [
-        "ٱلۡمُؤۡمِنِينَۚ",
-        "بِأَعۡدَآئِكُمۡۚ",
-        "بِأَلۡسِنَتِهِمۡ",
-        "وَٱعۡتَصَمُواْ"
+        "وَٱلْمُؤْتُونَ",
+        "وَسُلَيْمَـٰنَ ۚ",
+        "ٱلْمُؤْمِنِينَ ۚ",
+        "وَيُسَلِّمُوا۟"
       ],
       "activityId": "act_004_30_01"
     },
     {
-      "type": "next_ayah",
+      "type": "next_ayah_sequence",
       "currentAyahNumber": 144,
       "correctNextAyahNumber": 145,
-      "wrongOptionsAyahNumbers": [
-        146,
-        142
+      "options": [
+        {
+          "ayahNumber": 79,
+          "text": "مَّآ أَصَابَكَ مِنْ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "إِنَّ ٱلْمُنَـٰفِقِينَ فِى"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "إِن يَدْعُونَ مِن"
+        }
       ],
       "activityId": "act_004_30_02"
     },
     {
       "type": "fill_in_the_blank",
       "ayahNumber": 145,
-      "missingWordPosition": 2,
+      "missingWordPosition": 6,
       "options": [
-        "ٱلۡمُنَٰفِقِينَ",
-        "ٱلۡمُؤۡمِنِينَۚ",
-        "بِأَعۡدَآئِكُمۡۚ",
-        "بِأَلۡسِنَتِهِمۡ"
+        "حَقًّۭا ۚ",
+        "ٱلنَّارِ",
+        "عَلِيمٌۢ",
+        "قَوْمَهُمْ"
       ],
       "activityId": "act_004_30_03"
     },
     {
-      "type": "next_ayah",
+      "type": "next_ayah_sequence",
       "currentAyahNumber": 145,
       "correctNextAyahNumber": 146,
-      "wrongOptionsAyahNumbers": [
-        147,
-        143
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "۞ فَلْيُقَـٰتِلْ فِى سَبِيلِ"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "وَمَن يَكْسِبْ إِثْمًۭا"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "إِلَّا ٱلَّذِينَ تَابُوا۟"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        }
       ],
       "activityId": "act_004_30_04"
     },
     {
       "type": "fill_in_the_blank",
       "ayahNumber": 146,
-      "missingWordPosition": 5,
+      "missingWordPosition": 9,
       "options": [
-        "وَٱعۡتَصَمُواْ",
-        "ٱلۡمُنَٰفِقِينَ",
-        "ٱلۡمُؤۡمِنِينَۚ",
-        "بِأَعۡدَآئِكُمۡۚ"
+        "فَلْيَكُونُوا۟",
+        "بِعِلْمِهِۦ ۖ",
+        "فَأُو۟لَـٰٓئِكَ",
+        "بِظُلْمِهِمْ ۚ"
       ],
       "activityId": "act_004_30_05"
     },
     {
-      "type": "next_ayah",
+      "type": "next_ayah_sequence",
       "currentAyahNumber": 146,
       "correctNextAyahNumber": 147,
-      "wrongOptionsAyahNumbers": [
-        148,
-        144
+      "options": [
+        {
+          "ayahNumber": 147,
+          "text": "مَّا يَفْعَلُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 144,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ"
+        }
       ],
       "activityId": "act_004_30_06"
     },
     {
       "type": "fill_in_the_blank",
       "ayahNumber": 147,
-      "missingWordPosition": 4,
+      "missingWordPosition": 6,
       "options": [
-        "بِعَذَابِكُمۡ",
-        "ءَابَآؤُكُمۡ",
-        "أَبۡنَآئِكُمُ",
-        "ءَاتَىٰهُمُ"
+        "وَءَامَنتُمْ ۚ",
+        "ٱلصَّـٰعِقَةُ",
+        "فَأُو۟لَـٰٓئِكَ",
+        "بِٱلطَّيِّبِ ۖ"
       ],
       "activityId": "act_004_30_07"
-    },
-    {
-      "type": "next_ayah",
-      "currentAyahNumber": 147,
-      "correctNextAyahNumber": 148,
-      "wrongOptionsAyahNumbers": [
-        149,
-        145
-      ],
-      "activityId": "act_004_30_08"
-    },
-    {
-      "type": "fill_in_the_blank",
-      "ayahNumber": 148,
-      "missingWordPosition": 5,
-      "options": [
-        "بِٱلسُّوٓءِ",
-        "ءَاتَيۡنَآ",
-        "ءَاتَىٰهُمُ",
-        "بِعَذَابِكُمۡ"
-      ],
-      "activityId": "act_004_30_09"
     }
   ],
   "tutorContext": {
     "surahName": "النساء",
     "juz": 5,
-    "theme": "يدعو إلى نشر الخير والعفو، ويذكر حال أهل الكتاب في نقضهم المواثيق."
+    "theme": "النهي عن موالاة الكافرين وبيان درك المنافقين في النار وجزاء التوبة والاعتصام بالله والشكر."
   }
 }

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_02",
+  "title": "سورة الشعراء - الآيات 7-12",
+  "surahId": 26,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنۢبَتْنَا",
+        "أَهْلَكْنَا",
+        "أَيْدِيَكُمْ",
+        "أُنَبِّئُكُمْ"
+      ],
+      "activityId": "act_026_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ"
+        }
+      ],
+      "activityId": "act_026_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "أَكْثَرُهُم",
+        "أَنۢبَتْنَا",
+        "إِبْرَٰهِيمَ",
+        "إِسْرَٰٓءِيلَ"
+      ],
+      "activityId": "act_026_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ"
+        }
+      ],
+      "activityId": "act_026_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "بِسِحْرِهِۦ",
+        "بِعِبَادِىٓ",
+        "تَأْمُرُونَ"
+      ],
+      "activityId": "act_026_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "قَالَ لَهُم مُّوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "رَبِّ مُوسَىٰ وَهَـٰرُونَ"
+        }
+      ],
+      "activityId": "act_026_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "ءَابَآءَنَا",
+        "ءَابَآئِكُمُ",
+        "أَتُتْرَكُونَ"
+      ],
+      "activityId": "act_026_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "قَوْمَ فِرْعَوْنَ ۚ أَلَا"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "وَمَآ أَضَلَّنَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "كَذَّبَتْ قَوْمُ نُوحٍ"
+        }
+      ],
+      "activityId": "act_026_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "فِرْعَوْنَ ۚ",
+        "تَبْخَسُوا۟",
+        "تَخْلُدُونَ",
+        "تَشْعُرُونَ"
+      ],
+      "activityId": "act_026_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "قَالَ رَبِّ إِنِّىٓ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "قَالَ فِرْعَوْنُ وَمَا"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالَ رَبُّ ٱلْمَشْرِقِ"
+        }
+      ],
+      "activityId": "act_026_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 5,
+      "options": [
+        "يُكَذِّبُونِ",
+        "تَعْبَثُونَ",
+        "تَعْبُدُونَ",
+        "تَعْقِلُونَ"
+      ],
+      "activityId": "act_026_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

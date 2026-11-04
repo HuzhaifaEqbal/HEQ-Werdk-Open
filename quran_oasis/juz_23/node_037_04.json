@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_04",
+  "title": "سورة الصافات - الآيات 19-24",
+  "surahId": 37,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "لِأَبِيهِ",
+        "وَٰحِدَةٌۭ",
+        "تَرَىٰ ۚ",
+        "وَٱلْأَرْضِ"
+      ],
+      "activityId": "act_037_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا"
+        }
+      ],
+      "activityId": "act_037_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 2,
+      "options": [
+        "عِينٌۭ",
+        "لَكُمْ",
+        "هَـٰذَا",
+        "أَذَٰلِكَ"
+      ],
+      "activityId": "act_037_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "ثُمَّ إِنَّ مَرْجِعَهُمْ"
+        },
+        {
+          "ayahNumber": 125,
+          "text": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "هَـٰذَا يَوْمُ ٱلْفَصْلِ"
+        },
+        {
+          "ayahNumber": 181,
+          "text": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ"
+        }
+      ],
+      "activityId": "act_037_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "مُّبِينٌۭ",
+        "لَمِنَ",
+        "ٱلَّذِى",
+        "دُونَ"
+      ],
+      "activityId": "act_037_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟"
+        },
+        {
+          "ayahNumber": 165,
+          "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "بَلْ عَجِبْتَ وَيَسْخَرُونَ"
+        }
+      ],
+      "activityId": "act_037_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 3,
+      "options": [
+        "مُسْتَسْلِمُونَ",
+        "وَأَزْوَٰجَهُمْ",
+        "يَـٰوَيْلَنَا",
+        "ذُرِّيَّتَهُۥ"
+      ],
+      "activityId": "act_037_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        }
+      ],
+      "activityId": "act_037_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 4,
+      "options": [
+        "كُلِّ",
+        "إِلَىٰ",
+        "مَقَامٌۭ",
+        "عَلَيْهِ"
+      ],
+      "activityId": "act_037_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "أَئِفْكًا ءَالِهَةًۭ دُونَ"
+        },
+        {
+          "ayahNumber": 130,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+        }
+      ],
+      "activityId": "act_037_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 1,
+      "options": [
+        "هَـٰذَا",
+        "أَصْطَفَى",
+        "سَلَـٰمٌ",
+        "إِنَّهُم"
+      ],
+      "activityId": "act_037_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "حسرة الظالمين ووقوفهم للحساب والسؤال عن شركائهم."
+  }
+}

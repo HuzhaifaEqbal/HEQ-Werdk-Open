@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_10",
+  "title": "سورة الشعراء - الآيات 55-60",
+  "surahId": 26,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 2,
+      "options": [
+        "لَغَآئِظُونَ",
+        "ٱلْقَالِينَ",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_026_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "وَإِنَّا لَجَمِيعٌ حَـٰذِرُونَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قَالَ فَعَلْتُهَآ إِذًۭا"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَكُنُوزٍۢ وَمَقَامٍۢ كَرِيمٍۢ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ"
+        }
+      ],
+      "activityId": "act_026_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 1,
+      "options": [
+        "لَجَمِيعٌ",
+        "تَعْثَوْا۟",
+        "تَمُنُّهَا",
+        "تَنَزَّلَتْ"
+      ],
+      "activityId": "act_026_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَٱجْعَلْنِى مِن وَرَثَةِ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "فَمَا لَنَا مِن"
+        }
+      ],
+      "activityId": "act_026_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَخْرَجْنَـٰهُم",
+        "يَسْتَعْجِلُونَ",
+        "يَسْتَهْزِءُونَ",
+        "يَسْمَعُونَكُمْ"
+      ],
+      "activityId": "act_026_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَكُنُوزٍۢ وَمَقَامٍۢ كَرِيمٍۢ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَإِنَّا لَجَمِيعٌ حَـٰذِرُونَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "فَأَتْبَعُوهُم مُّشْرِقِينَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_026_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 0,
+      "options": [
+        "وَكُنُوزٍۢ",
+        "تَٱللَّهِ",
+        "تُخْزِنِى",
+        "ثُعْبَانٌۭ"
+      ],
+      "activityId": "act_026_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ"
+        },
+        {
+          "ayahNumber": 200,
+          "text": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَنْ أَرْسِلْ مَعَنَا"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_026_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 1,
+      "options": [
+        "وَأَوْرَثْنَـٰهَا",
+        "يَنصُرُونَكُمْ",
+        "يَنفَعُونَكُمْ",
+        "ٱلْأَرْذَلُونَ"
+      ],
+      "activityId": "act_026_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "فَأَتْبَعُوهُم مُّشْرِقِينَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَٱتْلُ عَلَيْهِمْ نَبَأَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "أَوْ يَنفَعُونَكُمْ أَوْ"
+        }
+      ],
+      "activityId": "act_026_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَتْبَعُوهُم",
+        "ٱلْأَعْجَمِينَ",
+        "ٱلْأَقْدَمُونَ",
+        "ٱلْأَقْرَبِينَ"
+      ],
+      "activityId": "act_026_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_12",
+  "title": "سورة هود - الآيات 66-71",
+  "surahId": 11,
+  "ayahStart": 66,
+  "ayahEnd": 71,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلَّذِينَ",
+        "ٱلصَّيْحَةُ",
+        "أَيْدِيَهُمْ",
+        "أُرْسِلْنَآ"
+      ],
+      "activityId": "act_011_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        64
+      ],
+      "activityId": "act_011_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 5,
+      "options": [
+        "فَأَصْبَحُوا۟",
+        "بِٱلْبُشْرَىٰ",
+        "فَبَشَّرْنَـٰهَا",
+        "إِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_011_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_011_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 3,
+      "options": [
+        "يَغْنَوْا۟",
+        "خِيفَةًۭ ۚ",
+        "رُسُلُنَآ",
+        "فَضَحِكَتْ"
+      ],
+      "activityId": "act_011_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_011_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْبُشْرَىٰ",
+        "فَأَصْبَحُوا۟",
+        "فَبَشَّرْنَـٰهَا",
+        "وَٱمْرَأَتُهُۥ"
+      ],
+      "activityId": "act_011_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_011_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 3,
+      "options": [
+        "أَيْدِيَهُمْ",
+        "يَوْمِئِذٍ ۗ",
+        "وَٱلَّذِينَ",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_011_12_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "wrongOptionsAyahNumbers": [
+        72,
+        68
+      ],
+      "activityId": "act_011_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱمْرَأَتُهُۥ",
+        "بِٱلْبُشْرَىٰ",
+        "فَأَصْبَحُوا۟",
+        "ٱلْعَزِيزُ"
+      ],
+      "activityId": "act_011_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

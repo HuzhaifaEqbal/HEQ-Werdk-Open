@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_26",
+  "title": "سورة الشعراء - الآيات 148-152",
+  "surahId": 26,
+  "ayahStart": 148,
+  "ayahEnd": 152,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 0,
+      "options": [
+        "وَزُرُوعٍۢ",
+        "فَنَكُونَ",
+        "فَٱفْتَحْ",
+        "فِرْعَوْنَ"
+      ],
+      "activityId": "act_026_26_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "options": [
+        {
+          "ayahNumber": 149,
+          "text": "وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ"
+        },
+        {
+          "ayahNumber": 187,
+          "text": "فَأَسْقِطْ عَلَيْنَا كِسَفًۭا"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 165,
+          "text": "أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ"
+        }
+      ],
+      "activityId": "act_026_26_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 0,
+      "options": [
+        "وَتَنْحِتُونَ",
+        "فَيَأْخُذَكُمْ",
+        "فَيَقُولُوا۟",
+        "لَأَجْعَلَنَّكَ"
+      ],
+      "activityId": "act_026_26_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "options": [
+        {
+          "ayahNumber": 150,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 213,
+          "text": "فَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        }
+      ],
+      "activityId": "act_026_26_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَطِيعُونِ",
+        "لَغَآئِظُونَ",
+        "لَكَبِيرُكُمُ",
+        "لَمُدْرَكُونَ"
+      ],
+      "activityId": "act_026_26_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "options": [
+        {
+          "ayahNumber": 151,
+          "text": "وَلَا تُطِيعُوٓا۟ أَمْرَ"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "وَلَا تَمَسُّوهَا بِسُوٓءٍۢ"
+        },
+        {
+          "ayahNumber": 183,
+          "text": "وَلَا تَبْخَسُوا۟ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "وَلَا صَدِيقٍ حَمِيمٍۢ"
+        }
+      ],
+      "activityId": "act_026_26_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُسْرِفِينَ",
+        "ٱلْمُرْسَلِينَ",
+        "ٱلْمُقَرَّبِينَ",
+        "ٱلْمُنذَرِينَ"
+      ],
+      "activityId": "act_026_26_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "options": [
+        {
+          "ayahNumber": 152,
+          "text": "ٱلَّذِينَ يُفْسِدُونَ فِى"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "أَتُتْرَكُونَ فِى مَا"
+        },
+        {
+          "ayahNumber": 200,
+          "text": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى"
+        },
+        {
+          "ayahNumber": 219,
+          "text": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ"
+        }
+      ],
+      "activityId": "act_026_26_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 1,
+      "options": [
+        "يُفْسِدُونَ",
+        "ٱلْجَحِيمُ",
+        "ٱلْجِبَالِ",
+        "ٱلْعَذَابَ"
+      ],
+      "activityId": "act_026_26_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

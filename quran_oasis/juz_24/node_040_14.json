@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_040_14",
+  "title": "سورة غافر - الآيات 76-80",
+  "surahId": 40,
+  "ayahStart": 76,
+  "ayahEnd": 80,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 4,
+      "options": [
+        "فِيهَا ۖ",
+        "دُونِهِۦ",
+        "ٱلرَّشَادِ",
+        "ذَٰلِكُم"
+      ],
+      "activityId": "act_040_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذْ يَتَحَآجُّونَ فِى"
+        }
+      ],
+      "activityId": "act_040_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 7,
+      "options": [
+        "فَمَا",
+        "إِلَىٰ",
+        "رَجُلٌۭ",
+        "بَعْضَ"
+      ],
+      "activityId": "act_040_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "إِذِ ٱلْأَغْلَـٰلُ فِىٓ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَا يُجَـٰدِلُ فِىٓ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_040_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 15,
+      "options": [
+        "يُحْىِۦ",
+        "فِيهِ",
+        "دَأْبِ",
+        "كَانَ"
+      ],
+      "activityId": "act_040_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "هُوَ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَقَالَ ٱلَّذِينَ فِى"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        }
+      ],
+      "activityId": "act_040_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 4,
+      "options": [
+        "ءَامَنُوا۟ ۚ",
+        "نِسَآءَهُمْ ۚ",
+        "ٱلْأَنْعَـٰمَ",
+        "ٱلْأَغْلَـٰلُ"
+      ],
+      "activityId": "act_040_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مِن دُونِ ٱللَّهِ ۖ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَقَالَ مُوسَىٰٓ إِنِّى"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَلَكُمْ فِيهَا مَنَـٰفِعُ"
+        }
+      ],
+      "activityId": "act_040_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 5,
+      "options": [
+        "فَقَدْ",
+        "حَاجَةًۭ",
+        "حَمِيمٍۢ",
+        "صَلَحَ"
+      ],
+      "activityId": "act_040_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "عاقبة الفرح بالباطل في الأرض والأمر بالصبر على وعد الله الحق وتكذيب الرسل."
+  }
+}

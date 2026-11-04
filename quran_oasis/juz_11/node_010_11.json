@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_11",
+  "title": "سورة يونس - الآيات 61-66",
+  "surahId": 10,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 11,
+      "options": [
+        "تَعْمَلُونَ",
+        "يَحْزَنُونَ",
+        "يَخْرُصُونَ",
+        "ٱلْأَرْضِ ۗ"
+      ],
+      "activityId": "act_010_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_010_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 3,
+      "options": [
+        "أَوْلِيَآءَ",
+        "شُرَكَآءَ ۚ",
+        "قَوْلُهُمْ ۘ",
+        "يَتَّبِعُونَ"
+      ],
+      "activityId": "act_010_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_010_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُوا۟",
+        "تُفِيضُونَ",
+        "جَمِيعًا ۚ",
+        "ٱلدُّنْيَا"
+      ],
+      "activityId": "act_010_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_010_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "أَوْلِيَآءَ",
+        "تَعْمَلُونَ"
+      ],
+      "activityId": "act_010_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_010_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 3,
+      "options": [
+        "قَوْلُهُمْ ۘ",
+        "ٱلسَّمَآءِ",
+        "ٱلْبُشْرَىٰ",
+        "ٱلْحَيَوٰةِ"
+      ],
+      "activityId": "act_010_11_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_010_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ءَامَنُوا۟",
+        "وَكَانُوا۟",
+        "ٱلسَّمِيعُ"
+      ],
+      "activityId": "act_010_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

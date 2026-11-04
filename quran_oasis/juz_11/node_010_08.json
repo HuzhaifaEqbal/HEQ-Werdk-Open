@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_08",
+  "title": "سورة يونس - الآيات 43-48",
+  "surahId": 10,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 11,
+      "options": [
+        "يُبْصِرُونَ",
+        "أَنفُسَهُمْ",
+        "بِٱلْقِسْطِ",
+        "رَسُولُهُمْ"
+      ],
+      "activityId": "act_010_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_010_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 9,
+      "options": [
+        "أَنفُسَهُمْ",
+        "فَإِلَيْنَا",
+        "مُهْتَدِينَ",
+        "يَفْعَلُونَ"
+      ],
+      "activityId": "act_010_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_010_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 10,
+      "options": [
+        "يَتَعَارَفُونَ",
+        "نَتَوَفَّيَنَّكَ",
+        "وَيَقُولُونَ",
+        "مَرْجِعُهُمْ"
+      ],
+      "activityId": "act_010_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_010_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "نَتَوَفَّيَنَّكَ",
+        "وَيَقُولُونَ",
+        "يَتَعَارَفُونَ",
+        "بَيْنَهُمْ ۚ"
+      ],
+      "activityId": "act_010_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_010_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 6,
+      "options": [
+        "رَسُولُهُمْ",
+        "يَظْلِمُونَ",
+        "يُبْصِرُونَ",
+        "يَحْشُرُهُمْ"
+      ],
+      "activityId": "act_010_08_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_010_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 1,
+      "options": [
+        "وَيَقُولُونَ",
+        "نَتَوَفَّيَنَّكَ",
+        "يَلْبَثُوٓا۟",
+        "ٱلنَّهَارِ"
+      ],
+      "activityId": "act_010_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

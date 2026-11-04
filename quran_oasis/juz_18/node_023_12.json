@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_12",
+  "title": "سورة المؤمنون - الآيات 67-72",
+  "surahId": 23,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 0,
+      "options": [
+        "مُسْتَكْبِرِينَ",
+        "وَءَابَآؤُنَا",
+        "وَأَتْرَفْنَـٰهُمْ",
+        "وَٱلنَّهَارِ ۚ"
+      ],
+      "activityId": "act_023_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "أَمْ تَسْـَٔلُهُمْ خَرْجًۭا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ لَمْ يَعْرِفُوا۟"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "أَمْ يَقُولُونَ بِهِۦ"
+        }
+      ],
+      "activityId": "act_023_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 8,
+      "options": [
+        "ءَابَآءَهُمُ",
+        "مُتْرَفِيهِم",
+        "وَجَعَلْنَـٰهُمْ",
+        "وَقَوْمُهُمَا"
+      ],
+      "activityId": "act_023_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ لَمْ يَعْرِفُوا۟"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "أَمْ تَسْـَٔلُهُمْ خَرْجًۭا"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "أَمْ يَقُولُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "۞ وَلَوْ رَحِمْنَـٰهُمْ وَكَشَفْنَا"
+        }
+      ],
+      "activityId": "act_023_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 2,
+      "options": [
+        "يَعْرِفُوا۟",
+        "وَعَلَيْهَا",
+        "وَعَهْدِهِمْ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_023_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "أَمْ يَقُولُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "أَمْ تَسْـَٔلُهُمْ خَرْجًۭا"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًۭا"
+        }
+      ],
+      "activityId": "act_023_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَكْثَرُهُمْ",
+        "وَمَلَإِي۟هِۦ",
+        "وَٱرْحَمْنَا",
+        "وَٱعْمَلُوا۟"
+      ],
+      "activityId": "act_023_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَهُوَ ٱلَّذِىٓ أَنشَأَ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَهُوَ ٱلَّذِى يُحْىِۦ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "قَالُوٓا۟ أَءِذَا مِتْنَا"
+        }
+      ],
+      "activityId": "act_023_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 3,
+      "options": [
+        "أَهْوَآءَهُمْ",
+        "وَٱلشَّهَـٰدَةِ",
+        "وَٱلْأَبْصَـٰرَ",
+        "وَّقُلُوبُهُمْ"
+      ],
+      "activityId": "act_023_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "أَمْ تَسْـَٔلُهُمْ خَرْجًۭا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ لَمْ يَعْرِفُوا۟"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "أَمْ يَقُولُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ"
+        }
+      ],
+      "activityId": "act_023_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلرَّٰزِقِينَ",
+        "يَتَضَرَّعُونَ",
+        "يَسْتَـْٔخِرُونَ",
+        "يُحَافِظُونَ"
+      ],
+      "activityId": "act_023_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

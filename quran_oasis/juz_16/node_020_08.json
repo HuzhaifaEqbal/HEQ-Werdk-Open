@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_08",
+  "title": "سورة طه - الآيات 43-48",
+  "surahId": 20,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 0,
+      "options": [
+        "ٱذْهَبَآ",
+        "بِـَٔايَـٰتِى",
+        "تَذْكِرَةًۭ",
+        "تَطْغَوْا۟"
+      ],
+      "activityId": "act_020_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "فَقُولَا لَهُۥ قَوْلًۭا"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "فَأْتِيَاهُ فَقُولَآ إِنَّا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قَالَ ءَامَنتُمْ لَهُۥ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "لَهُۥ مَا فِى"
+        }
+      ],
+      "activityId": "act_020_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 0,
+      "options": [
+        "فَقُولَا",
+        "تَظْمَؤُا۟",
+        "جَآءَنَا",
+        "جَنَاحِكَ"
+      ],
+      "activityId": "act_020_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "قَالَا رَبَّنَآ إِنَّنَا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالَ رَبُّنَا ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَمَن يَأْتِهِۦ مُؤْمِنًۭا"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ"
+        }
+      ],
+      "activityId": "act_020_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 6,
+      "options": [
+        "عَلَيْنَآ",
+        "حَسَنًا ۚ",
+        "حُمِّلْنَآ",
+        "خَطَـٰيَـٰنَا"
+      ],
+      "activityId": "act_020_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "قَالَ لَا تَخَافَآ ۖ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "قَالَ يَبْنَؤُمَّ لَا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "قَالَ يَـٰهَـٰرُونُ مَا"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ فَمَا خَطْبُكَ"
+        }
+      ],
+      "activityId": "act_020_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "تَخَافَآ ۖ",
+        "عَلَيْهِمَا",
+        "فَأُو۟لَـٰٓئِكَ",
+        "فَأْتِيَاهُ"
+      ],
+      "activityId": "act_020_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "فَأْتِيَاهُ فَقُولَآ إِنَّا"
+        },
+        {
+          "ayahNumber": 134,
+          "text": "وَلَوْ أَنَّآ أَهْلَكْنَـٰهُم"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "إِنَّا قَدْ أُوحِىَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "فَقُولَا لَهُۥ قَوْلًۭا"
+        }
+      ],
+      "activityId": "act_020_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 10,
+      "options": [
+        "تُعَذِّبْهُمْ ۖ",
+        "فَٱقْذِفِيهِ",
+        "لَكَبِيرُكُمُ",
+        "لِتُخْرِجَنَا"
+      ],
+      "activityId": "act_020_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "إِنَّا قَدْ أُوحِىَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "إِنَّآ ءَامَنَّا بِرَبِّنَا"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قَالَ قَدْ أُوتِيتَ"
+        }
+      ],
+      "activityId": "act_020_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَذَابَ",
+        "فَرَجَعْنَـٰكَ",
+        "فَسَجَدُوٓا۟",
+        "فَطَرَنَا ۖ"
+      ],
+      "activityId": "act_020_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

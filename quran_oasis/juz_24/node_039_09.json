@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_039_09",
+  "title": "سورة الزمر - الآيات 42-47",
+  "surahId": 39,
+  "ayahStart": 42,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 13,
+      "options": [
+        "لِّقَوْمٍۢ",
+        "عَلَيْهَا",
+        "يُشْرِكُونَ",
+        "وَٱلَّذِى"
+      ],
+      "activityId": "act_039_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        }
+      ],
+      "activityId": "act_039_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلشَّمْسَ",
+        "يَـٰقَوْمِ",
+        "أَوَلَوْ",
+        "دُونِهِۦ ۚ"
+      ],
+      "activityId": "act_039_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "ضَرَبَ ٱللَّهُ مَثَلًۭا"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَن يَأْتِيهِ عَذَابٌۭ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّكَ مَيِّتٌۭ وَإِنَّهُم"
+        }
+      ],
+      "activityId": "act_039_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 6,
+      "options": [
+        "يَـٰعِبَادِىَ",
+        "وَتَعَـٰلَىٰ",
+        "ٱلْبُشْرَىٰ ۚ",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_039_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا ذُكِرَ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_039_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 9,
+      "options": [
+        "يَخْتَلِفُونَ ۗ",
+        "وَٱلشَّهَـٰدَةِ",
+        "بِٱلْـَٔاخِرَةِ ۖ",
+        "مُّتَشَـٰبِهًۭا"
+      ],
+      "activityId": "act_039_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "قُلِ ٱللَّهُمَّ فَاطِرَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمَّنْ هُوَ قَـٰنِتٌ"
+        }
+      ],
+      "activityId": "act_039_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "وَأَنِيبُوٓا۟",
+        "وَٱلشَّهَـٰدَةِ",
+        "رَحْمَتِهِۦ ۚ",
+        "ٱلْمُتَّقُونَ"
+      ],
+      "activityId": "act_039_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَلَوْ أَنَّ لِلَّذِينَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "لَّوْ أَرَادَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِن تَكْفُرُوا۟ فَإِنَّ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَدْ قَالَهَا ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_039_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 13,
+      "options": [
+        "سُوٓءِ",
+        "إِنَّآ",
+        "ذُوقُوا۟",
+        "نُفِخَ"
+      ],
+      "activityId": "act_039_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "قبض الأرواح في المنام والموت وشفاعة الله وحده واشمئزاز قلوب المشركين عند ذكر الله."
+  }
+}

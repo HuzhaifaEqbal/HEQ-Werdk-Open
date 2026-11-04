@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_027_11",
+  "title": "سورة النمل - الآيات 56-61",
+  "surahId": 27,
+  "ayahStart": 56,
+  "ayahEnd": 61,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 11,
+      "options": [
+        "قَرْيَتِكُمْ ۖ",
+        "سَاقَيْهَا ۚ",
+        "ضَلَـٰلَتِهِمْ ۖ",
+        "فَأَنجَيْنَـٰهُ"
+      ],
+      "activityId": "act_027_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "فَأَنجَيْنَـٰهُ وَأَهْلَهُۥٓ إِلَّا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَّا تَعْلُوا۟ عَلَىَّ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "ٱللَّهُ لَآ إِلَـٰهَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "أَلَّا يَسْجُدُوا۟ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_027_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَنجَيْنَـٰهُ",
+        "فَأَنۢبَتْنَا",
+        "فَٱنظُرُوا۟",
+        "قَرْيَتِكُمْ ۖ"
+      ],
+      "activityId": "act_027_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَلَا تَحْزَنْ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم"
+        }
+      ],
+      "activityId": "act_027_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُنذَرِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُرْسَلُونَ"
+      ],
+      "activityId": "act_027_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "قُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "قُل لَّا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قُلْ عَسَىٰٓ أَن"
+        }
+      ],
+      "activityId": "act_027_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱصْطَفَىٰٓ ۗ",
+        "لِقَوْمِهِۦٓ",
+        "مَسَـٰكِنَكُمْ",
+        "مُبْصِرًا ۚ"
+      ],
+      "activityId": "act_027_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أَمَّن جَعَلَ ٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ"
+        }
+      ],
+      "activityId": "act_027_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 9,
+      "options": [
+        "فَأَنۢبَتْنَا",
+        "قَوَارِيرَ ۗ",
+        "لَمُخْرَجُونَ",
+        "لَيَأْتِيَنِّى"
+      ],
+      "activityId": "act_027_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "أَمَّن جَعَلَ ٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَمَّن يَهْدِيكُمْ فِى"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ"
+        }
+      ],
+      "activityId": "act_027_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْبَحْرَيْنِ",
+        "لِنَفْسِهِۦ ۖ",
+        "لِيَبْلُوَنِىٓ",
+        "لِيَسْكُنُوا۟"
+      ],
+      "activityId": "act_027_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

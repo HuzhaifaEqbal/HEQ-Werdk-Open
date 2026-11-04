@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_09",
+  "title": "سورة الكهف - الآيات 49-54",
+  "surahId": 18,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "سُرَادِقُهَا ۚ",
+        "فَأَعِينُونِى",
+        "فَأَقَامَهُۥ ۖ"
+      ],
+      "activityId": "act_018_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذْ قَالَ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ أَلَمْ أَقُلْ"
+        }
+      ],
+      "activityId": "act_018_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 15,
+      "options": [
+        "أَفَتَتَّخِذُونَهُۥ",
+        "ٱعْتَزَلْتُمُوهُمْ",
+        "لِيَتَسَآءَلُوا۟",
+        "وَيَسْتَغْفِرُوا۟"
+      ],
+      "activityId": "act_018_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "۞ قَالَ أَلَمْ أَقُل"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        }
+      ],
+      "activityId": "act_018_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 1,
+      "options": [
+        "أَشْهَدتُّهُمْ",
+        "يُبْدِلَهُمَا",
+        "يُحَاوِرُهُۥٓ",
+        "يُرْهِقَهُمَا"
+      ],
+      "activityId": "act_018_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "وَيَوْمَ يَقُولُ نَادُوا۟"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "أَمَّا ٱلسَّفِينَةُ فَكَانَتْ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَأَمَّا ٱلْغُلَـٰمُ فَكَانَ"
+        }
+      ],
+      "activityId": "act_018_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 8,
+      "options": [
+        "يَسْتَجِيبُوا۟",
+        "لِـَٔابَآئِهِمْ ۚ",
+        "مُّوَاقِعُوهَا",
+        "وَحَفَفْنَـٰهُمَا"
+      ],
+      "activityId": "act_018_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَأَمَّا ٱلْجِدَارُ فَكَانَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "وَيَسْـَٔلُونَكَ عَن ذِى"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "فَأَتْبَعَ سَبَبًا"
+        }
+      ],
+      "activityId": "act_018_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمُجْرِمُونَ",
+        "وَمُنذِرِينَ ۚ",
+        "وَيَسْتَخْرِجَا",
+        "وَٱزْدَادُوا۟"
+      ],
+      "activityId": "act_018_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَلَبِثُوا۟ فِى كَهْفِهِمْ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِنَّا مَكَّنَّا لَهُۥ"
+        }
+      ],
+      "activityId": "act_018_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقُرْءَانِ",
+        "يُعِيدُوكُمْ",
+        "ٱتَّبَعْتَنِى",
+        "ٱسْتَطَـٰعُوا۟"
+      ],
+      "activityId": "act_018_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

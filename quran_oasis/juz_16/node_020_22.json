@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_020_22",
+  "title": "سورة طه - الآيات 126-130",
+  "surahId": 20,
+  "ayahStart": 126,
+  "ayahEnd": 130,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 4,
+      "options": [
+        "فَنَسِيتَهَا ۖ",
+        "فَسَتَعْلَمُونَ",
+        "فَلَنَأْتِيَنَّكَ",
+        "فَٱتَّبِعُونِى"
+      ],
+      "activityId": "act_020_22_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "options": [
+        {
+          "ayahNumber": 127,
+          "text": "وَكَذَٰلِكَ نَجْزِى مَنْ"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا"
+        },
+        {
+          "ayahNumber": 129,
+          "text": "وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ"
+        }
+      ],
+      "activityId": "act_020_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 8,
+      "options": [
+        "وَلَعَذَابُ",
+        "ٱلْوُجُوهُ",
+        "ٱمْكُثُوٓا۟",
+        "۞ مِنْهَا"
+      ],
+      "activityId": "act_020_22_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "options": [
+        {
+          "ayahNumber": 128,
+          "text": "أَفَلَمْ يَهْدِ لَهُمْ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "خَـٰلِدِينَ فِيهِ ۖ وَسَآءَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "فَأَخْرَجَ لَهُمْ عِجْلًۭا"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالَ لَهُم مُّوسَىٰ"
+        }
+      ],
+      "activityId": "act_020_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 10,
+      "options": [
+        "مَسَـٰكِنِهِمْ ۗ",
+        "يَكْفُلُهُۥ ۖ",
+        "يُخْرِجَاكُم",
+        "ٱلتَّابُوتِ"
+      ],
+      "activityId": "act_020_22_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "options": [
+        {
+          "ayahNumber": 129,
+          "text": "وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "جَنَّـٰتُ عَدْنٍۢ تَجْرِى"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَٱجْعَل لِّى وَزِيرًۭا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَٱحْلُلْ عُقْدَةًۭ مِّن"
+        }
+      ],
+      "activityId": "act_020_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 0,
+      "options": [
+        "وَلَوْلَا",
+        "قَبْلِهِۦ",
+        "قَوْمَهُۥ",
+        "قَوْمِهِۦ"
+      ],
+      "activityId": "act_020_22_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "options": [
+        {
+          "ayahNumber": 130,
+          "text": "فَٱصْبِرْ عَلَىٰ مَا"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "نَّحْنُ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        }
+      ],
+      "activityId": "act_020_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 11,
+      "options": [
+        "غُرُوبِهَا ۖ",
+        "ٱلسَّامِرِىُّ",
+        "ٱلْأَسْمَآءُ",
+        "ٱلْأَصْوَاتُ"
+      ],
+      "activityId": "act_020_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

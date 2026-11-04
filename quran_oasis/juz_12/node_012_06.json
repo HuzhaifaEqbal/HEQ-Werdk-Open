@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_06",
+  "title": "سورة يوسف - الآيات 31-36",
+  "surahId": 12,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 19,
+      "options": [
+        "أَكْبَرْنَهُۥ",
+        "وَلَيَكُونًۭا",
+        "يَدْعُونَنِىٓ",
+        "فَٱسْتَجَابَ"
+      ],
+      "activityId": "act_012_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_012_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 10,
+      "options": [
+        "فَٱسْتَعْصَمَ ۖ",
+        "لَيَسْجُنُنَّهُۥ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْجَـٰهِلِينَ"
+      ],
+      "activityId": "act_012_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_012_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 7,
+      "options": [
+        "يَدْعُونَنِىٓ",
+        "أَكْبَرْنَهُۥ",
+        "ٱلصَّـٰغِرِينَ",
+        "وَلَيَكُونًۭا"
+      ],
+      "activityId": "act_012_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_012_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 1,
+      "options": [
+        "فَٱسْتَجَابَ",
+        "أَكْبَرْنَهُۥ",
+        "يَدْعُونَنِىٓ",
+        "ٱلصَّـٰغِرِينَ"
+      ],
+      "activityId": "act_012_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_012_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 9,
+      "options": [
+        "لَيَسْجُنُنَّهُۥ",
+        "فَٱسْتَعْصَمَ ۖ",
+        "ٱلْمُحْسِنِينَ",
+        "بِتَأْوِيلِهِۦٓ ۖ"
+      ],
+      "activityId": "act_012_06_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_012_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 23,
+      "options": [
+        "بِتَأْوِيلِهِۦٓ ۖ",
+        "لَيَسْجُنُنَّهُۥ",
+        "فَٱسْتَعْصَمَ ۖ",
+        "ٱلْجَـٰهِلِينَ"
+      ],
+      "activityId": "act_012_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

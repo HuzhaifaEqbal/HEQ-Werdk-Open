@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_015_16",
+  "title": "سورة الحجر - الآيات 90-94",
+  "surahId": 15,
+  "ayahStart": 90,
+  "ayahEnd": 94,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُقْتَسِمِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "لَنَسْـَٔلَنَّهُمْ",
+        "ٱلْقُرْءَانَ"
+      ],
+      "activityId": "act_015_16_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "wrongOptionsAyahNumbers": [
+        92,
+        88
+      ],
+      "activityId": "act_015_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "لَنَسْـَٔلَنَّهُمْ",
+        "أَجْمَعِينَ",
+        "يَعْمَلُونَ"
+      ],
+      "activityId": "act_015_16_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "wrongOptionsAyahNumbers": [
+        93,
+        89
+      ],
+      "activityId": "act_015_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 2,
+      "options": [
+        "لَنَسْـَٔلَنَّهُمْ",
+        "ٱلْقُرْءَانَ",
+        "أَنزَلْنَا",
+        "ٱلْمُشْرِكِينَ"
+      ],
+      "activityId": "act_015_16_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "wrongOptionsAyahNumbers": [
+        94,
+        90
+      ],
+      "activityId": "act_015_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 3,
+      "options": [
+        "يَعْمَلُونَ",
+        "أَجْمَعِينَ",
+        "أَنزَلْنَا",
+        "فَوَرَبِّكَ"
+      ],
+      "activityId": "act_015_16_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "wrongOptionsAyahNumbers": [
+        95,
+        91
+      ],
+      "activityId": "act_015_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْمُقْتَسِمِينَ",
+        "ٱلْقُرْءَانَ",
+        "لَنَسْـَٔلَنَّهُمْ"
+      ],
+      "activityId": "act_015_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_03",
+  "title": "سورة الأحزاب - الآيات 9-13",
+  "surahId": 33,
+  "ayahStart": 9,
+  "ayahEnd": 13,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "فَأَرْسَلْنَا",
+        "ضِعْفَيْنِ ۚ",
+        "قُلُوبِكُمْ ۚ"
+      ],
+      "activityId": "act_033_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِذْ جَآءُوكُم مِّن"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        }
+      ],
+      "activityId": "act_033_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 8,
+      "options": [
+        "لِرَجُلٍۢ",
+        "خَبِيرًا",
+        "مِمَّا",
+        "زَاغَتِ"
+      ],
+      "activityId": "act_033_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالُوا۟ رَبَّنَآ إِنَّآ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "لَّا جُنَاحَ عَلَيْهِنَّ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَمَا كَانَ لِمُؤْمِنٍۢ"
+        }
+      ],
+      "activityId": "act_033_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "فَسْـَٔلُوهُنَّ",
+        "لَنُغْرِيَنَّكَ",
+        "ٱلْخِيَرَةُ",
+        "وَزُلْزِلُوا۟"
+      ],
+      "activityId": "act_033_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قُل لَّن يَنفَعَكُمُ"
+        }
+      ],
+      "activityId": "act_033_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "فَمَا",
+        "مَّا",
+        "بَعْدُ",
+        "عَلَى"
+      ],
+      "activityId": "act_033_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَت طَّآئِفَةٌۭ"
+        }
+      ],
+      "activityId": "act_033_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 12,
+      "options": [
+        "بِأَنَّ",
+        "وَتُخْفِى",
+        "مِّنْهُمُ",
+        "ٱلْحَيَوٰةَ"
+      ],
+      "activityId": "act_033_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "تذكير المؤمنين بنعمة الله يوم الأحزاب بريح وجنود لم تروها واضطراب القلوب."
+  }
+}

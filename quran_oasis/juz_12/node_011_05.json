@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_05",
+  "title": "سورة هود - الآيات 24-29",
+  "surahId": 11,
+  "ayahStart": 24,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْفَرِيقَيْنِ",
+        "ءَامَنُوٓا۟ ۚ",
+        "أَرَاذِلُنَا",
+        "وَءَاتَىٰنِى"
+      ],
+      "activityId": "act_011_05_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "wrongOptionsAyahNumbers": [
+        26,
+        22
+      ],
+      "activityId": "act_011_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرْسَلْنَا",
+        "تَجْهَلُونَ",
+        "أَرَءَيْتُمْ",
+        "تَذَكَّرُونَ"
+      ],
+      "activityId": "act_011_05_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "wrongOptionsAyahNumbers": [
+        27,
+        23
+      ],
+      "activityId": "act_011_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "تَعْبُدُوٓا۟",
+        "وَٱلْأَصَمِّ",
+        "أَرْسَلْنَا",
+        "أَرَءَيْتُمْ"
+      ],
+      "activityId": "act_011_05_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "wrongOptionsAyahNumbers": [
+        28,
+        24
+      ],
+      "activityId": "act_011_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 18,
+      "options": [
+        "أَرَاذِلُنَا",
+        "وَٱلْبَصِيرِ",
+        "كَٱلْأَعْمَىٰ",
+        "يَسْتَوِيَانِ"
+      ],
+      "activityId": "act_011_05_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "wrongOptionsAyahNumbers": [
+        29,
+        25
+      ],
+      "activityId": "act_011_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 16,
+      "options": [
+        "أَنُلْزِمُكُمُوهَا",
+        "وَٱلسَّمِيعِ ۚ",
+        "ٱلْفَرِيقَيْنِ",
+        "ءَامَنُوٓا۟ ۚ"
+      ],
+      "activityId": "act_011_05_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "wrongOptionsAyahNumbers": [
+        30,
+        26
+      ],
+      "activityId": "act_011_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 15,
+      "options": [
+        "ءَامَنُوٓا۟ ۚ",
+        "كَٱلْأَعْمَىٰ",
+        "يَسْتَوِيَانِ",
+        "أَرَاذِلُنَا"
+      ],
+      "activityId": "act_011_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

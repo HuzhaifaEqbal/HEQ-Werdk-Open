@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_022_13",
+  "title": "سورة الحج - الآيات 69-73",
+  "surahId": 22,
+  "ayahStart": 69,
+  "ayahEnd": 73,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 8,
+      "options": [
+        "تَخْتَلِفُونَ",
+        "ءَايَـٰتِنَا ۗ",
+        "ءَايَـٰتِهِۦ ۗ",
+        "أَخَذْتُهُمْ ۖ"
+      ],
+      "activityId": "act_022_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "أَلَمْ تَعْلَمْ أَنَّ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ"
+        }
+      ],
+      "activityId": "act_022_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱلْأَرْضِ ۗ",
+        "أَسْلِمُوا۟ ۗ",
+        "أَهْلَكْنَـٰهَا",
+        "أُمْنِيَّتِهِۦ"
+      ],
+      "activityId": "act_022_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "يَدْعُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "ٱللَّهُ يَصْطَفِى مِنَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ"
+        }
+      ],
+      "activityId": "act_022_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَعْبُدُونَ",
+        "إِبْرَٰهِيمَ ۚ",
+        "بِإِذْنِهِۦٓ ۗ",
+        "بِٱلْعَذَابِ"
+      ],
+      "activityId": "act_022_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ"
+        }
+      ],
+      "activityId": "act_022_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 18,
+      "options": [
+        "أَفَأُنَبِّئُكُم",
+        "وَٱلْمُقِيمِى",
+        "يَرْضَوْنَهُۥ ۗ",
+        "يَسْتَنقِذُوهُ"
+      ],
+      "activityId": "act_022_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِن"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_022_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱسْتَمِعُوا۟",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُخْبِتِينَ",
+        "ٱلْمُسْلِمِينَ"
+      ],
+      "activityId": "act_022_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

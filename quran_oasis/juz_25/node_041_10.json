@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_041_10",
+  "title": "سورة فصلت - الآيات 47-50",
+  "surahId": 41,
+  "ayahStart": 47,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 13,
+      "options": [
+        "أُنثَىٰ",
+        "يَكْفِ",
+        "دُعَآءِ",
+        "نَزْغٌۭ"
+      ],
+      "activityId": "act_041_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَضَلَّ عَنْهُم مَّا"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "مَّنْ عَمِلَ صَـٰلِحًۭا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟"
+        }
+      ],
+      "activityId": "act_041_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "مَسَّهُ",
+        "مُرِيبٍۢ",
+        "قَبْلُ ۖ",
+        "أَكِنَّةٍۢ"
+      ],
+      "activityId": "act_041_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا"
+        }
+      ],
+      "activityId": "act_041_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 6,
+      "options": [
+        "بِكُلِّ",
+        "وَإِن",
+        "وَفِىٓ",
+        "أُمَمٍۢ"
+      ],
+      "activityId": "act_041_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَلَئِنْ أَذَقْنَـٰهُ رَحْمَةًۭ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَمَا يُلَقَّىٰهَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "نَحْنُ أَوْلِيَآؤُكُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 16,
+      "options": [
+        "فُصِّلَتْ",
+        "مِّنْهُ",
+        "رُّجِعْتُ",
+        "مِّنَّا"
+      ],
+      "activityId": "act_041_10_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 25,
+    "theme": "إحاطة علم الله بالساعة والثمرات والأجنة وبراءة الشركاء وطبيعة الإنسان عند النعمة والضراء."
+  }
+}

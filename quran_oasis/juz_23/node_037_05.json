@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_05",
+  "title": "سورة الصافات - الآيات 25-30",
+  "surahId": 37,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "وَأَبْصِرْهُمْ",
+        "ٱلشَّيَـٰطِينِ",
+        "بِإِسْحَـٰقَ",
+        "تَنَاصَرُونَ"
+      ],
+      "activityId": "act_037_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "بَلْ هُمُ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "وَلَقَدْ مَنَنَّا عَلَىٰ"
+        }
+      ],
+      "activityId": "act_037_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَوْمَ",
+        "إِلَىٰٓ",
+        "أَذْبَحُكَ",
+        "تَعْقِلُونَ"
+      ],
+      "activityId": "act_037_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_037_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "دُونَ",
+        "عَنْهَا",
+        "وَرَبَّ",
+        "عَلَىٰ"
+      ],
+      "activityId": "act_037_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 165,
+          "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ"
+        }
+      ],
+      "activityId": "act_037_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "تَأْتُونَنَا",
+        "نَادَىٰنَا",
+        "فَأَلْقُوهُ",
+        "مَّجْنُونٍۭ"
+      ],
+      "activityId": "act_037_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 91,
+          "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قَالُوا۟ بَل لَّمْ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        }
+      ],
+      "activityId": "act_037_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "خَلَقَكُمْ",
+        "رَبَّكُمْ",
+        "تَكُونُوا۟",
+        "ٱلزَّقُّومِ"
+      ],
+      "activityId": "act_037_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "وَمَا كَانَ لَنَا"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَا تُجْزَوْنَ إِلَّا"
+        }
+      ],
+      "activityId": "act_037_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "سُلْطَـٰنٍۭ ۖ",
+        "فَمَالِـُٔونَ",
+        "فَأَلْقُوهُ",
+        "ٱلْخَطْفَةَ"
+      ],
+      "activityId": "act_037_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تخاصم المشركين مع قادتهم وتبرؤ التابعين والمتبوعين في العذاب."
+  }
+}

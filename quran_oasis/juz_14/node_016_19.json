@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_016_19",
+  "title": "سورة النحل - الآيات 109-113",
+  "surahId": 16,
+  "ayahStart": 109,
+  "ayahEnd": 113,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْخَـٰسِرُونَ",
+        "مُّطْمَئِنَّةًۭ",
+        "فَأَخَذَهُمُ",
+        "فَأَذَٰقَهَا"
+      ],
+      "activityId": "act_016_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_016_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 5,
+      "options": [
+        "هَاجَرُوا۟",
+        "يَأْتِيهَا",
+        "ٱلْعَذَابُ",
+        "وَٱلْخَوْفِ"
+      ],
+      "activityId": "act_016_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_016_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 15,
+      "options": [
+        "يُظْلَمُونَ",
+        "يَصْنَعُونَ",
+        "فَكَذَّبُوهُ",
+        "هَاجَرُوا۟"
+      ],
+      "activityId": "act_016_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_016_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 7,
+      "options": [
+        "مُّطْمَئِنَّةًۭ",
+        "ٱلْـَٔاخِرَةِ",
+        "وَصَبَرُوٓا۟",
+        "يُظْلَمُونَ"
+      ],
+      "activityId": "act_016_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_016_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 5,
+      "options": [
+        "فَكَذَّبُوهُ",
+        "فَأَذَٰقَهَا",
+        "وَصَبَرُوٓا۟",
+        "وَٱلْخَوْفِ"
+      ],
+      "activityId": "act_016_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

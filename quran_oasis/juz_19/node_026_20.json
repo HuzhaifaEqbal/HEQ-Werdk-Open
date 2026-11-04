@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_20",
+  "title": "سورة الشعراء - الآيات 115-120",
+  "surahId": 26,
+  "ayahStart": 115,
+  "ayahEnd": 120,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 3,
+      "options": [
+        "نَذِيرٌۭ",
+        "أَمِينٌۭ",
+        "أَنتُم",
+        "أَوَلَمْ"
+      ],
+      "activityId": "act_026_20_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "options": [
+        {
+          "ayahNumber": 116,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        },
+        {
+          "ayahNumber": 167,
+          "text": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        }
+      ],
+      "activityId": "act_026_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمَرْجُومِينَ",
+        "ٱلْمَسْجُونِينَ",
+        "۞ وَأَوْحَيْنَآ",
+        "أَفَبِعَذَابِنَا"
+      ],
+      "activityId": "act_026_20_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "options": [
+        {
+          "ayahNumber": 117,
+          "text": "قَالَ رَبِّ إِنَّ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "قَالَ كَلَّآ ۖ إِنَّ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالَ رَبُّ ٱلْمَشْرِقِ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ"
+        }
+      ],
+      "activityId": "act_026_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 4,
+      "options": [
+        "كَذَّبُونِ",
+        "عَادُونَ",
+        "عَجُوزًۭا",
+        "عَـٰكِفِينَ"
+      ],
+      "activityId": "act_026_20_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "options": [
+        {
+          "ayahNumber": 118,
+          "text": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ"
+        },
+        {
+          "ayahNumber": 131,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 133,
+          "text": "أَمَدَّكُم بِأَنْعَـٰمٍۢ وَبَنِينَ"
+        },
+        {
+          "ayahNumber": 134,
+          "text": "وَجَنَّـٰتٍۢ وَعُيُونٍ"
+        }
+      ],
+      "activityId": "act_026_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُخْرَجِينَ"
+      ],
+      "activityId": "act_026_20_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "options": [
+        {
+          "ayahNumber": 119,
+          "text": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَأَنجَيْنَا مُوسَىٰ وَمَن"
+        },
+        {
+          "ayahNumber": 152,
+          "text": "ٱلَّذِينَ يُفْسِدُونَ فِى"
+        },
+        {
+          "ayahNumber": 219,
+          "text": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ"
+        }
+      ],
+      "activityId": "act_026_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَنجَيْنَـٰهُ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْأَوَّلِينَ",
+        "ٱلْبَاقِينَ"
+      ],
+      "activityId": "act_026_20_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "options": [
+        {
+          "ayahNumber": 120,
+          "text": "ثُمَّ أَغْرَقْنَا بَعْدُ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 206,
+          "text": "ثُمَّ جَآءَهُم مَّا"
+        },
+        {
+          "ayahNumber": 172,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_026_20_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبَاقِينَ",
+        "ٱلْجَمْعَانِ",
+        "ٱلْعَذَابُ ۗ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_026_20_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

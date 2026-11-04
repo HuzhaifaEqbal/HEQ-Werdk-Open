@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_13",
+  "title": "سورة الإسراء - الآيات 72-76",
+  "surahId": 17,
+  "ayahStart": 72,
+  "ayahEnd": 76,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْـَٔاخِرَةِ",
+        "تَمْلِكُونَ",
+        "تَنزِيلًۭا",
+        "جَزَآؤُكُمْ"
+      ],
+      "activityId": "act_017_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "وَإِن كَادُوا۟ لَيَفْتِنُونَكَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَإِن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_017_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "لَيَفْتِنُونَكَ",
+        "وَٱلْمِسْكِينَ",
+        "يَسْتَطِيعُونَ",
+        "ٱلشَّيَـٰطِينِ ۖ"
+      ],
+      "activityId": "act_017_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَفَأَمِنتُمْ أَن يَخْسِفَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ أَمِنتُمْ أَن"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "إِنَّ عِبَادِى لَيْسَ"
+        }
+      ],
+      "activityId": "act_017_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 0,
+      "options": [
+        "وَلَوْلَآ",
+        "أُو۟لَـٰٓئِكَ",
+        "إِبْلِيسَ",
+        "إِمْلَـٰقٍۢ ۖ"
+      ],
+      "activityId": "act_017_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "إِذًۭا لَّأَذَقْنَـٰكَ ضِعْفَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_017_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 1,
+      "options": [
+        "لَّأَذَقْنَـٰكَ",
+        "جَزَآؤُهُم",
+        "دُعَآءَهُۥ",
+        "دُونِهِۦ ۖ"
+      ],
+      "activityId": "act_017_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَإِن كَادُوا۟ لَيَفْتِنُونَكَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَإِن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_017_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "لَيَسْتَفِزُّونَكَ",
+        "ٱلْمُسْتَقِيمِ ۚ",
+        "فَتَسْتَجِيبُونَ",
+        "لِّلْمُؤْمِنِينَ ۙ"
+      ],
+      "activityId": "act_017_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

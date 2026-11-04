@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_07",
+  "title": "سورة الصافات - الآيات 37-42",
+  "surahId": 37,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 2,
+      "options": [
+        "بِقَلْبٍۢ",
+        "بِٱلْحَقِّ",
+        "ذِكْرًۭا",
+        "إِلَـٰهَكُمْ"
+      ],
+      "activityId": "act_037_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "مَا لَكُمْ لَا"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ"
+        }
+      ],
+      "activityId": "act_037_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْعَذَابِ",
+        "ءَايَةًۭ",
+        "ٱلْفُلْكِ",
+        "يَوْمَئِذٍۢ"
+      ],
+      "activityId": "act_037_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 118,
+          "text": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَا تُجْزَوْنَ إِلَّا"
+        },
+        {
+          "ayahNumber": 122,
+          "text": "إِنَّهُمَا مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِذْ جَآءَ رَبَّهُۥ"
+        }
+      ],
+      "activityId": "act_037_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "إِلَّا",
+        "أَنَّ",
+        "رَّبُّ",
+        "لِلَّهِ"
+      ],
+      "activityId": "act_037_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِذْ جَآءَ رَبَّهُۥ"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَحِفْظًۭا مِّن كُلِّ"
+        }
+      ],
+      "activityId": "act_037_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 2,
+      "options": [
+        "يَوْمِ",
+        "رِزْقٌۭ",
+        "ضَلَّ",
+        "ٱللَّهِ"
+      ],
+      "activityId": "act_037_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 165,
+          "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ"
+        },
+        {
+          "ayahNumber": 159,
+          "text": "سُبْحَـٰنَ ٱللَّهِ عَمَّا"
+        }
+      ],
+      "activityId": "act_037_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 2,
+      "options": [
+        "مِّنْ",
+        "أَكْثَرُ",
+        "رِزْقٌۭ",
+        "كِدتَّ"
+      ],
+      "activityId": "act_037_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ"
+        }
+      ],
+      "activityId": "act_037_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 1,
+      "options": [
+        "لَهُۥ",
+        "لَا",
+        "قُلْ",
+        "وَهُم"
+      ],
+      "activityId": "act_037_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تصديق الرسول للمرسلين وجزاء المؤمنين المخلصين برزق معلوم وفواكه مكرمون."
+  }
+}

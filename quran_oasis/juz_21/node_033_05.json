@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_033_05",
+  "title": "سورة الأحزاب - الآيات 19-24",
+  "surahId": 33,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 17,
+      "options": [
+        "نَـٰظِرِينَ",
+        "كَٱلَّذِينَ",
+        "ٱلْخَوْفُ",
+        "عَلِيمًا"
+      ],
+      "activityId": "act_033_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَرْنَ فِى بُيُوتِكُنَّ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ"
+        }
+      ],
+      "activityId": "act_033_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 12,
+      "options": [
+        "يَنَالُوا۟",
+        "ٱلظُّنُونَا۠",
+        "ٱلْأَعْرَابِ",
+        "يُؤْذَيْنَ ۗ"
+      ],
+      "activityId": "act_033_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "لَّقَدْ كَانَ لَكُمْ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَرْنَ فِى بُيُوتِكُنَّ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَٱتَّبِعْ مَا يُوحَىٰٓ"
+        }
+      ],
+      "activityId": "act_033_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 9,
+      "options": [
+        "قُلْ",
+        "كَانَ",
+        "هُوَ",
+        "بِهِمْ"
+      ],
+      "activityId": "act_033_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ"
+        }
+      ],
+      "activityId": "act_033_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "وَرَسُولُهُۥ",
+        "لِمُؤْمِنٍۢ",
+        "نَكَحْتُمُ",
+        "حِجَابٍۢ ۚ"
+      ],
+      "activityId": "act_033_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَقَرْنَ فِى بُيُوتِكُنَّ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "قُلْ مَن ذَا"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ"
+        }
+      ],
+      "activityId": "act_033_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 9,
+      "options": [
+        "أَن",
+        "مَّن",
+        "عَنْ",
+        "مَّا"
+      ],
+      "activityId": "act_033_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "لَّا يَحِلُّ لَكَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        }
+      ],
+      "activityId": "act_033_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "ضَلَّ",
+        "إِذْ",
+        "إِلَى",
+        "أَوْ"
+      ],
+      "activityId": "act_033_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "الإشادة بالأسوة الحسنة في رسول الله وثبات المؤمنين الصادقين في المحنة."
+  }
+}

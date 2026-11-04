@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_034_09",
+  "title": "سورة سبأ - الآيات 40-45",
+  "surahId": 34,
+  "ayahStart": 40,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 5,
+      "options": [
+        "تَسْتَقْدِمُونَ",
+        "وَلِسُلَيْمَـٰنَ",
+        "لَتَأْتِيَنَّكُمْ",
+        "لِلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_034_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "قُلْ إِنَّ رَبِّى"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "قُلْ إِنَّ رَبِّى"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "قَالُوا۟ سُبْحَـٰنَكَ أَنتَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمَا كَانَ لَهُۥ"
+        }
+      ],
+      "activityId": "act_034_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 7,
+      "options": [
+        "كَانُوا۟",
+        "صَـٰلِحًۭا",
+        "حَتَّىٰٓ",
+        "إِلَىٰ"
+      ],
+      "activityId": "act_034_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "فَٱلْيَوْمَ لَا يَمْلِكُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قُلْ مَا سَأَلْتُكُم"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ قُلْ إِنَّمَآ أَعِظُكُم"
+        }
+      ],
+      "activityId": "act_034_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 9,
+      "options": [
+        "مَوْتِهِۦٓ",
+        "لِلَّذِينَ",
+        "رَبُّنَا",
+        "مِعْشَارَ"
+      ],
+      "activityId": "act_034_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "يَعْلَمُ مَا يَلِجُ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قُل لَّكُم مِّيعَادُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ قُلْ إِنَّمَآ أَعِظُكُم"
+        }
+      ],
+      "activityId": "act_034_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 17,
+      "options": [
+        "أَنَحْنُ",
+        "فَضْلًۭا ۖ",
+        "وَقَالُوا۟",
+        "شَهْرٌۭ ۖ"
+      ],
+      "activityId": "act_034_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَآ ءَاتَيْنَـٰهُم مِّن"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ"
+        }
+      ],
+      "activityId": "act_034_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 5,
+      "options": [
+        "هَـٰذَا",
+        "لَّكُم",
+        "فَبِمَا",
+        "وَمَآ"
+      ],
+      "activityId": "act_034_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ قُلْ إِنَّمَآ أَعِظُكُم"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَكَذَّبَ ٱلَّذِينَ مِن"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقَدْ كَفَرُوا۟ بِهِۦ"
+        }
+      ],
+      "activityId": "act_034_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "مَآ",
+        "إِلَىٰ",
+        "وَهُوَ",
+        "يَلِجُ"
+      ],
+      "activityId": "act_034_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "يوم يحشر الله الجميع وشهادة الملائكة وعجز الأصنام ورمي الكفار للحق بالسحر."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_16",
+  "title": "سورة الإسراء - الآيات 87-91",
+  "surahId": 17,
+  "ayahStart": 87,
+  "ayahEnd": 91,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 5,
+      "options": [
+        "فَضْلَهُۥ",
+        "إِلَيْهِمْ",
+        "إِنَـٰثًا ۚ",
+        "إِيَّاهُ ۖ"
+      ],
+      "activityId": "act_017_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "قُل لَّئِنِ ٱجْتَمَعَتِ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "قُل لَّوْ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "قُلْ ءَامِنُوا۟ بِهِۦٓ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "قُلِ ٱدْعُوا۟ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_017_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْقُرْءَانِ",
+        "لِلْأَوَّٰبِينَ",
+        "لِلْكَـٰفِرِينَ",
+        "لِلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_017_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "options": [
+        {
+          "ayahNumber": 89,
+          "text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ"
+        }
+      ],
+      "activityId": "act_017_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقُرْءَانِ",
+        "لِنَفْسِهِۦ ۖ",
+        "لِيَذَّكَّرُوا۟",
+        "لِيُخْرِجُوكَ"
+      ],
+      "activityId": "act_017_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "وَقَالُوا۟ لَن نُّؤْمِنَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَقَالُوٓا۟ أَءِذَا كُنَّا"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "وَمَا مَنَعَ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ"
+        }
+      ],
+      "activityId": "act_017_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقَالُوا۟",
+        "فَظَلَمُوا۟",
+        "فَفَسَقُوا۟",
+        "فَمَحَوْنَآ"
+      ],
+      "activityId": "act_017_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "options": [
+        {
+          "ayahNumber": 91,
+          "text": "أَوْ تَكُونَ لَكَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "أَوْ يَكُونَ لَكَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "أَوْ خَلْقًۭا مِّمَّا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "أَوْ تُسْقِطَ ٱلسَّمَآءَ"
+        }
+      ],
+      "activityId": "act_017_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْأَنْهَـٰرَ",
+        "قُلُوبِهِمْ",
+        "كَفَرْتُمْ ۙ",
+        "كِلَاهُمَا"
+      ],
+      "activityId": "act_017_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

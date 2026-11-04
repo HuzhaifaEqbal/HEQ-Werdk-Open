@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_12",
+  "title": "سورة مريم - الآيات 67-72",
+  "surahId": 19,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنُ",
+        "ٱلْعَذَابَ",
+        "ٱلْقِيَـٰمَةِ",
+        "ٱلْمَخَاضُ"
+      ],
+      "activityId": "act_019_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَـٰطِينَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "ثُمَّ لَنَحْنُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "ثُمَّ نُنَجِّى ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "ثُمَّ لَنَنزِعَنَّ مِن"
+        }
+      ],
+      "activityId": "act_019_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 1,
+      "options": [
+        "لَنَحْشُرَنَّهُمْ",
+        "لِعِبَـٰدَتِهِۦ ۚ",
+        "يَأْتُونَنَا ۖ",
+        "يَـٰٓإِبْرَٰهِيمُ ۖ"
+      ],
+      "activityId": "act_019_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "ثُمَّ لَنَنزِعَنَّ مِن"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "ثُمَّ لَنَحْنُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "ثُمَّ نُنَجِّى ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "إِن كُلُّ مَن"
+        }
+      ],
+      "activityId": "act_019_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 1,
+      "options": [
+        "لَنَنزِعَنَّ",
+        "ٱلْإِنسَـٰنُ",
+        "ٱلْمَوَٰلِىَ",
+        "ٱمْرَأَتِى"
+      ],
+      "activityId": "act_019_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "ثُمَّ لَنَحْنُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "ثُمَّ نُنَجِّى ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَٱلشَّيَـٰطِينَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ"
+        }
+      ],
+      "activityId": "act_019_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلَّذِينَ",
+        "ٱنتَبَذَتْ",
+        "ٱهْتَدَوْا۟",
+        "۞ فَخَلَفَ"
+      ],
+      "activityId": "act_019_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَإِن مِّنكُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِنَّ ٱللَّهَ رَبِّى"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَا نَتَنَزَّلُ إِلَّا"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِلَّا مَن تَابَ"
+        }
+      ],
+      "activityId": "act_019_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 3,
+      "options": [
+        "وَارِدُهَا ۚ",
+        "وَيَكُونُونَ",
+        "وَٱتَّبَعُوا۟",
+        "وَٱتَّخَذُوا۟"
+      ],
+      "activityId": "act_019_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "ثُمَّ نُنَجِّى ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "ثُمَّ لَنَحْنُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "ثُمَّ لَنَنزِعَنَّ مِن"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ"
+        }
+      ],
+      "activityId": "act_019_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "وَٱلزَّكَوٰةِ",
+        "وَٱلْبَـٰقِيَـٰتُ",
+        "وَٱهْجُرْنِى"
+      ],
+      "activityId": "act_019_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

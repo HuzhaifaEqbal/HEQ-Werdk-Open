@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_13",
+  "title": "سورة ص - الآيات 69-73",
+  "surahId": 38,
+  "ayahStart": 69,
+  "ayahEnd": 73,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 5,
+      "options": [
+        "أُو۟لَـٰٓئِكَ",
+        "عَطَآؤُنَا",
+        "بِٱلْمَلَإِ",
+        "قَـٰصِرَٰتُ"
+      ],
+      "activityId": "act_038_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "وَقَالُوا۟ مَا لَنَا"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "إِن يُوحَىٰٓ إِلَىَّ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ عِندَهُمْ خَزَآئِنُ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ"
+        }
+      ],
+      "activityId": "act_038_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "أَنَّمَآ",
+        "جَآءَهُم",
+        "فَيُضِلَّكَ",
+        "بِٱلسُّوقِ"
+      ],
+      "activityId": "act_038_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "إِلَّا عِبَادَكَ مِنْهُمُ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "إِذْ قَالَ رَبُّكَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "جُندٌۭ مَّا هُنَالِكَ"
+        }
+      ],
+      "activityId": "act_038_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 4,
+      "options": [
+        "تَبِعَكَ",
+        "إِنِّى",
+        "فِيهِ",
+        "فَوَاقٍۢ"
+      ],
+      "activityId": "act_038_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ٱصْبِرْ عَلَىٰ مَا"
+        }
+      ],
+      "activityId": "act_038_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 5,
+      "options": [
+        "وَّلَاتَ",
+        "رَبِّ",
+        "زَاغَتْ",
+        "رُّوحِى"
+      ],
+      "activityId": "act_038_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنَّ هَـٰذَآ أَخِى"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "هَـٰذَا مَا تُوعَدُونَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ"
+        }
+      ],
+      "activityId": "act_038_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "مَنَاصٍۢ",
+        "وَنَفَخْتُ",
+        "كُلُّهُمْ",
+        "وَٰحِدَةًۭ"
+      ],
+      "activityId": "act_038_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "الأمر بإنذار الناس بأنه لا إله إلا الله الواحد القهار ونبأ الخصام في الملأ الأعلى."
+  }
+}

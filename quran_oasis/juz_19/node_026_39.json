@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_39",
+  "title": "سورة الشعراء - الآيات 213-217",
+  "surahId": 26,
+  "ayahStart": 213,
+  "ayahEnd": 217,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 213,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْمُعَذَّبِينَ",
+        "لَمَعْزُولُونَ",
+        "وَأَوْرَثْنَـٰهَا",
+        "وَٱلشُّعَرَآءُ"
+      ],
+      "activityId": "act_026_39_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 213,
+      "correctNextAyahNumber": 214,
+      "options": [
+        {
+          "ayahNumber": 214,
+          "text": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "طسٓمٓ"
+        },
+        {
+          "ayahNumber": 215,
+          "text": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ"
+        },
+        {
+          "ayahNumber": 212,
+          "text": "إِنَّهُمْ عَنِ ٱلسَّمْعِ"
+        }
+      ],
+      "activityId": "act_026_39_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 214,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَقْرَبِينَ",
+        "وَٱلْغَاوُۥنَ",
+        "وَٱنتَصَرُوا۟",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_026_39_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 214,
+      "correctNextAyahNumber": 215,
+      "options": [
+        {
+          "ayahNumber": 215,
+          "text": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قَالَ لِمَنْ حَوْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 220,
+          "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ"
+        },
+        {
+          "ayahNumber": 209,
+          "text": "ذِكْرَىٰ وَمَا كُنَّا"
+        }
+      ],
+      "activityId": "act_026_39_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 215,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "يَسْتَعْجِلُونَ",
+        "يَسْتَهْزِءُونَ",
+        "يَسْمَعُونَكُمْ"
+      ],
+      "activityId": "act_026_39_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 215,
+      "correctNextAyahNumber": 216,
+      "options": [
+        {
+          "ayahNumber": 216,
+          "text": "فَإِنْ عَصَوْكَ فَقُلْ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 178,
+          "text": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ"
+        },
+        {
+          "ayahNumber": 168,
+          "text": "قَالَ إِنِّى لِعَمَلِكُم"
+        }
+      ],
+      "activityId": "act_026_39_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 216,
+      "missingWordPosition": 6,
+      "options": [
+        "تَعْمَلُونَ",
+        "فَٱذْهَبَا",
+        "فَٱنفَلَقَ",
+        "فِرْعَوْنَ ۚ"
+      ],
+      "activityId": "act_026_39_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 216,
+      "correctNextAyahNumber": 217,
+      "options": [
+        {
+          "ayahNumber": 217,
+          "text": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ"
+        },
+        {
+          "ayahNumber": 222,
+          "text": "تَنَزَّلُ عَلَىٰ كُلِّ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَهُمْ عَلَىَّ ذَنۢبٌۭ"
+        }
+      ],
+      "activityId": "act_026_39_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 217,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْعَزِيزِ",
+        "قَلِيلُونَ",
+        "كَٱلطَّوْدِ",
+        "لَأُقَطِّعَنَّ"
+      ],
+      "activityId": "act_026_39_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

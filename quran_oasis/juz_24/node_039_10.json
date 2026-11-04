@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_039_10",
+  "title": "سورة الزمر - الآيات 48-52",
+  "surahId": 39,
+  "ayahStart": 48,
+  "ayahEnd": 52,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "بِهِم",
+        "مِّنْهُ",
+        "لَمْ",
+        "مِّنَّا"
+      ],
+      "activityId": "act_039_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "قُلِ ٱللَّهُمَّ فَاطِرَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمَّنْ هُوَ قَـٰنِتٌ"
+        }
+      ],
+      "activityId": "act_039_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلَّتِى",
+        "قَالَ",
+        "لَّهُ",
+        "يَهِيجُ"
+      ],
+      "activityId": "act_039_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَدْ قَالَهَا ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأُمِرْتُ لِأَنْ أَكُونَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ"
+        }
+      ],
+      "activityId": "act_039_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْأَنفُسَ",
+        "جُلُودُ",
+        "إِلَىٰٓ",
+        "أَغْنَىٰ"
+      ],
+      "activityId": "act_039_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ"
+        }
+      ],
+      "activityId": "act_039_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 7,
+      "options": [
+        "وَٱلْأَرْضُ",
+        "مُمْسِكَـٰتُ",
+        "ٱلْمُتَّقِينَ",
+        "هَـٰٓؤُلَآءِ"
+      ],
+      "activityId": "act_039_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَن يَأْتِيهِ عَذَابٌۭ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        }
+      ],
+      "activityId": "act_039_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 7,
+      "options": [
+        "يَشَآءُ",
+        "أَصْحَـٰبِ",
+        "عَلَىٰٓ",
+        "ءَانَآءَ"
+      ],
+      "activityId": "act_039_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "ظهور السيئات ومكر الكافرين وعجز أموالهم عن النجاة كما عجز الذين من قبلهم."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_08",
+  "title": "سورة النحل - الآيات 43-48",
+  "surahId": 16,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرْسَلْنَا",
+        "يَشْعُرُونَ",
+        "يَأْتِيَهُمُ",
+        "يَأْخُذَهُمْ"
+      ],
+      "activityId": "act_016_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_016_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱلزُّبُرِ ۗ",
+        "بِمُعْجِزِينَ",
+        "تَقَلُّبِهِمْ",
+        "يَتَفَيَّؤُا۟"
+      ],
+      "activityId": "act_016_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_016_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلسَّيِّـَٔاتِ",
+        "وَلَعَلَّهُمْ",
+        "إِلَيْهِمْ ۚ",
+        "أَرْسَلْنَا"
+      ],
+      "activityId": "act_016_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_016_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 7,
+      "options": [
+        "بِمُعْجِزِينَ",
+        "وَأَنزَلْنَآ",
+        "وَٱلزُّبُرِ ۗ",
+        "يَتَفَكَّرُونَ"
+      ],
+      "activityId": "act_016_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_016_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 2,
+      "options": [
+        "يَأْخُذَهُمْ",
+        "تَعْلَمُونَ",
+        "ٱلسَّيِّـَٔاتِ",
+        "ٱلْعَذَابُ"
+      ],
+      "activityId": "act_016_08_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "wrongOptionsAyahNumbers": [
+        49,
+        45
+      ],
+      "activityId": "act_016_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلشَّمَآئِلِ",
+        "بِٱلْبَيِّنَـٰتِ",
+        "يَتَفَكَّرُونَ",
+        "بِمُعْجِزِينَ"
+      ],
+      "activityId": "act_016_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

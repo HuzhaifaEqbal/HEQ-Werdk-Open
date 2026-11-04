@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_04",
+  "title": "سورة هود - الآيات 18-23",
+  "surahId": 11,
+  "ayahStart": 18,
+  "ayahEnd": 23,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "أَوْلِيَآءَ ۘ",
+        "وَأَخْبَتُوٓا۟",
+        "بِٱلْـَٔاخِرَةِ"
+      ],
+      "activityId": "act_011_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "wrongOptionsAyahNumbers": [
+        20,
+        16
+      ],
+      "activityId": "act_011_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَبْغُونَهَا",
+        "يَسْتَطِيعُونَ",
+        "ٱلْأَخْسَرُونَ",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_011_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_011_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 20,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "وَيَبْغُونَهَا",
+        "ٱلْأَخْسَرُونَ",
+        "وَأَخْبَتُوٓا۟"
+      ],
+      "activityId": "act_011_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        18
+      ],
+      "activityId": "act_011_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "أَنفُسَهُمْ",
+        "مُعْجِزِينَ",
+        "وَعَمِلُوا۟",
+        "يُبْصِرُونَ"
+      ],
+      "activityId": "act_011_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_011_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَخْسَرُونَ",
+        "وَيَبْغُونَهَا",
+        "يَسْتَطِيعُونَ",
+        "ٱلْعَذَابُ ۚ"
+      ],
+      "activityId": "act_011_04_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_011_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأَخْبَتُوٓا۟",
+        "أَوْلِيَآءَ ۘ",
+        "ٱلظَّـٰلِمِينَ",
+        "بِٱلْـَٔاخِرَةِ"
+      ],
+      "activityId": "act_011_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

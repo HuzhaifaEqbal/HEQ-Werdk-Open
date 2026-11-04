@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_034_08",
+  "title": "سورة سبأ - الآيات 36-39",
+  "surahId": 34,
+  "ayahStart": 36,
+  "ayahEnd": 39,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 6,
+      "options": [
+        "شَىْءٍۢ",
+        "يَشَآءُ",
+        "زُلْفَىٰٓ",
+        "رَجُلٍۢ"
+      ],
+      "activityId": "act_034_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "وَمَآ أَمْوَٰلُكُمْ وَلَآ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَلَمَّا قَضَيْنَا عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ قُلْ إِنَّمَآ أَعِظُكُم"
+        }
+      ],
+      "activityId": "act_034_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْعَرِمِ",
+        "وَعَمِلَ",
+        "رَبِّكُمْ",
+        "مَعَهُۥ"
+      ],
+      "activityId": "act_034_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَآ ءَاتَيْنَـٰهُم مِّن"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_034_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلطَّيْرَ ۖ",
+        "مُعَـٰجِزِينَ",
+        "لَـَٔايَةًۭ",
+        "يَـٰجِبَالُ"
+      ],
+      "activityId": "act_034_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَآ ءَاتَيْنَـٰهُم مِّن"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قُلْ إِنَّ رَبِّى"
+        }
+      ],
+      "activityId": "act_034_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 10,
+      "options": [
+        "خَمْطٍۢ",
+        "لَهُۥ ۚ",
+        "بَلَىٰ",
+        "مُّبِينٍۢ"
+      ],
+      "activityId": "act_034_08_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "بيان أن بسط الرزق وقبضه فتنة وأن التقوى والعمل الصالح هما مقياس القربى."
+  }
+}

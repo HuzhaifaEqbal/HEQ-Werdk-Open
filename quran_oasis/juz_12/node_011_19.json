@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_19",
+  "title": "سورة هود - الآيات 108-113",
+  "surahId": 11,
+  "ayahStart": 108,
+  "ayahEnd": 113,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلسَّمَـٰوَٰتُ",
+        "فَتَمَسَّكُمُ",
+        "هَـٰٓؤُلَآءِ ۚ",
+        "أَوْلِيَآءَ"
+      ],
+      "activityId": "act_011_19_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "wrongOptionsAyahNumbers": [
+        110,
+        106
+      ],
+      "activityId": "act_011_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 13,
+      "options": [
+        "ءَابَآؤُهُم",
+        "أَعْمَـٰلَهُمْ ۚ",
+        "بَيْنَهُمْ ۚ",
+        "تَرْكَنُوٓا۟"
+      ],
+      "activityId": "act_011_19_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "wrongOptionsAyahNumbers": [
+        111,
+        107
+      ],
+      "activityId": "act_011_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاتَيْنَا",
+        "تُنصَرُونَ",
+        "۞ وَأَمَّا",
+        "تَعْمَلُونَ"
+      ],
+      "activityId": "act_011_19_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "wrongOptionsAyahNumbers": [
+        112,
+        108
+      ],
+      "activityId": "act_011_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 4,
+      "options": [
+        "لَيُوَفِّيَنَّهُمْ",
+        "لَمُوَفُّوهُمْ",
+        "ءَابَآؤُهُم",
+        "ٱلسَّمَـٰوَٰتُ"
+      ],
+      "activityId": "act_011_19_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "wrongOptionsAyahNumbers": [
+        113,
+        109
+      ],
+      "activityId": "act_011_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 8,
+      "options": [
+        "تَطْغَوْا۟ ۚ",
+        "فَٱخْتُلِفَ",
+        "نَصِيبَهُمْ",
+        "وَٱلْأَرْضُ"
+      ],
+      "activityId": "act_011_19_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 112,
+      "correctNextAyahNumber": 113,
+      "wrongOptionsAyahNumbers": [
+        114,
+        110
+      ],
+      "activityId": "act_011_19_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 113,
+      "missingWordPosition": 2,
+      "options": [
+        "تَرْكَنُوٓا۟",
+        "تَطْغَوْا۟ ۚ",
+        "فَٱسْتَقِمْ",
+        "يَعْبُدُونَ"
+      ],
+      "activityId": "act_011_19_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_019_15",
+  "title": "سورة مريم - الآيات 84-88",
+  "surahId": 19,
+  "ayahStart": 84,
+  "ayahEnd": 88,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَيْهِمْ ۖ",
+        "بَيْنَهُمَا",
+        "بَيْنِهِمْ ۖ",
+        "بِدُعَآئِكَ"
+      ],
+      "activityId": "act_019_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "options": [
+        {
+          "ayahNumber": 85,
+          "text": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ"
+        }
+      ],
+      "activityId": "act_019_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمُتَّقِينَ",
+        "بِٱلرَّحْمَـٰنِ",
+        "بِٱلصَّلَوٰةِ",
+        "بِٱلْغَيْبِ ۚ"
+      ],
+      "activityId": "act_019_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "كٓهيعٓصٓ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ"
+        }
+      ],
+      "activityId": "act_019_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "لِعِبَـٰدَتِهِۦ ۚ",
+        "وَأَعْتَزِلُكُمْ",
+        "وَلِنَجْعَلَهُۥٓ"
+      ],
+      "activityId": "act_019_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 87,
+          "text": "لَّا يَمْلِكُونَ ٱلشَّفَـٰعَةَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "لَّا يَسْمَعُونَ فِيهَا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَإِن مِّنكُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "فَنَادَىٰهَا مِن تَحْتِهَآ"
+        }
+      ],
+      "activityId": "act_019_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 1,
+      "options": [
+        "يَمْلِكُونَ",
+        "بِـَٔايَـٰتِنَا",
+        "بِلِسَانِكَ",
+        "بِوَٰلِدَتِى"
+      ],
+      "activityId": "act_019_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "أَطَّلَعَ ٱلْغَيْبَ أَمِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "لَّقَدْ جِئْتُمْ شَيْـًٔا"
+        }
+      ],
+      "activityId": "act_019_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقَالُوا۟",
+        "بِوَٰلِدَيْهِ",
+        "بِٱلَّذِينَ",
+        "رَّحْمَتِنَا"
+      ],
+      "activityId": "act_019_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

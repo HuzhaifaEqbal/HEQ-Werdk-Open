@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_04",
+  "title": "سورة فصلت - الآيات 16-20",
+  "surahId": 41,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 8,
+      "options": [
+        "أَعْرَضَ",
+        "عَذَابَ",
+        "عَذَابٍ",
+        "يُحْشَرُ"
+      ],
+      "activityId": "act_041_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَجَعَلَ فِيهَا رَوَٰسِىَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا كُنتُمْ تَسْتَتِرُونَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَقَالُوا۟ لِجُلُودِهِمْ لِمَ"
+        }
+      ],
+      "activityId": "act_041_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 7,
+      "options": [
+        "فَأَصْبَحْتُم",
+        "ٱلْإِنسَـٰنِ",
+        "أَنذَرْتُكُمْ",
+        "فَأَخَذَتْهُمْ"
+      ],
+      "activityId": "act_041_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "۞ إِلَيْهِ يُرَدُّ عِلْمُ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 2,
+      "options": [
+        "كَانُوا۟",
+        "جَعَلْنَـٰهُ",
+        "جُلُودُكُمْ",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_041_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "وَيَوْمَ يُحْشَرُ أَعْدَآءُ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَقَالُوا۟ قُلُوبُنَا فِىٓ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَقَالُوا۟ لِجُلُودِهِمْ لِمَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا"
+        }
+      ],
+      "activityId": "act_041_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "حمٓ",
+        "إِلَى",
+        "عِقَابٍ",
+        "فَذُو"
+      ],
+      "activityId": "act_041_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "حَتَّىٰٓ إِذَا مَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 6,
+      "options": [
+        "جَآءَهُمْ ۖ",
+        "سَمْعُهُمْ",
+        "ٱلْجِنِّ",
+        "أَنفُسِهِمْ"
+      ],
+      "activityId": "act_041_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "إنذار المشركين بصاعقة مثل صاعقة عاد وثمود وإرسال الريح الصرصر ونجاة المؤمنين."
+  }
+}

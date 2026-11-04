@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_11",
+  "title": "سورة طه - الآيات 61-66",
+  "surahId": 20,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 9,
+      "options": [
+        "فَيُسْحِتَكُم",
+        "وَٱلسَّلْوَىٰ",
+        "وَٱلسَّمَـٰوَٰتِ",
+        "وَٱلْعَـٰقِبَةُ"
+      ],
+      "activityId": "act_020_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "أَفَلَا يَرَوْنَ أَلَّا"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "قَالُوا۟ لَن نَّبْرَحَ"
+        }
+      ],
+      "activityId": "act_020_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 0,
+      "options": [
+        "فَتَنَـٰزَعُوٓا۟",
+        "يَأْتِيَنَّكُم",
+        "يَتَخَـٰفَتُونَ",
+        "يَكْفُلُهُۥ ۖ"
+      ],
+      "activityId": "act_020_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "قَالُوٓا۟ إِنْ هَـٰذَٰنِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "قَالُوا۟ يَـٰمُوسَىٰٓ إِمَّآ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالُوا۟ لَن نُّؤْثِرَكَ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "قَالُوا۟ مَآ أَخْلَفْنَا"
+        }
+      ],
+      "activityId": "act_020_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 11,
+      "options": [
+        "بِطَرِيقَتِكُمُ",
+        "فَلَنَأْتِيَنَّكَ",
+        "لَنَنسِفَنَّهُۥ",
+        "لَّنُحَرِّقَنَّهُۥ"
+      ],
+      "activityId": "act_020_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ"
+        },
+        {
+          "ayahNumber": 122,
+          "text": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "خَـٰلِدِينَ فِيهِ ۖ وَسَآءَ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "نَّحْنُ أَعْلَمُ بِمَا"
+        }
+      ],
+      "activityId": "act_020_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَجْمِعُوا۟",
+        "يُخْرِجَاكُم",
+        "ٱلتَّابُوتِ",
+        "ٱلسَّامِرِىُّ"
+      ],
+      "activityId": "act_020_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "قَالُوا۟ يَـٰمُوسَىٰٓ إِمَّآ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالُوٓا۟ إِنْ هَـٰذَٰنِ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "قَالُوا۟ لَن نَّبْرَحَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالُوا۟ لَن نُّؤْثِرَكَ"
+        }
+      ],
+      "activityId": "act_020_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 0,
+      "options": [
+        "قَالُوا۟",
+        "عَدُوِّكُمْ",
+        "عَذَابًۭا",
+        "عَرَبِيًّۭا"
+      ],
+      "activityId": "act_020_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ بَلْ أَلْقُوا۟ ۖ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "قَالَ يَـٰهَـٰرُونُ مَا"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "قَالَ يَبْنَؤُمَّ لَا"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالَ بَصُرْتُ بِمَا"
+        }
+      ],
+      "activityId": "act_020_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 2,
+      "options": [
+        "أَلْقُوا۟ ۖ",
+        "مَوْعِدُكُمْ",
+        "نَعْلَيْكَ ۖ",
+        "نُخْرِجُكُمْ"
+      ],
+      "activityId": "act_020_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

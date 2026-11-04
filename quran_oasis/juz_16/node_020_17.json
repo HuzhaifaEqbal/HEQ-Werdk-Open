@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_17",
+  "title": "سورة طه - الآيات 97-102",
+  "surahId": 20,
+  "ayahStart": 97,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 22,
+      "options": [
+        "لَّنُحَرِّقَنَّهُۥ",
+        "فَسَتَعْلَمُونَ",
+        "فَلَنَأْتِيَنَّكَ",
+        "فَنَسِيتَهَا ۖ"
+      ],
+      "activityId": "act_020_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "إِنَّمَآ إِلَـٰهُكُمُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "ٱلَّذِى جَعَلَ لَكُمُ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِنَّنِىٓ أَنَا ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_020_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 1,
+      "options": [
+        "إِلَـٰهُكُمُ",
+        "فَنَتَّبِعَ",
+        "فَوَسْوَسَ",
+        "فَٱجْعَلْ"
+      ],
+      "activityId": "act_020_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "options": [
+        {
+          "ayahNumber": 99,
+          "text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ"
+        },
+        {
+          "ayahNumber": 129,
+          "text": "وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَٱحْلُلْ عُقْدَةًۭ مِّن"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "لِنُرِيَكَ مِنْ ءَايَـٰتِنَا"
+        }
+      ],
+      "activityId": "act_020_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَاتَيْنَـٰكَ",
+        "ٱلرَّحْمَـٰنُ",
+        "ٱلرَّسُولِ",
+        "ٱلزِّينَةِ"
+      ],
+      "activityId": "act_020_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "مَّنْ أَعْرَضَ عَنْهُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَإِن تَجْهَرْ بِٱلْقَوْلِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "فَلَا يَصُدَّنَّكَ عَنْهَا"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَمَن يَعْمَلْ مِنَ"
+        }
+      ],
+      "activityId": "act_020_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "ٱلسَّاحِرُ",
+        "ٱلسَّاعَةَ",
+        "ٱلسَّحَرَةُ"
+      ],
+      "activityId": "act_020_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 101,
+          "text": "خَـٰلِدِينَ فِيهِ ۖ وَسَآءَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "فَأَخْرَجَ لَهُمْ عِجْلًۭا"
+        },
+        {
+          "ayahNumber": 128,
+          "text": "أَفَلَمْ يَهْدِ لَهُمْ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَلَقَدْ قَالَ لَهُمْ"
+        }
+      ],
+      "activityId": "act_020_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "ٱلسَّمَآءِ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلسِّحْرَ ۖ"
+      ],
+      "activityId": "act_020_17_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "options": [
+        {
+          "ayahNumber": 102,
+          "text": "يَوْمَ يُنفَخُ فِى"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَأَلْقِ مَا فِى"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "فَأَوْجَسَ فِى نَفْسِهِۦ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "قَالَ مَوْعِدُكُمْ يَوْمُ"
+        }
+      ],
+      "activityId": "act_020_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُجْرِمِينَ",
+        "فَٱتَّبِعُونِى",
+        "لَنَنسِفَنَّهُۥ",
+        "لَّنُحَرِّقَنَّهُۥ"
+      ],
+      "activityId": "act_020_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

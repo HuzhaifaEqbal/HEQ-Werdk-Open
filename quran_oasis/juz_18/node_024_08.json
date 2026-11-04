@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_024_08",
+  "title": "سورة النور - الآيات 43-48",
+  "surahId": 24,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 29,
+      "options": [
+        "وَيَصْرِفُهُۥ",
+        "وَٱلطَّيِّبَـٰتُ",
+        "وَٱلْأَبْصَـٰرُ",
+        "وَٱلْأَرْضِ ۚ"
+      ],
+      "activityId": "act_024_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَإِذَا دُعُوٓا۟ إِلَى"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَمَن يُطِعِ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "قُلْ أَطِيعُوا۟ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_024_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلنَّهَارَ ۚ",
+        "فَكَاتِبُوهُمْ",
+        "فَٱرْجِعُوا۟ ۖ",
+        "لِبُعُولَتِهِنَّ"
+      ],
+      "activityId": "act_024_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَٱللَّهُ خَلَقَ كُلَّ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "لَّا تَجْعَلُوا۟ دُعَآءَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا"
+        }
+      ],
+      "activityId": "act_024_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱللَّهُ",
+        "ءَابَآءِ",
+        "ءَامَنَّا",
+        "أَبَدًۭا ۚ"
+      ],
+      "activityId": "act_024_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَإِن يَكُن لَّهُمُ"
+        }
+      ],
+      "activityId": "act_024_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "أَنزَلْنَآ",
+        "أَيْمَـٰنُكُمْ",
+        "أَيْمَـٰنُهُنَّ",
+        "أَيْمَـٰنِهِمْ"
+      ],
+      "activityId": "act_024_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَٱللَّهُ خَلَقَ كُلَّ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "أَفِى قُلُوبِهِم مَّرَضٌ"
+        }
+      ],
+      "activityId": "act_024_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 14,
+      "options": [
+        "بِٱلْمُؤْمِنِينَ",
+        "وَتَسْبِيحَهُۥ ۗ",
+        "وَلَيُبَدِّلَنَّهُم",
+        "وَلْيَصْفَحُوٓا۟ ۗ"
+      ],
+      "activityId": "act_024_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَإِذَا دُعُوٓا۟ إِلَى"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَإِذَا بَلَغَ ٱلْأَطْفَـٰلُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَعَدَ ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "يَوْمَئِذٍۢ يُوَفِّيهِمُ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_024_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "وَرَسُولِهِۦ",
+        "وَٱلْخَـٰمِسَةُ",
+        "وَٱلْـَٔاخِرَةِ",
+        "وَٱلْـَٔاصَالِ"
+      ],
+      "activityId": "act_024_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النور",
+    "juz": 18,
+    "theme": "تنظم آيات هذا المقطع أحكام العفة والأسرة والاستئذان، وتعرض قصة الإفك وآية النور، وتدل على طاعة الله ورسوله ونوره في السماوات والأرض."
+  }
+}

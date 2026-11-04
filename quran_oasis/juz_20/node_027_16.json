@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_16",
+  "title": "سورة النمل - الآيات 84-88",
+  "surahId": 27,
+  "ayahStart": 84,
+  "ayahEnd": 88,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 4,
+      "options": [
+        "أَكَذَّبْتُم",
+        "يَأْتُونِى",
+        "يَأْتِينِى",
+        "يَرْجِعُونَ"
+      ],
+      "activityId": "act_027_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "options": [
+        {
+          "ayahNumber": 85,
+          "text": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَلَا تَحْزَنْ عَلَيْهِمْ"
+        }
+      ],
+      "activityId": "act_027_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 7,
+      "options": [
+        "يَنطِقُونَ",
+        "يَرْزُقُكُم",
+        "يَسْجُدُوا۟",
+        "يَسْجُدُونَ"
+      ],
+      "activityId": "act_027_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "أَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "يَـٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَلْقِ عَصَاكَ ۚ فَلَمَّا"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا"
+        }
+      ],
+      "activityId": "act_027_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "لِيَسْكُنُوا۟",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلْمَدِينَةِ",
+        "ٱمْرَأَتَهُۥ"
+      ],
+      "activityId": "act_027_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 87,
+          "text": "وَيَوْمَ يُنفَخُ فِى"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "وَيَوْمَ نَحْشُرُ مِن"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأَدْخِلْ يَدَكَ فِى"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ"
+        }
+      ],
+      "activityId": "act_027_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "يَشْعُرُونَ",
+        "يَشْكُرُونَ",
+        "يَعْدِلُونَ"
+      ],
+      "activityId": "act_027_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "أَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَمَن جَآءَ بِٱلسَّيِّئَةِ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "إِنَّمَآ أُمِرْتُ أَنْ"
+        }
+      ],
+      "activityId": "act_027_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلسَّحَابِ ۚ",
+        "أَتُمِدُّونَنِ",
+        "أَفْسَدُوهَا",
+        "بِحُكْمِهِۦ ۚ"
+      ],
+      "activityId": "act_027_16_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

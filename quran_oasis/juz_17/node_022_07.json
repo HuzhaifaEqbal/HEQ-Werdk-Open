@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_022_07",
+  "title": "سورة الحج - الآيات 37-42",
+  "surahId": 22,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 19,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُسْلِمِينَ",
+        "أَفَأُنَبِّئُكُم",
+        "بِٱلْمَعْرُوفِ"
+      ],
+      "activityId": "act_022_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَإِن جَـٰدَلُوكَ فَقُلِ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مَا قَدَرُوا۟ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَامَنُوٓا۟ ۗ",
+        "وَيَذْكُرُوا۟",
+        "وَٱفْعَلُوا۟",
+        "وَٱلدَّوَآبُّ"
+      ],
+      "activityId": "act_022_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "أُذِنَ لِلَّذِينَ يُقَـٰتَلُونَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَقَوْمُ إِبْرَٰهِيمَ وَقَوْمُ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَأَصْحَـٰبُ مَدْيَنَ ۖ وَكُذِّبَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن"
+        }
+      ],
+      "activityId": "act_022_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 2,
+      "options": [
+        "يُقَـٰتَلُونَ",
+        "عَلَيْكُمْ ۖ",
+        "عُرُوشِهَا",
+        "فَأَمْلَيْتُ"
+      ],
+      "activityId": "act_022_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "ٱلَّذِينَ أُخْرِجُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ إِذَا ذُكِرَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟"
+        }
+      ],
+      "activityId": "act_022_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 27,
+      "options": [
+        "وَلَيَنصُرَنَّ",
+        "وَٱلصَّـٰبِـِٔينَ",
+        "وَٱلنَّصَـٰرَىٰ",
+        "وَٱلنُّجُومُ"
+      ],
+      "activityId": "act_022_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "ٱلَّذِينَ إِن مَّكَّنَّـٰهُمْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ إِذَا ذُكِرَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنَّ ٱللَّهَ يُدْخِلُ"
+        }
+      ],
+      "activityId": "act_022_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 10,
+      "options": [
+        "بِٱلْمَعْرُوفِ",
+        "تُفْلِحُونَ ۩",
+        "فَٱجْتَنِبُوا۟",
+        "فَٱسْتَمِعُوا۟"
+      ],
+      "activityId": "act_022_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَإِن جَـٰدَلُوكَ فَقُلِ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌۭ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "لَيُدْخِلَنَّهُم مُّدْخَلًۭا يَرْضَوْنَهُۥ ۗ"
+        }
+      ],
+      "activityId": "act_022_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 1,
+      "options": [
+        "يُكَذِّبُوكَ",
+        "فَأُو۟لَـٰٓئِكَ",
+        "فَإِلَـٰهُكُمْ",
+        "فَتَخْطَفُهُ"
+      ],
+      "activityId": "act_022_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

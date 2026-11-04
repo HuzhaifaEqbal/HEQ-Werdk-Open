@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_17",
+  "title": "سورة الأنبياء - الآيات 97-102",
+  "surahId": 21,
+  "ayahStart": 97,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱقْتَرَبَ",
+        "وَرَهَبًۭا ۖ",
+        "وَزَكَرِيَّآ",
+        "وَسَخَّرْنَا"
+      ],
+      "activityId": "act_021_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "إِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَمَا جَعَلْنَا لِبَشَرٍۢ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَمَن يَعْمَلْ مِنَ"
+        }
+      ],
+      "activityId": "act_021_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 2,
+      "options": [
+        "تَعْبُدُونَ",
+        "وَسُلَيْمَـٰنَ",
+        "وَعَلَّمْنَـٰهُ",
+        "وَعِلْمًۭا ۚ"
+      ],
+      "activityId": "act_021_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "options": [
+        {
+          "ayahNumber": 99,
+          "text": "لَوْ كَانَ هَـٰٓؤُلَآءِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "لَوْ كَانَ فِيهِمَآ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "لَوْ يَعْلَمُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "لَوْ أَرَدْنَآ أَن"
+        }
+      ],
+      "activityId": "act_021_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 5,
+      "options": [
+        "وَرَدُوهَا ۖ",
+        "ٱلْخَبَـٰٓئِثَ ۗ",
+        "ٱلْخَـٰلِدُونَ",
+        "ٱلْغَـٰلِبُونَ"
+      ],
+      "activityId": "act_021_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "لَهُمْ فِيهَا زَفِيرٌۭ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "إِنَّ ٱلَّذِينَ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ"
+        }
+      ],
+      "activityId": "act_021_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْمَعُونَ",
+        "وَقَالُوا۟",
+        "وَقَوْمِهِۦ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_021_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 101,
+          "text": "إِنَّ ٱلَّذِينَ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ فِى هَـٰذَا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم"
+        }
+      ],
+      "activityId": "act_021_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْحُسْنَىٰٓ",
+        "وَمَأْجُوجُ",
+        "وَمِثْلَهُم",
+        "وَنَجَّيْنَـٰهُ"
+      ],
+      "activityId": "act_021_17_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "options": [
+        {
+          "ayahNumber": 102,
+          "text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "لَا يُسْـَٔلُ عَمَّا"
+        }
+      ],
+      "activityId": "act_021_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 2,
+      "options": [
+        "حَسِيسَهَا ۖ",
+        "ٱلْفُرْقَانَ",
+        "ٱلْمَلَـٰٓئِكَةُ",
+        "ٱلْمَوَٰزِينَ"
+      ],
+      "activityId": "act_021_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

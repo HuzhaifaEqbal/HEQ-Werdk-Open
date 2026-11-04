@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_039_03",
+  "title": "سورة الزمر - الآيات 10-15",
+  "surahId": 39,
+  "ayahStart": 10,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 11,
+      "options": [
+        "حَسَنَةٌۭ ۗ",
+        "وَٱلْقَمَرَ ۖ",
+        "ٱلْـَٔاخِرَةِ",
+        "أَرَادَنِى"
+      ],
+      "activityId": "act_039_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "خَلَقَكُم مِّن نَّفْسٍۢ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّكَ مَيِّتٌۭ وَإِنَّهُم"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "قُلْ إِنِّىٓ أُمِرْتُ"
+        }
+      ],
+      "activityId": "act_039_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "أَعْبُدَ",
+        "لِلنَّاسِ",
+        "غَيْرَ",
+        "ذُوقُوا۟"
+      ],
+      "activityId": "act_039_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأُمِرْتُ لِأَنْ أَكُونَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "ضَرَبَ ٱللَّهُ مَثَلًۭا"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَبَدَا لَهُمْ سَيِّـَٔاتُ"
+        }
+      ],
+      "activityId": "act_039_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَنتُمْ",
+        "أَكُونَ",
+        "ٱللَّهِ ۚ",
+        "۞ قُلْ"
+      ],
+      "activityId": "act_039_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "مَن يَأْتِيهِ عَذَابٌۭ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "لَّوْ أَرَادَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "قُلْ إِنِّىٓ أَخَافُ"
+        }
+      ],
+      "activityId": "act_039_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "رَبِّهَا",
+        "ٱلْأَرْضَ",
+        "يَوْمَ",
+        "عَصَيْتُ"
+      ],
+      "activityId": "act_039_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "قُلِ ٱللَّهَ أَعْبُدُ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّكَ مَيِّتٌۭ وَإِنَّهُم"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "بَلَىٰ قَدْ جَآءَتْكَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_039_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 3,
+      "options": [
+        "تُنصَرُونَ",
+        "مُخْلِصًۭا",
+        "تَشْعُرُونَ",
+        "ٱلْعَرْشِ"
+      ],
+      "activityId": "act_039_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "ٱللَّهُ خَـٰلِقُ كُلِّ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَٱعْبُدُوا۟ مَا شِئْتُم"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "قُلِ ٱللَّهُمَّ فَاطِرَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "أَلَا لِلَّهِ ٱلدِّينُ"
+        }
+      ],
+      "activityId": "act_039_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 10,
+      "options": [
+        "أَنفُسَهُمْ",
+        "ٱلشَّمْسَ",
+        "بِوَكِيلٍ",
+        "عَمِلُوا۟"
+      ],
+      "activityId": "act_039_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "أجر الصابرين بغير حساب والأمر بالإخلاص والتحذير من خسران يوم القيامة."
+  }
+}

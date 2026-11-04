@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_12",
+  "title": "سورة الشعراء - الآيات 67-72",
+  "surahId": 26,
+  "ayahStart": 67,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 6,
+      "options": [
+        "أَكْثَرُهُم",
+        "لِفِرْعَوْنَ",
+        "مُؤْمِنِينَ",
+        "مُعْرِضِينَ"
+      ],
+      "activityId": "act_026_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 122,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 140,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 217,
+          "text": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ"
+        }
+      ],
+      "activityId": "act_026_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "مُفْسِدِينَ",
+        "مُنذِرُونَ",
+        "مُنظَرُونَ"
+      ],
+      "activityId": "act_026_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَٱتْلُ عَلَيْهِمْ نَبَأَ"
+        },
+        {
+          "ayahNumber": 173,
+          "text": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ"
+        },
+        {
+          "ayahNumber": 199,
+          "text": "فَقَرَأَهُۥ عَلَيْهِم مَّا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِن نَّشَأْ نُنَزِّلْ"
+        }
+      ],
+      "activityId": "act_026_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 3,
+      "options": [
+        "إِبْرَٰهِيمَ",
+        "مَّتَّعْنَـٰهُمْ",
+        "مُّتَّبَعُونَ",
+        "مُّشْرِقِينَ"
+      ],
+      "activityId": "act_026_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ"
+        }
+      ],
+      "activityId": "act_026_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 3,
+      "options": [
+        "وَقَوْمِهِۦ",
+        "مُّوقِنِينَ",
+        "نُسَوِّيكُم",
+        "وَأَهْلَهُۥٓ"
+      ],
+      "activityId": "act_026_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "قَالُوا۟ نَعْبُدُ أَصْنَامًۭا"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "قَالُوا۟ بَلْ وَجَدْنَآ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالُوا۟ لَا ضَيْرَ ۖ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالُوا۟ وَهُمْ فِيهَا"
+        }
+      ],
+      "activityId": "act_026_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 2,
+      "options": [
+        "أَصْنَامًۭا",
+        "وَأُزْلِفَتِ",
+        "وَبَيْنَهُمْ",
+        "وَتَذَرُونَ"
+      ],
+      "activityId": "act_026_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ هَلْ يَسْمَعُونَكُمْ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "قَالَ أَفَرَءَيْتُم مَّا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قَالَ نَعَمْ وَإِنَّكُمْ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "قَالَ وَمَا عِلْمِى"
+        }
+      ],
+      "activityId": "act_026_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْمَعُونَكُمْ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُجْرِمِينَ"
+      ],
+      "activityId": "act_026_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

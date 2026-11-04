@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_036_08",
+  "title": "سورة يس - الآيات 38-42",
+  "surahId": 36,
+  "ayahStart": 38,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "كَانَتْ",
+        "لَّهُمْ",
+        "تُغْنِ",
+        "ذَٰلِكَ"
+      ],
+      "activityId": "act_036_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "لِّيُنذِرَ مَن كَانَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        }
+      ],
+      "activityId": "act_036_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "أَئِن",
+        "قَالَ",
+        "حَتَّىٰ",
+        "قِيلَ"
+      ],
+      "activityId": "act_036_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذَا قِيلَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا عَلَيْنَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَلَوْ نَشَآءُ لَطَمَسْنَا"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "لَا ٱلشَّمْسُ يَنۢبَغِى"
+        }
+      ],
+      "activityId": "act_036_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلَّيْلُ",
+        "بِكُلِّ",
+        "أَنُطْعِمُ",
+        "أَعْهَدْ"
+      ],
+      "activityId": "act_036_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَءَايَةٌۭ لَّهُمْ أَنَّا"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_036_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "حَمَلْنَا",
+        "وَمِمَّا",
+        "ضَلَـٰلٍۢ",
+        "ءَايَـٰتِ"
+      ],
+      "activityId": "act_036_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "وَخَلَقْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَهُمْ فِيهَا فَـٰكِهَةٌۭ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "إِن كَانَتْ إِلَّا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ"
+        }
+      ],
+      "activityId": "act_036_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "فَمَا",
+        "مِّن",
+        "هُم",
+        "مِمَّا"
+      ],
+      "activityId": "act_036_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "آية الليل والنهار والشمس تجري لمستقر لها والقمر منازل وآية الفلك وحمل الذرية."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_06",
+  "title": "سورة الإسراء - الآيات 31-36",
+  "surahId": 17,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "وَإِيَّاكُمْ ۚ",
+        "مُطْمَئِنِّينَ",
+        "مُعَذِّبُوهَا",
+        "مُهْلِكُوهَا"
+      ],
+      "activityId": "act_017_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَقْرَبُوا۟ مَالَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَلَا تَجْعَلْ يَدَكَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَلَا تَقْفُ مَا"
+        }
+      ],
+      "activityId": "act_017_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 1,
+      "options": [
+        "تَقْرَبُوا۟",
+        "بِعَبْدِهِۦ",
+        "بِـَٔايَـٰتِنَا",
+        "بِمِثْلِهِۦ"
+      ],
+      "activityId": "act_017_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَلَا تَمْشِ فِى"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَقْرَبُوا۟ مَالَ"
+        }
+      ],
+      "activityId": "act_017_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 1,
+      "options": [
+        "تَقْتُلُوا۟",
+        "بِٱلْـَٔايَـٰتِ",
+        "تَأْوِيلًۭا",
+        "تَبْذِيرًا"
+      ],
+      "activityId": "act_017_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَقْرَبُوا۟ مَالَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَلَا تَقْفُ مَا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَلَا تَمْشِ فِى"
+        }
+      ],
+      "activityId": "act_017_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 12,
+      "options": [
+        "بِٱلْعَهْدِ ۖ",
+        "نُفُوسِكُمْ ۚ",
+        "نَّقْرَؤُهُۥ ۗ",
+        "وَءَاتَيْنَا"
+      ],
+      "activityId": "act_017_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "إِذًۭا لَّأَذَقْنَـٰكَ ضِعْفَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ"
+        }
+      ],
+      "activityId": "act_017_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُسْتَقِيمِ ۚ",
+        "وَبِٱلْوَٰلِدَيْنِ",
+        "فَتَسْتَجِيبُونَ",
+        "لَيَسْتَفِزُّونَكَ"
+      ],
+      "activityId": "act_017_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَلَا تَقْفُ مَا"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَلَا تَجْعَلْ يَدَكَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَلَا تَمْشِ فِى"
+        }
+      ],
+      "activityId": "act_017_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلْفُؤَادَ",
+        "وَأَخْرِجْنِى",
+        "وَإِيَّاكُمْ ۚ",
+        "وَبَيْنَكُمْ ۚ"
+      ],
+      "activityId": "act_017_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_033_09",
+  "title": "سورة الأحزاب - الآيات 41-46",
+  "surahId": 33,
+  "ayahStart": 41,
+  "ayahEnd": 46,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "يَوَدُّوا۟",
+        "لِرَجُلٍۢ",
+        "إِنَّمَا",
+        "ٱذْكُرُوا۟"
+      ],
+      "activityId": "act_033_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ"
+        }
+      ],
+      "activityId": "act_033_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 1,
+      "options": [
+        "يَنَالُوا۟",
+        "وَلَقَدْ",
+        "يَحْزَنَّ",
+        "بُكْرَةًۭ"
+      ],
+      "activityId": "act_033_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ"
+        }
+      ],
+      "activityId": "act_033_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 6,
+      "options": [
+        "مِّنَ",
+        "۞ قَدْ",
+        "عَهْدُ",
+        "أَهْلَ"
+      ],
+      "activityId": "act_033_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَت طَّآئِفَةٌۭ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَإِن كُنتُنَّ تُرِدْنَ"
+        }
+      ],
+      "activityId": "act_033_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلَّذِينَ",
+        "وَأَعَدَّ",
+        "فَوْقِكُمْ",
+        "قُلُوبِهِم"
+      ],
+      "activityId": "act_033_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "وَدَاعِيًا إِلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالُوا۟ رَبَّنَآ إِنَّآ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        }
+      ],
+      "activityId": "act_033_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْجِبَالِ",
+        "أَرْسَلْنَـٰكَ",
+        "ٱلنِّسَآءِ ۚ",
+        "سَأَلْتُمُوهُنَّ"
+      ],
+      "activityId": "act_033_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَلَوْ دُخِلَتْ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قُل لَّن يَنفَعَكُمُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَدَاعِيًا إِلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        }
+      ],
+      "activityId": "act_033_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْعَنْهُمْ",
+        "يَذْهَبُوا۟ ۖ",
+        "بِإِذْنِهِۦ",
+        "لِيُخْرِجَكُم"
+      ],
+      "activityId": "act_033_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "الأمر بكثرة ذكر الله وتسبيحه ورسالة النبي شاهداً ومبشراً ونذيراً."
+  }
+}

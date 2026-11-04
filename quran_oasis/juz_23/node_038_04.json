@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_04",
+  "title": "سورة ص - الآيات 19-24",
+  "surahId": 38,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "جُندٌۭ",
+        "قَبْلَ",
+        "كُلٌّۭ",
+        "بِيَدِكَ"
+      ],
+      "activityId": "act_038_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ"
+        }
+      ],
+      "activityId": "act_038_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْحِكْمَةَ",
+        "أَءُنزِلَ",
+        "لَشَىْءٌۭ",
+        "وَعَذَابٍ"
+      ],
+      "activityId": "act_038_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَآ أَسْـَٔلُكُمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        }
+      ],
+      "activityId": "act_038_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "يَذُوقُوا۟",
+        "وَٱنطَلَقَ",
+        "۞ وَهَلْ",
+        "ٱلْخَصْمِ"
+      ],
+      "activityId": "act_038_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "قَالَ لَقَدْ ظَلَمَكَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَقَالُوا۟ رَبَّنَا عَجِّل"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "إِذْ دَخَلُوا۟ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        }
+      ],
+      "activityId": "act_038_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 12,
+      "options": [
+        "لَحَقٌّۭ",
+        "وَفَصْلَ",
+        "إِنَّكَ",
+        "عَلَىٰ"
+      ],
+      "activityId": "act_038_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "وَٱلطَّيْرَ مَحْشُورَةًۭ ۖ كُلٌّۭ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنَّ هَـٰذَآ أَخِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَءَاخَرِينَ مُقَرَّنِينَ فِى"
+        }
+      ],
+      "activityId": "act_038_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 7,
+      "options": [
+        "وَلِىَ",
+        "يُرَادُ",
+        "عُرِضَ",
+        "بَعْضٍ"
+      ],
+      "activityId": "act_038_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "إِن يُوحَىٰٓ إِلَىَّ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "قَالَ لَقَدْ ظَلَمَكَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "مَا سَمِعْنَا بِهَـٰذَا"
+        }
+      ],
+      "activityId": "act_038_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 16,
+      "options": [
+        "۞ وَهَلْ",
+        "ٱلَّذِينَ",
+        "ٱلصِّرَٰطِ",
+        "ٱلْخَيْرِ"
+      ],
+      "activityId": "act_038_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "قصة الخصمين في محراب داود وحكمه بينهما واستغفاره وخروره راكعاً ومغفرة الله له."
+  }
+}

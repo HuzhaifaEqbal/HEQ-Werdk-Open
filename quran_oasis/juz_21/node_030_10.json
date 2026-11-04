@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_030_10",
+  "title": "سورة الروم - الآيات 48-53",
+  "surahId": 30,
+  "ayahStart": 48,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 14,
+      "options": [
+        "مِّنْهُ",
+        "ٱلْوَدْقَ",
+        "أَهْوَنُ",
+        "أَنتُمْ"
+      ],
+      "activityId": "act_030_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "ظَهَرَ ٱلْفَسَادُ فِى"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَإِن كَانُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَقَدْ أَرْسَلْنَا مِن"
+        }
+      ],
+      "activityId": "act_030_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقُرْبَىٰ",
+        "ٱلْفُلْكُ",
+        "عَلَيْهِم",
+        "مَّثَلًۭا"
+      ],
+      "activityId": "act_030_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ"
+        }
+      ],
+      "activityId": "act_030_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلصَّلَوٰةَ",
+        "تُصْبِحُونَ",
+        "بِأَمْرِهِۦ",
+        "مَوْتِهَآ ۚ"
+      ],
+      "activityId": "act_030_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَمْ يَكُن لَّهُم"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_030_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّشْرِكِينَ",
+        "مُصْفَرًّۭا",
+        "كُفْرُهُۥ ۖ",
+        "ٱلْأَرْضِ"
+      ],
+      "activityId": "act_030_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "فَإِنَّكَ لَا تُسْمِعُ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ"
+        }
+      ],
+      "activityId": "act_030_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 6,
+      "options": [
+        "يَرْبُوا۟",
+        "حَقٌّۭ ۖ",
+        "ٱلصُّمَّ",
+        "لِخَلْقِ"
+      ],
+      "activityId": "act_030_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَمَآ أَنتَ بِهَـٰدِ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        }
+      ],
+      "activityId": "act_030_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 7,
+      "options": [
+        "۞ ٱللَّهُ",
+        "ٱلْحَىِّ",
+        "تُسْمِعُ",
+        "سِنِينَ ۗ"
+      ],
+      "activityId": "act_030_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "إرسال الرياح بشراً بين يدي رحمته ونزول الغيث وإحياء الأرض بعد موتها."
+  }
+}

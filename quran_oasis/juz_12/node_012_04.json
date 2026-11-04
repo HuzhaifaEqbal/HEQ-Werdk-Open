@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_04",
+  "title": "سورة يوسف - الآيات 19-24",
+  "surahId": 12,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "فَأَرْسَلُوا۟",
+        "ٱلزَّٰهِدِينَ",
+        "ٱلظَّـٰلِمُونَ",
+        "ءَاتَيْنَـٰهُ"
+      ],
+      "activityId": "act_012_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_012_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلزَّٰهِدِينَ",
+        "فَأَرْسَلُوا۟",
+        "ٱلظَّـٰلِمُونَ",
+        "وَرَٰوَدَتْهُ"
+      ],
+      "activityId": "act_012_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        18
+      ],
+      "activityId": "act_012_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْأَحَادِيثِ ۚ",
+        "وَٱلْفَحْشَآءَ ۚ",
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُخْلَصِينَ"
+      ],
+      "activityId": "act_012_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_012_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "لِٱمْرَأَتِهِۦٓ",
+        "وَلِنُعَلِّمَهُۥ",
+        "ٱلْمُخْلَصِينَ"
+      ],
+      "activityId": "act_012_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_012_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "فَأَرْسَلُوا۟",
+        "ٱلزَّٰهِدِينَ",
+        "مَعْدُودَةٍۢ"
+      ],
+      "activityId": "act_012_04_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ],
+      "activityId": "act_012_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 15,
+      "options": [
+        "وَٱلْفَحْشَآءَ ۚ",
+        "ٱلْأَحَادِيثِ ۚ",
+        "وَلِنُعَلِّمَهُۥ",
+        "لِٱمْرَأَتِهِۦٓ"
+      ],
+      "activityId": "act_012_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

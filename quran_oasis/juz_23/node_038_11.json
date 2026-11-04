@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_11",
+  "title": "سورة ص - الآيات 59-63",
+  "surahId": 38,
+  "ayahStart": 59,
+  "ayahEnd": 63,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 5,
+      "options": [
+        "مَرْحَبًۢا",
+        "لَحَقٌّۭ",
+        "مَنَعَكَ",
+        "وَٱلْحَقَّ"
+      ],
+      "activityId": "act_038_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "قَالُوا۟ بَلْ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ عِندَهُمْ خَزَآئِنُ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًۭا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍۢ"
+        }
+      ],
+      "activityId": "act_038_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 6,
+      "options": [
+        "كَذَّبَتْ",
+        "أَنتُمْ",
+        "نَبَأَهُۥ",
+        "خَـٰلِقٌۢ"
+      ],
+      "activityId": "act_038_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "جُندٌۭ مَّا هُنَالِكَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالُوا۟ رَبَّنَا مَن"
+        }
+      ],
+      "activityId": "act_038_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 5,
+      "options": [
+        "ذَٰلِكَ ۖ",
+        "لَمِنَ",
+        "كُنتَ",
+        "هَـٰذَا"
+      ],
+      "activityId": "act_038_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِنَّهُمْ عِندَنَا لَمِنَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَقَالُوا۟ مَا لَنَا"
+        }
+      ],
+      "activityId": "act_038_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 6,
+      "options": [
+        "لَهُ",
+        "يُوحَىٰٓ",
+        "ٱللَّهِ",
+        "كُنَّا"
+      ],
+      "activityId": "act_038_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَقَالَ إِنِّىٓ أَحْبَبْتُ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "مَا كَانَ لِىَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "أَمْ نَجْعَلُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_038_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 3,
+      "options": [
+        "تَخَفْ ۖ",
+        "فَزِدْهُ",
+        "زَاغَتْ",
+        "جَآءَهُم"
+      ],
+      "activityId": "act_038_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "سوء مآب الطاغين في جهنم يصلونها وشراب الحميم والغساق وتخاصم أهل النار."
+  }
+}

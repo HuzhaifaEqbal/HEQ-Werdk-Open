@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_036_04",
+  "title": "سورة يس - الآيات 19-23",
+  "surahId": 36,
+  "ayahStart": 19,
+  "ayahEnd": 23,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 4,
+      "options": [
+        "ذُكِّرْتُم ۚ",
+        "ٱلْمُبِينُ",
+        "قَوْلُهُمْ ۘ",
+        "مُّسْتَقِيمٌۭ"
+      ],
+      "activityId": "act_036_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَلَوْ نَشَآءُ لَطَمَسْنَا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَجَآءَ مِنْ أَقْصَا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        }
+      ],
+      "activityId": "act_036_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 5,
+      "options": [
+        "إِمَامٍۢ",
+        "يَسْعَىٰ",
+        "مَرَّةٍۢ ۖ",
+        "مِّنْهُ"
+      ],
+      "activityId": "act_036_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "لَا ٱلشَّمْسُ يَنۢبَغِى"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "ٱتَّبِعُوا۟ مَن لَّا"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "إِن كَانَتْ إِلَّا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا تَأْتِيهِم مِّنْ"
+        }
+      ],
+      "activityId": "act_036_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "يَسْعَىٰ",
+        "مِّمَّا",
+        "سَلَـٰمٌۭ",
+        "أَجْرًۭا"
+      ],
+      "activityId": "act_036_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا لِىَ لَآ"
+        }
+      ],
+      "activityId": "act_036_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 4,
+      "options": [
+        "وَخَشِىَ",
+        "وَهُمْ",
+        "۞ وَمَآ",
+        "ٱلَّذِى"
+      ],
+      "activityId": "act_036_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا تَأْتِيهِم مِّنْ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "ءَأَتَّخِذُ مِن دُونِهِۦٓ"
+        }
+      ],
+      "activityId": "act_036_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 8,
+      "options": [
+        "لَّا",
+        "إِنْ",
+        "فِىٓ",
+        "لِىَ"
+      ],
+      "activityId": "act_036_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 22,
+    "theme": "مجيء رجل من أقصى المدينة يسعى ناصحاً لقومه باتباع المرسلين وعبادة الفاطر."
+  }
+}

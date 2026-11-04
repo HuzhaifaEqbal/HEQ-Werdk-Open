@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_18",
+  "title": "سورة المؤمنون - الآيات 103-108",
+  "surahId": 23,
+  "ayahStart": 103,
+  "ayahEnd": 108,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 2,
+      "options": [
+        "مَوَٰزِينُهُۥ",
+        "فَتَقَطَّعُوٓا۟",
+        "فَجَعَلْنَـٰهُمْ",
+        "قَآئِلُهَا ۖ"
+      ],
+      "activityId": "act_023_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "أَلَمْ تَكُنْ ءَايَـٰتِى"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+        }
+      ],
+      "activityId": "act_023_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 1,
+      "options": [
+        "وُجُوهَهُمُ",
+        "ٱلْحَيَوٰةِ",
+        "ٱلْخَيْرَٰتِ",
+        "ٱلْعَظِيمِ"
+      ],
+      "activityId": "act_023_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 105,
+          "text": "أَلَمْ تَكُنْ ءَايَـٰتِى"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَدْ كَانَتْ ءَايَـٰتِى"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "رَبَّنَآ أَخْرِجْنَا مِنْهَا"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "إِنَّهُۥ كَانَ فَرِيقٌۭ"
+        }
+      ],
+      "activityId": "act_023_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 7,
+      "options": [
+        "تُكَذِّبُونَ",
+        "ٱلْعَلَقَةَ",
+        "ٱلْـَٔاخِرَةِ",
+        "ٱلْقِيَـٰمَةِ"
+      ],
+      "activityId": "act_023_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 106,
+          "text": "قَالُوا۟ رَبَّنَا غَلَبَتْ"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "قَالُوا۟ لَبِثْنَا يَوْمًا"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "قَالُوٓا۟ أَءِذَا مِتْنَا"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "رَبَّنَآ أَخْرِجْنَا مِنْهَا"
+        }
+      ],
+      "activityId": "act_023_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 4,
+      "options": [
+        "شِقْوَتُنَا",
+        "ٱلْكَرِيمِ",
+        "ٱلْمَلَؤُا۟",
+        "ٱلْمُضْغَةَ"
+      ],
+      "activityId": "act_023_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "options": [
+        {
+          "ayahNumber": 107,
+          "text": "رَبَّنَآ أَخْرِجْنَا مِنْهَا"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "لَعَلِّىٓ أَعْمَلُ صَـٰلِحًۭا"
+        }
+      ],
+      "activityId": "act_023_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 1,
+      "options": [
+        "أَخْرِجْنَا",
+        "ٱلْيَوْمَ ۖ",
+        "ٱنصُرْنِى",
+        "ءَاتَيْنَا"
+      ],
+      "activityId": "act_023_18_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "options": [
+        {
+          "ayahNumber": 108,
+          "text": "قَالَ ٱخْسَـُٔوا۟ فِيهَا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قَالَ عَمَّا قَلِيلٍۢ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى بِمَا"
+        }
+      ],
+      "activityId": "act_023_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 4,
+      "options": [
+        "تُكَلِّمُونِ",
+        "ءَاخَرِينَ",
+        "أَتَيْنَـٰهُم",
+        "أَخَذْنَـٰهُم"
+      ],
+      "activityId": "act_023_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_04",
+  "title": "سورة الروم - الآيات 17-21",
+  "surahId": 30,
+  "ayahStart": 17,
+  "ayahEnd": 21,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 3,
+      "options": [
+        "يَبْسُطُ",
+        "تُمْسُونَ",
+        "وَجَعَلَ",
+        "يُعِيدُهُۥ"
+      ],
+      "activityId": "act_030_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَهُ ٱلْحَمْدُ فِى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "فَإِنَّكَ لَا تُسْمِعُ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_030_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأَرْضِ",
+        "فَتُثِيرُ",
+        "ٱلْبَعْثِ ۖ",
+        "خَلَقَكُمْ"
+      ],
+      "activityId": "act_030_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يُخْرِجُ ٱلْحَىَّ مِنَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "ثُمَّ كَانَ عَـٰقِبَةَ"
+        }
+      ],
+      "activityId": "act_030_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 7,
+      "options": [
+        "أَصَابَ",
+        "عَلَيْهِمْ",
+        "ءَامَنُوا۟",
+        "ٱلْحَىِّ"
+      ],
+      "activityId": "act_030_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "غُلِبَتِ ٱلرُّومُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَإِن كَانُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم"
+        }
+      ],
+      "activityId": "act_030_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 5,
+      "options": [
+        "تُرَابٍۢ",
+        "ٱلْعَلِيمُ",
+        "فَرِحُونَ",
+        "وَأَمَّا"
+      ],
+      "activityId": "act_030_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "بَلِ ٱتَّبَعَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ"
+        }
+      ],
+      "activityId": "act_030_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 9,
+      "options": [
+        "إِلَيْهَا",
+        "كَذَّبُوا۟",
+        "وَلَـٰكِنَّ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_030_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "تسبيح الله في كل الأوقات والآيات الكونية في خلق الإنسان وأزواجه."
+  }
+}

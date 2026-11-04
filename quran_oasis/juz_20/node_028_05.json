@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_05",
+  "title": "سورة القصص - الآيات 25-30",
+  "surahId": 28,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 1,
+      "options": [
+        "إِحْدَىٰهُمَا",
+        "بِٱلْعُصْبَةِ",
+        "تَذُودَانِ ۖ",
+        "خَطْبُكُمَا ۖ"
+      ],
+      "activityId": "act_028_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قَالَتْ إِحْدَىٰهُمَا يَـٰٓأَبَتِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَجَعَلْنَـٰهُمْ أَئِمَّةًۭ يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَأَتْبَعْنَـٰهُمْ فِى هَـٰذِهِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَا كُنتَ بِجَانِبِ"
+        }
+      ],
+      "activityId": "act_028_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "إِحْدَىٰهُمَا",
+        "زِينَتِهِۦ ۖ",
+        "شُرَكَآءَكُمْ",
+        "فَنَبَذْنَـٰهُمْ"
+      ],
+      "activityId": "act_028_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "قَالَ إِنِّىٓ أُرِيدُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالَ رَبِّ إِنِّى"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "قَالَ رَبِّ إِنِّى قَتَلْتُ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ ٱلَّذِينَ حَقَّ"
+        }
+      ],
+      "activityId": "act_028_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 28,
+      "options": [
+        "ٱلصَّـٰلِحِينَ",
+        "فَيَقُولُوا۟",
+        "فَٱسْتَغَـٰثَهُ",
+        "لِتَسْكُنُوا۟"
+      ],
+      "activityId": "act_028_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "قَالَ ذَٰلِكَ بَيْنِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "قَالَ سَنَشُدُّ عَضُدَكَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "قَالَ رَبِّ بِمَآ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ ٱلَّذِينَ حَقَّ"
+        }
+      ],
+      "activityId": "act_028_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْأَجَلَيْنِ",
+        "لِلْمُتَّقِينَ",
+        "لِيَقْتُلُوكَ",
+        "لِّلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_028_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "۞ فَلَمَّا قَضَىٰ مُوسَى"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَلَمَّا جَآءَهُم مُّوسَىٰ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَقَالَ مُوسَىٰ رَبِّىٓ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_028_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ فَلَمَّا",
+        "بِٱلْهُدَىٰ",
+        "تَأْجُرَنِى",
+        "تَبَرَّأْنَآ"
+      ],
+      "activityId": "act_028_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "فَلَمَّآ أَتَىٰهَا نُودِىَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَلَمَّآ أَنْ أَرَادَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَلَمَّا جَآءَهُم مُّوسَىٰ"
+        }
+      ],
+      "activityId": "act_028_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُبَـٰرَكَةِ",
+        "مَفَاتِحَهُۥ",
+        "نِسَآءَهُمْ ۚ",
+        "وَءَاتَيْنَـٰهُ"
+      ],
+      "activityId": "act_028_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

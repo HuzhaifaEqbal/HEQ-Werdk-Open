@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_04",
+  "title": "سورة السجدة - الآيات 16-20",
+  "surahId": 32,
+  "ayahStart": 16,
+  "ayahEnd": 20,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "رُّوحِهِۦ ۖ",
+        "رَبَّهُمْ",
+        "بِحَمْدِ",
+        "ٱلْمَوْتِ"
+      ],
+      "activityId": "act_032_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "يُدَبِّرُ ٱلْأَمْرَ مِنَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَلَوْ تَرَىٰٓ إِذِ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَلَا تَعْلَمُ نَفْسٌۭ"
+        }
+      ],
+      "activityId": "act_032_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 6,
+      "options": [
+        "مِّن",
+        "مَّا",
+        "لَّا",
+        "تَكُن"
+      ],
+      "activityId": "act_032_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَفَمَن كَانَ مُؤْمِنًۭا"
+        }
+      ],
+      "activityId": "act_032_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "لَفِى",
+        "كَانَ",
+        "إِلَى",
+        "جَعَلَ"
+      ],
+      "activityId": "act_032_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 18,
+      "correctNextAyahNumber": 19,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ رَبَّكَ هُوَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَلَوْ تَرَىٰٓ إِذِ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_032_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱنتَظِرْ",
+        "يَعْرُجُ",
+        "جَنَّـٰتُ",
+        "ٱلْخُلْدِ"
+      ],
+      "activityId": "act_032_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَلَا تَعْلَمُ نَفْسٌۭ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ لَا"
+        }
+      ],
+      "activityId": "act_032_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 11,
+      "options": [
+        "فِيهَا",
+        "يَوْمٍۢ",
+        "أَءِنَّا",
+        "نَعْمَلْ"
+      ],
+      "activityId": "act_032_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "أوصاف المؤمنين الذين إذا ذُكّروا بآيات ربهم خروا سجداً وتتجافى جنوبهم عن المضاجع."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_37",
+  "title": "سورة الشعراء - الآيات 203-207",
+  "surahId": 26,
+  "ayahStart": 203,
+  "ayahEnd": 207,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 203,
+      "missingWordPosition": 0,
+      "options": [
+        "فَيَقُولُوا۟",
+        "فَكُبْكِبُوا۟",
+        "فَيَأْتِيَهُم",
+        "فَيَأْخُذَكُمْ"
+      ],
+      "activityId": "act_026_37_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 203,
+      "correctNextAyahNumber": 204,
+      "options": [
+        {
+          "ayahNumber": 204,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        },
+        {
+          "ayahNumber": 224,
+          "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "فَفَرَرْتُ مِنكُمْ لَمَّا"
+        }
+      ],
+      "activityId": "act_026_37_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 204,
+      "missingWordPosition": 0,
+      "options": [
+        "أَفَبِعَذَابِنَا",
+        "فَأَهْلَكْنَـٰهُمْ ۗ",
+        "ٱلْمَرْجُومِينَ",
+        "۞ وَأَوْحَيْنَآ"
+      ],
+      "activityId": "act_026_37_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 204,
+      "correctNextAyahNumber": 205,
+      "options": [
+        {
+          "ayahNumber": 205,
+          "text": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "فَلَوْ أَنَّ لَنَا"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌۭ"
+        },
+        {
+          "ayahNumber": 158,
+          "text": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ"
+        }
+      ],
+      "activityId": "act_026_37_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 205,
+      "missingWordPosition": 0,
+      "options": [
+        "أَفَرَءَيْتَ",
+        "حِسَابُهُمْ",
+        "رَسُولَكُمُ",
+        "سَيَهْدِينِ"
+      ],
+      "activityId": "act_026_37_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 205,
+      "correctNextAyahNumber": 206,
+      "options": [
+        {
+          "ayahNumber": 206,
+          "text": "ثُمَّ جَآءَهُم مَّا"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "ثُمَّ أَغْرَقْنَا بَعْدُ"
+        },
+        {
+          "ayahNumber": 172,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_026_37_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 206,
+      "missingWordPosition": 4,
+      "options": [
+        "يُوعَدُونَ",
+        "ظُلِمُوا۟ ۗ",
+        "عَشِيرَتَكَ",
+        "فَأَخَذَهُمُ"
+      ],
+      "activityId": "act_026_37_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 206,
+      "correctNextAyahNumber": 207,
+      "options": [
+        {
+          "ayahNumber": 207,
+          "text": "مَآ أَغْنَىٰ عَنْهُم"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَآ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "وَقِيلَ لَهُمْ أَيْنَ"
+        },
+        {
+          "ayahNumber": 199,
+          "text": "فَقَرَأَهُۥ عَلَيْهِم مَّا"
+        }
+      ],
+      "activityId": "act_026_37_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 207,
+      "missingWordPosition": 5,
+      "options": [
+        "يُمَتَّعُونَ",
+        "فَأَلْقَوْا۟",
+        "فَعَلْتُهَآ",
+        "فَقَرَأَهُۥ"
+      ],
+      "activityId": "act_026_37_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

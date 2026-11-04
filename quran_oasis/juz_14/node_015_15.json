@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_015_15",
+  "title": "سورة الحجر - الآيات 85-89",
+  "surahId": 15,
+  "ayahStart": 85,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ءَاتَيْنَـٰكَ",
+        "ٱلنَّذِيرُ",
+        "ٱلْعَظِيمَ"
+      ],
+      "activityId": "act_015_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_015_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَلِيمُ",
+        "ٱلسَّاعَةَ",
+        "ٱلْجَمِيلَ",
+        "ٱلْمُبِينُ"
+      ],
+      "activityId": "act_015_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_015_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْقُرْءَانَ",
+        "لِلْمُؤْمِنِينَ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "لَـَٔاتِيَةٌۭ ۖ"
+      ],
+      "activityId": "act_015_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_015_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 15,
+      "options": [
+        "لِلْمُؤْمِنِينَ",
+        "وَٱلْقُرْءَانَ",
+        "ٱلْمَثَانِى",
+        "بَيْنَهُمَآ"
+      ],
+      "activityId": "act_015_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_015_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلنَّذِيرُ",
+        "ٱلْعَلِيمُ",
+        "وَٱلْأَرْضَ",
+        "بِٱلْحَقِّ ۗ"
+      ],
+      "activityId": "act_015_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

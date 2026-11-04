@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_04",
+  "title": "سورة طه - الآيات 19-24",
+  "surahId": 20,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "أَلْقِهَا",
+        "أَرْسَلْتَ",
+        "أَرْضِكُم",
+        "أَرْضِنَا"
+      ],
+      "activityId": "act_020_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "فَأَلْقَىٰهَا فَإِذَا هِىَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قَالَ هِىَ عَصَاىَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ بَلْ أَلْقُوا۟ ۖ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَٱضْمُمْ يَدَكَ إِلَىٰ"
+        }
+      ],
+      "activityId": "act_020_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَلْقَىٰهَا",
+        "غُرُوبِهَا ۖ",
+        "فَأَتْبَعَهُمْ",
+        "فَأَجْمِعُوا۟"
+      ],
+      "activityId": "act_020_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "قَالَ خُذْهَا وَلَا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالَ رَبُّنَا ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ فَمَا بَالُ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قَالَ عِلْمُهَا عِندَ"
+        }
+      ],
+      "activityId": "act_020_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "سَنُعِيدُهَا",
+        "فَأَخْرَجْنَا",
+        "فَأَخْلَفْتُم",
+        "فَأَلْقَىٰهَا"
+      ],
+      "activityId": "act_020_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَٱضْمُمْ يَدَكَ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ"
+        }
+      ],
+      "activityId": "act_020_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱضْمُمْ",
+        "أَزْوَٰجًۭا",
+        "أَسِفًۭا ۚ",
+        "أَعْجَلَكَ"
+      ],
+      "activityId": "act_020_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "لِنُرِيَكَ مِنْ ءَايَـٰتِنَا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "فَلَا يَصُدَّنَّكَ عَنْهَا"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَلَقَدْ أَرَيْنَـٰهُ ءَايَـٰتِنَا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "قَالَ أَجِئْتَنَا لِتُخْرِجَنَا"
+        }
+      ],
+      "activityId": "act_020_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَايَـٰتِنَا",
+        "بِٱلْوَادِ",
+        "تَتَّبِعَنِ ۖ",
+        "تَخَافَآ ۖ"
+      ],
+      "activityId": "act_020_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "ٱذْهَبْ أَنتَ وَأَخُوكَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ"
+        }
+      ],
+      "activityId": "act_020_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "فِرْعَوْنَ",
+        "أَفَطَالَ",
+        "أَلْقِهَا",
+        "أَمْرَهُم"
+      ],
+      "activityId": "act_020_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

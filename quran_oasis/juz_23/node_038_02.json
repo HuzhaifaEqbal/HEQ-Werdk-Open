@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_02",
+  "title": "سورة ص - الآيات 7-12",
+  "surahId": 38,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "وَخُذْ",
+        "كَانَ",
+        "إِنْ",
+        "لَقَدْ"
+      ],
+      "activityId": "act_038_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "إِذْ عُرِضَ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        }
+      ],
+      "activityId": "act_038_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 6,
+      "options": [
+        "هُمْ",
+        "مِّنَ",
+        "لَهُم",
+        "عَنْهُ"
+      ],
+      "activityId": "act_038_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ عِندَهُمْ خَزَآئِنُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "صٓ ۚ وَٱلْقُرْءَانِ ذِى"
+        }
+      ],
+      "activityId": "act_038_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "بَعْضٍۢ",
+        "عَلَىٰ",
+        "رَحْمَةِ",
+        "قَبْلِهِم"
+      ],
+      "activityId": "act_038_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "أَمْ لَهُم مُّلْكُ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَقَالُوا۟ مَا لَنَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ"
+        }
+      ],
+      "activityId": "act_038_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأَرْضِ",
+        "سَـٰجِدِينَ",
+        "ٱلْجِيَادُ",
+        "فَوَيْلٌۭ"
+      ],
+      "activityId": "act_038_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "جُندٌۭ مَّا هُنَالِكَ"
+        }
+      ],
+      "activityId": "act_038_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "أَوَّابٌۭ",
+        "مِّنْهُ ۖ",
+        "بَارِدٌۭ",
+        "مَهْزُومٌۭ"
+      ],
+      "activityId": "act_038_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "إِلَّا عِبَادَكَ مِنْهُمُ"
+        }
+      ],
+      "activityId": "act_038_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 3,
+      "options": [
+        "نُوحٍۢ",
+        "عِندَنَا",
+        "ٱلدِّينِ",
+        "فَإِذَا"
+      ],
+      "activityId": "act_038_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "عجب المشركين من دعوة التوحيد وإنكارهم لنبوة محمد ﷺ وتواصيهم بالصبر على آلهتهم."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_004_33",
+  "title": "سورة النساء - الآيات 158-162",
+  "surahId": 4,
+  "ayahStart": 158,
+  "ayahEnd": 162,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 4,
+      "options": [
+        "لَفِى",
+        "أُخْرَىٰ",
+        "وَكَانَ",
+        "بِهَا"
+      ],
+      "activityId": "act_004_33_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "options": [
+        {
+          "ayahNumber": 161,
+          "text": "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "مَّآ أَصَابَكَ مِنْ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "إِلَّا ٱلَّذِينَ يَصِلُونَ"
+        },
+        {
+          "ayahNumber": 159,
+          "text": "وَإِن مِّنْ أَهْلِ"
+        }
+      ],
+      "activityId": "act_004_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱبْنَ",
+        "وَلَوْ",
+        "قَبْلَ",
+        "يَحْكُمُ"
+      ],
+      "activityId": "act_004_33_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَٱللَّهُ يُرِيدُ أَن"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "فَبِظُلْمٍۢ مِّنَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمَن لَّمْ يَسْتَطِعْ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "يُوصِيكُمُ ٱللَّهُ فِىٓ"
+        }
+      ],
+      "activityId": "act_004_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 6,
+      "options": [
+        "طَيِّبَـٰتٍ",
+        "سَمِعْتُمْ",
+        "ٱلْأَرْضُ",
+        "لَـٰمَسْتُمُ"
+      ],
+      "activityId": "act_004_33_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "۞ وَمَن يُهَاجِرْ فِى"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَٱلَّذَانِ يَأْتِيَـٰنِهَا مِنكُمْ"
+        },
+        {
+          "ayahNumber": 145,
+          "text": "إِنَّ ٱلْمُنَـٰفِقِينَ فِى"
+        }
+      ],
+      "activityId": "act_004_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 7,
+      "options": [
+        "مَيْلًا",
+        "وَكُلًّۭا",
+        "ٱلنَّاسِ",
+        "رِجَالًۭا"
+      ],
+      "activityId": "act_004_33_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "وَمَا لَكُمْ لَا"
+        },
+        {
+          "ayahNumber": 162,
+          "text": "لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ"
+        }
+      ],
+      "activityId": "act_004_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 14,
+      "options": [
+        "أَيْمَـٰنُكُمْ",
+        "تَتَمَنَّوْا۟",
+        "وَءَاتُوهُنَّ",
+        "وَٱلْمُقِيمِينَ"
+      ],
+      "activityId": "act_004_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "رفع الله للمسيح عيسى عليه السلام وإيمان أهل الكتاب به قبل موته وجزاء الراسخين في العلم."
+  }
+}

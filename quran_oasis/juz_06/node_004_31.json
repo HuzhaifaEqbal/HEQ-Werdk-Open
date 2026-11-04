@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_004_31",
+  "title": "سورة النساء - الآيات 148-152",
+  "surahId": 4,
+  "ayahStart": 148,
+  "ayahEnd": 152,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 148,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقَوْلِ",
+        "ٱللَّهُ ۘ",
+        "ٱفْتَرَىٰٓ",
+        "يُشْرِكْ"
+      ],
+      "activityId": "act_004_31_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 148,
+      "correctNextAyahNumber": 149,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "فَكَيْفَ إِذَا جِئْنَا"
+        },
+        {
+          "ayahNumber": 149,
+          "text": "إِن تُبْدُوا۟ خَيْرًا"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 163,
+          "text": "۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ"
+        }
+      ],
+      "activityId": "act_004_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 149,
+      "missingWordPosition": 8,
+      "options": [
+        "سُوٓءٍۢ",
+        "فَأَمَّا",
+        "غَنِيًّۭا",
+        "أَجْرًا"
+      ],
+      "activityId": "act_004_31_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 149,
+      "correctNextAyahNumber": 150,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "لَّـٰكِنِ ٱللَّهُ يَشْهَدُ"
+        },
+        {
+          "ayahNumber": 150,
+          "text": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَاذَا عَلَيْهِمْ لَوْ"
+        }
+      ],
+      "activityId": "act_004_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 150,
+      "missingWordPosition": 11,
+      "options": [
+        "سَيِّئَةًۭ",
+        "مِّيثَـٰقٌۭ",
+        "ضَلَـٰلًۢا",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_004_31_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 150,
+      "correctNextAyahNumber": 151,
+      "options": [
+        {
+          "ayahNumber": 151,
+          "text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "فَبِظُلْمٍۢ مِّنَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ"
+        }
+      ],
+      "activityId": "act_004_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 151,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱزْدَادُوا۟",
+        "ٱلْحَيَوٰةِ",
+        "أَعْتَدْنَا",
+        "وَأَعْتَدْنَا"
+      ],
+      "activityId": "act_004_31_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 151,
+      "correctNextAyahNumber": 152,
+      "options": [
+        {
+          "ayahNumber": 153,
+          "text": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 152,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_004_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 152,
+      "missingWordPosition": 8,
+      "options": [
+        "وَٱللَّهُ",
+        "مُرَٰغَمًۭا",
+        "يَقِينًۢا",
+        "مِّنْهُمْ"
+      ],
+      "activityId": "act_004_31_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "النهي عن الجهر بالسوء إلا لمن ظلم، وبيان كفر من فرق بين الله ورسله وثواب المؤمنين."
+  }
+}

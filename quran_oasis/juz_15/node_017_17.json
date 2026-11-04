@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_17",
+  "title": "سورة الإسراء - الآيات 92-96",
+  "surahId": 17,
+  "ayahStart": 92,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 10,
+      "options": [
+        "وَٱلْمَلَـٰٓئِكَةِ",
+        "ٱلْمَلْعُونَةَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُبَذِّرِينَ"
+      ],
+      "activityId": "act_017_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 93,
+          "text": "أَوْ يَكُونَ لَكَ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "أَوْ تَكُونَ لَكَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "أَوْ خَلْقًۭا مِّمَّا"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذْ قُلْنَا لَكَ"
+        }
+      ],
+      "activityId": "act_017_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 17,
+      "options": [
+        "نَّقْرَؤُهُۥ ۗ",
+        "لَّأَمْسَكْتُمْ",
+        "لَّٱبْتَغَوْا۟",
+        "لَّٱتَّخَذُوكَ"
+      ],
+      "activityId": "act_017_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "وَمَا مَنَعَ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا مَنَعَنَآ أَن"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَقُلْنَا مِنۢ بَعْدِهِۦ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_017_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْمِنُوٓا۟",
+        "لَتُفْسِدُنَّ",
+        "لَنَذْهَبَنَّ",
+        "لَنَزَّلْنَا"
+      ],
+      "activityId": "act_017_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "options": [
+        {
+          "ayahNumber": 95,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "قُل لَّوْ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_017_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 7,
+      "options": [
+        "مُطْمَئِنِّينَ",
+        "لِّتَبْتَغُوا۟",
+        "مُتْرَفِيهَا",
+        "مُعَذِّبُوهَا"
+      ],
+      "activityId": "act_017_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "options": [
+        {
+          "ayahNumber": 96,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "قُل لَّئِنِ ٱجْتَمَعَتِ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "قُلْ ءَامِنُوا۟ بِهِۦٓ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "قُلْ كُلٌّۭ يَعْمَلُ"
+        }
+      ],
+      "activityId": "act_017_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 5,
+      "options": [
+        "وَبَيْنَكُمْ ۚ",
+        "مُطْمَئِنِّينَ",
+        "مُهْلِكُوهَا",
+        "نُفُوسِكُمْ ۚ"
+      ],
+      "activityId": "act_017_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

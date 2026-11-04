@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_08",
+  "title": "سورة ص - الآيات 43-48",
+  "surahId": 38,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "عَبْدَنَا",
+        "رَبَّنَا",
+        "عَذَابًۭا",
+        "رَحْمَةًۭ"
+      ],
+      "activityId": "act_038_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "وَقَالُوا۟ رَبَّنَا عَجِّل"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَخُذْ بِيَدِكَ ضِغْثًۭا"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَءَاخَرِينَ مُقَرَّنِينَ فِى"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أَجَعَلَ ٱلْـَٔالِهَةَ إِلَـٰهًۭا"
+        }
+      ],
+      "activityId": "act_038_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 7,
+      "options": [
+        "أَيُّوبَ",
+        "وَذَا",
+        "رُخَآءً",
+        "إِنَّا"
+      ],
+      "activityId": "act_038_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَقَالَ إِنِّىٓ أَحْبَبْتُ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ"
+        }
+      ],
+      "activityId": "act_038_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 4,
+      "options": [
+        "وَفِرْعَوْنُ",
+        "وَيَعْقُوبَ",
+        "مَهْزُومٌۭ",
+        "لِّلَّذِينَ"
+      ],
+      "activityId": "act_038_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "قَالَ فَإِنَّكَ مِنَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍۢ"
+        }
+      ],
+      "activityId": "act_038_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 2,
+      "options": [
+        "بَنَّآءٍۢ",
+        "نَعُدُّهُم",
+        "بِخَالِصَةٍۢ",
+        "لَرِزْقُنَا"
+      ],
+      "activityId": "act_038_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِنَّهُمْ عِندَنَا لَمِنَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَآ أَسْـَٔلُكُمْ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        }
+      ],
+      "activityId": "act_038_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 2,
+      "options": [
+        "لَّهُۥٓ",
+        "لَهُۥ",
+        "بِكُمْ ۖ",
+        "لَمِنَ"
+      ],
+      "activityId": "act_038_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "مَا سَمِعْنَا بِهَـٰذَا"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "إِن يُوحَىٰٓ إِلَىَّ"
+        }
+      ],
+      "activityId": "act_038_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 4,
+      "options": [
+        "وَوَهَبْنَا",
+        "ٱلْعَالِينَ",
+        "ٱلْكِفْلِ ۖ",
+        "لِّلَّذِينَ"
+      ],
+      "activityId": "act_038_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "صبر أيوب عليه السلام على البلاء ونداؤه لربه وشفائه بركضة رجل ووهب أهله ومثلهم معهم."
+  }
+}

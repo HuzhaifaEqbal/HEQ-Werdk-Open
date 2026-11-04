@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_06",
+  "title": "سورة فصلت - الآيات 26-30",
+  "surahId": 41,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأَخَذَتْهُمْ",
+        "قُلُوبُنَا",
+        "ٱلْقُرْءَانِ",
+        "لِّلْعَبِيدِ"
+      ],
+      "activityId": "act_041_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "وَقَالُوا۟ لِجُلُودِهِمْ لِمَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "حَتَّىٰٓ إِذَا مَا"
+        }
+      ],
+      "activityId": "act_041_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "حَمِيدٍۢ",
+        "أَيْنَ",
+        "وَلَنَجْزِيَنَّهُمْ",
+        "شَىْءٍۢ"
+      ],
+      "activityId": "act_041_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "ثُمَّ ٱسْتَوَىٰٓ إِلَى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        }
+      ],
+      "activityId": "act_041_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 7,
+      "options": [
+        "وَمِنْ",
+        "ٱللَّهُ",
+        "دَارُ",
+        "لَا"
+      ],
+      "activityId": "act_041_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "أَلَآ إِنَّهُمْ فِى"
+        }
+      ],
+      "activityId": "act_041_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "يَوْمَيْنِ",
+        "ٱلْجِنِّ",
+        "أَلَّا",
+        "ٱلْحَقِّ"
+      ],
+      "activityId": "act_041_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَيَوْمَ يُحْشَرُ أَعْدَآءُ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ قَالُوا۟"
+        }
+      ],
+      "activityId": "act_041_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمَلَـٰٓئِكَةُ",
+        "فَٱسْتَكْبَرُوا۟",
+        "أَبْصَـٰرُكُمْ"
+      ],
+      "activityId": "act_041_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "قيض الله للكافرين قرناء سوء ووعيدهم بالعذاب الشديد وتمني الكفار رؤية المضلين تحت الأقدام."
+  }
+}

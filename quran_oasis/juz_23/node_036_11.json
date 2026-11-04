@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_11",
+  "title": "سورة يس - الآيات 54-59",
+  "surahId": 36,
+  "ayahStart": 54,
+  "ayahEnd": 59,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 5,
+      "options": [
+        "هُمْ",
+        "يسٓ",
+        "لَنَا",
+        "وَلَا"
+      ],
+      "activityId": "act_036_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلًا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "۞ وَمَآ أَنزَلْنَا عَلَىٰ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "إِنَّا نَحْنُ نُحْىِ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ"
+        }
+      ],
+      "activityId": "act_036_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَيْتَةُ",
+        "ٱلْيَوْمَ",
+        "وَخَشِىَ",
+        "ٱلصِّرَٰطَ"
+      ],
+      "activityId": "act_036_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "هُمْ وَأَزْوَٰجُهُمْ فِى"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "إِن كَانَتْ إِلَّا"
+        }
+      ],
+      "activityId": "act_036_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 4,
+      "options": [
+        "مِّن",
+        "قِيلَ",
+        "عَلَى",
+        "مَّآ"
+      ],
+      "activityId": "act_036_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا عَلَيْنَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَضَرَبَ لَنَا مَثَلًۭا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَهُمْ فِيهَا فَـٰكِهَةٌۭ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "ٱتَّبِعُوا۟ مَن لَّا"
+        }
+      ],
+      "activityId": "act_036_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 3,
+      "options": [
+        "بِمَا",
+        "وَلَهُم",
+        "قَالَ",
+        "لَئِن"
+      ],
+      "activityId": "act_036_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّا جَعَلْنَا فِىٓ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلًا"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "سَلَـٰمٌۭ قَوْلًۭا مِّن"
+        }
+      ],
+      "activityId": "act_036_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 2,
+      "options": [
+        "مِّن",
+        "أَئِن",
+        "بِمَا",
+        "أَمْ"
+      ],
+      "activityId": "act_036_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "هُمْ وَأَزْوَٰجُهُمْ فِى"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "قُلْ يُحْيِيهَا ٱلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا"
+        }
+      ],
+      "activityId": "act_036_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 2,
+      "options": [
+        "أُنذِرَ",
+        "أَيُّهَا",
+        "لَّدَيْنَا",
+        "جَمِيعٌۭ"
+      ],
+      "activityId": "act_036_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "نعيم أصحاب الجنة في ظلال على الأرائك متكئون وسلام قولاً من رب رحيم."
+  }
+}

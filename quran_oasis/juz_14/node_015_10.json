@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_10",
+  "title": "سورة الحجر - الآيات 55-60",
+  "surahId": 15,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْقَـٰنِطِينَ",
+        "لَمُنَجُّوهُمْ",
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلضَّآلُّونَ"
+      ],
+      "activityId": "act_015_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        53
+      ],
+      "activityId": "act_015_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلضَّآلُّونَ",
+        "ٱلْقَـٰنِطِينَ",
+        "ٱمْرَأَتَهُۥ",
+        "لَمُنَجُّوهُمْ"
+      ],
+      "activityId": "act_015_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_015_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُرْسَلُونَ",
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلْقَـٰنِطِينَ",
+        "ٱلضَّآلُّونَ"
+      ],
+      "activityId": "act_015_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_015_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 3,
+      "options": [
+        "أُرْسِلْنَآ",
+        "أَجْمَعِينَ",
+        "قَدَّرْنَآ ۙ",
+        "بَشَّرْنَـٰكَ"
+      ],
+      "activityId": "act_015_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "wrongOptionsAyahNumbers": [
+        60,
+        56
+      ],
+      "activityId": "act_015_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 5,
+      "options": [
+        "لَمُنَجُّوهُمْ",
+        "ٱمْرَأَتَهُۥ",
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلْقَـٰنِطِينَ"
+      ],
+      "activityId": "act_015_10_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        57
+      ],
+      "activityId": "act_015_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱمْرَأَتَهُۥ",
+        "ٱلضَّآلُّونَ",
+        "لَمُنَجُّوهُمْ",
+        "ٱلْقَـٰنِطِينَ"
+      ],
+      "activityId": "act_015_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_10",
+  "title": "سورة مريم - الآيات 55-60",
+  "surahId": 19,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلصَّلَوٰةِ",
+        "فَٱنتَبَذَتْ",
+        "لِّيَكُونُوا۟",
+        "وَءَاتَيْنَـٰهُ"
+      ],
+      "activityId": "act_019_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ"
+        }
+      ],
+      "activityId": "act_019_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 3,
+      "options": [
+        "إِدْرِيسَ ۚ",
+        "يَـٰلَيْتَنِى",
+        "يَمْتَرُونَ",
+        "يَمْسَسْنِى"
+      ],
+      "activityId": "act_019_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "جَنَّـٰتِ عَدْنٍ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "تِلْكَ ٱلْجَنَّةُ ٱلَّتِى"
+        }
+      ],
+      "activityId": "act_019_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 0,
+      "options": [
+        "وَرَفَعْنَـٰهُ",
+        "يَمْلِكُونَ",
+        "يُؤْمِنُونَ",
+        "يُرْجَعُونَ"
+      ],
+      "activityId": "act_019_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "ثُمَّ نُنَجِّى ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_019_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 20,
+      "options": [
+        "وَٱجْتَبَيْنَآ ۚ",
+        "لَأَرْجُمَنَّكَ ۖ",
+        "لَنَحْشُرَنَّهُمْ",
+        "لَنُحْضِرَنَّهُمْ"
+      ],
+      "activityId": "act_019_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "ثُمَّ لَنَنزِعَنَّ مِن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم"
+        }
+      ],
+      "activityId": "act_019_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱتَّبَعُوا۟",
+        "وَأَنذِرْهُمْ",
+        "وَإِسْرَٰٓءِيلَ",
+        "وَارِدُهَا ۚ"
+      ],
+      "activityId": "act_019_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "إِلَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "فَنَادَىٰهَا مِن تَحْتِهَآ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَا نَتَنَزَّلُ إِلَّا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَإِن مِّنكُمْ إِلَّا"
+        }
+      ],
+      "activityId": "act_019_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأُو۟لَـٰٓئِكَ",
+        "يُوعَدُونَ",
+        "ٱلرَّحْمَـٰنِ",
+        "ٱلسَّاعَةَ"
+      ],
+      "activityId": "act_019_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

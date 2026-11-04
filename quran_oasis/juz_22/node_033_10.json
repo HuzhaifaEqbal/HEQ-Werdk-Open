@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_10",
+  "title": "سورة الأحزاب - الآيات 47-51",
+  "surahId": 33,
+  "ayahStart": 47,
+  "ayahEnd": 51,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 4,
+      "options": [
+        "يَأْتِ",
+        "مِّنَ",
+        "لَكَ",
+        "ٱتَّقِ"
+      ],
+      "activityId": "act_033_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالُوا۟ رَبَّنَآ إِنَّآ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَإِن كُنتُنَّ تُرِدْنَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        }
+      ],
+      "activityId": "act_033_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 6,
+      "options": [
+        "وَتَوَكَّلْ",
+        "كَبِيرًۭا",
+        "تَدْخُلُوا۟",
+        "نَـٰظِرِينَ"
+      ],
+      "activityId": "act_033_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 49,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَّا جَعَلَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَٱذْكُرْنَ مَا يُتْلَىٰ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ"
+        }
+      ],
+      "activityId": "act_033_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 12,
+      "options": [
+        "فَمَا",
+        "عَنِ",
+        "وَهُوَ",
+        "لَكَ"
+      ],
+      "activityId": "act_033_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "إِن تُبْدُوا۟ شَيْـًٔا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_033_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 28,
+      "options": [
+        "يَمِينُكَ",
+        "مُّؤْمِنَةً",
+        "لِّيُعَذِّبَ",
+        "وَأَجْرًا"
+      ],
+      "activityId": "act_033_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "۞ تُرْجِى مَن تَشَآءُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟"
+        }
+      ],
+      "activityId": "act_033_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 18,
+      "options": [
+        "زَوْجَكَ",
+        "تَقَرَّ",
+        "وَكَفَى",
+        "يَقُولُ"
+      ],
+      "activityId": "act_033_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "أحكام طلاق المؤمنات قبل المساس وأحكام أزواج النبي وتوسعة الله لرسوله."
+  }
+}

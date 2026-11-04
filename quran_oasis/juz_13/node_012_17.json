@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_17",
+  "title": "سورة يوسف - الآيات 95-100",
+  "surahId": 12,
+  "ayahStart": 95,
+  "ayahEnd": 100,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقَدِيمِ",
+        "ءَامِنِينَ",
+        "ٱدْخُلُوا۟",
+        "ٱلرَّحِيمُ"
+      ],
+      "activityId": "act_012_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_012_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَشِيرُ",
+        "ٱلْحَكِيمُ",
+        "ٱلْعَلِيمُ",
+        "ٱلْغَفُورُ"
+      ],
+      "activityId": "act_012_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_012_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 2,
+      "options": [
+        "يَـٰٓأَبَانَا",
+        "ٱلشَّيْطَـٰنُ",
+        "أَسْتَغْفِرُ",
+        "إِخْوَتِىٓ ۚ"
+      ],
+      "activityId": "act_012_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_012_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 3,
+      "options": [
+        "أَسْتَغْفِرُ",
+        "أَخْرَجَنِى",
+        "بَصِيرًۭا ۖ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_012_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_012_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱدْخُلُوا۟",
+        "ٱلْبَشِيرُ",
+        "ٱلْقَدِيمِ",
+        "ذُنُوبَنَآ"
+      ],
+      "activityId": "act_012_17_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_012_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 23,
+      "options": [
+        "أَخْرَجَنِى",
+        "ٱسْتَغْفِرْ",
+        "يَـٰٓأَبَانَا",
+        "بَصِيرًۭا ۖ"
+      ],
+      "activityId": "act_012_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

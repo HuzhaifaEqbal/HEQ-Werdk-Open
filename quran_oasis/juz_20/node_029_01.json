@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_01",
+  "title": "سورة العنكبوت - الآيات 1-5",
+  "surahId": 29,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "إِلَّا",
+        "الٓمٓ",
+        "لُوطًۭا",
+        "لَمِنَ"
+      ],
+      "activityId": "act_029_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِبْرَٰهِيمَ إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "أَحَسِبَ ٱلنَّاسُ أَن"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        }
+      ],
+      "activityId": "act_029_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَعْقُوبَ",
+        "يَقُولُوٓا۟",
+        "ٱلْيَوْمَ",
+        "أَخَاهُمْ"
+      ],
+      "activityId": "act_029_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَكَأَيِّن مِّن دَآبَّةٍۢ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَلَمَّا جَآءَتْ رُسُلُنَآ"
+        }
+      ],
+      "activityId": "act_029_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 6,
+      "options": [
+        "إِنَّكُمْ",
+        "ٱللَّهُ",
+        "شَىْءٍ",
+        "ءَايَةًۭ"
+      ],
+      "activityId": "act_029_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "أَوَلَمْ يَكْفِهِمْ أَنَّآ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِبْرَٰهِيمَ إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "أَمْ حَسِبَ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَأْوَىٰكُمُ",
+        "ٱلسَّيِّـَٔاتِ",
+        "فَلَيَعْلَمَنَّ",
+        "ٱلشَّيْطَـٰنُ"
+      ],
+      "activityId": "act_029_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "بَلْ هُوَ ءَايَـٰتٌۢ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "مَن كَانَ يَرْجُوا۟"
+        }
+      ],
+      "activityId": "act_029_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 6,
+      "options": [
+        "إِلَىٰ",
+        "أَجَلَ",
+        "لَوْ",
+        "وَلَا"
+      ],
+      "activityId": "act_029_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "بيان حقيقة الابتلاء وسنة الامتحان للمؤمنين والتأكيد على ثبات الصادقين."
+  }
+}

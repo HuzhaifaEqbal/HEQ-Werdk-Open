@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_029_02",
+  "title": "سورة العنكبوت - الآيات 6-9",
+  "surahId": 29,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "إِنَّ",
+        "ٱللَّهِ",
+        "إِذًۭا",
+        "وَإِنَّ"
+      ],
+      "activityId": "act_029_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَمَا كُنتَ تَتْلُوا۟"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        }
+      ],
+      "activityId": "act_029_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "لِّلْعَـٰلَمِينَ",
+        "سَيِّـَٔاتِهِمْ",
+        "ٱلصَّلَوٰةَ ۖ"
+      ],
+      "activityId": "act_029_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَلَمَّا جَآءَتْ رُسُلُنَآ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ"
+        }
+      ],
+      "activityId": "act_029_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "مَآءًۭ",
+        "كُنَّا",
+        "بِهِۦ",
+        "يَوْمَ"
+      ],
+      "activityId": "act_029_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ ۚ وَلَوْلَآ"
+        }
+      ],
+      "activityId": "act_029_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْكَـٰفِرِينَ",
+        "لِّلْعَـٰلَمِينَ",
+        "ٱلصَّـٰلِحَـٰتِ",
+        "وَهَـٰمَـٰنَ ۖ"
+      ],
+      "activityId": "act_029_02_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "الوصية ببر الوالدين مع وجوب طاعة الله أولاً وبيان صفات الصالحين."
+  }
+}

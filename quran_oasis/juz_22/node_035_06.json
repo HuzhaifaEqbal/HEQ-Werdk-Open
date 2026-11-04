@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_06",
+  "title": "سورة فاطر - الآيات 27-31",
+  "surahId": 35,
+  "ayahStart": 27,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْعِزَّةَ",
+        "مُّخْتَلِفًا",
+        "لَّيَكُونُنَّ",
+        "أُجَاجٌۭ ۖ"
+      ],
+      "activityId": "act_035_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "إِن تَدْعُوهُمْ لَا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        }
+      ],
+      "activityId": "act_035_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 8,
+      "options": [
+        "يَخْشَى",
+        "وِزْرَ",
+        "جَدِيدٍۢ",
+        "مُرْسِلَ"
+      ],
+      "activityId": "act_035_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "إِنَّ ٱلَّذِينَ يَتْلُونَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تَزِرُ وَازِرَةٌۭ"
+        }
+      ],
+      "activityId": "act_035_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "أَمْ",
+        "كَبِيرٌ",
+        "فَقَدْ",
+        "مِمَّا"
+      ],
+      "activityId": "act_035_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ"
+        }
+      ],
+      "activityId": "act_035_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "فَضْلِهِۦٓ ۚ",
+        "ٱلْمَصِيرُ",
+        "مَقْتًۭا ۖ",
+        "بِعَزِيزٍۢ"
+      ],
+      "activityId": "act_035_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "هُوَ ٱلَّذِى جَعَلَكُمْ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        }
+      ],
+      "activityId": "act_035_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 8,
+      "options": [
+        "وَمَكْرُ",
+        "زُيِّنَ",
+        "لِّمَا",
+        "خَبِيرٍۢ"
+      ],
+      "activityId": "act_035_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "سنة الله في تكذيب الأمم للرسل وآيات قدرته في الثمرات والجبال والناس والخشية من العلماء."
+  }
+}

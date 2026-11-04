@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_030_05",
+  "title": "سورة الروم - الآيات 22-27",
+  "surahId": 30,
+  "ayahStart": 22,
+  "ayahEnd": 27,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 6,
+      "options": [
+        "وَلَـٰكِنَّكُمْ",
+        "وَٱلْأَرْضِ ۖ",
+        "أَلْسِنَتِكُمْ",
+        "وَلَعَلَّكُمْ"
+      ],
+      "activityId": "act_030_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَإِذَا مَسَّ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_030_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 6,
+      "options": [
+        "وَهُوَ",
+        "يُحْىِ",
+        "لَّهُۥ",
+        "مِّن"
+      ],
+      "activityId": "act_030_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "بَلِ ٱتَّبَعَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ"
+        }
+      ],
+      "activityId": "act_030_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 10,
+      "options": [
+        "ذَٰلِكُم",
+        "بِهَا ۖ",
+        "فَيُحْىِۦ",
+        "يَبْسُطُ"
+      ],
+      "activityId": "act_030_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        }
+      ],
+      "activityId": "act_030_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 8,
+      "options": [
+        "إِذَا",
+        "لِمَن",
+        "رِّبًۭا",
+        "لَكُم"
+      ],
+      "activityId": "act_030_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَلَهُۥ مَن فِى"
+        }
+      ],
+      "activityId": "act_030_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "لَمُحْىِ",
+        "أَيْدِى",
+        "نَصْرُ",
+        "كُلٌّۭ"
+      ],
+      "activityId": "act_030_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_030_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "عَلَيْهِ ۚ",
+        "إِلَيْهِ",
+        "رَحْمَتِ",
+        "تَخْرُجُونَ"
+      ],
+      "activityId": "act_030_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "دلائل القدرة الإلهية في خلق السماوات واختلاف الألسن والألوان وإحياء الأرض."
+  }
+}

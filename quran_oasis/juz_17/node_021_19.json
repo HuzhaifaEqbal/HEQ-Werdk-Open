@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_021_19",
+  "title": "سورة الأنبياء - الآيات 108-112",
+  "surahId": 21,
+  "ayahStart": 108,
+  "ayahEnd": 112,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 10,
+      "options": [
+        "مُّسْلِمُونَ",
+        "وَنَصَرْنَـٰهُ",
+        "وَوَهَبْنَا",
+        "وَيَعْقُوبَ"
+      ],
+      "activityId": "act_021_19_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "options": [
+        {
+          "ayahNumber": 109,
+          "text": "فَإِن تَوَلَّوْا۟ فَقُلْ"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "وَإِنْ أَدْرِى لَعَلَّهُۥ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "يَوْمَ نَطْوِى ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "حَتَّىٰٓ إِذَا فُتِحَتْ"
+        }
+      ],
+      "activityId": "act_021_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَاذَنتُكُمْ",
+        "بِـَٔالِهَتِنَآ",
+        "بِـَٔايَـٰتِنَآ ۚ",
+        "بِٱلْوَحْىِ ۚ"
+      ],
+      "activityId": "act_021_19_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "options": [
+        {
+          "ayahNumber": 110,
+          "text": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَنَصَرْنَـٰهُ مِنَ ٱلْقَوْمِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَأَدْخَلْنَـٰهُ فِى رَحْمَتِنَآ ۖ"
+        }
+      ],
+      "activityId": "act_021_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 7,
+      "options": [
+        "تَكْتُمُونَ",
+        "وَٱبْنَهَآ",
+        "وَٱقْتَرَبَ",
+        "وَٱلشَّمْسَ"
+      ],
+      "activityId": "act_021_19_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "وَإِنْ أَدْرِى لَعَلَّهُۥ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "فَإِن تَوَلَّوْا۟ فَقُلْ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا"
+        }
+      ],
+      "activityId": "act_021_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 2,
+      "options": [
+        "لَعَلَّهُۥ",
+        "أَرَدْنَآ",
+        "أَفَإِي۟ن",
+        "أَقَرِيبٌ"
+      ],
+      "activityId": "act_021_19_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "options": [
+        {
+          "ayahNumber": 112,
+          "text": "قَـٰلَ رَبِّ ٱحْكُم"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "قُلْ إِنَّمَآ أُنذِرُكُم"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ مَن يَكْلَؤُكُم"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "قُلْ إِنَّمَا يُوحَىٰٓ"
+        }
+      ],
+      "activityId": "act_021_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُسْتَعَانُ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُسْرِفِينَ",
+        "أَطْرَافِهَآ ۚ"
+      ],
+      "activityId": "act_021_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

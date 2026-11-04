@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_17",
+  "title": "سورة النمل - الآيات 89-93",
+  "surahId": 27,
+  "ayahStart": 89,
+  "ayahEnd": 93,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلْحَسَنَةِ",
+        "بِهَدِيَّتِكُمْ",
+        "بِٱلسَّيِّئَةِ",
+        "بِٱلْـَٔاخِرَةِ"
+      ],
+      "activityId": "act_027_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "وَمَن جَآءَ بِٱلسَّيِّئَةِ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَلَمَّا جَآءَ سُلَيْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ ۖ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_027_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 2,
+      "options": [
+        "بِٱلسَّيِّئَةِ",
+        "بِٱلْحَسَنَةِ",
+        "تَقَاسَمُوا۟",
+        "رَحْمَتِهِۦٓ ۗ"
+      ],
+      "activityId": "act_027_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "options": [
+        {
+          "ayahNumber": 91,
+          "text": "إِنَّمَآ أُمِرْتُ أَنْ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "إِنَّ رَبَّكَ يَقْضِى"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "قَالَتْ إِنَّ ٱلْمُلُوكَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "فَلَمَّا جَآءَهَا نُودِىَ"
+        }
+      ],
+      "activityId": "act_027_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمُفْسِدِينَ",
+        "ٱلْمُنذَرِينَ",
+        "تَسْتَعْجِلُونَ"
+      ],
+      "activityId": "act_027_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 92,
+          "text": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ ۖ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَإِنَّ رَبَّكَ لَذُو"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَإِنَّ رَبَّكَ لَيَعْلَمُ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "إِنَّكَ لَا تُسْمِعُ"
+        }
+      ],
+      "activityId": "act_027_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقُرْءَانَ ۖ",
+        "ٱلْمُسْلِمِينَ",
+        "تَسْتَغْفِرُونَ",
+        "لَأُعَذِّبَنَّهُۥ"
+      ],
+      "activityId": "act_027_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 93,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "قُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "أَلَّا يَسْجُدُوا۟ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ"
+        }
+      ],
+      "activityId": "act_027_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 5,
+      "options": [
+        "فَتَعْرِفُونَهَا ۚ",
+        "وَٱسْتَيْقَنَتْهَآ",
+        "وَلَنُخْرِجَنَّهُم",
+        "ٱلْعَظِيمِ ۩‏"
+      ],
+      "activityId": "act_027_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

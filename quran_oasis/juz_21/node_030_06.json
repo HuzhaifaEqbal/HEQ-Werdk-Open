@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_06",
+  "title": "سورة الروم - الآيات 28-32",
+  "surahId": 30,
+  "ayahStart": 28,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 15,
+      "options": [
+        "وَلَعَلَّكُمْ",
+        "وَٱلنَّهَارِ",
+        "رَزَقْنَـٰكُمْ",
+        "يَصَّدَّعُونَ"
+      ],
+      "activityId": "act_030_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "مِنَ ٱلَّذِينَ فَرَّقُوا۟"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "بَلِ ٱتَّبَعَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ"
+        }
+      ],
+      "activityId": "act_030_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 8,
+      "options": [
+        "أَيْدِى",
+        "وَمَا",
+        "يَهْدِى",
+        "ٱلْخَلْقَ"
+      ],
+      "activityId": "act_030_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "غُلِبَتِ ٱلرُّومُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        }
+      ],
+      "activityId": "act_030_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 11,
+      "options": [
+        "مِّنْهُ",
+        "أُوتُوا۟",
+        "تَبْدِيلَ",
+        "قَوْمِهِمْ"
+      ],
+      "activityId": "act_030_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "فَإِنَّكَ لَا تُسْمِعُ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        }
+      ],
+      "activityId": "act_030_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّسْلِمُونَ",
+        "يَمْهَدُونَ",
+        "ٱلصَّلَوٰةَ",
+        "أَنفُسِهِم ۗ"
+      ],
+      "activityId": "act_030_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "وَقَالَ ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "مِنَ ٱلَّذِينَ فَرَّقُوا۟"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_030_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 5,
+      "options": [
+        "إِلَيْهِ",
+        "شِيَعًۭا ۖ",
+        "ٱلْقُرْبَىٰ",
+        "رَوْضَةٍۢ"
+      ],
+      "activityId": "act_030_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "ضرب الأمثال في إبطال الشرك وإقامة الوجه للدين الحنيف وفطرة الله."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_06",
+  "title": "سورة الأنبياء - الآيات 31-36",
+  "surahId": 21,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 0,
+      "options": [
+        "وَجَعَلْنَا",
+        "تَعْبُدُونَ",
+        "تَعْقِلُونَ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_021_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "يَوْمَ نَطْوِى ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَمَا خَلَقْنَا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        }
+      ],
+      "activityId": "act_021_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "مَّحْفُوظًۭا ۖ",
+        "وَلِسُلَيْمَـٰنَ",
+        "وَمَسَـٰكِنِكُمْ",
+        "وَنَبْلُوكُم"
+      ],
+      "activityId": "act_021_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَهُوَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "خُلِقَ ٱلْإِنسَـٰنُ مِنْ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "قُلْ إِنَّمَآ أُنذِرُكُم"
+        }
+      ],
+      "activityId": "act_021_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلنَّهَارَ",
+        "وَيَعْمَلُونَ",
+        "وَيَقُولُونَ",
+        "وَٱرْجِعُوٓا۟"
+      ],
+      "activityId": "act_021_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَمَا جَعَلْنَا لِبَشَرٍۢ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَمَآ أَرْسَلْنَا قَبْلَكَ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        }
+      ],
+      "activityId": "act_021_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْخَـٰلِدُونَ",
+        "وَٱلطَّيْرَ ۚ",
+        "وَٱلنَّهَارَ",
+        "وَٱلْأَرْضِ ۖ"
+      ],
+      "activityId": "act_021_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        }
+      ],
+      "activityId": "act_021_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "وَنَبْلُوكُم",
+        "وَٱلْقَمَرَ ۖ",
+        "وَٱنصُرُوٓا۟",
+        "يَتَّخِذُونَكَ"
+      ],
+      "activityId": "act_021_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَإِذَا رَءَاكَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "أَوَلَمْ يَرَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "لَوْ يَعْلَمُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "وَنَصَرْنَـٰهُ مِنَ ٱلْقَوْمِ"
+        }
+      ],
+      "activityId": "act_021_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَّخِذُونَكَ",
+        "يَـٰٓإِبْرَٰهِيمُ",
+        "ٱسْتَمَعُوهُ",
+        "ٱلرَّحْمَـٰنِ ۗ"
+      ],
+      "activityId": "act_021_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_09",
+  "title": "سورة يونس - الآيات 49-54",
+  "surahId": 10,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 22,
+      "options": [
+        "يَسْتَقْدِمُونَ",
+        "تَسْتَعْجِلُونَ",
+        "ٱلْمُجْرِمُونَ",
+        "بِمُعْجِزِينَ"
+      ],
+      "activityId": "act_010_09_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "wrongOptionsAyahNumbers": [
+        51,
+        47
+      ],
+      "activityId": "act_010_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْمُجْرِمُونَ",
+        "يَسْتَقْدِمُونَ",
+        "تَسْتَعْجِلُونَ",
+        "بِٱلْقِسْطِ ۚ"
+      ],
+      "activityId": "act_010_09_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "wrongOptionsAyahNumbers": [
+        52,
+        48
+      ],
+      "activityId": "act_010_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 11,
+      "options": [
+        "تَسْتَعْجِلُونَ",
+        "يَسْتَقْدِمُونَ",
+        "ٱلْمُجْرِمُونَ",
+        "يَسْتَـْٔخِرُونَ"
+      ],
+      "activityId": "act_010_09_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "wrongOptionsAyahNumbers": [
+        53,
+        49
+      ],
+      "activityId": "act_010_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 13,
+      "options": [
+        "تَكْسِبُونَ",
+        "لَٱفْتَدَتْ",
+        "يُظْلَمُونَ",
+        "أَرَءَيْتُمْ"
+      ],
+      "activityId": "act_010_09_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "wrongOptionsAyahNumbers": [
+        54,
+        50
+      ],
+      "activityId": "act_010_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ وَيَسْتَنۢبِـُٔونَكَ",
+        "تَسْتَعْجِلُونَ",
+        "يَسْتَقْدِمُونَ",
+        "ٱلْمُجْرِمُونَ"
+      ],
+      "activityId": "act_010_09_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_010_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلنَّدَامَةَ",
+        "بِمُعْجِزِينَ",
+        "يَسْتَـْٔخِرُونَ",
+        "يَسْتَعْجِلُ"
+      ],
+      "activityId": "act_010_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

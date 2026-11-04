@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_031_02",
+  "title": "سورة لقمان - الآيات 7-11",
+  "surahId": 31,
+  "ayahStart": 7,
+  "ayahEnd": 11,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱتَّقُوا۟",
+        "يَسْمَعْهَا",
+        "وَٱلْبَحْرُ",
+        "وَٰحِدَةٍ ۗ"
+      ],
+      "activityId": "act_031_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "لِلَّهِ مَا فِى"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_031_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "وَفِصَـٰلُهُۥ",
+        "ٱلصَّـٰلِحَـٰتِ",
+        "وَٱلْأَرْضِ ۚ",
+        "تُطِعْهُمَا ۖ"
+      ],
+      "activityId": "act_031_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "نُمَتِّعُهُمْ قَلِيلًۭا ثُمَّ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "مَّا خَلْقُكُمْ وَلَا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ"
+        }
+      ],
+      "activityId": "act_031_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "يَمُدُّهُۥ",
+        "حَقًّۭا ۚ",
+        "ٱلْحَكِيمُ",
+        "يُسْلِمْ"
+      ],
+      "activityId": "act_031_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَ لُقْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ"
+        }
+      ],
+      "activityId": "act_031_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 13,
+      "options": [
+        "فَلَمَّا",
+        "عِلْمٌۭ",
+        "فِيهَا",
+        "وَلَا"
+      ],
+      "activityId": "act_031_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "هَـٰذَا خَلْقُ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّ ٱللَّهَ عِندَهُۥ"
+        }
+      ],
+      "activityId": "act_031_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلَّذِينَ",
+        "ٱلْعَلِىُّ",
+        "غَلِيظٍۢ",
+        "لُقْمَـٰنُ"
+      ],
+      "activityId": "act_031_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "لقمان",
+    "juz": 21,
+    "theme": "بشارة المؤمنين بجنات النعيم ودلائل خلق السماوات وإلقاء الرواسي وبث الدواب."
+  }
+}

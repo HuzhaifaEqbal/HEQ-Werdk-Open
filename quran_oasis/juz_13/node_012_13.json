@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_13",
+  "title": "سورة يوسف - الآيات 71-76",
+  "surahId": 12,
+  "ayahStart": 71,
+  "ayahEnd": 76,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَقْبَلُوا۟",
+        "ٱلظَّـٰلِمِينَ",
+        "جَزَٰٓؤُهُۥ ۚ",
+        "ٱسْتَخْرَجَهَا"
+      ],
+      "activityId": "act_012_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "wrongOptionsAyahNumbers": [
+        73,
+        69
+      ],
+      "activityId": "act_012_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَلِكِ",
+        "أَخِيهِ ۚ",
+        "تَٱللَّهِ",
+        "رَحْلِهِۦ"
+      ],
+      "activityId": "act_012_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "wrongOptionsAyahNumbers": [
+        74,
+        70
+      ],
+      "activityId": "act_012_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "تَٱللَّهِ",
+        "عَلَيْهِم",
+        "ٱللَّهُ ۚ",
+        "ٱلْمَلِكِ"
+      ],
+      "activityId": "act_012_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_012_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 3,
+      "options": [
+        "جَزَٰٓؤُهُۥٓ",
+        "سَـٰرِقِينَ",
+        "نَّشَآءُ ۗ",
+        "لِنُفْسِدَ"
+      ],
+      "activityId": "act_012_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_012_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "وَأَقْبَلُوا۟",
+        "بِأَوْعِيَتِهِمْ",
+        "تَفْقِدُونَ"
+      ],
+      "activityId": "act_012_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_012_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "بِأَوْعِيَتِهِمْ",
+        "ٱلظَّـٰلِمِينَ",
+        "وَأَقْبَلُوا۟",
+        "جَزَٰٓؤُهُۥ ۚ"
+      ],
+      "activityId": "act_012_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

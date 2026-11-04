@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_16",
+  "title": "سورة الكهف - الآيات 87-92",
+  "surahId": 18,
+  "ayahStart": 87,
+  "ayahEnd": 92,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 10,
+      "options": [
+        "فَيُعَذِّبُهُۥ",
+        "لِلظَّـٰلِمِينَ",
+        "لِلْمَلَـٰٓئِكَةِ",
+        "لِمَهْلِكِهِم"
+      ],
+      "activityId": "act_018_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "وَأَمَّا مَنْ ءَامَنَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَأَمَّا ٱلْجِدَارُ فَكَانَ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَأَمَّا ٱلْغُلَـٰمُ فَكَانَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "فَوَجَدَا عَبْدًۭا مِّنْ"
+        }
+      ],
+      "activityId": "act_018_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْحُسْنَىٰ ۖ",
+        "لِنَبْلُوَهُمْ",
+        "لِيَعْلَمُوٓا۟",
+        "لِيُدْحِضُوا۟"
+      ],
+      "activityId": "act_018_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "options": [
+        {
+          "ayahNumber": 89,
+          "text": "ثُمَّ أَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "فَأَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ"
+        }
+      ],
+      "activityId": "act_018_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 1,
+      "options": [
+        "أَتْبَعَ",
+        "أَبْلُغَ",
+        "أَتَيَآ",
+        "أَجْرًا"
+      ],
+      "activityId": "act_018_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا"
+        }
+      ],
+      "activityId": "act_018_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشَّمْسِ",
+        "إِبْلِيسَ",
+        "إِلَـٰهًۭا ۖ",
+        "إِلَـٰهُكُمْ"
+      ],
+      "activityId": "act_018_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 90,
+      "correctNextAyahNumber": 91,
+      "options": [
+        {
+          "ayahNumber": 91,
+          "text": "كَذَٰلِكَ وَقَدْ أَحَطْنَا"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلِ ٱللَّهُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        }
+      ],
+      "activityId": "act_018_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 2,
+      "options": [
+        "أَحَطْنَا",
+        "بَارِزَةًۭ",
+        "بَعْدَهَا",
+        "بَعْضَهُمْ"
+      ],
+      "activityId": "act_018_16_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 92,
+          "text": "ثُمَّ أَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "فَأَتْبَعَ سَبَبًا"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "فَمَا ٱسْطَـٰعُوٓا۟ أَن"
+        }
+      ],
+      "activityId": "act_018_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 1,
+      "options": [
+        "أَتْبَعَ",
+        "أَجْعَلْ",
+        "أَحَاطَ",
+        "أَحَدًا"
+      ],
+      "activityId": "act_018_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

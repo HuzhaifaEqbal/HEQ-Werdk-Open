@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_014_08",
+  "title": "سورة إبراهيم - الآيات 43-47",
+  "surahId": 14,
+  "ayahStart": 43,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَفْـِٔدَتُهُمْ",
+        "ٱلْأَمْثَالَ",
+        "رُسُلَهُۥٓ ۗ",
+        "أَقْسَمْتُم"
+      ],
+      "activityId": "act_014_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_014_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "يَأْتِيهِمُ",
+        "أَنفُسَهُمْ",
+        "رُءُوسِهِمْ",
+        "مُهْطِعِينَ"
+      ],
+      "activityId": "act_014_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_014_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْأَمْثَالَ",
+        "وَأَفْـِٔدَتُهُمْ",
+        "طَرْفُهُمْ ۖ",
+        "تَكُونُوٓا۟"
+      ],
+      "activityId": "act_014_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_014_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْجِبَالُ",
+        "ٱلْعَذَابُ",
+        "ٱنتِقَامٍۢ",
+        "وَسَكَنتُمْ"
+      ],
+      "activityId": "act_014_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_014_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 6,
+      "options": [
+        "رُسُلَهُۥٓ ۗ",
+        "وَضَرَبْنَا",
+        "يَأْتِيهِمُ",
+        "ٱلرُّسُلَ ۗ"
+      ],
+      "activityId": "act_014_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "إبراهيم",
+    "juz": 13,
+    "theme": "تقرير رسالة الرسل وإخراج الناس من الظلمات إلى النور، وذكر نعم الله ومصير الشاكرين والجاحدين، ودعاء إبراهيم عليه السلام للبيت وذريته."
+  }
+}

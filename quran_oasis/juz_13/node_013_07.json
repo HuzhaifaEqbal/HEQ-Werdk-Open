@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_013_07",
+  "title": "سورة الرعد - الآيات 34-38",
+  "surahId": 13,
+  "ayahStart": 34,
+  "ayahEnd": 38,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلدُّنْيَا ۖ",
+        "ٱلْأَحْزَابِ",
+        "أَهْوَآءَهُم",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_013_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_013_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُتَّقُونَ ۖ",
+        "ءَاتَيْنَـٰهُمُ",
+        "ٱلدُّنْيَا ۖ",
+        "أَهْوَآءَهُم"
+      ],
+      "activityId": "act_013_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_013_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَاتَيْنَـٰهُمُ",
+        "ٱلْأَنْهَـٰرُ ۖ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلدُّنْيَا ۖ"
+      ],
+      "activityId": "act_013_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "wrongOptionsAyahNumbers": [
+        38,
+        34
+      ],
+      "activityId": "act_013_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 7,
+      "options": [
+        "أَهْوَآءَهُم",
+        "ٱلْأَحْزَابِ",
+        "ءَاتَيْنَـٰهُمُ",
+        "ٱلْأَنْهَـٰرُ ۖ"
+      ],
+      "activityId": "act_013_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_013_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرْسَلْنَا",
+        "بَعْضَهُۥ ۚ",
+        "وَلَعَذَابُ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_013_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرعد",
+    "juz": 13,
+    "theme": "عرض دلائل قدرة الله في الخلق والتدبير، وبيان أثر الوحي والإيمان، ومثل الحق والباطل، وصفات أولي الألباب ومآلهم."
+  }
+}

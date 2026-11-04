@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_027_12",
+  "title": "سورة النمل - الآيات 62-67",
+  "surahId": 27,
+  "ayahStart": 62,
+  "ayahEnd": 67,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 7,
+      "options": [
+        "وَيَجْعَلُكُمْ",
+        "وَأَدْخِلْنِى",
+        "وَأَمْطَرْنَا",
+        "وَأَنجَيْنَا"
+      ],
+      "activityId": "act_027_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "أَمَّن يَهْدِيكُمْ فِى"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أَمَّن جَعَلَ ٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ"
+        }
+      ],
+      "activityId": "act_027_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 12,
+      "options": [
+        "رَحْمَتِهِۦٓ ۗ",
+        "وَأُوتِينَا",
+        "وَجُنُودُهُۥ",
+        "وَقَوْمِهِۦٓ ۚ"
+      ],
+      "activityId": "act_027_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "أَمَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أَمَّن جَعَلَ ٱلْأَرْضَ"
+        }
+      ],
+      "activityId": "act_027_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلْأَرْضِ ۗ",
+        "وَيَجْعَلُكُمْ",
+        "وَيَقُولُونَ",
+        "وَٱلنَّهَارَ"
+      ],
+      "activityId": "act_027_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "قُل لَّا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "قُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قُلْ عَسَىٰٓ أَن"
+        }
+      ],
+      "activityId": "act_027_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "مُدْبِرِينَ",
+        "مُسْتَقِرًّا",
+        "مُسْلِمِينَ"
+      ],
+      "activityId": "act_027_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَمَا مِنْ غَآئِبَةٍۢ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَكَانَ فِى ٱلْمَدِينَةِ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "وَيَوْمَ يُنفَخُ فِى"
+        }
+      ],
+      "activityId": "act_027_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "وَٱلْأَرْضِ ۗ",
+        "يَتَطَهَّرُونَ",
+        "يَحْطِمَنَّكُمْ"
+      ],
+      "activityId": "act_027_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ"
+        }
+      ],
+      "activityId": "act_027_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 6,
+      "options": [
+        "وَءَابَآؤُنَآ",
+        "ٱلْمُسْلِمِينَ",
+        "ٱلْمُفْسِدِينَ",
+        "ٱلْمُنذَرِينَ"
+      ],
+      "activityId": "act_027_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

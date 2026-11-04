@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_039_06",
+  "title": "سورة الزمر - الآيات 27-31",
+  "surahId": 39,
+  "ayahStart": 27,
+  "ayahEnd": 31,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْقُرْءَانِ",
+        "خَـٰلِدِينَ",
+        "عَـٰمِلٌۭ ۖ",
+        "خَوَّلْنَـٰهُ"
+      ],
+      "activityId": "act_039_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "قُرْءَانًا عَرَبِيًّا غَيْرَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "قُلْ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ"
+        }
+      ],
+      "activityId": "act_039_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱتَّقُوا۟",
+        "نِعْمَةًۭ",
+        "عِوَجٍۢ",
+        "حَتَّىٰٓ"
+      ],
+      "activityId": "act_039_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "قُلْ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "ضَرَبَ ٱللَّهُ مَثَلًۭا"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "ٱللَّهُ نَزَّلَ أَحْسَنَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_039_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 9,
+      "options": [
+        "لِّرَجُلٍ",
+        "رَبِّكُمْ",
+        "تَجْرِى",
+        "ٱلْكِتَـٰبِ"
+      ],
+      "activityId": "act_039_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّكَ مَيِّتٌۭ وَإِنَّهُم"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ"
+        }
+      ],
+      "activityId": "act_039_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "تَحْتِهَا",
+        "وَإِنَّهُم",
+        "ٱجْتَنَبُوا۟",
+        "ٱلْحَدِيثِ"
+      ],
+      "activityId": "act_039_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "ثُمَّ إِنَّكُمْ يَوْمَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "۞ فَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "خَلَقَكُم مِّن نَّفْسٍۢ"
+        }
+      ],
+      "activityId": "act_039_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "لِلظَّـٰلِمِينَ",
+        "لَٱفْتَدَوْا۟",
+        "تَخْتَصِمُونَ",
+        "ٱلْقِيَـٰمَةِ"
+      ],
+      "activityId": "act_039_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "ضرب مثل الرجل فيه شركاء متشاكسون ورجلاً سلماً لرجل وتأكيد الموت واختصام الخلائق."
+  }
+}

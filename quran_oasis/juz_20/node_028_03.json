@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_03",
+  "title": "سورة القصص - الآيات 13-18",
+  "surahId": 28,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 0,
+      "options": [
+        "فَرَدَدْنَـٰهُ",
+        "أَهْلَكْنَا",
+        "أَيْدِيهِمْ",
+        "أُوتِيتُم"
+      ],
+      "activityId": "act_028_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَلَمَّا بَلَغَ أَشُدَّهُۥ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَمَّا تَوَجَّهَ تِلْقَآءَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَمَّا وَرَدَ مَآءَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالَ رَبِّ إِنِّى"
+        }
+      ],
+      "activityId": "act_028_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "ٱلْمُشْرِكِينَ",
+        "ٱلْمُصْلِحِينَ",
+        "ٱلْمُفْسِدِينَ"
+      ],
+      "activityId": "act_028_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ إِنَّمَآ أُوتِيتُهُۥ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ"
+        }
+      ],
+      "activityId": "act_028_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمَدِينَةَ",
+        "ءَابَآئِنَا",
+        "ءَاتَيْنَـٰهُمُ",
+        "ءَايَـٰتِنَا ۚ"
+      ],
+      "activityId": "act_028_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "قَالَ رَبِّ إِنِّى"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "قَالَ رَبِّ إِنِّى قَتَلْتُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "قَالَ رَبِّ بِمَآ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "قَالَ إِنِّىٓ أُرِيدُ"
+        }
+      ],
+      "activityId": "act_028_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَفُورُ",
+        "بُرْهَـٰنَانِ",
+        "بُرْهَـٰنَكُمْ",
+        "بِأَهْلِهِۦٓ"
+      ],
+      "activityId": "act_028_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "قَالَ رَبِّ بِمَآ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "قَالَ رَبِّ إِنِّى"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالَ ذَٰلِكَ بَيْنِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "قَالَ سَنَشُدُّ عَضُدَكَ"
+        }
+      ],
+      "activityId": "act_028_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 8,
+      "options": [
+        "لِّلْمُجْرِمِينَ",
+        "ٱلْمُفْلِحِينَ",
+        "۞ وَحَرَّمْنَا",
+        "أَهْوَآءَهُمْ ۚ"
+      ],
+      "activityId": "act_028_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "فَخَرَجَ مِنْهَا خَآئِفًۭا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ"
+        }
+      ],
+      "activityId": "act_028_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسْتَصْرِخُهُۥ ۚ",
+        "بِٱلْمُهْتَدِينَ",
+        "ٱلْمَقْبُوحِينَ",
+        "ٱلْمُنتَصِرِينَ"
+      ],
+      "activityId": "act_028_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

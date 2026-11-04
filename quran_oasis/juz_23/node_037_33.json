@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_33",
+  "title": "سورة الصافات - الآيات 178-182",
+  "surahId": 37,
+  "ayahStart": 178,
+  "ayahEnd": 182,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 178,
+      "missingWordPosition": 2,
+      "options": [
+        "بِهِۦ ۖ",
+        "عَظِيمٍۢ",
+        "حَتَّىٰ",
+        "كَذَٰلِكَ"
+      ],
+      "activityId": "act_037_33_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 178,
+      "correctNextAyahNumber": 179,
+      "options": [
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        },
+        {
+          "ayahNumber": 179,
+          "text": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِن دُونِ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_037_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 179,
+      "missingWordPosition": 1,
+      "options": [
+        "إِنَّكُمْ",
+        "وَرَبُّ",
+        "فَسَوْفَ",
+        "إِلْيَاسَ"
+      ],
+      "activityId": "act_037_33_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 179,
+      "correctNextAyahNumber": 180,
+      "options": [
+        {
+          "ayahNumber": 180,
+          "text": "سُبْحَـٰنَ رَبِّكَ رَبِّ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "فَلَمَّا بَلَغَ مَعَهُ"
+        },
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        }
+      ],
+      "activityId": "act_037_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 180,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَظِيمُ",
+        "أَصْطَفَى",
+        "ٱلْعِزَّةِ",
+        "ٱلْبَاقِينَ"
+      ],
+      "activityId": "act_037_33_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 180,
+      "correctNextAyahNumber": 181,
+      "options": [
+        {
+          "ayahNumber": 181,
+          "text": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قُلْ نَعَمْ وَأَنتُمْ"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "وَنَصَرْنَـٰهُمْ فَكَانُوا۟ هُمُ"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+        }
+      ],
+      "activityId": "act_037_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 181,
+      "missingWordPosition": 1,
+      "options": [
+        "هَلْ",
+        "عَلَى",
+        "إِنْ",
+        "سُرُرٍۢ"
+      ],
+      "activityId": "act_037_33_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 181,
+      "correctNextAyahNumber": 182,
+      "options": [
+        {
+          "ayahNumber": 135,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 182,
+          "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ"
+        }
+      ],
+      "activityId": "act_037_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 182,
+      "missingWordPosition": 2,
+      "options": [
+        "لَوْ",
+        "رَبِّ",
+        "لَهُمْ",
+        "وَهُم"
+      ],
+      "activityId": "act_037_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "ختام السورة بتنزيه رب العزة والجلال والسلام على المرسلين والحمد لله رب العالمين."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_22",
+  "title": "سورة الشعراء - الآيات 127-132",
+  "surahId": 26,
+  "ayahStart": 127,
+  "ayahEnd": 132,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْغَـٰلِبِينَ",
+        "ٱلْـَٔاخَرِينَ",
+        "ٱلْقَالِينَ"
+      ],
+      "activityId": "act_026_22_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "options": [
+        {
+          "ayahNumber": 128,
+          "text": "أَتَبْنُونَ بِكُلِّ رِيعٍ"
+        },
+        {
+          "ayahNumber": 197,
+          "text": "أَوَلَمْ يَكُن لَّهُمْ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "يَأْتُوكَ بِكُلِّ سَحَّارٍ"
+        },
+        {
+          "ayahNumber": 144,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        }
+      ],
+      "activityId": "act_026_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 0,
+      "options": [
+        "أَتَبْنُونَ",
+        "ٱلرَّحِيمُ",
+        "ٱلرَّحْمَـٰنِ",
+        "ٱلسَّحَرَةُ"
+      ],
+      "activityId": "act_026_22_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "options": [
+        {
+          "ayahNumber": 129,
+          "text": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ"
+        },
+        {
+          "ayahNumber": 148,
+          "text": "وَزُرُوعٍۢ وَنَخْلٍۢ طَلْعُهَا"
+        },
+        {
+          "ayahNumber": 150,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَـٰدِمِينَ"
+        }
+      ],
+      "activityId": "act_026_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 0,
+      "options": [
+        "وَتَتَّخِذُونَ",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمَدَآئِنِ"
+      ],
+      "activityId": "act_026_22_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "options": [
+        {
+          "ayahNumber": 130,
+          "text": "وَإِذَا بَطَشْتُم بَطَشْتُمْ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَإِذَا مَرِضْتُ فَهُوَ"
+        },
+        {
+          "ayahNumber": 163,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 170,
+          "text": "فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ"
+        }
+      ],
+      "activityId": "act_026_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 3,
+      "options": [
+        "جَبَّارِينَ",
+        "ٱلسَّمَآءِ",
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلسَّمِيعُ"
+      ],
+      "activityId": "act_026_22_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "options": [
+        {
+          "ayahNumber": 131,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 213,
+          "text": "فَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        }
+      ],
+      "activityId": "act_026_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَطِيعُونِ",
+        "ٱلْمَشْحُونِ",
+        "ٱلْوَٰعِظِينَ",
+        "۞ أَوْفُوا۟"
+      ],
+      "activityId": "act_026_22_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "options": [
+        {
+          "ayahNumber": 132,
+          "text": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم"
+        },
+        {
+          "ayahNumber": 184,
+          "text": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 133,
+          "text": "أَمَدَّكُم بِأَنْعَـٰمٍۢ وَبَنِينَ"
+        },
+        {
+          "ayahNumber": 218,
+          "text": "ٱلَّذِى يَرَىٰكَ حِينَ"
+        }
+      ],
+      "activityId": "act_026_22_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱتَّقُوا۟",
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلظُّلَّةِ ۚ",
+        "ٱلنَّعِيمِ"
+      ],
+      "activityId": "act_026_22_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

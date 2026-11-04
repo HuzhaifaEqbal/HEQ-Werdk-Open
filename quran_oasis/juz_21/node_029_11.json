@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_11",
+  "title": "سورة العنكبوت - الآيات 51-55",
+  "surahId": 29,
+  "ayahStart": 51,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 7,
+      "options": [
+        "فَكَذَّبُوهُ",
+        "فَإِنَّمَا",
+        "ٱلْكِتَـٰبَ",
+        "عَلَيْهِمْ ۚ"
+      ],
+      "activityId": "act_029_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "فَإِذَا رَكِبُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "أَمْ حَسِبَ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 10,
+      "options": [
+        "نَجَّىٰهُمْ",
+        "ٱلْعِلْمَ ۚ",
+        "وَمَأْوَىٰكُمُ",
+        "وَٱلْأَرْضِ ۗ"
+      ],
+      "activityId": "act_029_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "أَمْ حَسِبَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "أَوَلَمْ يَكْفِهِمْ أَنَّآ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ ۚ وَلَوْلَآ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنفُسَهُمْ",
+        "ٱلْقَرْيَةِ",
+        "ٱلْقِيَـٰمَةِ",
+        "لَّجَآءَهُمُ"
+      ],
+      "activityId": "act_029_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "إِنَّ ٱللَّهَ يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَلَئِن سَأَلْتَهُم مَّنْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        }
+      ],
+      "activityId": "act_029_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 3,
+      "options": [
+        "مَآءًۭ",
+        "جَهَنَّمَ",
+        "عَلَيْهِ",
+        "أَهْلَهَا"
+      ],
+      "activityId": "act_029_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "ٱتْلُ مَآ أُوحِىَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ"
+        }
+      ],
+      "activityId": "act_029_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 6,
+      "options": [
+        "تَحْتِ",
+        "بِكُلِّ",
+        "وَهُوَ",
+        "أُنزِلَ"
+      ],
+      "activityId": "act_029_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 21,
+    "theme": "كفاية القرآن الكريم كمعجزة وهداية وبيان عجز المشركين وحجتهم الداحضة."
+  }
+}

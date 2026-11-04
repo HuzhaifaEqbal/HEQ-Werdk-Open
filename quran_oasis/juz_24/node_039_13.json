@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_039_13",
+  "title": "سورة الزمر - الآيات 64-67",
+  "surahId": 39,
+  "ayahStart": 64,
+  "ayahEnd": 67,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "يَحْتَسِبُونَ",
+        "تَأْمُرُوٓنِّىٓ",
+        "ٱلْمُتَوَكِّلُونَ",
+        "ٱلسَّـٰخِرِينَ"
+      ],
+      "activityId": "act_039_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "وَلَقَدْ أُوحِىَ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        }
+      ],
+      "activityId": "act_039_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 7,
+      "options": [
+        "عَلَىٰ",
+        "۞ فَمَنْ",
+        "لَئِنْ",
+        "شَىْءٍۢ"
+      ],
+      "activityId": "act_039_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "أَن تَقُولَ نَفْسٌۭ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَدْ قَالَهَا ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "بَلِ ٱللَّهَ فَٱعْبُدْ"
+        }
+      ],
+      "activityId": "act_039_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 3,
+      "options": [
+        "إِلَّا",
+        "غَيْرَ",
+        "وَكُن",
+        "ثُمَّ"
+      ],
+      "activityId": "act_039_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَمَا قَدَرُوا۟ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَٱلَّذِينَ ٱجْتَنَبُوا۟ ٱلطَّـٰغُوتَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟"
+        }
+      ],
+      "activityId": "act_039_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 8,
+      "options": [
+        "ضَلَّ",
+        "يَوْمَ",
+        "عَذَابَ",
+        "رَبِّهَا"
+      ],
+      "activityId": "act_039_13_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "النهي عن عبادة غير الله والأمر بالشكر وعظمة الله وقبضته للسماوات والأرض يوم القيامة."
+  }
+}

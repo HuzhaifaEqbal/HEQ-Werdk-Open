@@ -6,7 +6,9 @@
 > **شبكة التوزيع (jsDelivr CDN):** `https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/quran_oasis/`  
 > **الخط والرسم:** الرسم العثماني المصحفي  
 > **الضابط الأساسي:** **ممنوع البعثرة مطلقاً (STRICTLY NO SCRAMBLING)**  
-> **الصيغة:** JSON (UTF-8)
+> **الصيغة:** JSON (UTF-8)  
+> **خريطة الأنشطة الشاملة:** [STRUCTURE_MAP.md](./STRUCTURE_MAP.md) (13,188 نشاطاً تفاعلياً تغطي الـ 30 جزءاً)  
+> **الخوارزميات المقترحة للاختبارات والمراجعة:** [RECOMMENDED_ALGORITHMS.md](./RECOMMENDED_ALGORITHMS.md)
 
 ---
 

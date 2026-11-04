@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_031_03",
+  "title": "سورة لقمان - الآيات 12-15",
+  "surahId": 31,
+  "ayahStart": 12,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 9,
+      "options": [
+        "فَإِنَّمَا",
+        "فَمِنْهُم",
+        "شَيْـًٔا ۚ",
+        "بَعْثُكُمْ"
+      ],
+      "activityId": "act_031_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَ لُقْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَـٰبُنَىَّ إِنَّهَآ إِن"
+        }
+      ],
+      "activityId": "act_031_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيُولِجُ",
+        "وَٱتَّبِعْ",
+        "ظَـٰهِرَةًۭ",
+        "يَـٰبُنَىَّ"
+      ],
+      "activityId": "act_031_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَمَن كَفَرَ فَلَا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَإِذَا غَشِيَهُم مَّوْجٌۭ"
+        }
+      ],
+      "activityId": "act_031_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "يَحْزُنكَ",
+        "مَّوْجٌۭ",
+        "وَهْنٍۢ",
+        "رَبَّكُمْ"
+      ],
+      "activityId": "act_031_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "هَـٰذَا خَلْقُ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_031_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 16,
+      "options": [
+        "عَمِلُوٓا۟ ۚ",
+        "وَبَاطِنَةًۭ ۗ",
+        "مَعْرُوفًۭا ۖ",
+        "وَيُنَزِّلُ"
+      ],
+      "activityId": "act_031_03_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "لقمان",
+    "juz": 21,
+    "theme": "إيتاء لقمان الحكمة وبداية وصاياه لابنه بالنهي عن الشرك وبر الوالدين."
+  }
+}

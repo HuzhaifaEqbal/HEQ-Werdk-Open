@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_016_22",
+  "title": "سورة النحل - الآيات 124-128",
+  "surahId": 16,
+  "ayahStart": 124,
+  "ayahEnd": 128,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱخْتَلَفُوا۟",
+        "سَبِيلِهِۦ ۖ",
+        "فَعَاقِبُوا۟",
+        "بِٱلْحِكْمَةِ"
+      ],
+      "activityId": "act_016_22_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "wrongOptionsAyahNumbers": [
+        126,
+        122
+      ],
+      "activityId": "act_016_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 22,
+      "options": [
+        "بِٱلْمُهْتَدِينَ",
+        "لِّلصَّـٰبِرِينَ",
+        "يَخْتَلِفُونَ",
+        "ٱخْتَلَفُوا۟"
+      ],
+      "activityId": "act_016_22_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "wrongOptionsAyahNumbers": [
+        127,
+        123
+      ],
+      "activityId": "act_016_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 3,
+      "options": [
+        "فَعَاقِبُوا۟",
+        "ٱلْحَسَنَةِ ۖ",
+        "سَبِيلِهِۦ ۖ",
+        "ٱخْتَلَفُوا۟"
+      ],
+      "activityId": "act_016_22_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "wrongOptionsAyahNumbers": [
+        128,
+        124
+      ],
+      "activityId": "act_016_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱللَّهِ ۚ",
+        "عَاقَبْتُمْ",
+        "عُوقِبْتُم",
+        "مُّحْسِنُونَ"
+      ],
+      "activityId": "act_016_22_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 127,
+      "correctNextAyahNumber": 128,
+      "wrongOptionsAyahNumbers": [
+        125,
+        124
+      ],
+      "activityId": "act_016_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 6,
+      "options": [
+        "وَّٱلَّذِينَ",
+        "بِٱللَّهِ ۚ",
+        "وَجَـٰدِلْهُم",
+        "يَمْكُرُونَ"
+      ],
+      "activityId": "act_016_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

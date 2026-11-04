@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_07",
+  "title": "سورة الحجر - الآيات 37-42",
+  "surahId": 15,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُنظَرِينَ",
+        "ٱلْمُخْلَصِينَ",
+        "أَغْوَيْتَنِى",
+        "ٱلْمَعْلُومِ"
+      ],
+      "activityId": "act_015_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_015_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمَعْلُومِ",
+        "ٱلْغَاوِينَ",
+        "أَغْوَيْتَنِى",
+        "أَجْمَعِينَ"
+      ],
+      "activityId": "act_015_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_015_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 9,
+      "options": [
+        "وَلَأُغْوِيَنَّهُمْ",
+        "ٱلْمُنظَرِينَ",
+        "ٱلْمُخْلَصِينَ",
+        "ٱلْمَعْلُومِ"
+      ],
+      "activityId": "act_015_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_015_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُخْلَصِينَ",
+        "ٱلْمُنظَرِينَ",
+        "وَلَأُغْوِيَنَّهُمْ",
+        "ٱلْغَاوِينَ"
+      ],
+      "activityId": "act_015_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_015_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "مُسْتَقِيمٌ",
+        "لَأُزَيِّنَنَّ",
+        "أَجْمَعِينَ",
+        "عَلَيْهِمْ"
+      ],
+      "activityId": "act_015_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_015_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَاوِينَ",
+        "ٱلْمَعْلُومِ",
+        "أَغْوَيْتَنِى",
+        "مُسْتَقِيمٌ"
+      ],
+      "activityId": "act_015_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

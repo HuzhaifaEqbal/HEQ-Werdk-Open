@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_025_06",
+  "title": "سورة الفرقان - الآيات 27-32",
+  "surahId": 25,
+  "ayahStart": 27,
+  "ayahEnd": 32,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلظَّالِمُ",
+        "عَلَيْهَا ۚ",
+        "عِبَادِهِۦ",
+        "فَأُو۟لَـٰٓئِكَ"
+      ],
+      "activityId": "act_025_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَا يَأْتُونَكَ بِمَثَلٍ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_025_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 0,
+      "options": [
+        "يَـٰوَيْلَتَىٰ",
+        "فَجَعَلَهُۥ",
+        "فَجَعَلْنَـٰهُ",
+        "فَقَدَّرَهُۥ"
+      ],
+      "activityId": "act_025_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "لَّقَدْ أَضَلَّنِى عَنِ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "إِن كَادَ لَيُضِلُّنَا"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَقَوْمَ نُوحٍۢ لَّمَّا"
+        }
+      ],
+      "activityId": "act_025_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "جَآءَنِى ۗ",
+        "فُؤَادَكَ ۖ",
+        "كَذَّبُوكُم",
+        "لَبَعَثْنَا"
+      ],
+      "activityId": "act_025_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "أَمْ تَحْسَبُ أَنَّ"
+        }
+      ],
+      "activityId": "act_025_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "وَيَقُولُونَ",
+        "وَٱتَّخَذُوا۟",
+        "وَٱجْعَلْنَا"
+      ],
+      "activityId": "act_025_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَعَادًۭا وَثَمُودَا۟ وَأَصْحَـٰبَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَكُلًّۭا ضَرَبْنَا لَهُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "وَلَقَدْ أَتَوْا۟ عَلَى"
+        }
+      ],
+      "activityId": "act_025_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُجْرِمِينَ ۗ",
+        "لِّلْمُجْرِمِينَ",
+        "يَسْتَطِيعُونَ",
+        "ٱسْتَكْبَرُوا۟"
+      ],
+      "activityId": "act_025_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_025_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقُرْءَانُ",
+        "وَٱلنَّهَارَ",
+        "وَٱلْأَرْضِ ۚ",
+        "يَتَّخِذُونَكَ"
+      ],
+      "activityId": "act_025_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

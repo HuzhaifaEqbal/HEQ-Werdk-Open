@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_35",
+  "title": "سورة الشعراء - الآيات 193-197",
+  "surahId": 26,
+  "ayahStart": 193,
+  "ayahEnd": 197,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 193,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَمِينُ",
+        "تَخْلُدُونَ",
+        "تَشْعُرُونَ",
+        "تَعْبَثُونَ"
+      ],
+      "activityId": "act_026_35_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 193,
+      "correctNextAyahNumber": 194,
+      "options": [
+        {
+          "ayahNumber": 194,
+          "text": "عَلَىٰ قَلْبِكَ لِتَكُونَ"
+        },
+        {
+          "ayahNumber": 221,
+          "text": "هَلْ أُنَبِّئُكُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 222,
+          "text": "تَنَزَّلُ عَلَىٰ كُلِّ"
+        },
+        {
+          "ayahNumber": 198,
+          "text": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_026_35_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 194,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُنذِرِينَ",
+        "ٱلْمُخْرَجِينَ",
+        "ٱلْمُخْسِرِينَ",
+        "ٱلْمُرْسَلِينَ"
+      ],
+      "activityId": "act_026_35_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 194,
+      "correctNextAyahNumber": 195,
+      "options": [
+        {
+          "ayahNumber": 195,
+          "text": "بِلِسَانٍ عَرَبِىٍّۢ مُّبِينٍۢ"
+        },
+        {
+          "ayahNumber": 212,
+          "text": "إِنَّهُمْ عَنِ ٱلسَّمْعِ"
+        },
+        {
+          "ayahNumber": 214,
+          "text": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ"
+        },
+        {
+          "ayahNumber": 215,
+          "text": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ"
+        }
+      ],
+      "activityId": "act_026_35_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 195,
+      "missingWordPosition": 0,
+      "options": [
+        "بِلِسَانٍ",
+        "لَـَٔايَةًۭ ۖ",
+        "لِأَبِيهِ",
+        "لِتَكُونَ"
+      ],
+      "activityId": "act_026_35_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 195,
+      "correctNextAyahNumber": 196,
+      "options": [
+        {
+          "ayahNumber": 196,
+          "text": "وَإِنَّهُۥ لَفِى زُبُرِ"
+        },
+        {
+          "ayahNumber": 192,
+          "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "تَٱللَّهِ إِن كُنَّا"
+        },
+        {
+          "ayahNumber": 223,
+          "text": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ"
+        }
+      ],
+      "activityId": "act_026_35_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 196,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَوَّلِينَ",
+        "تَسْتَمِعُونَ",
+        "تَعْلَمُونَ ۚ",
+        "فَأَصْبَحُوا۟"
+      ],
+      "activityId": "act_026_35_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 196,
+      "correctNextAyahNumber": 197,
+      "options": [
+        {
+          "ayahNumber": 197,
+          "text": "أَوَلَمْ يَكُن لَّهُمْ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "أَوَلَمْ يَرَوْا۟ إِلَى"
+        },
+        {
+          "ayahNumber": 211,
+          "text": "وَمَا يَنۢبَغِى لَهُمْ"
+        },
+        {
+          "ayahNumber": 177,
+          "text": "إِذْ قَالَ لَهُمْ"
+        }
+      ],
+      "activityId": "act_026_35_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 197,
+      "missingWordPosition": 5,
+      "options": [
+        "يَعْلَمَهُۥ",
+        "تَعْبُدُونَ",
+        "تَعْقِلُونَ",
+        "تَعْلَمُونَ"
+      ],
+      "activityId": "act_026_35_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

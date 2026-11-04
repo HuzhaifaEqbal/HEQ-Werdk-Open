@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_10",
+  "title": "سورة الصافات - الآيات 55-60",
+  "surahId": 37,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 3,
+      "options": [
+        "سَوَآءِ",
+        "يَقُولُ",
+        "وَسَلَـٰمٌ",
+        "ٱلْفَصْلِ"
+      ],
+      "activityId": "act_037_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 151,
+          "text": "أَلَآ إِنَّهُم مِّنْ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "هَـٰذَا يَوْمُ ٱلْفَصْلِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قَالَ تَٱللَّهِ إِن"
+        }
+      ],
+      "activityId": "act_037_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 3,
+      "options": [
+        "نِعْمَةُ",
+        "هُمُ",
+        "كِدتَّ",
+        "خَيْرٌۭ"
+      ],
+      "activityId": "act_037_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "وَلَوْلَا نِعْمَةُ رَبِّى"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّۭا"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "وَإِنَّ إِلْيَاسَ لَمِنَ"
+        }
+      ],
+      "activityId": "act_037_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَصْلِ",
+        "دُونِ",
+        "۞ وَإِنَّ",
+        "لَكُنتُ"
+      ],
+      "activityId": "act_037_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "سَلَـٰمٌ عَلَىٰ نُوحٍۢ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "فَحَقَّ عَلَيْنَا قَوْلُ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "فَٱنظُرْ كَيْفَ كَانَ"
+        }
+      ],
+      "activityId": "act_037_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱفْعَلْ",
+        "نَحْنُ",
+        "وَلَهُمُ",
+        "لُوطًۭا"
+      ],
+      "activityId": "act_037_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 168,
+          "text": "لَوْ أَنَّ عِندَنَا"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "أَئِفْكًا ءَالِهَةًۭ دُونَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ"
+        }
+      ],
+      "activityId": "act_037_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 3,
+      "options": [
+        "بِهِۦ",
+        "إِلَىٰ",
+        "نَعَمْ",
+        "وَمَا"
+      ],
+      "activityId": "act_037_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        }
+      ],
+      "activityId": "act_037_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 2,
+      "options": [
+        "لَهُوَ",
+        "كُنَّا",
+        "لَهُمْ",
+        "أَءِنَّا"
+      ],
+      "activityId": "act_037_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "إشراف المؤمن على قرينه في سواء الجحيم وحمد الله على النجاة والخلود."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_14",
+  "title": "سورة يونس - الآيات 79-84",
+  "surahId": 10,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱئْتُونِى",
+        "ءَامَنتُم",
+        "ٱلسَّحَرَةُ",
+        "ٱلسِّحْرُ ۖ"
+      ],
+      "activityId": "act_010_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_010_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّحَرَةُ",
+        "مُّسْلِمِينَ",
+        "تَوَكَّلُوٓا۟",
+        "ٱئْتُونِى"
+      ],
+      "activityId": "act_010_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_010_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 11,
+      "options": [
+        "سَيُبْطِلُهُۥٓ ۖ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُسْرِفِينَ",
+        "بِكَلِمَـٰتِهِۦ"
+      ],
+      "activityId": "act_010_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_010_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُفْسِدِينَ",
+        "سَيُبْطِلُهُۥٓ ۖ",
+        "ٱلْمُسْرِفِينَ"
+      ],
+      "activityId": "act_010_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_010_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 22,
+      "options": [
+        "ٱلْمُسْرِفِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُفْسِدِينَ",
+        "سَيُبْطِلُهُۥٓ ۖ"
+      ],
+      "activityId": "act_010_14_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_010_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 6,
+      "options": [
+        "ءَامَنتُم",
+        "ٱئْتُونِى",
+        "ٱلسَّحَرَةُ",
+        "ٱلسِّحْرُ ۖ"
+      ],
+      "activityId": "act_010_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

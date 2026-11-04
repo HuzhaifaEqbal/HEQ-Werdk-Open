@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_039_11",
+  "title": "سورة الزمر - الآيات 53-58",
+  "surahId": 39,
+  "ayahStart": 53,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 11,
+      "options": [
+        "أَجَلٍۢ",
+        "إِنَّ",
+        "دُونِ",
+        "بِكَافٍ"
+      ],
+      "activityId": "act_039_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "ٱللَّهُ نَزَّلَ أَحْسَنَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "كَذَّبَ ٱلَّذِينَ مِن"
+        }
+      ],
+      "activityId": "act_039_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "قَبْلِ",
+        "قِيَامٌۭ",
+        "لَّوْ",
+        "إِنِّىٓ"
+      ],
+      "activityId": "act_039_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "أَن تَقُولَ نَفْسٌۭ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "لَهُم مَّا يَشَآءُونَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        }
+      ],
+      "activityId": "act_039_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 7,
+      "options": [
+        "مِّن",
+        "لَكُم",
+        "تَزِرُ",
+        "مِن"
+      ],
+      "activityId": "act_039_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّآ أَنزَلْنَا عَلَيْكَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "أَن تَقُولَ نَفْسٌۭ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "قُل لِّلَّهِ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "ثُمَّ إِنَّكُمْ يَوْمَ"
+        }
+      ],
+      "activityId": "act_039_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 8,
+      "options": [
+        "وَمَآ",
+        "سُوٓءِ",
+        "جَنۢبِ",
+        "هَلْ"
+      ],
+      "activityId": "act_039_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "أَوْ تَقُولَ لَوْ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّآ أَنزَلْنَا عَلَيْكَ"
+        }
+      ],
+      "activityId": "act_039_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 4,
+      "options": [
+        "شَآءَ",
+        "فَنِعْمَ",
+        "ٱللَّهَ",
+        "وَهُوَ"
+      ],
+      "activityId": "act_039_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَبَدَا لَهُمْ سَيِّـَٔاتُ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        }
+      ],
+      "activityId": "act_039_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 5,
+      "options": [
+        "وَلَا",
+        "مَسَّ",
+        "يَوْمٍ",
+        "لَوْ"
+      ],
+      "activityId": "act_039_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "بشارة التوبة والرجوع إلى الله: {قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا} والتحذير من الحسرة."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_14",
+  "title": "سورة يوسف - الآيات 77-82",
+  "surahId": 12,
+  "ayahStart": 77,
+  "ayahEnd": 82,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 1,
+      "options": [
+        "۞ قَالُوٓا۟",
+        "مَكَانَهُۥٓ ۖ",
+        "ٱلْحَـٰكِمِينَ",
+        "ٱسْتَيْـَٔسُوا۟"
+      ],
+      "activityId": "act_012_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_012_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "۞ قَالُوٓا۟",
+        "ٱلْحَـٰكِمِينَ",
+        "ٱسْتَيْـَٔسُوا۟"
+      ],
+      "activityId": "act_012_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "wrongOptionsAyahNumbers": [
+        80,
+        76
+      ],
+      "activityId": "act_012_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 13,
+      "options": [
+        "لَّظَـٰلِمُونَ",
+        "يَـٰٓأَبَانَآ",
+        "لَصَـٰدِقُونَ",
+        "تَعْلَمُوٓا۟"
+      ],
+      "activityId": "act_012_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_012_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱسْتَيْـَٔسُوا۟",
+        "مَكَانَهُۥٓ ۖ",
+        "۞ قَالُوٓا۟",
+        "لَّظَـٰلِمُونَ"
+      ],
+      "activityId": "act_012_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_012_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 4,
+      "options": [
+        "فَقُولُوا۟",
+        "وَٱلْعِيرَ",
+        "ٱلْعَزِيزُ",
+        "أَقْبَلْنَا"
+      ],
+      "activityId": "act_012_14_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_012_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْقَرْيَةَ",
+        "كَبِيرُهُمْ",
+        "ٱرْجِعُوٓا۟",
+        "فَأَسَرَّهَا"
+      ],
+      "activityId": "act_012_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_013_08",
+  "title": "سورة الرعد - الآيات 39-43",
+  "surahId": 13,
+  "ayahStart": 39,
+  "ayahEnd": 43,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيُثْبِتُ ۖ",
+        "مُرْسَلًۭا ۚ",
+        "وَبَيْنَكُمْ",
+        "وَسَيَعْلَمُ"
+      ],
+      "activityId": "act_013_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_013_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 8,
+      "options": [
+        "نَتَوَفَّيَنَّكَ",
+        "لِحُكْمِهِۦ ۚ",
+        "أَطْرَافِهَا ۚ",
+        "وَيُثْبِتُ ۖ"
+      ],
+      "activityId": "act_013_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_013_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 8,
+      "options": [
+        "أَطْرَافِهَا ۚ",
+        "نَتَوَفَّيَنَّكَ",
+        "جَمِيعًۭا ۖ",
+        "وَعَلَيْنَا"
+      ],
+      "activityId": "act_013_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_013_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 8,
+      "options": [
+        "جَمِيعًۭا ۖ",
+        "وَعِندَهُۥٓ",
+        "نَنقُصُهَا",
+        "ٱلْحِسَابُ"
+      ],
+      "activityId": "act_013_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "wrongOptionsAyahNumbers": [
+        40,
+        39
+      ],
+      "activityId": "act_013_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 5,
+      "options": [
+        "مُرْسَلًۭا ۚ",
+        "وَسَيَعْلَمُ",
+        "وَيُثْبِتُ ۖ",
+        "جَمِيعًۭا ۖ"
+      ],
+      "activityId": "act_013_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرعد",
+    "juz": 13,
+    "theme": "عرض دلائل قدرة الله في الخلق والتدبير، وبيان أثر الوحي والإيمان، ومثل الحق والباطل، وصفات أولي الألباب ومآلهم."
+  }
+}

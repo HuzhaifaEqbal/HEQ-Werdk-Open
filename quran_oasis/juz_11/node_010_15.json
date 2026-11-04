@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_010_15",
+  "title": "سورة يونس - الآيات 85-89",
+  "surahId": 10,
+  "ayahStart": 85,
+  "ayahEnd": 89,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "دَّعْوَتُكُمَا",
+        "وَأَوْحَيْنَآ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_010_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_010_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "لِقَوْمِكُمَا",
+        "ٱلصَّلَوٰةَ ۗ"
+      ],
+      "activityId": "act_010_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_010_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "فَٱسْتَقِيمَا",
+        "دَّعْوَتُكُمَا",
+        "ٱلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_010_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_010_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 7,
+      "options": [
+        "وَمَلَأَهُۥ",
+        "بُيُوتَكُمْ",
+        "تَجْعَلْنَا",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_010_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_010_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 5,
+      "options": [
+        "فَٱسْتَقِيمَا",
+        "ٱلْمُؤْمِنِينَ",
+        "وَأَقِيمُوا۟",
+        "وَٱجْعَلُوا۟"
+      ],
+      "activityId": "act_010_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

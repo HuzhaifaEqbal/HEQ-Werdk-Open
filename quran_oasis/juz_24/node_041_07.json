@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_07",
+  "title": "سورة فصلت - الآيات 31-35",
+  "surahId": 41,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْعَلِيمُ",
+        "بَشَرٌۭ",
+        "وَيَوْمَ",
+        "وَلَكُمْ"
+      ],
+      "activityId": "act_041_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "نُزُلًۭا مِّنْ غَفُورٍۢ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "كِتَـٰبٌۭ فُصِّلَتْ ءَايَـٰتُهُۥ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَإِنْ أَعْرَضُوا۟ فَقُلْ"
+        }
+      ],
+      "activityId": "act_041_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 2,
+      "options": [
+        "عَلَيْهِمْ",
+        "ٱعْمَلُوا۟",
+        "ٱلْخَيْرِ",
+        "غَفُورٍۢ"
+      ],
+      "activityId": "act_041_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "وَمَا يُلَقَّىٰهَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَمَنْ أَحْسَنُ قَوْلًۭا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_041_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 6,
+      "options": [
+        "تَسْتَوِى",
+        "ٱللَّهِ",
+        "كَفَرْتُم",
+        "يَأْتِيهِ"
+      ],
+      "activityId": "act_041_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "۞ إِلَيْهِ يُرَدُّ عِلْمُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ"
+        }
+      ],
+      "activityId": "act_041_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 8,
+      "options": [
+        "وَإِمَّا",
+        "أَحْسَنُ",
+        "لِلَّهِ",
+        "نُزُلًۭا"
+      ],
+      "activityId": "act_041_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَمَا يُلَقَّىٰهَآ إِلَّا"
+        }
+      ],
+      "activityId": "act_041_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "وَإِذَا",
+        "عَذَابَ",
+        "وَمَا",
+        "فَهُمْ"
+      ],
+      "activityId": "act_041_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "استقامة المؤمنين وتنزل الملائكة عليهم بالبشرى بالأمن والجنة والمغفرة."
+  }
+}

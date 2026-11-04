@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_29",
+  "title": "سورة الصافات - الآيات 158-162",
+  "surahId": 37,
+  "ayahStart": 158,
+  "ayahEnd": 162,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 5,
+      "options": [
+        "وَلَقَدْ",
+        "ٱبْنُوا۟",
+        "ضَآلِّينَ",
+        "كَيْدًۭا"
+      ],
+      "activityId": "act_037_29_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "options": [
+        {
+          "ayahNumber": 159,
+          "text": "سُبْحَـٰنَ ٱللَّهِ عَمَّا"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        }
+      ],
+      "activityId": "act_037_29_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 2,
+      "options": [
+        "عَمَّا",
+        "أَلْفٍ",
+        "لَآ",
+        "وَهُوَ"
+      ],
+      "activityId": "act_037_29_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ أَتَعْبُدُونَ مَا"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_037_29_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 2,
+      "options": [
+        "وَإِذَا",
+        "ٱللَّهِ",
+        "زَجْرَةٌۭ",
+        "ضَرْبًۢا"
+      ],
+      "activityId": "act_037_29_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "options": [
+        {
+          "ayahNumber": 161,
+          "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ"
+        },
+        {
+          "ayahNumber": 143,
+          "text": "فَلَوْلَآ أَنَّهُۥ كَانَ"
+        }
+      ],
+      "activityId": "act_037_29_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 1,
+      "options": [
+        "وَمَا",
+        "صَفًّۭا",
+        "طِينٍۢ",
+        "إِلَىٰٓ"
+      ],
+      "activityId": "act_037_29_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "options": [
+        {
+          "ayahNumber": 162,
+          "text": "مَآ أَنتُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 163,
+          "text": "إِلَّا مَنْ هُوَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن"
+        }
+      ],
+      "activityId": "act_037_29_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلنُّجُومِ",
+        "عَلَيْهِ",
+        "ذِكْرًۭا",
+        "أَصْلِ"
+      ],
+      "activityId": "act_037_29_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "اعتراف الكافرين بأمانيهم السابقة ثم كفرهم وسابقة وعد الله لرسله بالنصر."
+  }
+}

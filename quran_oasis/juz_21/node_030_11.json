@@ -1,0 +1,242 @@
+{
+  "nodeId": "hifz_030_11",
+  "title": "سورة الروم - الآيات 54-60",
+  "surahId": 30,
+  "ayahStart": 54,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 11,
+      "options": [
+        "ثُمَّ",
+        "بَشَرٌۭ",
+        "فَلَا",
+        "فَهُوَ"
+      ],
+      "activityId": "act_030_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ"
+        }
+      ],
+      "activityId": "act_030_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 6,
+      "options": [
+        "لَبِثُوا۟",
+        "يَخْلُقُ",
+        "غَـٰفِلُونَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_030_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَقَالَ ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        }
+      ],
+      "activityId": "act_030_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 10,
+      "options": [
+        "فَتَرَى",
+        "إِلَىٰ",
+        "قُوَّةٍۢ",
+        "ٱلَّذِى"
+      ],
+      "activityId": "act_030_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        }
+      ],
+      "activityId": "act_030_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 4,
+      "options": [
+        "بِهَا ۖ",
+        "ظَلَمُوا۟",
+        "دَعْوَةًۭ",
+        "ٱلْحَىِّ"
+      ],
+      "activityId": "act_030_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَقَالَ ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ"
+        }
+      ],
+      "activityId": "act_030_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 10,
+      "options": [
+        "وَلَهُۥ",
+        "غَلَبِهِمْ",
+        "لَدَيْهِمْ",
+        "جِئْتَهُم"
+      ],
+      "activityId": "act_030_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "ظَهَرَ ٱلْفَسَادُ فِى"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_030_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 3,
+      "options": [
+        "أَنَّ",
+        "عَلَىٰ",
+        "يَرَوْا۟",
+        "تُرَابٍۢ"
+      ],
+      "activityId": "act_030_11_11"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "مَن كَفَرَ فَعَلَيْهِ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        }
+      ],
+      "activityId": "act_030_11_12"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 4,
+      "options": [
+        "قُوَّةًۭ",
+        "خَلَقَ",
+        "فَإِذَآ",
+        "حَقٌّۭ ۖ"
+      ],
+      "activityId": "act_030_11_13"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "مراحل خلق الإنسان من ضعف إلى قوة ثم ضعف وتأكيد البعث واليقين."
+  }
+}

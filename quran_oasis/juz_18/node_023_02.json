@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_02",
+  "title": "سورة المؤمنون - الآيات 7-12",
+  "surahId": 23,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْعَادُونَ",
+        "أَفَحَسِبْتُمْ",
+        "أَهْوَآءَهُمْ",
+        "أَيَحْسَبُونَ"
+      ],
+      "activityId": "act_023_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ هُم بِـَٔايَـٰتِ"
+        }
+      ],
+      "activityId": "act_023_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 2,
+      "options": [
+        "لِأَمَـٰنَـٰتِهِمْ",
+        "بِأَعْيُنِنَا",
+        "بِمُؤْمِنِينَ",
+        "بِٱلْعَذَابِ"
+      ],
+      "activityId": "act_023_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "وَٱلَّذِينَ هُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَٱلَّذِينَ هُم بِرَبِّهِمْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ"
+        }
+      ],
+      "activityId": "act_023_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 4,
+      "options": [
+        "يُحَافِظُونَ",
+        "بِٱلْـَٔاخِرَةِ",
+        "سَيَقُولُونَ",
+        "فَأَتْبَعْنَا"
+      ],
+      "activityId": "act_023_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "أُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "ٱلَّذِينَ هُمْ فِى"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ"
+        }
+      ],
+      "activityId": "act_023_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْوَٰرِثُونَ",
+        "فَأَخَذَتْهُمُ",
+        "فَأَرْسَلْنَا",
+        "فَأَنشَأْنَا"
+      ],
+      "activityId": "act_023_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "ٱلَّذِينَ هُمْ فِى"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "إِنَّ ٱلَّذِينَ هُم"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_023_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْفِرْدَوْسَ",
+        "فَأَوْحَيْنَآ",
+        "فَتَرَبَّصُوا۟",
+        "فَتَقَطَّعُوٓا۟"
+      ],
+      "activityId": "act_023_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَلَقَدْ خَلَقْنَا فَوْقَكُمْ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        }
+      ],
+      "activityId": "act_023_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "أَنفُسَهُمْ",
+        "أَيَعِدُكُمْ",
+        "أَيْمَـٰنُهُمْ"
+      ],
+      "activityId": "act_023_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_31",
+  "title": "سورة الصافات - الآيات 168-172",
+  "surahId": 37,
+  "ayahStart": 168,
+  "ayahEnd": 172,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 168,
+      "missingWordPosition": 3,
+      "options": [
+        "بِزِينَةٍ",
+        "ذِكْرًۭا",
+        "أَلَآ",
+        "وَلَهُمْ"
+      ],
+      "activityId": "act_037_31_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 168,
+      "correctNextAyahNumber": 169,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا"
+        }
+      ],
+      "activityId": "act_037_31_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 169,
+      "missingWordPosition": 2,
+      "options": [
+        "طِينٍۢ",
+        "وَكُنَّا",
+        "ٱللَّهِ",
+        "نَحْنُ"
+      ],
+      "activityId": "act_037_31_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 169,
+      "correctNextAyahNumber": 170,
+      "options": [
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟"
+        }
+      ],
+      "activityId": "act_037_31_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 170,
+      "missingWordPosition": 2,
+      "options": [
+        "يَقْطِينٍۢ",
+        "وَصَدَّقَ",
+        "فَسَوْفَ",
+        "أَبَقَ"
+      ],
+      "activityId": "act_037_31_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 170,
+      "correctNextAyahNumber": 171,
+      "options": [
+        {
+          "ayahNumber": 171,
+          "text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا"
+        },
+        {
+          "ayahNumber": 118,
+          "text": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        },
+        {
+          "ayahNumber": 134,
+          "text": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ"
+        }
+      ],
+      "activityId": "act_037_31_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 171,
+      "missingWordPosition": 2,
+      "options": [
+        "كَلِمَتُنَا",
+        "وَلَوْلَا",
+        "فَإِنَّهُمْ",
+        "وَقَوْمَهُمَا"
+      ],
+      "activityId": "act_037_31_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 171,
+      "correctNextAyahNumber": 172,
+      "options": [
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لِقَوْمِهِۦٓ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ"
+        },
+        {
+          "ayahNumber": 172,
+          "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ"
+        }
+      ],
+      "activityId": "act_037_31_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 172,
+      "missingWordPosition": 1,
+      "options": [
+        "دُونِ",
+        "حَتَّىٰ",
+        "ٱلْحُوتُ",
+        "لَهُمُ"
+      ],
+      "activityId": "act_037_31_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تنزيه رب العزة عما يصفون وسلام على المرسلين والحمد لله رب العالمين."
+  }
+}

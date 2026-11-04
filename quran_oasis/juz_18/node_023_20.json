@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_023_20",
+  "title": "سورة المؤمنون - الآيات 114-118",
+  "surahId": 23,
+  "ayahStart": 114,
+  "ayahEnd": 118,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 114,
+      "missingWordPosition": 4,
+      "options": [
+        "قَلِيلًۭا ۖ",
+        "أَخْرِجْنَا",
+        "أَرْسَلْنَا",
+        "أَزْوَٰجِهِمْ"
+      ],
+      "activityId": "act_023_20_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 114,
+      "correctNextAyahNumber": 115,
+      "options": [
+        {
+          "ayahNumber": 115,
+          "text": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَمَن يَدْعُ مَعَ"
+        }
+      ],
+      "activityId": "act_023_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 115,
+      "missingWordPosition": 0,
+      "options": [
+        "أَفَحَسِبْتُمْ",
+        "مُتْرَفِيهِم",
+        "وَأَكْثَرُهُمْ",
+        "وَأَنزَلْنَا"
+      ],
+      "activityId": "act_023_20_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 115,
+      "correctNextAyahNumber": 116,
+      "options": [
+        {
+          "ayahNumber": 116,
+          "text": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَمَن يَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "مَا ٱتَّخَذَ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_023_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 116,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْكَرِيمِ",
+        "أَعْقَـٰبِكُمْ",
+        "أَنزِلْنِى",
+        "أَنسَوْكُمْ"
+      ],
+      "activityId": "act_023_20_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 116,
+      "correctNextAyahNumber": 117,
+      "options": [
+        {
+          "ayahNumber": 117,
+          "text": "وَمَن يَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "فَإِذَا ٱسْتَوَيْتَ أَنتَ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "مَا ٱتَّخَذَ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_023_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 117,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْكَـٰفِرُونَ",
+        "وَجَعَلْنَـٰهُمْ",
+        "وَقَوْمُهُمَا",
+        "وَمَلَإِي۟هِۦ"
+      ],
+      "activityId": "act_023_20_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 117,
+      "correctNextAyahNumber": 118,
+      "options": [
+        {
+          "ayahNumber": 118,
+          "text": "وَقُل رَّبِّ ٱغْفِرْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَقُل رَّبِّ أَنزِلْنِى"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "وَقُل رَّبِّ أَعُوذُ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "وَأَعُوذُ بِكَ رَبِّ"
+        }
+      ],
+      "activityId": "act_023_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلرَّٰحِمِينَ",
+        "وَٱرْحَمْنَا",
+        "وَٱعْمَلُوا۟",
+        "وَٱلشَّهَـٰدَةِ"
+      ],
+      "activityId": "act_023_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

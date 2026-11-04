@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_039_12",
+  "title": "سورة الزمر - الآيات 59-63",
+  "surahId": 39,
+  "ayahStart": 59,
+  "ayahEnd": 63,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 5,
+      "options": [
+        "أَفَمَن",
+        "بِهَا",
+        "تَلِينُ",
+        "وَعْدَ"
+      ],
+      "activityId": "act_039_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَنُفِخَ فِى ٱلصُّورِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ"
+        }
+      ],
+      "activityId": "act_039_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 6,
+      "options": [
+        "كَذَّبَ",
+        "لِلنَّاسِ",
+        "ٱللَّهِ",
+        "مِّنْهُ"
+      ],
+      "activityId": "act_039_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "إِنَّآ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَلَقَدْ أُوحِىَ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا"
+        }
+      ],
+      "activityId": "act_039_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 6,
+      "options": [
+        "يَأْتِيهِ",
+        "يَمَسُّهُمُ",
+        "بِوَجْهِهِۦ",
+        "ٱللَّهُ ۖ"
+      ],
+      "activityId": "act_039_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ٱللَّهُ خَـٰلِقُ كُلِّ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِن تَكْفُرُوا۟ فَإِنَّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "خَلَقَكُم مِّن نَّفْسٍۢ"
+        }
+      ],
+      "activityId": "act_039_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَن",
+        "وَهُوَ",
+        "أَجْرُ",
+        "إِنَّمَا"
+      ],
+      "activityId": "act_039_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "أَلَيْسَ ٱللَّهُ بِكَافٍ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَوْ أَنَّ لِلَّذِينَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَن يَأْتِيهِ عَذَابٌۭ"
+        }
+      ],
+      "activityId": "act_039_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 5,
+      "options": [
+        "كَفَرُوا۟",
+        "بِذَاتِ",
+        "عَمِلُوا۟",
+        "أَسْوَأَ"
+      ],
+      "activityId": "act_039_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "وجوه الكافرين مسودة يوم القيامة ونجاة المتقين بمفازتهم وخالقية الله لكل شيء."
+  }
+}

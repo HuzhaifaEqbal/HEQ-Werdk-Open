@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_036_07",
+  "title": "سورة يس - الآيات 33-37",
+  "surahId": 36,
+  "ayahStart": 33,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَخْرَجْنَا",
+        "أَنشَأَهَآ",
+        "مُّرْسَلُونَ",
+        "ٱلشَّيْطَـٰنَ ۖ"
+      ],
+      "activityId": "act_036_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "وَإِن نَّشَأْ نُغْرِقْهُمْ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍۢ"
+        }
+      ],
+      "activityId": "act_036_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَعْنَـٰبٍۢ",
+        "بِمَغْفِرَةٍۢ",
+        "أَنفُسِهِمْ",
+        "ءَابَآؤُهُمْ"
+      ],
+      "activityId": "act_036_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "وَلَوْ نَشَآءُ لَطَمَسْنَا"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ"
+        }
+      ],
+      "activityId": "act_036_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "مَـٰلِكُونَ",
+        "يَرَوْا۟",
+        "عَمِلَتْهُ",
+        "خَلْفَكُمْ"
+      ],
+      "activityId": "act_036_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "بِمَا غَفَرَ لِى"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "سُبْحَـٰنَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَلَقَدْ أَضَلَّ مِنكُمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "إِلَّا رَحْمَةًۭ مِّنَّا"
+        }
+      ],
+      "activityId": "act_036_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 6,
+      "options": [
+        "سَدًّۭا",
+        "تُنۢبِتُ",
+        "عَدُوٌّۭ",
+        "رَجُلٌۭ"
+      ],
+      "activityId": "act_036_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قَالُوا۟ رَبُّنَا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلَّيْلُ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ"
+        }
+      ],
+      "activityId": "act_036_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "لَّمَّا",
+        "أَوَّلَ",
+        "مِنْهُ",
+        "رَّبٍّۢ"
+      ],
+      "activityId": "act_036_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "آية الأرض الميتة وإحياؤها بالماء وإنبات الجنات من نخيل وأعناب وخلق الأزواج."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_027_03",
+  "title": "سورة النمل - الآيات 13-18",
+  "surahId": 27,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 1,
+      "options": [
+        "جَآءَتْهُمْ",
+        "ءَايَـٰتِهِۦ",
+        "أَتَأْتُونَ",
+        "أَتَهْتَدِىٓ"
+      ],
+      "activityId": "act_027_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأَدْخِلْ يَدَكَ فِى"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ"
+        }
+      ],
+      "activityId": "act_027_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "وَٱسْتَيْقَنَتْهَآ",
+        "فَتَعْرِفُونَهَا ۚ",
+        "فَلَنَأْتِيَنَّهُم",
+        "لَأَا۟ذْبَحَنَّهُۥٓ"
+      ],
+      "activityId": "act_027_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "حَتَّىٰٓ إِذَآ أَتَوْا۟"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَتَبَسَّمَ ضَاحِكًۭا مِّن"
+        }
+      ],
+      "activityId": "act_027_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُرْسَلُونَ",
+        "ٱلْمُسْلِمِينَ"
+      ],
+      "activityId": "act_027_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّهُۥ مِن سُلَيْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَلَمَّا جَآءَ سُلَيْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟"
+        }
+      ],
+      "activityId": "act_027_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 9,
+      "options": [
+        "وَأُوتِينَا",
+        "لِنَفْسِهِۦ ۖ",
+        "لِيَبْلُوَنِىٓ",
+        "لِيَسْكُنُوا۟"
+      ],
+      "activityId": "act_027_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قَالَ عِفْرِيتٌۭ مِّنَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "قُل لَّا يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَمَا مِنْ غَآئِبَةٍۢ"
+        }
+      ],
+      "activityId": "act_027_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 1,
+      "options": [
+        "لِسُلَيْمَـٰنَ",
+        "ءَايَـٰتُنَا",
+        "أَجْمَعِينَ",
+        "أَخْرَجْنَا"
+      ],
+      "activityId": "act_027_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "حَتَّىٰٓ إِذَآ أَتَوْا۟"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "حَتَّىٰٓ إِذَا جَآءُو"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "قَالَتْ إِنَّ ٱلْمُلُوكَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "أَمَّن يُجِيبُ ٱلْمُضْطَرَّ"
+        }
+      ],
+      "activityId": "act_027_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 13,
+      "options": [
+        "يَحْطِمَنَّكُمْ",
+        "وَأَدْخِلْنِى",
+        "وَأَمْطَرْنَا",
+        "وَأَنجَيْنَا"
+      ],
+      "activityId": "act_027_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

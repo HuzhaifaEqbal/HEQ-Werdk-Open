@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_07",
+  "title": "سورة غافر - الآيات 37-42",
+  "surahId": 40,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 11,
+      "options": [
+        "لِفِرْعَوْنَ",
+        "ٱلسَّمَآءِ",
+        "ٱلنَّجَوٰةِ",
+        "ٱلْحَمِيمِ"
+      ],
+      "activityId": "act_040_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَقَالَ ٱلَّذِينَ فِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَقَالَ ٱلَّذِىٓ ءَامَنَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ"
+        }
+      ],
+      "activityId": "act_040_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "تُوَلُّونَ",
+        "ٱتَّبِعُونِ",
+        "مُّسَمًّۭى",
+        "يَقْضُونَ"
+      ],
+      "activityId": "act_040_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "يَـٰقَوْمِ إِنَّمَا هَـٰذِهِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "قَالُوا۟ رَبَّنَآ أَمَتَّنَا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ"
+        }
+      ],
+      "activityId": "act_040_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 5,
+      "options": [
+        "يَشْكُرُونَ",
+        "أَكْبَرُ",
+        "رَأَوْا۟",
+        "مَتَـٰعٌۭ"
+      ],
+      "activityId": "act_040_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَنْ عَمِلَ سَيِّئَةًۭ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ"
+        }
+      ],
+      "activityId": "act_040_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 11,
+      "options": [
+        "مِثْلَ",
+        "أَجَلًۭا",
+        "ذَكَرٍ",
+        "قُضِىَ"
+      ],
+      "activityId": "act_040_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "تَدْعُونَنِى لِأَكْفُرَ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مِن دُونِ ٱللَّهِ ۖ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "هُوَ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "۞ وَيَـٰقَوْمِ مَا لِىٓ"
+        }
+      ],
+      "activityId": "act_040_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلنَّجَوٰةِ",
+        "ٱلْأَعْمَىٰ",
+        "جَهَنَّمَ",
+        "وَٱللَّهُ"
+      ],
+      "activityId": "act_040_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "هُوَ ٱلَّذِى يُرِيكُمْ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "لَا جَرَمَ أَنَّمَا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "تَدْعُونَنِى لِأَكْفُرَ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        }
+      ],
+      "activityId": "act_040_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 8,
+      "options": [
+        "بِهِۦ",
+        "إِنَّ",
+        "وَقَالَ",
+        "نَفْسٍۭ"
+      ],
+      "activityId": "act_040_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "استكبار فرعون وصرحه لمطالعة إله موسى وتذكير مؤمن آل فرعون بنعمة الإيمان ومتاع الدنيا."
+  }
+}

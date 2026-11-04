@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_05",
+  "title": "سورة العنكبوت - الآيات 20-24",
+  "surahId": 29,
+  "ayahStart": 20,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 10,
+      "options": [
+        "مُّوسَىٰ",
+        "يُتْلَىٰ",
+        "يُنشِئُ",
+        "نَصْرٌۭ"
+      ],
+      "activityId": "act_029_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّا مُنزِلُونَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "يُعَذِّبُ مَن يَشَآءُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "۞ وَلَا تُجَـٰدِلُوٓا۟ أَهْلَ"
+        }
+      ],
+      "activityId": "act_029_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 5,
+      "options": [
+        "يَشَآءُ ۖ",
+        "دَعَوُا۟",
+        "إِنَّمَا",
+        "رِزْقَهَا"
+      ],
+      "activityId": "act_029_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًۭا"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَآ أَنتُم بِمُعْجِزِينَ"
+        }
+      ],
+      "activityId": "act_029_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "وَقَد",
+        "لَهُۥ",
+        "فَإِذَا",
+        "لَكُم"
+      ],
+      "activityId": "act_029_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        }
+      ],
+      "activityId": "act_029_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 6,
+      "options": [
+        "وَقَـٰرُونَ",
+        "يَئِسُوا۟",
+        "وَلَمَّا",
+        "يَـٰقَوْمِ"
+      ],
+      "activityId": "act_029_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ ۖ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "فَمَا كَانَ جَوَابَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_029_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْأَمْثَـٰلُ",
+        "ٱلصَّيْحَةُ",
+        "لِقَوْمِهِ",
+        "فَأَنجَىٰهُ"
+      ],
+      "activityId": "act_029_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "دعوة إبراهيم عليه السلام لقومه إلى عبادة الله وحده وترك الأوثان."
+  }
+}

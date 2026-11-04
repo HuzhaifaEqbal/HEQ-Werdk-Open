@@ -1,0 +1,278 @@
+{
+  "nodeId": "hifz_031_06",
+  "title": "سورة لقمان - الآيات 27-34",
+  "surahId": 31,
+  "ayahStart": 27,
+  "ayahEnd": 34,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 11,
+      "options": [
+        "سَبْعَةُ",
+        "لَيْسَ",
+        "سَبِيلِ",
+        "ٱلَّذِينَ"
+      ],
+      "activityId": "act_031_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "مَّا خَلْقُكُمْ وَلَا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_031_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱللَّهِ ۗ",
+        "كَنَفْسٍۢ",
+        "ضَلَـٰلٍۢ",
+        "عِندَهُۥ"
+      ],
+      "activityId": "act_031_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَ لُقْمَـٰنُ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "أَلَمْ تَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ"
+        }
+      ],
+      "activityId": "act_031_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 13,
+      "options": [
+        "مَوْلُودٌ",
+        "ٱلشَّمْسَ",
+        "وَٱلْأَرْضَ",
+        "شَيْـًٔا ۚ"
+      ],
+      "activityId": "act_031_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تُصَعِّرْ خَدَّكَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_031_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "سَبْعَةُ",
+        "دُونِهِ",
+        "كَنَفْسٍۢ",
+        "ٱلنَّاسُ"
+      ],
+      "activityId": "act_031_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "أَلَمْ تَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تُصَعِّرْ خَدَّكَ"
+        }
+      ],
+      "activityId": "act_031_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 9,
+      "options": [
+        "رَوَٰسِىَ",
+        "ٱللَّهُ ۚ",
+        "لِيُرِيَكُم",
+        "فَإِنَّمَا"
+      ],
+      "activityId": "act_031_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَمَن كَفَرَ فَلَا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَإِذَا غَشِيَهُم مَّوْجٌۭ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ"
+        }
+      ],
+      "activityId": "act_031_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 11,
+      "options": [
+        "إِلَى",
+        "وَهْنٍۢ",
+        "بِذَاتِ",
+        "مَآءًۭ"
+      ],
+      "activityId": "act_031_06_11"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        }
+      ],
+      "activityId": "act_031_06_12"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "ٱلْحَقُّ",
+        "ٱلْحَمِيرِ",
+        "وَالِدِهِۦ"
+      ],
+      "activityId": "act_031_06_13"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّ ٱللَّهَ عِندَهُۥ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        }
+      ],
+      "activityId": "act_031_06_14"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 14,
+      "options": [
+        "غَلِيظٍۢ",
+        "حَقًّۭا ۚ",
+        "مَّاذَا",
+        "لَهُمُ"
+      ],
+      "activityId": "act_031_06_15"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "لقمان",
+    "juz": 21,
+    "theme": "سعة كلمات الله وعجائب جريان الفلك في البحر ومفاتح الغيب الخمسة."
+  }
+}

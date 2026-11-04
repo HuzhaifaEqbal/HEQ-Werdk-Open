@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_01",
+  "title": "سورة يوسف - الآيات 1-6",
+  "surahId": 12,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُبِينِ",
+        "تَعْقِلُونَ",
+        "نِعْمَتَهُۥ",
+        "وَٱلشَّمْسَ"
+      ],
+      "activityId": "act_012_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_012_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "أَنزَلْنَـٰهُ",
+        "لِلْإِنسَـٰنِ",
+        "وَيُعَلِّمُكَ",
+        "ٱلشَّيْطَـٰنَ"
+      ],
+      "activityId": "act_012_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_012_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْقُرْءَانَ",
+        "فَيَكِيدُوا۟",
+        "إِبْرَٰهِيمَ",
+        "رَأَيْتُهُمْ"
+      ],
+      "activityId": "act_012_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_012_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "وَٱلشَّمْسَ",
+        "يَجْتَبِيكَ",
+        "أَوْحَيْنَآ",
+        "ٱلْمُبِينِ"
+      ],
+      "activityId": "act_012_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_012_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "فَيَكِيدُوا۟",
+        "ٱلْقُرْءَانَ",
+        "ٱلْغَـٰفِلِينَ",
+        "أَنزَلْنَـٰهُ"
+      ],
+      "activityId": "act_012_01_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ],
+      "activityId": "act_012_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَحَادِيثِ",
+        "فَيَكِيدُوا۟",
+        "ٱلْغَـٰفِلِينَ",
+        "ٱلْقُرْءَانَ"
+      ],
+      "activityId": "act_012_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

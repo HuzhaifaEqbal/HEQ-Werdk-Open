@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_020_21",
+  "title": "سورة طه - الآيات 121-125",
+  "surahId": 20,
+  "ayahStart": 121,
+  "ayahEnd": 125,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 4,
+      "options": [
+        "سَوْءَٰتُهُمَا",
+        "وَلَتَعْلَمُنَّ",
+        "وَنَحْشُرُهُۥ",
+        "وَوَٰعَدْنَـٰكُمْ"
+      ],
+      "activityId": "act_020_21_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "options": [
+        {
+          "ayahNumber": 122,
+          "text": "ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "إِنَّهُۥ مَن يَأْتِ"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَـٰنُ"
+        }
+      ],
+      "activityId": "act_020_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱجْتَبَـٰهُ",
+        "فِيهَا ۚ",
+        "قَالُوٓا۟",
+        "قَبْلَهُم"
+      ],
+      "activityId": "act_020_21_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 122,
+      "correctNextAyahNumber": 123,
+      "options": [
+        {
+          "ayahNumber": 123,
+          "text": "قَالَ ٱهْبِطَا مِنْهَا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "قَالَ عِلْمُهَا عِندَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قَالَ فَمَن رَّبُّكُمَا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قَالَ قَدْ أُوتِيتَ"
+        }
+      ],
+      "activityId": "act_020_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 8,
+      "options": [
+        "يَأْتِيَنَّكُم",
+        "وَيَسْـَٔلُونَكَ",
+        "وَٱلسَّلْوَىٰ",
+        "وَٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_020_21_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "options": [
+        {
+          "ayahNumber": 124,
+          "text": "وَمَنْ أَعْرَضَ عَن"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَمَن يَعْمَلْ مِنَ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَمَن يَأْتِهِۦ مُؤْمِنًۭا"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ"
+        }
+      ],
+      "activityId": "act_020_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 8,
+      "options": [
+        "وَنَحْشُرُهُۥ",
+        "وَٱلْعَـٰقِبَةُ",
+        "يَأْتِيَنَّكُم",
+        "يَتَخَـٰفَتُونَ"
+      ],
+      "activityId": "act_020_21_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "options": [
+        {
+          "ayahNumber": 125,
+          "text": "قَالَ رَبِّ لِمَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قَالَ رَبِّ ٱشْرَحْ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالَ بَصُرْتُ بِمَا"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "قَالَ خُذْهَا وَلَا"
+        }
+      ],
+      "activityId": "act_020_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 3,
+      "options": [
+        "حَشَرْتَنِىٓ",
+        "ٱلْمُثْلَىٰ",
+        "ٱلْمُقَدَّسِ",
+        "ٱلْوَعِيدِ"
+      ],
+      "activityId": "act_020_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_06",
+  "title": "سورة طه - الآيات 31-36",
+  "surahId": 20,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 0,
+      "options": [
+        "ٱشْدُدْ",
+        "أَعْطَىٰ",
+        "أَعْلَمُ",
+        "أَعْمَىٰ"
+      ],
+      "activityId": "act_020_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَأَشْرِكْهُ فِىٓ أَمْرِى"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "فَأَوْجَسَ فِى نَفْسِهِۦ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "يَوْمَ يُنفَخُ فِى"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَيَسِّرْ لِىٓ أَمْرِى"
+        }
+      ],
+      "activityId": "act_020_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 0,
+      "options": [
+        "وَأَشْرِكْهُ",
+        "حَشَرْتَنِىٓ",
+        "حِبَالُهُمْ",
+        "خَلَقْنَـٰكُمْ"
+      ],
+      "activityId": "act_020_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "كَىْ نُسَبِّحَكَ كَثِيرًۭا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَنَذْكُرَكَ كَثِيرًا"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّكَ كُنتَ بِنَا"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱصْطَنَعْتُكَ لِنَفْسِى"
+        }
+      ],
+      "activityId": "act_020_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 1,
+      "options": [
+        "نُسَبِّحَكَ",
+        "إِلَيْهِمْ",
+        "بَصِيرًۭا",
+        "بَعْضُكُمْ"
+      ],
+      "activityId": "act_020_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَنَذْكُرَكَ كَثِيرًا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "فَقُولَا لَهُۥ قَوْلًۭا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "قَالَا رَبَّنَآ إِنَّنَا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "فَأَلْقَىٰهَا فَإِذَا هِىَ"
+        }
+      ],
+      "activityId": "act_020_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 0,
+      "options": [
+        "وَنَذْكُرَكَ",
+        "رَأَيْتَهُمْ",
+        "رَزَقْنَـٰكُمْ",
+        "سِيرَتَهَا"
+      ],
+      "activityId": "act_020_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّكَ كُنتَ بِنَا"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "قُلْنَا لَا تَخَفْ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا"
+        }
+      ],
+      "activityId": "act_020_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "بَصِيرًۭا",
+        "بَيْضَآءَ",
+        "بَيْنَنَا",
+        "بَيْنَهُمْ"
+      ],
+      "activityId": "act_020_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "قَالَ قَدْ أُوتِيتَ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "قَالَ فَإِنَّا قَدْ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "قَالَ مَوْعِدُكُمْ يَوْمُ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قَالَ ءَامَنتُمْ لَهُۥ"
+        }
+      ],
+      "activityId": "act_020_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "أُوتِيتَ",
+        "بِرَبِّنَا",
+        "بِسِحْرِكَ",
+        "بِعَذَابٍۢ"
+      ],
+      "activityId": "act_020_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

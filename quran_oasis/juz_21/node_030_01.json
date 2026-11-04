@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_01",
+  "title": "سورة الروم - الآيات 1-5",
+  "surahId": 30,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "كَفَرَ",
+        "ضَعْفٍۢ",
+        "الٓمٓ",
+        "ٱللَّهُ"
+      ],
+      "activityId": "act_030_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "مَن كَفَرَ فَعَلَيْهِ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "غُلِبَتِ ٱلرُّومُ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "ضَرَبَ لَكُم مَّثَلًۭا"
+        }
+      ],
+      "activityId": "act_030_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "وَطَمَعًۭا",
+        "كِسَفًۭا",
+        "ٱلرُّومُ",
+        "عَـٰقِبَةُ"
+      ],
+      "activityId": "act_030_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "فِىٓ أَدْنَى ٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَقَالَ ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "ظَهَرَ ٱلْفَسَادُ فِى"
+        }
+      ],
+      "activityId": "act_030_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 4,
+      "options": [
+        "أَضَلَّ",
+        "أَشَدَّ",
+        "مِّنۢ",
+        "لَكُم"
+      ],
+      "activityId": "act_030_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَئِنْ أَرْسَلْنَا رِيحًۭا"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "فِى بِضْعِ سِنِينَ ۗ"
+        }
+      ],
+      "activityId": "act_030_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 7,
+      "options": [
+        "لَمُحْىِ",
+        "رِيحًۭا",
+        "وَجَعَلَ",
+        "وَمِنۢ"
+      ],
+      "activityId": "act_030_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "كَذَٰلِكَ يَطْبَعُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَقَالَ ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ"
+        }
+      ],
+      "activityId": "act_030_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 4,
+      "options": [
+        "أَنفُسِهِم ۗ",
+        "خَلَقَكُمْ",
+        "يَشَآءُ ۖ",
+        "لِلدِّينِ"
+      ],
+      "activityId": "act_030_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "البشارة بغلبة الروم في بضع سنين وتأكيد وعد الله ونصر المؤمنين."
+  }
+}

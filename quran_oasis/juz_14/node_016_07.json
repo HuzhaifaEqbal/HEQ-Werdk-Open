@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_07",
+  "title": "سورة النحل - الآيات 37-42",
+  "surahId": 16,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 4,
+      "options": [
+        "هُدَىٰهُمْ",
+        "أَكْبَرُ ۚ",
+        "كَفَرُوٓا۟",
+        "وَلَأَجْرُ"
+      ],
+      "activityId": "act_016_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_016_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "أَيْمَـٰنِهِمْ ۙ",
+        "يَتَوَكَّلُونَ",
+        "يَخْتَلِفُونَ",
+        "لَنُبَوِّئَنَّهُمْ"
+      ],
+      "activityId": "act_016_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_016_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "يَخْتَلِفُونَ",
+        "وَأَقْسَمُوا۟",
+        "أَيْمَـٰنِهِمْ ۙ",
+        "يَتَوَكَّلُونَ"
+      ],
+      "activityId": "act_016_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_016_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 2,
+      "options": [
+        "قَوْلُنَا",
+        "بِٱللَّهِ",
+        "صَبَرُوا۟",
+        "ظُلِمُوا۟"
+      ],
+      "activityId": "act_016_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_016_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 9,
+      "options": [
+        "لَنُبَوِّئَنَّهُمْ",
+        "أَيْمَـٰنِهِمْ ۙ",
+        "وَأَقْسَمُوا۟",
+        "يَخْتَلِفُونَ"
+      ],
+      "activityId": "act_016_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_016_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 5,
+      "options": [
+        "يَتَوَكَّلُونَ",
+        "وَأَقْسَمُوا۟",
+        "يَخْتَلِفُونَ",
+        "أَيْمَـٰنِهِمْ ۙ"
+      ],
+      "activityId": "act_016_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

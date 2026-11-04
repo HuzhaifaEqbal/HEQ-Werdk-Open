@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_013_06",
+  "title": "سورة الرعد - الآيات 29-33",
+  "surahId": 13,
+  "ayahStart": 29,
+  "ayahEnd": 33,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَامَنُوا۟",
+        "تُصِيبُهُم",
+        "جَمِيعًا ۗ",
+        "ٱلْجِبَالُ"
+      ],
+      "activityId": "act_013_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "wrongOptionsAyahNumbers": [
+        31,
+        27
+      ],
+      "activityId": "act_013_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 17,
+      "options": [
+        "بِٱلرَّحْمَـٰنِ ۚ",
+        "تُنَبِّـُٔونَهُۥ",
+        "أَخَذْتُهُمْ ۖ",
+        "ٱلْمَوْتَىٰ ۗ"
+      ],
+      "activityId": "act_013_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 30,
+      "correctNextAyahNumber": 31,
+      "wrongOptionsAyahNumbers": [
+        32,
+        28
+      ],
+      "activityId": "act_013_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْمَوْتَىٰ ۗ",
+        "ٱلسَّبِيلِ ۗ",
+        "أَخَذْتُهُمْ ۖ",
+        "تُنَبِّـُٔونَهُۥ"
+      ],
+      "activityId": "act_013_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_013_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 10,
+      "options": [
+        "أَخَذْتُهُمْ ۖ",
+        "ٱلْمِيعَادَ",
+        "ٱلْمَوْتَىٰ ۗ",
+        "ٱلسَّبِيلِ ۗ"
+      ],
+      "activityId": "act_013_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_013_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 15,
+      "options": [
+        "تُنَبِّـُٔونَهُۥ",
+        "ٱلْمِيعَادَ",
+        "أَخَذْتُهُمْ ۖ",
+        "ٱلْمَوْتَىٰ ۗ"
+      ],
+      "activityId": "act_013_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الرعد",
+    "juz": 13,
+    "theme": "عرض دلائل قدرة الله في الخلق والتدبير، وبيان أثر الوحي والإيمان، ومثل الحق والباطل، وصفات أولي الألباب ومآلهم."
+  }
+}

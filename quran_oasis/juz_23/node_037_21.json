@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_21",
+  "title": "سورة الصافات - الآيات 118-122",
+  "surahId": 37,
+  "ayahStart": 118,
+  "ayahEnd": 122,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 118,
+      "missingWordPosition": 1,
+      "options": [
+        "ضَرْبًۢا",
+        "ٱلصِّرَٰطَ",
+        "مُّبِينٌ",
+        "صَـٰدِقِينَ"
+      ],
+      "activityId": "act_037_21_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 118,
+      "correctNextAyahNumber": 119,
+      "options": [
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "فَٱنظُرْ كَيْفَ كَانَ"
+        }
+      ],
+      "activityId": "act_037_21_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 119,
+      "missingWordPosition": 1,
+      "options": [
+        "إِنَّهُمْ",
+        "يَذْكُرُونَ",
+        "أَءِنَّكَ",
+        "عَلَيْهِمَا"
+      ],
+      "activityId": "act_037_21_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 119,
+      "correctNextAyahNumber": 120,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 139,
+          "text": "وَإِنَّ يُونُسَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ"
+        }
+      ],
+      "activityId": "act_037_21_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 120,
+      "missingWordPosition": 2,
+      "options": [
+        "بِهِۦ ۖ",
+        "لَهُمْ",
+        "عَذَابٌۭ",
+        "مُوسَىٰ"
+      ],
+      "activityId": "act_037_21_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 120,
+      "correctNextAyahNumber": 121,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "أَمْ لَكُمْ سُلْطَـٰنٌۭ"
+        }
+      ],
+      "activityId": "act_037_21_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 121,
+      "missingWordPosition": 2,
+      "options": [
+        "نَجْزِى",
+        "هَـٰذَا",
+        "زَجْرَةٌۭ",
+        "يَقُولُ"
+      ],
+      "activityId": "act_037_21_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 121,
+      "correctNextAyahNumber": 122,
+      "options": [
+        {
+          "ayahNumber": 122,
+          "text": "إِنَّهُمَا مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَحِفْظًۭا مِّن كُلِّ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        }
+      ],
+      "activityId": "act_037_21_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 122,
+      "missingWordPosition": 2,
+      "options": [
+        "عِبَادِنَا",
+        "دَمَّرْنَا",
+        "بِغُلَـٰمٍ",
+        "ٱلْبَنُونَ"
+      ],
+      "activityId": "act_037_21_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "سلام على موسى وهارون وإرسال إلياس ودعوته لترك عبادة بعل."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_17",
+  "title": "سورة هود - الآيات 96-101",
+  "surahId": 11,
+  "ayahStart": 96,
+  "ayahEnd": 101,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 2,
+      "options": [
+        "أَرْسَلْنَا",
+        "زَادُوهُمْ",
+        "فِرْعَوْنَ ۖ",
+        "ٱلنَّارَ ۖ"
+      ],
+      "activityId": "act_011_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_011_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 3,
+      "options": [
+        "وَمَلَإِي۟هِۦ",
+        "ءَالِهَتُهُمُ",
+        "أَنفُسَهُمْ ۖ",
+        "وَأُتْبِعُوا۟"
+      ],
+      "activityId": "act_011_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_011_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 5,
+      "options": [
+        "فَأَوْرَدَهُمُ",
+        "فَٱتَّبَعُوٓا۟",
+        "وَمَلَإِي۟هِۦ",
+        "ٱلْقِيَـٰمَةِ ۚ"
+      ],
+      "activityId": "act_011_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        100,
+        96
+      ],
+      "activityId": "act_011_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقِيَـٰمَةِ ۚ",
+        "فَأَوْرَدَهُمُ",
+        "ٱلْمَوْرُودُ",
+        "فَٱتَّبَعُوٓا۟"
+      ],
+      "activityId": "act_011_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "wrongOptionsAyahNumbers": [
+        101,
+        97
+      ],
+      "activityId": "act_011_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 3,
+      "options": [
+        "أَنۢبَآءِ",
+        "بِرَشِيدٍۢ",
+        "تَتْبِيبٍۢ",
+        "ظَلَمُوٓا۟"
+      ],
+      "activityId": "act_011_17_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_011_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنفُسَهُمْ ۖ",
+        "ٱلْمَرْفُودُ",
+        "وَأُتْبِعُوا۟",
+        "وَمَلَإِي۟هِۦ"
+      ],
+      "activityId": "act_011_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

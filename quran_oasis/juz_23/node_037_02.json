@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_02",
+  "title": "سورة الصافات - الآيات 7-12",
+  "surahId": 37,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 2,
+      "options": [
+        "مِنْهَا",
+        "مِنَّآ",
+        "كُلِّ",
+        "نَجْزِى"
+      ],
+      "activityId": "act_037_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لَّا يَسَّمَّعُونَ إِلَى"
+        }
+      ],
+      "activityId": "act_037_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَعْلَىٰ",
+        "بَطْنِهِۦٓ",
+        "تَأْتُونَنَا",
+        "ٱلنُّجُومِ"
+      ],
+      "activityId": "act_037_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 150,
+          "text": "أَمْ خَلَقْنَا ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ"
+        }
+      ],
+      "activityId": "act_037_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 2,
+      "options": [
+        "عَذَابٌۭ",
+        "قَآئِلٌۭ",
+        "نَفْعَلُ",
+        "ٱلنَّعِيمِ"
+      ],
+      "activityId": "act_037_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        }
+      ],
+      "activityId": "act_037_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "أَتَعْبُدُونَ",
+        "ٱلْخَطْفَةَ",
+        "مَّعْلُومٌۭ",
+        "وَأَقْبَلَ"
+      ],
+      "activityId": "act_037_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "إِنَّا جَعَلْنَـٰهَا فِتْنَةًۭ"
+        }
+      ],
+      "activityId": "act_037_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "فَأَقْبَلُوٓا۟",
+        "إِلْ يَاسِينَ",
+        "خَلَقْنَآ ۚ",
+        "يَسَّمَّعُونَ"
+      ],
+      "activityId": "act_037_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 142,
+          "text": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "بَلْ عَجِبْتَ وَيَسْخَرُونَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+        }
+      ],
+      "activityId": "act_037_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 1,
+      "options": [
+        "عَجِبْتَ",
+        "نَعَمْ",
+        "سُبْحَـٰنَ",
+        "شِيعَتِهِۦ"
+      ],
+      "activityId": "act_037_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "حفظ السماء الدنيا بالرجوم واستراق السمع وعظمة خلق الإنسان من طين لازب."
+  }
+}

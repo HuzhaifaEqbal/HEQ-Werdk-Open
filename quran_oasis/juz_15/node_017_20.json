@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_20",
+  "title": "سورة الإسراء - الآيات 107-111",
+  "surahId": 17,
+  "ayahStart": 107,
+  "ayahEnd": 111,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 5,
+      "options": [
+        "تُؤْمِنُوٓا۟ ۚ",
+        "وَقُرْءَانًۭا",
+        "وَنُخَوِّفُهُمْ",
+        "وَيَخَافُونَ"
+      ],
+      "activityId": "act_017_20_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "options": [
+        {
+          "ayahNumber": 108,
+          "text": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "۞ قُلْ كُونُوا۟ حِجَارَةً"
+        }
+      ],
+      "activityId": "act_017_20_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَقُولُونَ",
+        "وَيَزِيدُهُمْ",
+        "وَيَسْـَٔلُونَكَ",
+        "وَٱسْتَفْزِزْ"
+      ],
+      "activityId": "act_017_20_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "options": [
+        {
+          "ayahNumber": 109,
+          "text": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "ٱنظُرْ كَيْفَ ضَرَبُوا۟"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "نَّحْنُ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ"
+        }
+      ],
+      "activityId": "act_017_20_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 1,
+      "options": [
+        "لِلْأَذْقَانِ",
+        "وَيَقُولُونَ",
+        "وَٱلشَّجَرَةَ",
+        "وَٱلنَّهَارَ"
+      ],
+      "activityId": "act_017_20_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "options": [
+        {
+          "ayahNumber": 110,
+          "text": "قُلِ ٱدْعُوا۟ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "قُلْ ءَامِنُوا۟ بِهِۦٓ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "قُل لَّوْ أَنتُمْ"
+        }
+      ],
+      "activityId": "act_017_20_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلرَّحْمَـٰنَ ۖ",
+        "وَٱلْأَرْضِ ۗ",
+        "وَٱلْأَوْلَـٰدِ",
+        "وَٱلْفُؤَادَ"
+      ],
+      "activityId": "act_017_20_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَقُل رَّبِّ أَدْخِلْنِى"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَقُلْ جَآءَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقُل لِّعِبَادِى يَقُولُوا۟"
+        }
+      ],
+      "activityId": "act_017_20_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 20,
+      "options": [
+        "تَكْبِيرًۢا",
+        "مَسْطُورًۭا",
+        "مَشْهُودًۭا",
+        "مَظْلُومًۭا"
+      ],
+      "activityId": "act_017_20_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

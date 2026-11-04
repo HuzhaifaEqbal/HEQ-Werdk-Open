@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_039_07",
+  "title": "سورة الزمر - الآيات 32-37",
+  "surahId": 39,
+  "ayahStart": 32,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 7,
+      "options": [
+        "بِٱلصِّدْقِ",
+        "ٱلسَّمَآءِ",
+        "فَٱعْبُدُوا۟",
+        "ٱلْأَنفُسَ"
+      ],
+      "activityId": "act_039_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّآ أَنزَلْنَا عَلَيْكَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "إِنَّآ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        }
+      ],
+      "activityId": "act_039_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 4,
+      "options": [
+        "نَشَآءُ ۖ",
+        "بِهِۦٓ ۙ",
+        "ٱلذُّنُوبَ",
+        "بِكَافٍ"
+      ],
+      "activityId": "act_039_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "لَهُم مَّا يَشَآءُونَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "بَلَىٰ قَدْ جَآءَتْكَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَمَا قَدَرُوا۟ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_039_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "زَوْجَهَا",
+        "رَبِّهِمْ ۚ",
+        "يَخْلُقُكُمْ"
+      ],
+      "activityId": "act_039_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَمَا قَدَرُوا۟ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَلَئِن سَأَلْتَهُم مَّنْ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ"
+        }
+      ],
+      "activityId": "act_039_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "ٱلْعَـٰلَمِينَ",
+        "بِيَمِينِهِۦ ۚ",
+        "وَيَجْزِيَهُمْ"
+      ],
+      "activityId": "act_039_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "أَلَيْسَ ٱللَّهُ بِكَافٍ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "أَوْ تَقُولَ لَوْ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "خَلَقَكُم مِّن نَّفْسٍۢ"
+        }
+      ],
+      "activityId": "act_039_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 8,
+      "options": [
+        "وَمَن",
+        "جَنۢبِ",
+        "قَبْلُ",
+        "إِنْ"
+      ],
+      "activityId": "act_039_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_039_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّضِلٍّ ۗ",
+        "لِلَّذِينَ",
+        "۞ فَمَنْ",
+        "فَبَشِّرْ"
+      ],
+      "activityId": "act_039_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "ظلم من كذب على الله والصدق في الإيمان ونصرة الله لعبده الكافي."
+  }
+}

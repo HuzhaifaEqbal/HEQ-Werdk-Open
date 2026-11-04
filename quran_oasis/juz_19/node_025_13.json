@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_025_13",
+  "title": "سورة الفرقان - الآيات 68-72",
+  "surahId": 25,
+  "ayahStart": 68,
+  "ayahEnd": 72,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "يَعْبُدُونَ",
+        "يَعْلَمُونَ",
+        "يَـٰلَيْتَنِى"
+      ],
+      "activityId": "act_025_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "يُضَـٰعَفْ لَهُ ٱلْعَذَابُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَكُلًّۭا ضَرَبْنَا لَهُ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَمَن تَابَ وَعَمِلَ"
+        }
+      ],
+      "activityId": "act_025_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْعَذَابُ",
+        "يَـٰوَيْلَتَىٰ",
+        "يَقُولُونَ",
+        "يَقْتُرُوا۟"
+      ],
+      "activityId": "act_025_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 70,
+          "text": "إِلَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَمَن تَابَ وَعَمِلَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        }
+      ],
+      "activityId": "act_025_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 7,
+      "options": [
+        "فَأُو۟لَـٰٓئِكَ",
+        "يَقْتُلُونَ",
+        "يَكُونُوا۟",
+        "يَمْلِكُونَ"
+      ],
+      "activityId": "act_025_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "وَمَن تَابَ وَعَمِلَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "يُضَـٰعَفْ لَهُ ٱلْعَذَابُ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "إِنَّهَا سَآءَتْ مُسْتَقَرًّۭا"
+        }
+      ],
+      "activityId": "act_025_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 4,
+      "options": [
+        "فَإِنَّهُۥ",
+        "أَسْـَٔلُكُمْ",
+        "أَنزَلَهُ",
+        "أَنَسْجُدُ"
+      ],
+      "activityId": "act_025_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "وَٱلَّذِينَ لَا يَشْهَدُونَ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَٱلَّذِينَ لَا يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَٱلَّذِينَ إِذَا ذُكِّرُوا۟"
+        }
+      ],
+      "activityId": "act_025_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "يَنفَعُهُمْ",
+        "يُحْشَرُونَ",
+        "يُسْرِفُوا۟"
+      ],
+      "activityId": "act_025_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_01",
+  "title": "سورة فصلت - الآيات 1-5",
+  "surahId": 41,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "لِى",
+        "فِىٓ",
+        "حمٓ",
+        "مِنَ"
+      ],
+      "activityId": "act_041_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "حَتَّىٰٓ إِذَا مَا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        }
+      ],
+      "activityId": "act_041_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلرَّحْمَـٰنِ",
+        "بِٱلذِّكْرِ",
+        "وَٱلْإِنسِ ۖ",
+        "يَنزَغَنَّكَ"
+      ],
+      "activityId": "act_041_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "۞ إِلَيْهِ يُرَدُّ عِلْمُ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "كِتَـٰبٌۭ فُصِّلَتْ ءَايَـٰتُهُۥ"
+        }
+      ],
+      "activityId": "act_041_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "قُرْءَانًا",
+        "عَذَابًۭا",
+        "لَّهُمْ ۖ",
+        "وَجَعَلَ"
+      ],
+      "activityId": "act_041_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 49,
+          "text": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَمَنْ أَحْسَنُ قَوْلًۭا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "ثُمَّ ٱسْتَوَىٰٓ إِلَى"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ"
+        }
+      ],
+      "activityId": "act_041_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلَّيْلِ",
+        "أَكْثَرُهُمْ",
+        "أَنْعَمْنَا",
+        "أَئِنَّكُمْ"
+      ],
+      "activityId": "act_041_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَقَالُوا۟ قُلُوبُنَا فِىٓ"
+        }
+      ],
+      "activityId": "act_041_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "يَعْلَمُونَ",
+        "جُلُودُكُمْ",
+        "أَمْرَهَا ۚ",
+        "ءَاذَانِنَا"
+      ],
+      "activityId": "act_041_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "تنزيل الكتاب من الرحمن الرحيم قرآناً عربياً لقوم يعلمون وإعراض المشركين وقولهم قلوبنا في أكنة."
+  }
+}

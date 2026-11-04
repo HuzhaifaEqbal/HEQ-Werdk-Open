@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_03",
+  "title": "سورة العنكبوت - الآيات 10-14",
+  "surahId": 29,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "عَنْهُمْ",
+        "جَآءَ",
+        "أَجَلَ",
+        "لَوْلَآ"
+      ],
+      "activityId": "act_029_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَمَنْ أَظْلَمُ مِمَّنِ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمِيعُ",
+        "أَكْبَرُ ۗ",
+        "وَعَلَىٰ",
+        "ءَامَنُوا۟"
+      ],
+      "activityId": "act_029_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "أَوَلَمْ يَكْفِهِمْ أَنَّآ"
+        }
+      ],
+      "activityId": "act_029_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 8,
+      "options": [
+        "خَطَـٰيَـٰكُمْ",
+        "أَعْمَـٰلَهُمْ",
+        "قَبْلِهِمْ ۖ",
+        "لَيَقُولُنَّ"
+      ],
+      "activityId": "act_029_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "وَلَئِن سَأَلْتَهُم مَّنْ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًۭا"
+        }
+      ],
+      "activityId": "act_029_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلْمُفْسِدِينَ",
+        "وَلَيُسْـَٔلُنَّ",
+        "وَلَيَحْمِلُنَّ"
+      ],
+      "activityId": "act_029_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَآ أَنتُم بِمُعْجِزِينَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَقَالُوا۟ لَوْلَآ أُنزِلَ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        }
+      ],
+      "activityId": "act_029_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 8,
+      "options": [
+        "سَنَةٍ",
+        "أَظْلَمُ",
+        "سَآءَ",
+        "قُلِ"
+      ],
+      "activityId": "act_029_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "كشف حقيقة المنافقين وادعاءات الكافرين وتحميل كل نفس وزرها."
+  }
+}

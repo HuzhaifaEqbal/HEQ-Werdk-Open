@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_17",
+  "title": "سورة المؤمنون - الآيات 97-102",
+  "surahId": 23,
+  "ayahStart": 97,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلشَّيَـٰطِينِ",
+        "فَأَتْبَعْنَا",
+        "فَأَخَذَتْهُمُ",
+        "فَأَرْسَلْنَا"
+      ],
+      "activityId": "act_023_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "وَأَعُوذُ بِكَ رَبِّ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَإِنَّا عَلَىٰٓ أَن"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "رَبِّ فَلَا تَجْعَلْنِى"
+        },
+        {
+          "ayahNumber": 118,
+          "text": "وَقُل رَّبِّ ٱغْفِرْ"
+        }
+      ],
+      "activityId": "act_023_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 4,
+      "options": [
+        "يَحْضُرُونِ",
+        "ٱلصَّيْحَةُ",
+        "ٱلطَّيِّبَـٰتِ",
+        "ٱلنُّطْفَةَ"
+      ],
+      "activityId": "act_023_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "options": [
+        {
+          "ayahNumber": 99,
+          "text": "حَتَّىٰٓ إِذَا جَآءَ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "حَتَّىٰٓ إِذَا فَتَحْنَا"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "حَتَّىٰٓ إِذَآ أَخَذْنَا"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ"
+        }
+      ],
+      "activityId": "act_023_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱرْجِعُونِ",
+        "ٱلْأَرْضِ ۖ",
+        "ٱلْأَنْعَـٰمِ",
+        "ٱلْإِنسَـٰنَ"
+      ],
+      "activityId": "act_023_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "لَعَلِّىٓ أَعْمَلُ صَـٰلِحًۭا"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "رَبَّنَآ أَخْرِجْنَا مِنْهَا"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ"
+        }
+      ],
+      "activityId": "act_023_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 9,
+      "options": [
+        "قَآئِلُهَا ۖ",
+        "فَأَنشَأْنَا",
+        "فَأَوْحَيْنَآ",
+        "فَتَرَبَّصُوا۟"
+      ],
+      "activityId": "act_023_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 101,
+          "text": "فَإِذَا نُفِخَ فِى"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "فَإِذَا ٱسْتَوَيْتَ أَنتَ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "رَبِّ فَلَا تَجْعَلْنِى"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَهُوَ ٱلَّذِى ذَرَأَكُمْ"
+        }
+      ],
+      "activityId": "act_023_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 9,
+      "options": [
+        "يَتَسَآءَلُونَ",
+        "وَءَابَآؤُنَا",
+        "وَٱلْأَفْـِٔدَةَ ۚ",
+        "ٱسْتَكَانُوا۟"
+      ],
+      "activityId": "act_023_17_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "options": [
+        {
+          "ayahNumber": 102,
+          "text": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَمَن يَدْعُ مَعَ"
+        }
+      ],
+      "activityId": "act_023_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُفْلِحُونَ",
+        "يَتَسَآءَلُونَ",
+        "ٱلْفَآئِزُونَ",
+        "ٱلْمُؤْمِنُونَ"
+      ],
+      "activityId": "act_023_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

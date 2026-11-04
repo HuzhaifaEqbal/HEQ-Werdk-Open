@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_039_05",
+  "title": "سورة الزمر - الآيات 22-26",
+  "surahId": 39,
+  "ayahStart": 22,
+  "ayahEnd": 26,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "رَّبِّهِۦ ۚ",
+        "ٱلْأَرْضُ",
+        "رَبَّهُمْ",
+        "أَسْرَفُوا۟"
+      ],
+      "activityId": "act_039_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "أَوْ تَقُولَ حِينَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَدْ قَالَهَا ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "ٱللَّهُ نَزَّلَ أَحْسَنَ"
+        }
+      ],
+      "activityId": "act_039_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 16,
+      "options": [
+        "فَيُنَبِّئُكُم",
+        "تَقْنَطُوا۟",
+        "عِبَادَهُۥ ۚ",
+        "وَقُلُوبُهُمْ"
+      ],
+      "activityId": "act_039_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَلَوْ أَنَّ لِلَّذِينَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "أَفَمَن يَتَّقِى بِوَجْهِهِۦ"
+        }
+      ],
+      "activityId": "act_039_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 6,
+      "options": [
+        "مُّسْوَدَّةٌ ۚ",
+        "وَيُخَوِّفُونَكَ",
+        "وَأَنَابُوٓا۟",
+        "ٱلْقِيَـٰمَةِ ۚ"
+      ],
+      "activityId": "act_039_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "أَلَيْسَ ٱللَّهُ بِكَافٍ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "كَذَّبَ ٱلَّذِينَ مِن"
+        }
+      ],
+      "activityId": "act_039_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "بِٱلْحَقِّ",
+        "ٱللَّهِ ۖ",
+        "ثَلَـٰثٍۢ ۚ",
+        "ٱلْعَذَابُ"
+      ],
+      "activityId": "act_039_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأُمِرْتُ لِأَنْ أَكُونَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "فَأَذَاقَهُمُ ٱللَّهُ ٱلْخِزْىَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        }
+      ],
+      "activityId": "act_039_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلدُّنْيَا ۖ",
+        "كِتَـٰبًۭا",
+        "وَلَعَذَابُ",
+        "ٱلْمُتَّقِينَ"
+      ],
+      "activityId": "act_039_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "نزول أحسن الحديث كتاباً متشابهاً تقشعر منه الجلود وضرب الأمثال لمن يتقي سوء العذاب."
+  }
+}

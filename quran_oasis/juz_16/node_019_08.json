@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_08",
+  "title": "سورة مريم - الآيات 43-48",
+  "surahId": 19,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 9,
+      "options": [
+        "فَٱتَّبِعْنِىٓ",
+        "ٱلْمُتَّقِينَ",
+        "ٱلْمِحْرَابِ",
+        "إِبْرَٰهِيمَ ۚ"
+      ],
+      "activityId": "act_019_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "يَـٰٓأَبَتِ لَا تَعْبُدِ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "لَّا يَسْمَعُونَ فِيهَا"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "لَّا يَمْلِكُونَ ٱلشَّفَـٰعَةَ"
+        }
+      ],
+      "activityId": "act_019_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلشَّيْطَـٰنَ ۖ",
+        "إِسْمَـٰعِيلَ ۚ",
+        "بِٱلرَّحْمَـٰنِ",
+        "بِٱلصَّلَوٰةِ"
+      ],
+      "activityId": "act_019_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "يَـٰٓأَبَتِ إِنِّى قَدْ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "أَن دَعَوْا۟ لِلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "وَمَا يَنۢبَغِى لِلرَّحْمَـٰنِ"
+        }
+      ],
+      "activityId": "act_019_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلرَّحْمَـٰنِ",
+        "وَٱشْتَعَلَ",
+        "وَٱشْرَبِى",
+        "وَٱصْطَبِرْ"
+      ],
+      "activityId": "act_019_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "قَالَ أَرَاغِبٌ أَنتَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ إِنِّى عَبْدُ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "قَالَ كَذَٰلِكِ قَالَ"
+        }
+      ],
+      "activityId": "act_019_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "يَـٰٓإِبْرَٰهِيمُ ۖ",
+        "يَأْتُونَنَا ۖ",
+        "ٱلْمُجْرِمِينَ",
+        "۞ فَحَمَلَتْهُ"
+      ],
+      "activityId": "act_019_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالَ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "قَالَ رَبِّ ٱجْعَل"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "قَالَ كَذَٰلِكَ قَالَ"
+        }
+      ],
+      "activityId": "act_019_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "سَأَسْتَغْفِرُ",
+        "بِٱلْغَيْبِ ۚ",
+        "تَحْمِلُهُۥ ۖ",
+        "سَيَكْفُرُونَ"
+      ],
+      "activityId": "act_019_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "ثُمَّ لَنَنزِعَنَّ مِن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم"
+        }
+      ],
+      "activityId": "act_019_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 0,
+      "options": [
+        "وَأَعْتَزِلُكُمْ",
+        "بِعِبَادَتِهِمْ",
+        "فَسَيَعْلَمُونَ",
+        "فَٱعْبُدُوهُ ۚ"
+      ],
+      "activityId": "act_019_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

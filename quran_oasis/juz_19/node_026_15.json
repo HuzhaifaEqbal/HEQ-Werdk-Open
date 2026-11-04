@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_15",
+  "title": "سورة الشعراء - الآيات 85-90",
+  "surahId": 26,
+  "ayahStart": 85,
+  "ayahEnd": 90,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱجْعَلْنِى",
+        "لَمُدْرَكُونَ",
+        "لِلنَّـٰظِرِينَ",
+        "لِلْغَاوِينَ"
+      ],
+      "activityId": "act_026_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ"
+        },
+        {
+          "ayahNumber": 220,
+          "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَكُبْكِبُوا۟ فِيهَا هُمْ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ"
+        }
+      ],
+      "activityId": "act_026_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلضَّآلِّينَ",
+        "لِلْمُتَّقِينَ",
+        "مُنقَلِبُونَ",
+        "مُّجْتَمِعُونَ"
+      ],
+      "activityId": "act_026_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 87,
+          "text": "وَلَا تُخْزِنِى يَوْمَ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "وَلَا صَدِيقٍ حَمِيمٍۢ"
+        },
+        {
+          "ayahNumber": 151,
+          "text": "وَلَا تُطِيعُوٓا۟ أَمْرَ"
+        },
+        {
+          "ayahNumber": 156,
+          "text": "وَلَا تَمَسُّوهَا بِسُوٓءٍۢ"
+        }
+      ],
+      "activityId": "act_026_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 3,
+      "options": [
+        "يُبْعَثُونَ",
+        "وَقَالُوا۟",
+        "وَقَوْمِهِۦ",
+        "وَيَسْقِينِ"
+      ],
+      "activityId": "act_026_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "يَوْمَ لَا يَنفَعُ"
+        },
+        {
+          "ayahNumber": 189,
+          "text": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ"
+        },
+        {
+          "ayahNumber": 201,
+          "text": "لَا يُؤْمِنُونَ بِهِۦ"
+        },
+        {
+          "ayahNumber": 202,
+          "text": "فَيَأْتِيَهُم بَغْتَةًۭ وَهُمْ"
+        }
+      ],
+      "activityId": "act_026_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 2,
+      "options": [
+        "يَنفَعُ",
+        "ءَايَـٰتُ",
+        "أَثِيمٍۢ",
+        "أَجْرٍ ۖ"
+      ],
+      "activityId": "act_026_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "options": [
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        },
+        {
+          "ayahNumber": 227,
+          "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_026_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱللَّهَ",
+        "أَجْرِىَ",
+        "أَخَافُ",
+        "أَرْجِهْ"
+      ],
+      "activityId": "act_026_15_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِذْ نُسَوِّيكُم بِرَبِّ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        }
+      ],
+      "activityId": "act_026_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْمُتَّقِينَ",
+        "مُّسْتَمِعُونَ",
+        "وَأَرْجُلَكُم",
+        "وَأَزْلَفْنَا"
+      ],
+      "activityId": "act_026_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

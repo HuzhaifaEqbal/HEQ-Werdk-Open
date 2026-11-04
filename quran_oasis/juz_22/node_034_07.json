@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_034_07",
+  "title": "سورة سبأ - الآيات 31-35",
+  "surahId": 34,
+  "ayahStart": 31,
+  "ayahEnd": 35,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 16,
+      "options": [
+        "مِن",
+        "أَضِلُّ",
+        "صِرَٰطِ",
+        "عِندَ"
+      ],
+      "activityId": "act_034_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَٱلَّذِينَ سَعَوْ فِىٓ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_034_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 7,
+      "options": [
+        "عَنِ",
+        "بِهِۦ",
+        "فِيهَا",
+        "كَانَ"
+      ],
+      "activityId": "act_034_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ جَآءَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَيَرَى ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟"
+        }
+      ],
+      "activityId": "act_034_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 17,
+      "options": [
+        "يُخْلِفُهُۥ ۖ",
+        "تَأْتِينَا",
+        "ٱلْخَبِيرُ",
+        "وَأَسَرُّوا۟"
+      ],
+      "activityId": "act_034_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَمَآ أَرْسَلْنَا فِى"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَيَرَى ٱلَّذِينَ أُوتُوا۟"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَآ ءَاتَيْنَـٰهُم مِّن"
+        }
+      ],
+      "activityId": "act_034_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 7,
+      "options": [
+        "قَالَ",
+        "إِذَا",
+        "لِمَن",
+        "يَقُولُ"
+      ],
+      "activityId": "act_034_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قُل لَّكُم مِّيعَادُ"
+        }
+      ],
+      "activityId": "act_034_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "وَأَوْلَـٰدًۭا",
+        "لَـَٔايَـٰتٍۢ",
+        "تَسْتَقْدِمُونَ",
+        "وَٱلنَّهَارِ"
+      ],
+      "activityId": "act_034_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "استكبار المترفين ومكر الليل والنهار وتخاصم المستضعفين والمستكبرين في النار."
+  }
+}

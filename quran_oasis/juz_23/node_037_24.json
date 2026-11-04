@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_24",
+  "title": "سورة الصافات - الآيات 133-137",
+  "surahId": 37,
+  "ayahStart": 133,
+  "ayahEnd": 137,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 133,
+      "missingWordPosition": 2,
+      "options": [
+        "جُندَنَا",
+        "وَلَا",
+        "خَطِفَ",
+        "لَّمِنَ"
+      ],
+      "activityId": "act_037_24_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 133,
+      "correctNextAyahNumber": 134,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        },
+        {
+          "ayahNumber": 138,
+          "text": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ"
+        },
+        {
+          "ayahNumber": 134,
+          "text": "إِذْ نَجَّيْنَـٰهُ وَأَهْلَهُۥٓ"
+        }
+      ],
+      "activityId": "act_037_24_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 134,
+      "missingWordPosition": 2,
+      "options": [
+        "بِمُعَذَّبِينَ",
+        "ٱلْأَعْلَىٰ",
+        "شِيعَتِهِۦ",
+        "وَأَهْلَهُۥٓ"
+      ],
+      "activityId": "act_037_24_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 134,
+      "correctNextAyahNumber": 135,
+      "options": [
+        {
+          "ayahNumber": 79,
+          "text": "سَلَـٰمٌ عَلَىٰ نُوحٍۢ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "فَحَقَّ عَلَيْنَا قَوْلُ"
+        }
+      ],
+      "activityId": "act_037_24_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 135,
+      "missingWordPosition": 1,
+      "options": [
+        "عَجُوزًۭا",
+        "وَتَلَّهُۥ",
+        "وَعِندَهُمْ",
+        "قَرِينٌۭ"
+      ],
+      "activityId": "act_037_24_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 135,
+      "correctNextAyahNumber": 136,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى"
+        }
+      ],
+      "activityId": "act_037_24_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 136,
+      "missingWordPosition": 1,
+      "options": [
+        "دَمَّرْنَا",
+        "تَعْقِلُونَ",
+        "عَلَيْهِمَا",
+        "مِّنْهُمْ"
+      ],
+      "activityId": "act_037_24_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 136,
+      "correctNextAyahNumber": 137,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "بَلْ جَآءَ بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        }
+      ],
+      "activityId": "act_037_24_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 137,
+      "missingWordPosition": 2,
+      "options": [
+        "عَنْهَا",
+        "كَانُوا۟",
+        "عَلَيْهِم",
+        "دُحُورًۭا ۖ"
+      ],
+      "activityId": "act_037_24_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "قصة يونس عليه السلام وركوبه الفلك المشحون والمساهمة والتقام الحوت له."
+  }
+}

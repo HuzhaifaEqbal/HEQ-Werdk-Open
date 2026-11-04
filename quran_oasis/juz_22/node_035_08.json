@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_035_08",
+  "title": "سورة فاطر - الآيات 37-40",
+  "surahId": 35,
+  "ayahStart": 37,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 11,
+      "options": [
+        "أَوَلَمْ",
+        "أُجَاجٌۭ ۖ",
+        "ٱلْعِزَّةُ",
+        "ذَٰلِكَ"
+      ],
+      "activityId": "act_035_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يُولِجُ ٱلَّيْلَ فِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "إِنَّ ٱللَّهَ عَـٰلِمُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ"
+        }
+      ],
+      "activityId": "act_035_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَقَامُوا۟",
+        "وَٱلْأَرْضِ ۚ",
+        "فَضْلِهِۦٓ ۚ",
+        "يَدْخُلُونَهَا"
+      ],
+      "activityId": "act_035_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "هُوَ ٱلَّذِى جَعَلَكُمْ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ"
+        }
+      ],
+      "activityId": "act_035_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْكَـٰفِرِينَ",
+        "وَأَقَامُوا۟",
+        "وَٱلْأَنْعَـٰمِ",
+        "رَزَقْنَـٰهُمْ"
+      ],
+      "activityId": "act_035_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "مَّا يَفْتَحِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَلَا ٱلظِّلُّ وَلَا"
+        }
+      ],
+      "activityId": "act_035_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 17,
+      "options": [
+        "يَرْفَعُهُۥ ۚ",
+        "ٱلظَّـٰلِمُونَ",
+        "وَغَرَابِيبُ",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_035_08_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "حسرة أهل النار وصراخهم طلباً للرجوع وسنة الله في خلقه وعلمه بالغيب."
+  }
+}

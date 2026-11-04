@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_11",
+  "title": "سورة الحجر - الآيات 61-66",
+  "surahId": 15,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُرْسَلُونَ",
+        "أَدْبَـٰرَهُمْ",
+        "وَأَتَيْنَـٰكَ",
+        "لَصَـٰدِقُونَ"
+      ],
+      "activityId": "act_015_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_015_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّنكَرُونَ",
+        "تُؤْمَرُونَ",
+        "يَمْتَرُونَ",
+        "مُّصْبِحِينَ"
+      ],
+      "activityId": "act_015_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_015_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 7,
+      "options": [
+        "يَمْتَرُونَ",
+        "مُّنكَرُونَ",
+        "وَقَضَيْنَآ",
+        "وَٱمْضُوا۟"
+      ],
+      "activityId": "act_015_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_015_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 4,
+      "options": [
+        "لَصَـٰدِقُونَ",
+        "أَدْبَـٰرَهُمْ",
+        "مُّصْبِحِينَ",
+        "وَقَضَيْنَآ"
+      ],
+      "activityId": "act_015_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_015_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 7,
+      "options": [
+        "أَدْبَـٰرَهُمْ",
+        "وَأَتَيْنَـٰكَ",
+        "لَصَـٰدِقُونَ",
+        "مُّنكَرُونَ"
+      ],
+      "activityId": "act_015_11_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_015_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 9,
+      "options": [
+        "مُّصْبِحِينَ",
+        "تُؤْمَرُونَ",
+        "يَمْتَرُونَ",
+        "وَٱمْضُوا۟"
+      ],
+      "activityId": "act_015_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

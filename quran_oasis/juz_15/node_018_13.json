@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_018_13",
+  "title": "سورة الكهف - الآيات 70-74",
+  "surahId": 18,
+  "ayahStart": 70,
+  "ayahEnd": 74,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱتَّبَعْتَنِى",
+        "ٱلْقُرْءَانِ",
+        "ٱلْمَدِينَةِ",
+        "ٱلْمُضِلِّينَ"
+      ],
+      "activityId": "act_018_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 71,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        }
+      ],
+      "activityId": "act_018_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 0,
+      "options": [
+        "فَٱنطَلَقَا",
+        "ٱلْمُهْتَدِ ۖ",
+        "ٱلْوُجُوهَ ۚ",
+        "ٱنفُخُوا۟ ۖ"
+      ],
+      "activityId": "act_018_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ أَلَمْ أَقُلْ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قَالَ إِنَّكَ لَن"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ لَهُۥ مُوسَىٰ"
+        }
+      ],
+      "activityId": "act_018_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 5,
+      "options": [
+        "تَسْتَطِيعَ",
+        "فَخَشِينَآ",
+        "فَدَعَوْهُمْ",
+        "فَسَجَدُوٓا۟"
+      ],
+      "activityId": "act_018_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ أَرَءَيْتَ إِذْ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "قَالَ أَمَّا مَن"
+        }
+      ],
+      "activityId": "act_018_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 2,
+      "options": [
+        "تُؤَاخِذْنِى",
+        "۞ وَٱضْرِبْ",
+        "ءَاذَانِهِمْ",
+        "أَحْصَىٰهَا ۚ"
+      ],
+      "activityId": "act_018_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        }
+      ],
+      "activityId": "act_018_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 0,
+      "options": [
+        "فَٱنطَلَقَا",
+        "أَخَرَقْتَهَا",
+        "أَذْكُرَهُۥ ۚ",
+        "أَشْهَدتُّهُمْ"
+      ],
+      "activityId": "act_018_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

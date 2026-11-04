@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_12",
+  "title": "سورة يوسف - الآيات 65-70",
+  "surahId": 12,
+  "ayahStart": 65,
+  "ayahEnd": 70,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 5,
+      "options": [
+        "بِضَـٰعَتَهُمْ",
+        "تَوَكَّلْتُ ۖ",
+        "لَسَـٰرِقُونَ",
+        "مَوْثِقَهُمْ"
+      ],
+      "activityId": "act_012_12_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "wrongOptionsAyahNumbers": [
+        67,
+        63
+      ],
+      "activityId": "act_012_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 10,
+      "options": [
+        "لَتَأْتُنَّنِى",
+        "بِجَهَازِهِمْ",
+        "فَلْيَتَوَكَّلِ",
+        "وَٱدْخُلُوا۟"
+      ],
+      "activityId": "act_012_12_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "wrongOptionsAyahNumbers": [
+        68,
+        64
+      ],
+      "activityId": "act_012_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 27,
+      "options": [
+        "ٱلْمُتَوَكِّلُونَ",
+        "لَتَأْتُنَّنِى",
+        "ٱلسِّقَايَةَ",
+        "بِجَهَازِهِمْ"
+      ],
+      "activityId": "act_012_12_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "wrongOptionsAyahNumbers": [
+        69,
+        65
+      ],
+      "activityId": "act_012_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 20,
+      "options": [
+        "قَضَىٰهَا ۚ",
+        "أُرْسِلَهُۥ",
+        "إِلَيْنَا ۖ",
+        "تَدْخُلُوا۟"
+      ],
+      "activityId": "act_012_12_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "wrongOptionsAyahNumbers": [
+        70,
+        66
+      ],
+      "activityId": "act_012_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 16,
+      "options": [
+        "يَعْمَلُونَ",
+        "قَضَىٰهَا ۚ",
+        "وَنَزْدَادُ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_012_12_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "wrongOptionsAyahNumbers": [
+        71,
+        67
+      ],
+      "activityId": "act_012_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 3,
+      "options": [
+        "بِجَهَازِهِمْ",
+        "مُّتَفَرِّقَةٍۢ ۖ",
+        "لَتَأْتُنَّنِى",
+        "وَٱدْخُلُوا۟"
+      ],
+      "activityId": "act_012_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

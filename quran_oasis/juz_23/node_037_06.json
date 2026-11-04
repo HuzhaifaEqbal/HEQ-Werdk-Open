@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_06",
+  "title": "سورة الصافات - الآيات 31-36",
+  "surahId": 37,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "فَإِنَّهُمْ",
+        "وَقَالُوٓا۟",
+        "رَبِّنَآ ۖ",
+        "ٱلْجِنَّةُ"
+      ],
+      "activityId": "act_037_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لِقَوْمِهِۦٓ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَأَغْوَيْنَـٰكُمْ إِنَّا كُنَّا"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ"
+        }
+      ],
+      "activityId": "act_037_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 2,
+      "options": [
+        "أَحْسَنَ",
+        "تَرَىٰ ۚ",
+        "كُنَّا",
+        "سُرُرٍۢ"
+      ],
+      "activityId": "act_037_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 118,
+          "text": "وَهَدَيْنَـٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فِى جَنَّـٰتِ ٱلنَّعِيمِ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى"
+        }
+      ],
+      "activityId": "act_037_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "تَأْكُلُونَ",
+        "ٱلْبَنُونَ",
+        "ٱلْعَذَابِ",
+        "وَٰحِدَةٌۭ"
+      ],
+      "activityId": "act_037_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَمَا كَانَ لَنَا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّا كَذَٰلِكَ نَفْعَلُ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_037_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 2,
+      "options": [
+        "تَخْرُجُ",
+        "ٱلْجَحِيمِ",
+        "نَفْعَلُ",
+        "دَٰخِرُونَ"
+      ],
+      "activityId": "act_037_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِذْ جَآءَ رَبَّهُۥ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ"
+        }
+      ],
+      "activityId": "act_037_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "مَا",
+        "ثُمَّ",
+        "لَآ",
+        "قِيلَ"
+      ],
+      "activityId": "act_037_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَإِنَّمَا هِىَ زَجْرَةٌۭ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟"
+        }
+      ],
+      "activityId": "act_037_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَالِهَتِنَا",
+        "شِيعَتِهِۦ",
+        "بُنْيَـٰنًۭا",
+        "فَأَرَادُوا۟"
+      ],
+      "activityId": "act_037_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "استكبار المشركين عن قول لا إله إلا الله واتهام النبي بالشاعر المجنون."
+  }
+}

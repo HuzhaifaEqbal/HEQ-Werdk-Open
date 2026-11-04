@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_12",
+  "title": "سورة يس - الآيات 60-65",
+  "surahId": 36,
+  "ayahStart": 60,
+  "ayahEnd": 65,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "تَعْبُدُوا۟",
+        "طَـٰٓئِرُكُم",
+        "بِمَغْفِرَةٍۢ",
+        "ءَابَآؤُهُمْ"
+      ],
+      "activityId": "act_036_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "مَا يَنظُرُونَ إِلَّا"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "سَلَـٰمٌۭ قَوْلًۭا مِّن"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "أَوَلَيْسَ ٱلَّذِى خَلَقَ"
+        }
+      ],
+      "activityId": "act_036_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 2,
+      "options": [
+        "أَجْرًۭا",
+        "هَـٰذَا",
+        "ٱلْقَوْلُ",
+        "كُلِّ"
+      ],
+      "activityId": "act_036_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "وَلَقَدْ أَضَلَّ مِنكُمْ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَلَهُمْ فِيهَا مَنَـٰفِعُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "لَا ٱلشَّمْسُ يَنۢبَغِى"
+        }
+      ],
+      "activityId": "act_036_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 4,
+      "options": [
+        "تَكْذِبُونَ",
+        "كَثِيرًا ۖ",
+        "ٱلشَّجَرِ",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_036_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "ٱلَّذِى جَعَلَ لَكُم"
+        }
+      ],
+      "activityId": "act_036_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 2,
+      "options": [
+        "لَمِنَ",
+        "شُغُلٍۢ",
+        "جُندٍۢ",
+        "ٱلَّتِى"
+      ],
+      "activityId": "act_036_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا"
+        }
+      ],
+      "activityId": "act_036_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 2,
+      "options": [
+        "بِمَا",
+        "مِمَّا",
+        "لَكُمْ",
+        "أَقْصَا"
+      ],
+      "activityId": "act_036_12_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا"
+        }
+      ],
+      "activityId": "act_036_12_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعُيُونِ",
+        "أَيْدِيهِمْ",
+        "قَدَّمُوا۟",
+        "ٱلشَّجَرِ"
+      ],
+      "activityId": "act_036_12_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "تميز المجرمين وتذكيرهم بعهد الله ألا يعبدوا الشيطان وختم الأفواه وشهادة الجوارح."
+  }
+}

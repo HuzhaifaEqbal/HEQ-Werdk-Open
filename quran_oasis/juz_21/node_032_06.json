@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_06",
+  "title": "سورة السجدة - الآيات 26-30",
+  "surahId": 32,
+  "ayahStart": 26,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْقُرُونِ",
+        "فَذُوقُوا۟",
+        "ذُوقُوا۟",
+        "وَلِىٍّۢ"
+      ],
+      "activityId": "act_032_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "الٓمٓ"
+        }
+      ],
+      "activityId": "act_032_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "فَنُخْرِجُ",
+        "يَرْجِعُونَ",
+        "نُزُلًۢا",
+        "أَهْلَكْنَا"
+      ],
+      "activityId": "act_032_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        }
+      ],
+      "activityId": "act_032_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْفَتْحُ",
+        "يَدْعُونَ",
+        "وَٱلْأَرْضَ",
+        "بَيْنَهُمْ"
+      ],
+      "activityId": "act_032_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قُلْ يَوْمَ ٱلْفَتْحِ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِىٓ أَحْسَنَ كُلَّ"
+        }
+      ],
+      "activityId": "act_032_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 6,
+      "options": [
+        "إِنَّمَا",
+        "كَفَرُوٓا۟",
+        "ٱلْفَتْحِ",
+        "يُبْصِرُونَ"
+      ],
+      "activityId": "act_032_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَفَمَن كَانَ مُؤْمِنًۭا"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        }
+      ],
+      "activityId": "act_032_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكُمْ",
+        "وَٱلنَّاسِ",
+        "أَحْسَنَ",
+        "وَٱنتَظِرْ"
+      ],
+      "activityId": "act_032_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "سوق الماء إلى الأرض الجرز وإنبات الزرع وقولهم متى هذا الفتح والإعراض عن المكذبين."
+  }
+}

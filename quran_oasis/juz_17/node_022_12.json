@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_022_12",
+  "title": "سورة الحج - الآيات 64-68",
+  "surahId": 22,
+  "ayahStart": 64,
+  "ayahEnd": 68,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "وَٱلشَّجَرُ",
+        "وَٱلشَّمْسُ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_022_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "أَلَمْ تَرَ أَنَّ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "أَلَمْ تَعْلَمْ أَنَّ"
+        }
+      ],
+      "activityId": "act_022_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 21,
+      "options": [
+        "بِإِذْنِهِۦٓ ۗ",
+        "ٱلْأَرْحَامِ",
+        "ٱلْأَنْعَـٰمِ ۖ",
+        "ٱلْأَنْهَـٰرُ ۚ"
+      ],
+      "activityId": "act_022_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "يَوْمَ تَرَوْنَهَا تَذْهَلُ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "لِّكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        }
+      ],
+      "activityId": "act_022_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 6,
+      "options": [
+        "يُحْيِيكُمْ ۗ",
+        "ٱلْخُسْرَانُ",
+        "ٱلْعَذَابُ ۗ",
+        "ٱلْقِيَـٰمَةِ ۚ"
+      ],
+      "activityId": "act_022_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "لِّكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلِكُلِّ أُمَّةٍۢ جَعَلْنَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ"
+        }
+      ],
+      "activityId": "act_022_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 5,
+      "options": [
+        "نَاسِكُوهُ ۖ",
+        "ٱلْمَلَـٰٓئِكَةِ",
+        "ٱلْمُنكَرِ ۗ",
+        "ءَامَنُوٓا۟ ۗ"
+      ],
+      "activityId": "act_022_12_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "وَإِن جَـٰدَلُوكَ فَقُلِ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌۭ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "لَيُدْخِلَنَّهُم مُّدْخَلًۭا يَرْضَوْنَهُۥ ۗ"
+        }
+      ],
+      "activityId": "act_022_12_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 6,
+      "options": [
+        "تَعْمَلُونَ",
+        "وَٱلْبُدْنَ",
+        "وَٱلْفُلْكَ",
+        "وَٱلْقَمَرُ"
+      ],
+      "activityId": "act_022_12_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_039_14",
+  "title": "سورة الزمر - الآيات 68-71",
+  "surahId": 39,
+  "ayahStart": 68,
+  "ayahEnd": 71,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 13,
+      "options": [
+        "ٱللَّهُ ۖ",
+        "وَأَنزَلَ",
+        "زَوْجَهَا",
+        "يَغْفِرُ"
+      ],
+      "activityId": "act_039_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَوْ أَنَّ لِلَّذِينَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        }
+      ],
+      "activityId": "act_039_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَنْهَـٰرُ ۖ",
+        "فَيُنَبِّئُكُم",
+        "مَطْوِيَّـٰتٌۢ",
+        "بِٱلنَّبِيِّـۧنَ"
+      ],
+      "activityId": "act_039_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "وَلَقَدْ أُوحِىَ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "بَلَىٰ قَدْ جَآءَتْكَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        }
+      ],
+      "activityId": "act_039_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "كُلٌّۭ",
+        "لَّهُۥ",
+        "عَمِلَتْ",
+        "عَنكُمْ ۖ"
+      ],
+      "activityId": "act_039_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "قُرْءَانًا عَرَبِيًّا غَيْرَ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَأُمِرْتُ لِأَنْ أَكُونَ"
+        }
+      ],
+      "activityId": "act_039_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 17,
+      "options": [
+        "بِغَيْرِ",
+        "مِنْهَا",
+        "مِّنكُمْ",
+        "غَيْرَ"
+      ],
+      "activityId": "act_039_14_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "نفخ الصور وصعق من في السماوات والأرض وإشراق الأرض بنور ربها وسوق الكفار إلى جهنم زمراً."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_02",
+  "title": "سورة القصص - الآيات 7-12",
+  "surahId": 28,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 21,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "وَٱلْـَٔاخِرَةِ ۖ",
+        "يَتَسَآءَلُونَ",
+        "يَسْتَجِيبُوا۟"
+      ],
+      "activityId": "act_028_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَقَالَ فِرْعَوْنُ يَـٰٓأَيُّهَا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ فِرْعَوْنَ عَلَا"
+        }
+      ],
+      "activityId": "act_028_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 0,
+      "options": [
+        "فَٱلْتَقَطَهُۥٓ",
+        "يَكْفُلُونَهُۥ",
+        "يَنصُرُونَهُۥ",
+        "ٱسْتَنصَرَهُۥ"
+      ],
+      "activityId": "act_028_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَقَالَ فِرْعَوْنُ يَـٰٓأَيُّهَا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ فِرْعَوْنَ عَلَا"
+        }
+      ],
+      "activityId": "act_028_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "تَقْتُلُوهُ",
+        "أَعْرَضُوا۟",
+        "أَعْمَـٰلُكُمْ",
+        "أَعْمَـٰلُنَا"
+      ],
+      "activityId": "act_028_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَأَصْبَحَ فُؤَادُ أُمِّ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "۞ فَلَمَّا قَضَىٰ مُوسَى"
+        }
+      ],
+      "activityId": "act_028_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "ٱسْتُضْعِفُوا۟",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُحْسِنِينَ"
+      ],
+      "activityId": "act_028_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ ۖ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَرَدَدْنَـٰهُ إِلَىٰٓ أُمِّهِۦ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ"
+        }
+      ],
+      "activityId": "act_028_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 1,
+      "options": [
+        "لِأُخْتِهِۦ",
+        "أَغْوَيْنَآ",
+        "أَكْثَرَهُمْ",
+        "أَنشَأْنَا"
+      ],
+      "activityId": "act_028_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "نَتْلُوا۟ عَلَيْكَ مِن"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "فَلَمَّا جَآءَهُمُ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قُلْ فَأْتُوا۟ بِكِتَـٰبٍۢ"
+        }
+      ],
+      "activityId": "act_028_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَحَرَّمْنَا",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُحْضَرِينَ",
+        "ٱلْمُرْسَلِينَ"
+      ],
+      "activityId": "act_028_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

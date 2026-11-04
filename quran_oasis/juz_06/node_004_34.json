@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_004_34",
+  "title": "سورة النساء - الآيات 163-167",
+  "surahId": 4,
+  "ayahStart": 163,
+  "ayahEnd": 167,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 163,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلْعَذَابِ ۚ",
+        "جُلُودُهُم",
+        "إِبْرَٰهِيمَ",
+        "بِعَذَابِكُمْ"
+      ],
+      "activityId": "act_004_34_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 163,
+      "correctNextAyahNumber": 164,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "فَكَيْفَ إِذَا جِئْنَا"
+        },
+        {
+          "ayahNumber": 164,
+          "text": "وَرُسُلًۭا قَدْ قَصَصْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَٱبْتَلُوا۟ ٱلْيَتَـٰمَىٰ حَتَّىٰٓ"
+        },
+        {
+          "ayahNumber": 118,
+          "text": "لَّعَنَهُ ٱللَّهُ ۘ وَقَالَ"
+        }
+      ],
+      "activityId": "act_004_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 164,
+      "missingWordPosition": 7,
+      "options": [
+        "مَّطَرٍ",
+        "لَّمْ",
+        "مِّن",
+        "بَعْدِ"
+      ],
+      "activityId": "act_004_34_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 164,
+      "correctNextAyahNumber": 165,
+      "options": [
+        {
+          "ayahNumber": 165,
+          "text": "رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمَن لَّمْ يَسْتَطِعْ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "مِّنَ ٱلَّذِينَ هَادُوا۟"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يُرِيدُ ٱللَّهُ أَن"
+        }
+      ],
+      "activityId": "act_004_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 165,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱللَّهِ",
+        "فَسَوْفَ",
+        "قِيلَ",
+        "مِّنكُم"
+      ],
+      "activityId": "act_004_34_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 165,
+      "correctNextAyahNumber": 166,
+      "options": [
+        {
+          "ayahNumber": 156,
+          "text": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَإِنَّ مِنكُمْ لَمَن"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "لَّـٰكِنِ ٱللَّهُ يَشْهَدُ"
+        }
+      ],
+      "activityId": "act_004_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 166,
+      "missingWordPosition": 6,
+      "options": [
+        "قَامُوٓا۟",
+        "شَهِدُوا۟",
+        "أَنزَلَهُۥ",
+        "قِيَـٰمًۭا"
+      ],
+      "activityId": "act_004_34_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 166,
+      "correctNextAyahNumber": 167,
+      "options": [
+        {
+          "ayahNumber": 162,
+          "text": "لَّـٰكِنِ ٱلرَّٰسِخُونَ فِى"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "۞ فَلْيُقَـٰتِلْ فِى سَبِيلِ"
+        },
+        {
+          "ayahNumber": 167,
+          "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ"
+        }
+      ],
+      "activityId": "act_004_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 167,
+      "missingWordPosition": 6,
+      "options": [
+        "شَاكِرًا",
+        "وَقُلْنَا",
+        "إِلَىٰ",
+        "ٱللَّهِ"
+      ],
+      "activityId": "act_004_34_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النساء",
+    "juz": 6,
+    "theme": "الوحي إلى محمد ﷺ كما أوحي إلى النبيين من قبله وتكليم موسى وبيان حجة الرسل."
+  }
+}

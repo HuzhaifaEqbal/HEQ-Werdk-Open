@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_024_06",
+  "title": "سورة النور - الآيات 31-36",
+  "surahId": 24,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 22,
+      "options": [
+        "لِبُعُولَتِهِنَّ",
+        "ٱلْمُؤْمِنُونَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُفْلِحُونَ"
+      ],
+      "activityId": "act_024_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "وَإِذَا بَلَغَ ٱلْأَطْفَـٰلُ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍۢ"
+        }
+      ],
+      "activityId": "act_024_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلصَّـٰلِحِينَ",
+        "بِأَفْوَاهِكُم",
+        "بِأَلْسِنَتِكُمْ",
+        "بِٱلشُّهَدَآءِ"
+      ],
+      "activityId": "act_024_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَا تَحْسَبَنَّ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_024_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 0,
+      "options": [
+        "وَلْيَسْتَعْفِفِ",
+        "بِٱلْفَحْشَآءِ",
+        "تَسْتَأْنِسُوا۟",
+        "فَٱجْلِدُوهُمْ"
+      ],
+      "activityId": "act_024_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَإِذَا دُعُوٓا۟ إِلَى"
+        }
+      ],
+      "activityId": "act_024_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 12,
+      "options": [
+        "لِّلْمُتَّقِينَ",
+        "وَأَقِيمُوا۟",
+        "وَأَنزَلْنَا",
+        "وَأَنكِحُوا۟"
+      ],
+      "activityId": "act_024_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "۞ ٱللَّهُ نُورُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "وَإِن يَكُن لَّهُمُ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "أَفِى قُلُوبِهِم مَّرَضٌ"
+        }
+      ],
+      "activityId": "act_024_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْأَرْضِ ۚ",
+        "وَأَيْدِيهِمْ",
+        "وَتَقُولُونَ",
+        "وَتُسَلِّمُوا۟"
+      ],
+      "activityId": "act_024_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "فِى بُيُوتٍ أَذِنَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَمَن يُطِعِ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "أَوْ كَظُلُمَـٰتٍۢ فِى"
+        }
+      ],
+      "activityId": "act_024_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلْـَٔاصَالِ",
+        "وَرَحْمَتُهُۥ",
+        "وَرَسُولَهُۥ",
+        "وَرَسُولِهِۦ"
+      ],
+      "activityId": "act_024_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النور",
+    "juz": 18,
+    "theme": "تنظم آيات هذا المقطع أحكام العفة والأسرة والاستئذان، وتعرض قصة الإفك وآية النور، وتدل على طاعة الله ورسوله ونوره في السماوات والأرض."
+  }
+}

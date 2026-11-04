@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_10",
+  "title": "سورة يس - الآيات 48-53",
+  "surahId": 36,
+  "ayahStart": 48,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 3,
+      "options": [
+        "إِنَّمَآ",
+        "تُنۢبِتُ",
+        "ءَأَتَّخِذُ",
+        "ٱلْوَعْدُ"
+      ],
+      "activityId": "act_036_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "وَضَرَبَ لَنَا مَثَلًۭا"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "مَا يَنظُرُونَ إِلَّا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        }
+      ],
+      "activityId": "act_036_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 4,
+      "options": [
+        "قَوْمِهِۦ",
+        "وَٰحِدَةًۭ",
+        "بِكُمْ ۖ",
+        "أَلِيمٌۭ"
+      ],
+      "activityId": "act_036_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_036_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "بِكُمْ ۖ",
+        "وَلَآ",
+        "إِنَّهُۥ",
+        "عَنِّى"
+      ],
+      "activityId": "act_036_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "إِنِّىٓ إِذًۭا لَّفِى"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "ٱتَّبِعُوا۟ مَن لَّا"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَنُفِخَ فِى ٱلصُّورِ"
+        }
+      ],
+      "activityId": "act_036_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنَّهَارَ",
+        "وَٱلْقُرْءَانِ",
+        "ٱلْأَجْدَاثِ",
+        "صَـٰدِقِينَ"
+      ],
+      "activityId": "act_036_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَخَلَقْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        }
+      ],
+      "activityId": "act_036_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 6,
+      "options": [
+        "يَسْعَىٰ",
+        "فَلَكٍۢ",
+        "ضَلَـٰلٍۢ",
+        "هَـٰذَا"
+      ],
+      "activityId": "act_036_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "إِن كَانَتْ إِلَّا"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "فَٱلْيَوْمَ لَا تُظْلَمُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلْأَرْضُ"
+        }
+      ],
+      "activityId": "act_036_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 5,
+      "options": [
+        "لَهُۥٓ ۚ",
+        "لَكُمْ",
+        "فَإِذَا",
+        "ٱلَّذِىٓ"
+      ],
+      "activityId": "act_036_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "استعجال الكفار للوعد ونفخ الصور والبعث من الأجداث والاعتراف بصدق المرسلين."
+  }
+}

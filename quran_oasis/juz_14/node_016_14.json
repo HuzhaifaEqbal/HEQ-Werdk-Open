@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_14",
+  "title": "سورة النحل - الآيات 79-84",
+  "surahId": 16,
+  "ayahStart": 79,
+  "ayahEnd": 84,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلسَّمَآءِ",
+        "بُيُوتِكُمْ",
+        "تُسْلِمُونَ",
+        "نِعْمَتَهُۥ"
+      ],
+      "activityId": "act_016_14_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "wrongOptionsAyahNumbers": [
+        81,
+        77
+      ],
+      "activityId": "act_016_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 13,
+      "options": [
+        "تَسْتَخِفُّونَهَا",
+        "يُسْتَعْتَبُونَ",
+        "يُنكِرُونَهَا",
+        "وَأَكْثَرُهُمُ"
+      ],
+      "activityId": "act_016_14_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "wrongOptionsAyahNumbers": [
+        82,
+        78
+      ],
+      "activityId": "act_016_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْجِبَالِ",
+        "ٱلْمُبِينُ",
+        "يَعْرِفُونَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_016_14_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "wrongOptionsAyahNumbers": [
+        83,
+        79
+      ],
+      "activityId": "act_016_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْمُبِينُ",
+        "ٱلْجِبَالِ",
+        "ٱلسَّمَآءِ",
+        "بَأْسَكُمْ ۚ"
+      ],
+      "activityId": "act_016_14_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "wrongOptionsAyahNumbers": [
+        84,
+        80
+      ],
+      "activityId": "act_016_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 5,
+      "options": [
+        "يُنكِرُونَهَا",
+        "وَأَوْبَارِهَا",
+        "إِقَامَتِكُمْ ۙ",
+        "وَأَشْعَارِهَآ"
+      ],
+      "activityId": "act_016_14_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "wrongOptionsAyahNumbers": [
+        85,
+        81
+      ],
+      "activityId": "act_016_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 14,
+      "options": [
+        "يُسْتَعْتَبُونَ",
+        "إِقَامَتِكُمْ ۙ",
+        "وَأَشْعَارِهَآ",
+        "وَأَوْبَارِهَا"
+      ],
+      "activityId": "act_016_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

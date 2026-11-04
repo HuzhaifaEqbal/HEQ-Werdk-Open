@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_01",
+  "title": "سورة النحل - الآيات 1-6",
+  "surahId": 16,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 5,
+      "options": [
+        "تَسْتَعْجِلُوهُ ۚ",
+        "ٱلْمَلَـٰٓئِكَةَ",
+        "وَٱلْأَنْعَـٰمَ",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_016_01_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "wrongOptionsAyahNumbers": [
+        3,
+        4
+      ],
+      "activityId": "act_016_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْمَلَـٰٓئِكَةَ",
+        "وَٱلْأَنْعَـٰمَ",
+        "سُبْحَـٰنَهُۥ",
+        "بِٱلْحَقِّ ۚ"
+      ],
+      "activityId": "act_016_01_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "wrongOptionsAyahNumbers": [
+        4,
+        5
+      ],
+      "activityId": "act_016_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "ٱلْإِنسَـٰنَ",
+        "أَنذِرُوٓا۟",
+        "تَأْكُلُونَ"
+      ],
+      "activityId": "act_016_01_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "wrongOptionsAyahNumbers": [
+        5,
+        1
+      ],
+      "activityId": "act_016_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْإِنسَـٰنَ",
+        "تَسْرَحُونَ",
+        "خَلَقَهَا ۗ",
+        "عِبَادِهِۦٓ"
+      ],
+      "activityId": "act_016_01_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "wrongOptionsAyahNumbers": [
+        6,
+        2
+      ],
+      "activityId": "act_016_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱلْأَنْعَـٰمَ",
+        "ٱلْمَلَـٰٓئِكَةَ",
+        "فَٱتَّقُونِ",
+        "وَٱلْأَرْضَ"
+      ],
+      "activityId": "act_016_01_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "wrongOptionsAyahNumbers": [
+        7,
+        3
+      ],
+      "activityId": "act_016_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "تُرِيحُونَ",
+        "بِٱلرُّوحِ",
+        "يُشْرِكُونَ",
+        "أَنذِرُوٓا۟"
+      ],
+      "activityId": "act_016_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

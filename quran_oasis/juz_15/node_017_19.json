@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_19",
+  "title": "سورة الإسراء - الآيات 102-106",
+  "surahId": 17,
+  "ayahStart": 102,
+  "ayahEnd": 106,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "لِنُرِيَهُۥ",
+        "لِوَلِيِّهِۦ",
+        "لِيَسُـۥٓـُٔوا۟"
+      ],
+      "activityId": "act_017_19_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "options": [
+        {
+          "ayahNumber": 103,
+          "text": "فَأَرَادَ أَن يَسْتَفِزَّهُم"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "عَسَىٰ رَبُّكُمْ أَن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ"
+        }
+      ],
+      "activityId": "act_017_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 2,
+      "options": [
+        "يَسْتَفِزَّهُم",
+        "وَحَمَلْنَـٰهُمْ",
+        "وَرَزَقْنَـٰهُم",
+        "وَشَارِكْهُمْ"
+      ],
+      "activityId": "act_017_19_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "وَقُلْنَا مِنۢ بَعْدِهِۦ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَكَمْ أَهْلَكْنَا مِنَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ذُرِّيَّةَ مَنْ حَمَلْنَا"
+        }
+      ],
+      "activityId": "act_017_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 4,
+      "options": [
+        "إِسْرَٰٓءِيلَ",
+        "لَّأَذَقْنَـٰكَ",
+        "لِّعِبَادِى",
+        "مَثْبُورًۭا"
+      ],
+      "activityId": "act_017_19_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 105,
+          "text": "وَبِٱلْحَقِّ أَنزَلْنَـٰهُ وَبِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ"
+        }
+      ],
+      "activityId": "act_017_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 0,
+      "options": [
+        "وَبِٱلْحَقِّ",
+        "مَحْذُورًۭا",
+        "مَحْظُورًا",
+        "مَذْمُومًۭا"
+      ],
+      "activityId": "act_017_19_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 106,
+          "text": "وَقُرْءَانًۭا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "إِذًۭا لَّأَذَقْنَـٰكَ ضِعْفَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "قَالَ أَرَءَيْتَكَ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_017_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقُرْءَانًۭا",
+        "وَفَضَّلْنَـٰهُمْ",
+        "وَلَلْـَٔاخِرَةُ",
+        "وَنَحْشُرُهُمْ"
+      ],
+      "activityId": "act_017_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

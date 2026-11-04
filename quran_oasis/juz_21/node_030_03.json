@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_030_03",
+  "title": "سورة الروم - الآيات 11-16",
+  "surahId": 30,
+  "ayahStart": 11,
+  "ayahEnd": 16,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "تُصِبْهُمْ",
+        "ٱلسَّمَآءِ",
+        "يُعِيدُهُۥ",
+        "قَدَّمَتْ"
+      ],
+      "activityId": "act_030_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يُخْرِجُ ٱلْحَىَّ مِنَ"
+        }
+      ],
+      "activityId": "act_030_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْعِلْمَ",
+        "وَيُحْىِ",
+        "غَلَبِهِمْ",
+        "ٱلسَّاعَةُ"
+      ],
+      "activityId": "act_030_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَمْ يَكُن لَّهُم"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يُخْرِجُ ٱلْحَىَّ مِنَ"
+        }
+      ],
+      "activityId": "act_030_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 4,
+      "options": [
+        "أَجْرَمُوا۟ ۖ",
+        "شُرَكَآئِهِمْ",
+        "لِّيَرْبُوَا۟",
+        "فَيَبْسُطُهُۥ"
+      ],
+      "activityId": "act_030_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "بَلِ ٱتَّبَعَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَإِذَا مَسَّ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        }
+      ],
+      "activityId": "act_030_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّاعَةُ",
+        "يَوْمَئِذٍۢ",
+        "كَسَبَتْ",
+        "ٱلصُّمَّ"
+      ],
+      "activityId": "act_030_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_030_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 4,
+      "options": [
+        "يَتَفَرَّقُونَ",
+        "لِّلْعَـٰلِمِينَ",
+        "ءَايَـٰتِهِۦٓ",
+        "ٱلصَّـٰلِحَـٰتِ"
+      ],
+      "activityId": "act_030_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "وَلَهُ ٱلْحَمْدُ فِى"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَأَمَّا ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ"
+        }
+      ],
+      "activityId": "act_030_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "يَفْرَحُ",
+        "ٱلْقُرْءَانِ",
+        "وَلِقَآئِ",
+        "ٱلسَّمَآءُ"
+      ],
+      "activityId": "act_030_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "بدء الخلق وإعادته وتميز المؤمنين عن المجرمين يوم القيامة."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_13",
+  "title": "سورة يس - الآيات 66-71",
+  "surahId": 36,
+  "ayahStart": 66,
+  "ayahEnd": 71,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 4,
+      "options": [
+        "مَرَّةٍۢ ۖ",
+        "ٱلْمُجْرِمُونَ",
+        "يَأْتِيهِم",
+        "أَعْيُنِهِمْ"
+      ],
+      "activityId": "act_036_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "وَلَقَدْ أَضَلَّ مِنكُمْ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "يسٓ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ"
+        }
+      ],
+      "activityId": "act_036_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 5,
+      "options": [
+        "كُن",
+        "كُنتُمْ",
+        "شَىْءٍۢ",
+        "فَمَا"
+      ],
+      "activityId": "act_036_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "يسٓ"
+        }
+      ],
+      "activityId": "act_036_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْخَلْقِ ۖ",
+        "مُنزِلِينَ",
+        "ٱلشَّجَرِ",
+        "يَـٰبَنِىٓ"
+      ],
+      "activityId": "act_036_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "لَقَدْ حَقَّ ٱلْقَوْلُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَهُمْ فِيهَا فَـٰكِهَةٌۭ"
+        }
+      ],
+      "activityId": "act_036_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 6,
+      "options": [
+        "إِنْ",
+        "لَهَا",
+        "وَهُمْ",
+        "لَئِن"
+      ],
+      "activityId": "act_036_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَلَوْ نَشَآءُ لَطَمَسْنَا"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "لِّيُنذِرَ مَن كَانَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "قُلْ يُحْيِيهَا ٱلَّذِىٓ"
+        }
+      ],
+      "activityId": "act_036_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْجَنَّةِ",
+        "عَلَيْنَآ",
+        "وَيَحِقَّ",
+        "خَلْقَهُۥ ۖ"
+      ],
+      "activityId": "act_036_13_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ"
+        }
+      ],
+      "activityId": "act_036_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 6,
+      "options": [
+        "أُنذِرَ",
+        "إِنِّىٓ",
+        "ٱلصُّورِ",
+        "عَمِلَتْ"
+      ],
+      "activityId": "act_036_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "لو نشاء لطمسنا على أعينهم والتنكيس في الخلق وبيان أن القرآن ذكر مبين لينذر من كان حياً."
+  }
+}

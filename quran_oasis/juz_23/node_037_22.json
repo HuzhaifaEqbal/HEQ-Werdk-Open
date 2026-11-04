@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_22",
+  "title": "سورة الصافات - الآيات 123-127",
+  "surahId": 37,
+  "ayahStart": 123,
+  "ayahEnd": 127,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 123,
+      "missingWordPosition": 2,
+      "options": [
+        "سَلَـٰمٌ",
+        "لَمِنَ",
+        "رَّبُّ",
+        "بِهِۦ"
+      ],
+      "activityId": "act_037_22_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 123,
+      "correctNextAyahNumber": 124,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لِقَوْمِهِۦٓ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        }
+      ],
+      "activityId": "act_037_22_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 124,
+      "missingWordPosition": 2,
+      "options": [
+        "فَأَقْبَلُوٓا۟",
+        "لِقَوْمِهِۦٓ",
+        "مُدْبِرِينَ",
+        "لَإِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_037_22_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 124,
+      "correctNextAyahNumber": 125,
+      "options": [
+        {
+          "ayahNumber": 125,
+          "text": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لَّا يَسَّمَّعُونَ إِلَى"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قَالَ تَٱللَّهِ إِن"
+        }
+      ],
+      "activityId": "act_037_22_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 125,
+      "missingWordPosition": 2,
+      "options": [
+        "فَٱطَّلَعَ",
+        "وَتَذَرُونَ",
+        "ٱلْعِزَّةِ",
+        "ضَآلِّينَ"
+      ],
+      "activityId": "act_037_22_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 125,
+      "correctNextAyahNumber": 126,
+      "options": [
+        {
+          "ayahNumber": 109,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 126,
+          "text": "ٱللَّهَ رَبَّكُمْ وَرَبَّ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "هَـٰذَا يَوْمُ ٱلْفَصْلِ"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَا لَكُمْ كَيْفَ"
+        }
+      ],
+      "activityId": "act_037_22_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 126,
+      "missingWordPosition": 2,
+      "options": [
+        "وَرَبَّ",
+        "أَنِّىٓ",
+        "إِلَىٰ",
+        "يُونُسَ"
+      ],
+      "activityId": "act_037_22_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 126,
+      "correctNextAyahNumber": 127,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "قَالَ تَٱللَّهِ إِن"
+        },
+        {
+          "ayahNumber": 127,
+          "text": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا"
+        }
+      ],
+      "activityId": "act_037_22_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 127,
+      "missingWordPosition": 1,
+      "options": [
+        "يَنظُرُونَ",
+        "فَإِنَّكُمْ",
+        "فَإِنَّهُمْ",
+        "أَغْرَقْنَا"
+      ],
+      "activityId": "act_037_22_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تكذيب قوم إلياس وجزاء المحسنين وسلام على إل ياسين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_15",
+  "title": "سورة الإسراء - الآيات 82-86",
+  "surahId": 17,
+  "ayahStart": 82,
+  "ayahEnd": 86,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 7,
+      "options": [
+        "لِّلْمُؤْمِنِينَ ۙ",
+        "لَيَسْتَفِزُّونَكَ",
+        "وَبِٱلْوَٰلِدَيْنِ",
+        "ٱلْمُسْتَقِيمِ ۚ"
+      ],
+      "activityId": "act_017_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 83,
+          "text": "وَإِذَآ أَنْعَمْنَا عَلَى"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِذَآ أَرَدْنَآ أَن"
+        }
+      ],
+      "activityId": "act_017_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 6,
+      "options": [
+        "بِجَانِبِهِۦ ۖ",
+        "ٱلْأَوَّلُونَ ۚ",
+        "ٱلْإِنفَاقِ ۚ",
+        "ٱلْقُرْءَانِ ۚ"
+      ],
+      "activityId": "act_017_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 83,
+      "correctNextAyahNumber": 84,
+      "options": [
+        {
+          "ayahNumber": 84,
+          "text": "قُلْ كُلٌّۭ يَعْمَلُ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "قُل لَّئِنِ ٱجْتَمَعَتِ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        }
+      ],
+      "activityId": "act_017_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 84,
+      "missingWordPosition": 4,
+      "options": [
+        "شَاكِلَتِهِۦ",
+        "فَيُغْرِقَكُم",
+        "لَأَحْتَنِكَنَّ",
+        "لَتَقُولُونَ"
+      ],
+      "activityId": "act_017_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 84,
+      "correctNextAyahNumber": 85,
+      "options": [
+        {
+          "ayahNumber": 85,
+          "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَقُل رَّبِّ أَدْخِلْنِى"
+        }
+      ],
+      "activityId": "act_017_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَسْـَٔلُونَكَ",
+        "لَمَفْعُولًۭا",
+        "لِتَقْرَأَهُۥ",
+        "لِلْأَذْقَانِ"
+      ],
+      "activityId": "act_017_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "وَقَالُوا۟ لَن نُّؤْمِنَ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "أَوْ تُسْقِطَ ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ"
+        }
+      ],
+      "activityId": "act_017_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 2,
+      "options": [
+        "لَنَذْهَبَنَّ",
+        "فَجَاسُوا۟",
+        "فَسَجَدُوٓا۟",
+        "فَضْلِهِۦٓ ۚ"
+      ],
+      "activityId": "act_017_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

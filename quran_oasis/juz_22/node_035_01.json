@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_01",
+  "title": "سورة فاطر - الآيات 1-5",
+  "surahId": 35,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 11,
+      "options": [
+        "وَثُلَـٰثَ",
+        "دُعَآءَكُمْ",
+        "وَازِرَةٌۭ",
+        "أَوْرَثْنَا"
+      ],
+      "activityId": "act_035_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "هُوَ ٱلَّذِى جَعَلَكُمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "مَّا يَفْتَحِ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_035_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 10,
+      "options": [
+        "يُضِلُّ",
+        "يُمْسِكْ",
+        "خَلَقَكُم",
+        "أَحَدٍۢ"
+      ],
+      "activityId": "act_035_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِىٓ أَحَلَّنَا دَارَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ"
+        }
+      ],
+      "activityId": "act_035_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 10,
+      "options": [
+        "أَسَاوِرَ",
+        "كُذِّبَتْ",
+        "ٱللَّهِ",
+        "سِرًّۭا"
+      ],
+      "activityId": "act_035_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَإِن يُكَذِّبُوكَ فَقَدْ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يُولِجُ ٱلَّيْلَ فِى"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفَمَن زُيِّنَ لَهُۥ"
+        }
+      ],
+      "activityId": "act_035_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 5,
+      "options": [
+        "مِلْحٌ",
+        "مِّن",
+        "مِنَ",
+        "وَلَوْ"
+      ],
+      "activityId": "act_035_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَهُمْ يَصْطَرِخُونَ فِيهَا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَٱللَّهُ خَلَقَكُم مِّن"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ"
+        }
+      ],
+      "activityId": "act_035_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 7,
+      "options": [
+        "وَجَآءَكُمُ",
+        "مُّخْتَلِفًا",
+        "تَغُرَّنَّكُمُ",
+        "ءَاتَيْنَـٰهُمْ"
+      ],
+      "activityId": "act_035_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "حمد فاطر السماوات والأرض وجاعل الملائكة رسلاً وبيان قدرة الله ونعمه."
+  }
+}

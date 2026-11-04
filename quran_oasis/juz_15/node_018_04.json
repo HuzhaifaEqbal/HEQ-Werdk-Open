@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_04",
+  "title": "سورة الكهف - الآيات 19-24",
+  "surahId": 18,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 2,
+      "options": [
+        "لِيَتَسَآءَلُوا۟",
+        "وَيَسْتَغْفِرُوا۟",
+        "بِٱلْأَخْسَرِينَ",
+        "وَيَسْتَخْرِجَا"
+      ],
+      "activityId": "act_018_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "إِنَّهُمْ إِن يَظْهَرُوا۟"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَمْ حَسِبْتَ أَنَّ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَمَا مَنَعَ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قَالَ سَتَجِدُنِىٓ إِن"
+        }
+      ],
+      "activityId": "act_018_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 4,
+      "options": [
+        "يَرْجُمُوكُمْ",
+        "فَجَمَعْنَـٰهُمْ",
+        "فَلْيَأْتِكُم",
+        "فَلْيَكْفُرْ ۚ"
+      ],
+      "activityId": "act_018_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَكَذَٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُوا۟"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَتَحْسَبُهُمْ أَيْقَاظًۭا وَهُمْ"
+        }
+      ],
+      "activityId": "act_018_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 3,
+      "options": [
+        "لِيَعْلَمُوٓا۟",
+        "فَيُعَذِّبُهُۥ",
+        "فَٱبْعَثُوٓا۟",
+        "فَٱنطَلَقَا"
+      ],
+      "activityId": "act_018_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "سَيَقُولُونَ ثَلَـٰثَةٌۭ رَّابِعُهُمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلِ ٱللَّهُ أَعْلَمُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "۞ وَتَرَى ٱلشَّمْسَ إِذَا"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ جَنَّـٰتُ"
+        }
+      ],
+      "activityId": "act_018_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 0,
+      "options": [
+        "سَيَقُولُونَ",
+        "لِأَحَدِهِمَا",
+        "لِكَلِمَـٰتِهِۦ",
+        "لِلظَّـٰلِمِينَ"
+      ],
+      "activityId": "act_018_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "۞ وَٱضْرِبْ لَهُم مَّثَلًۭا"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ"
+        }
+      ],
+      "activityId": "act_018_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 1,
+      "options": [
+        "تَقُولَنَّ",
+        "أَفَحَسِبَ",
+        "أَقَتَلْتَ",
+        "أَكَفَرْتَ"
+      ],
+      "activityId": "act_018_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "إِلَّآ أَن يَشَآءَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ إِن سَأَلْتُكَ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "فَأَرَدْنَآ أَن يُبْدِلَهُمَا"
+        }
+      ],
+      "activityId": "act_018_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱللَّهُ ۚ",
+        "أَمْرُهُۥ",
+        "أَمْرِكُم",
+        "أَمْرِنَا"
+      ],
+      "activityId": "act_018_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

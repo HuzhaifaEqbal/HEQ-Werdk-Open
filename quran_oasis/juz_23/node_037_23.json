@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_23",
+  "title": "سورة الصافات - الآيات 128-132",
+  "surahId": 37,
+  "ayahStart": 128,
+  "ayahEnd": 132,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 128,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱللَّهِ",
+        "نُّزُلًا",
+        "لُوطًۭا",
+        "عَلَى"
+      ],
+      "activityId": "act_037_23_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 128,
+      "correctNextAyahNumber": 129,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "وَٱلصَّـٰٓفَّـٰتِ صَفًّۭا"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 129,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        }
+      ],
+      "activityId": "act_037_23_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 129,
+      "missingWordPosition": 1,
+      "options": [
+        "مُلِيمٌۭ",
+        "عَلَيْهِ",
+        "قَبْلَهُمْ",
+        "كَانُوا۟"
+      ],
+      "activityId": "act_037_23_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 129,
+      "correctNextAyahNumber": 130,
+      "options": [
+        {
+          "ayahNumber": 49,
+          "text": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ"
+        },
+        {
+          "ayahNumber": 130,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ"
+        },
+        {
+          "ayahNumber": 122,
+          "text": "إِنَّهُمَا مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا"
+        }
+      ],
+      "activityId": "act_037_23_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 130,
+      "missingWordPosition": 1,
+      "options": [
+        "مُّبِينٌۭ",
+        "عَلَىٰٓ",
+        "كُنتُمْ",
+        "شِهَابٌۭ"
+      ],
+      "activityId": "act_037_23_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 130,
+      "correctNextAyahNumber": 131,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا"
+        },
+        {
+          "ayahNumber": 131,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        }
+      ],
+      "activityId": "act_037_23_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 131,
+      "missingWordPosition": 2,
+      "options": [
+        "نَجْزِى",
+        "كَذَٰلِكَ",
+        "رَأَوْا۟",
+        "أَحْسَنَ"
+      ],
+      "activityId": "act_037_23_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 131,
+      "correctNextAyahNumber": 132,
+      "options": [
+        {
+          "ayahNumber": 114,
+          "text": "وَلَقَدْ مَنَنَّا عَلَىٰ"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ"
+        },
+        {
+          "ayahNumber": 132,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        }
+      ],
+      "activityId": "act_037_23_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 132,
+      "missingWordPosition": 2,
+      "options": [
+        "عِبَادِنَا",
+        "صَدَّقْتَ",
+        "إِلَـٰهَ",
+        "وَأَبْصِرْ"
+      ],
+      "activityId": "act_037_23_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "نجاة لوط وأهله إلا عجوزاً في الغابرين وتدمير الآخرين."
+  }
+}

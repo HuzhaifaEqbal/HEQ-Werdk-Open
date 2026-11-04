@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_012_08",
+  "title": "سورة يوسف - الآيات 43-47",
+  "surahId": 12,
+  "ayahStart": 43,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 8,
+      "options": [
+        "يَأْكُلُهُنَّ",
+        "بِعَـٰلِمِينَ",
+        "ٱلْأَحْلَـٰمِ",
+        "أُنَبِّئُكُم"
+      ],
+      "activityId": "act_012_08_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "wrongOptionsAyahNumbers": [
+        45,
+        41
+      ],
+      "activityId": "act_012_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 6,
+      "options": [
+        "بِتَأْوِيلِ",
+        "تَأْكُلُونَ",
+        "تَزْرَعُونَ",
+        "تَعْبُرُونَ"
+      ],
+      "activityId": "act_012_08_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "wrongOptionsAyahNumbers": [
+        46,
+        42
+      ],
+      "activityId": "act_012_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 10,
+      "options": [
+        "بِتَأْوِيلِهِۦ",
+        "يَابِسَـٰتٍۢ ۖ",
+        "يَأْكُلُهُنَّ",
+        "سُنۢبُلِهِۦٓ"
+      ],
+      "activityId": "act_012_08_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "wrongOptionsAyahNumbers": [
+        47,
+        43
+      ],
+      "activityId": "act_012_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصِّدِّيقُ",
+        "بِتَأْوِيلِ",
+        "لِلرُّءْيَا",
+        "أَفْتُونِى"
+      ],
+      "activityId": "act_012_08_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "wrongOptionsAyahNumbers": [
+        48,
+        44
+      ],
+      "activityId": "act_012_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 2,
+      "options": [
+        "تَزْرَعُونَ",
+        "يَعْلَمُونَ",
+        "ٱلصِّدِّيقُ",
+        "بِتَأْوِيلِ"
+      ],
+      "activityId": "act_012_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

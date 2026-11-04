@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_14",
+  "title": "سورة ص - الآيات 74-78",
+  "surahId": 38,
+  "ayahStart": 74,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 3,
+      "options": [
+        "عَلَيْكَ",
+        "وَكَانَ",
+        "قَدَّمَ",
+        "ظَلَمَكَ"
+      ],
+      "activityId": "act_038_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَنتُمْ عَنْهُ مُعْرِضُونَ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "قَالَ يَـٰٓإِبْلِيسُ مَا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَقَالُوا۟ رَبَّنَا عَجِّل"
+        }
+      ],
+      "activityId": "act_038_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 8,
+      "options": [
+        "لَزُلْفَىٰ",
+        "مُّنذِرٌۭ",
+        "بِيَدَىَّ ۖ",
+        "وَثَمُودُ"
+      ],
+      "activityId": "act_038_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ أَنَا۠ خَيْرٌۭ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَقَالُوا۟ مَا لَنَا"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّ ذَٰلِكَ لَحَقٌّۭ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَقَالَ إِنِّىٓ أَحْبَبْتُ"
+        }
+      ],
+      "activityId": "act_038_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلسُّوقِ",
+        "فَٱلْحَقُّ",
+        "سَمِعْنَا",
+        "خَلَقْتَنِى"
+      ],
+      "activityId": "act_038_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "قَالَ فَٱخْرُجْ مِنْهَا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ"
+        }
+      ],
+      "activityId": "act_038_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 2,
+      "options": [
+        "رَبِّكَ",
+        "رَحْمَةِ",
+        "جُندٌۭ",
+        "مِنْهَا"
+      ],
+      "activityId": "act_038_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ"
+        }
+      ],
+      "activityId": "act_038_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 3,
+      "options": [
+        "نَجْعَلُ",
+        "لَّنَا",
+        "إِلَىٰ",
+        "مَنَعَكَ"
+      ],
+      "activityId": "act_038_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "خلق آدم عليه السلام ونفخ الروح فيه وأمر الملائكة بالسجود وإباء إبليس واستكباره."
+  }
+}

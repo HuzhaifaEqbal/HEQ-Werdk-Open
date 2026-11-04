@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_09",
+  "title": "سورة الصافات - الآيات 49-54",
+  "surahId": 37,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 1,
+      "options": [
+        "فَإِذَا",
+        "بَيْضٌۭ",
+        "فِتْنَةًۭ",
+        "وَقَالَ"
+      ],
+      "activityId": "act_037_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 133,
+          "text": "وَإِنَّ لُوطًۭا لَّمِنَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟"
+        },
+        {
+          "ayahNumber": 130,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_037_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "مُبِينٌۭ",
+        "فَحَقَّ",
+        "يُطَافُ",
+        "عَلَىٰ"
+      ],
+      "activityId": "act_037_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "قَالَ قَآئِلٌۭ مِّنْهُمْ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ"
+        }
+      ],
+      "activityId": "act_037_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "إِنِّى",
+        "ثُمَّ",
+        "كَانُوا۟",
+        "رَّبُّ"
+      ],
+      "activityId": "act_037_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "يَقُولُ أَءِنَّكَ لَمِنَ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ"
+        },
+        {
+          "ayahNumber": 151,
+          "text": "أَلَآ إِنَّهُم مِّنْ"
+        },
+        {
+          "ayahNumber": 131,
+          "text": "إِنَّا كَذَٰلِكَ نَجْزِى"
+        }
+      ],
+      "activityId": "act_037_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 2,
+      "options": [
+        "فَسَوْفَ",
+        "مَآ",
+        "صِرَٰطِ",
+        "لَمِنَ"
+      ],
+      "activityId": "act_037_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "أَءِذَا مِتْنَا وَكُنَّا"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "وَقَالَ إِنِّى ذَاهِبٌ"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم"
+        }
+      ],
+      "activityId": "act_037_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبَنَاتِ",
+        "كَانُوا۟",
+        "مَّجْنُونٍۭ",
+        "تُرَابًۭا"
+      ],
+      "activityId": "act_037_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "قَالَ هَلْ أَنتُم"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        }
+      ],
+      "activityId": "act_037_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 2,
+      "options": [
+        "نَجْزِى",
+        "مَنْ",
+        "أَنتُم",
+        "وَلَهُمُ"
+      ],
+      "activityId": "act_037_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "تساؤل أهل الجنة وقصة القرين المكذب في الدنيا."
+  }
+}

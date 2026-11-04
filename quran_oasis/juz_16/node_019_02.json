@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_02",
+  "title": "سورة مريم - الآيات 7-12",
+  "surahId": 19,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 0,
+      "options": [
+        "يَـٰزَكَرِيَّآ",
+        "أَيْدِينَا",
+        "إِبْرَٰهِيمَ",
+        "إِدْرِيسَ ۚ"
+      ],
+      "activityId": "act_019_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "قَالَ رَبِّ أَنَّىٰ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "قَالَ رَبِّ إِنِّى وَهَنَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "قَالَ رَبِّ ٱجْعَل"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ إِنِّى عَبْدُ"
+        }
+      ],
+      "activityId": "act_019_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱمْرَأَتِى",
+        "بَيْنَهُمَا",
+        "بَيْنِهِمْ ۖ",
+        "بِدُعَآئِكَ"
+      ],
+      "activityId": "act_019_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "قَالَ كَذَٰلِكَ قَالَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالَ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "قَالَ أَرَاغِبٌ أَنتَ"
+        }
+      ],
+      "activityId": "act_019_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 8,
+      "options": [
+        "خَلَقْتُكَ",
+        "أَهْلِهَا",
+        "أُو۟لَـٰٓئِكَ",
+        "إِلَيْهَا"
+      ],
+      "activityId": "act_019_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "قَالَ رَبِّ ٱجْعَل"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "قَالَ رَبِّ أَنَّىٰ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "قَالَ رَبِّ إِنِّى وَهَنَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ"
+        }
+      ],
+      "activityId": "act_019_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 4,
+      "options": [
+        "ءَايَةًۭ ۚ",
+        "إِلَيْهِ ۖ",
+        "إِلَيْهِمْ",
+        "إِنسِيًّۭا"
+      ],
+      "activityId": "act_019_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ"
+        }
+      ],
+      "activityId": "act_019_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمِحْرَابِ",
+        "إِبْرَٰهِيمَ ۚ",
+        "إِسْمَـٰعِيلَ ۚ",
+        "بِٱلرَّحْمَـٰنِ"
+      ],
+      "activityId": "act_019_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ"
+        }
+      ],
+      "activityId": "act_019_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 4,
+      "options": [
+        "وَءَاتَيْنَـٰهُ",
+        "بِٱلصَّلَوٰةِ",
+        "بِٱلْغَيْبِ ۚ",
+        "تَحْمِلُهُۥ ۖ"
+      ],
+      "activityId": "act_019_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

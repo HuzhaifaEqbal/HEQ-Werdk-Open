@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_33",
+  "title": "سورة الشعراء - الآيات 183-187",
+  "surahId": 26,
+  "ayahStart": 183,
+  "ayahEnd": 187,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 183,
+      "missingWordPosition": 3,
+      "options": [
+        "أَشْيَآءَهُمْ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمَدَآئِنِ",
+        "ٱلْمَشْحُونِ"
+      ],
+      "activityId": "act_026_33_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 183,
+      "correctNextAyahNumber": 184,
+      "options": [
+        {
+          "ayahNumber": 184,
+          "text": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 132,
+          "text": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم"
+        },
+        {
+          "ayahNumber": 218,
+          "text": "ٱلَّذِى يَرَىٰكَ حِينَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "ٱلَّذِى خَلَقَنِى فَهُوَ"
+        }
+      ],
+      "activityId": "act_026_33_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 184,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْجِبِلَّةَ",
+        "ٱلْوَٰعِظِينَ",
+        "۞ أَوْفُوا۟",
+        "۞ قَالُوٓا۟"
+      ],
+      "activityId": "act_026_33_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 184,
+      "correctNextAyahNumber": 185,
+      "options": [
+        {
+          "ayahNumber": 185,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ"
+        }
+      ],
+      "activityId": "act_026_33_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 185,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْمُسَحَّرِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُجْرِمِينَ"
+      ],
+      "activityId": "act_026_33_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 185,
+      "correctNextAyahNumber": 186,
+      "options": [
+        {
+          "ayahNumber": 186,
+          "text": "وَمَآ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "وَمَآ أَضَلَّنَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 208,
+          "text": "وَمَآ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 210,
+          "text": "وَمَا تَنَزَّلَتْ بِهِ"
+        }
+      ],
+      "activityId": "act_026_33_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 186,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْكَـٰذِبِينَ",
+        "ءَابَآءَنَا",
+        "ءَابَآئِكُمُ",
+        "أَتُتْرَكُونَ"
+      ],
+      "activityId": "act_026_33_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 186,
+      "correctNextAyahNumber": 187,
+      "options": [
+        {
+          "ayahNumber": 187,
+          "text": "فَأَسْقِطْ عَلَيْنَا كِسَفًۭا"
+        },
+        {
+          "ayahNumber": 194,
+          "text": "عَلَىٰ قَلْبِكَ لِتَكُونَ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَٱجْعَلْنِى مِن وَرَثَةِ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "يُرِيدُ أَن يُخْرِجَكُم"
+        }
+      ],
+      "activityId": "act_026_33_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 187,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "أَزْوَٰجِكُم ۚ",
+        "أَشْيَآءَهُمْ",
+        "أَفَرَءَيْتُم"
+      ],
+      "activityId": "act_026_33_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

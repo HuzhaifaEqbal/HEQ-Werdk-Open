@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_13",
+  "title": "سورة الشعراء - الآيات 73-78",
+  "surahId": 26,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 1,
+      "options": [
+        "يَنفَعُونَكُمْ",
+        "ٱلْمُخْرَجِينَ",
+        "ٱلْمُخْسِرِينَ",
+        "ٱلْمُرْسَلِينَ"
+      ],
+      "activityId": "act_026_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "قَالُوا۟ بَلْ وَجَدْنَآ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قَالُوا۟ نَعْبُدُ أَصْنَامًۭا"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ"
+        }
+      ],
+      "activityId": "act_026_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 3,
+      "options": [
+        "ءَابَآءَنَا",
+        "تَعْلَمُونَ ۚ",
+        "فَأَصْبَحُوا۟",
+        "فَأَنجَيْنَـٰهُ"
+      ],
+      "activityId": "act_026_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "قَالَ أَفَرَءَيْتُم مَّا"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ هَلْ يَسْمَعُونَكُمْ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ أَوَلَوْ جِئْتُكَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قَالَ لَئِنِ ٱتَّخَذْتَ"
+        }
+      ],
+      "activityId": "act_026_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 1,
+      "options": [
+        "أَفَرَءَيْتُم",
+        "فَأَوْحَيْنَآ",
+        "فَعَقَرُوهَا",
+        "فَكُبْكِبُوا۟"
+      ],
+      "activityId": "act_026_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَقِيلَ لِلنَّاسِ هَلْ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "ٱلَّذِى خَلَقَنِى فَهُوَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "وَٱلَّذِى هُوَ يُطْعِمُنِى"
+        }
+      ],
+      "activityId": "act_026_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 1,
+      "options": [
+        "وَءَابَآؤُكُمُ",
+        "ٱلْمُسَحَّرِينَ",
+        "ٱلْمُسْتَقِيمِ",
+        "ٱلْمُسْرِفِينَ"
+      ],
+      "activityId": "act_026_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "فَإِنَّهُمْ عَدُوٌّۭ لِّىٓ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "وَٱجْعَل لِّى لِسَانَ"
+        },
+        {
+          "ayahNumber": 154,
+          "text": "مَآ أَنتَ إِلَّا"
+        },
+        {
+          "ayahNumber": 171,
+          "text": "إِلَّا عَجُوزًۭا فِى"
+        }
+      ],
+      "activityId": "act_026_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "فَيَأْتِيَهُم",
+        "فَيَأْخُذَكُمْ",
+        "فَيَقُولُوا۟"
+      ],
+      "activityId": "act_026_13_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "ٱلَّذِى خَلَقَنِى فَهُوَ"
+        },
+        {
+          "ayahNumber": 218,
+          "text": "ٱلَّذِى يَرَىٰكَ حِينَ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَإِذَا مَرِضْتُ فَهُوَ"
+        },
+        {
+          "ayahNumber": 132,
+          "text": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم"
+        }
+      ],
+      "activityId": "act_026_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 1,
+      "options": [
+        "خَلَقَنِى",
+        "جَآءَهُم",
+        "جَنَاحَكَ",
+        "حَـٰذِرُونَ"
+      ],
+      "activityId": "act_026_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

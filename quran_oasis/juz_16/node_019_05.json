@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_05",
+  "title": "سورة مريم - الآيات 25-30",
+  "surahId": 19,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلنَّخْلَةِ",
+        "فَٱتَّخَذَتْ",
+        "فَٱخْتَلَفَ",
+        "فَٱعْبُدْهُ"
+      ],
+      "activityId": "act_019_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "فَكُلِى وَٱشْرَبِى وَقَرِّى"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰٓأُخْتَ هَـٰرُونَ مَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ"
+        }
+      ],
+      "activityId": "act_019_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 1,
+      "options": [
+        "وَٱشْرَبِى",
+        "لَأُوتَيَنَّ",
+        "لَنَنزِعَنَّ",
+        "لِلرَّحْمَـٰنِ"
+      ],
+      "activityId": "act_019_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "فَأَتَتْ بِهِۦ قَوْمَهَا"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَجَعَلَنِى مُبَارَكًا أَيْنَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "ذَٰلِكَ عِيسَى ٱبْنُ"
+        }
+      ],
+      "activityId": "act_019_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 3,
+      "options": [
+        "تَحْمِلُهُۥ ۖ",
+        "وَارِدُهَا ۚ",
+        "وَبُكِيًّۭا ۩",
+        "وَيَأْتِينَا"
+      ],
+      "activityId": "act_019_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰٓأُخْتَ هَـٰرُونَ مَا"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "مَا كَانَ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَيَقُولُ ٱلْإِنسَـٰنُ أَءِذَا"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "قُلْ مَن كَانَ"
+        }
+      ],
+      "activityId": "act_019_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 0,
+      "options": [
+        "يَـٰٓأُخْتَ",
+        "أَخَافُ",
+        "أَخَاهُ",
+        "أَسْمِعْ"
+      ],
+      "activityId": "act_019_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "فَكُلِى وَٱشْرَبِى وَقَرِّى"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِنَّ ٱللَّهَ رَبِّى"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّا نَحْنُ نَرِثُ"
+        }
+      ],
+      "activityId": "act_019_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَشَارَتْ",
+        "لِلشَّيْطَـٰنِ",
+        "مُبَارَكًا",
+        "مُّسْتَقِيمٌۭ"
+      ],
+      "activityId": "act_019_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ إِنِّى عَبْدُ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "قَالَ رَبِّ أَنَّىٰ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "قَالَ رَبِّ إِنِّى وَهَنَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالَ سَلَـٰمٌ عَلَيْكَ ۖ"
+        }
+      ],
+      "activityId": "act_019_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 4,
+      "options": [
+        "ءَاتَىٰنِىَ",
+        "وَأَدْعُوا۟",
+        "وَأَوْصَـٰنِى",
+        "وَإِلَيْنَا"
+      ],
+      "activityId": "act_019_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

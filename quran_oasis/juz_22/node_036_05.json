@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_036_05",
+  "title": "سورة يس - الآيات 24-27",
+  "surahId": 36,
+  "ayahStart": 24,
+  "ayahEnd": 27,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 2,
+      "options": [
+        "لَّفِى",
+        "قُلْ",
+        "عَمِلَتْ",
+        "ٱدْخُلِ"
+      ],
+      "activityId": "act_036_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "سُبْحَـٰنَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ"
+        }
+      ],
+      "activityId": "act_036_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 2,
+      "options": [
+        "يُسِرُّونَ",
+        "مُعْرِضِينَ",
+        "بِرَبِّكُمْ",
+        "يُنقِذُونِ"
+      ],
+      "activityId": "act_036_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "لِتُنذِرَ قَوْمًۭا مَّآ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ"
+        }
+      ],
+      "activityId": "act_036_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 3,
+      "options": [
+        "مِن",
+        "تُغْنِ",
+        "تَجْرِى",
+        "قَالَ"
+      ],
+      "activityId": "act_036_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "بِمَا غَفَرَ لِى"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ"
+        }
+      ],
+      "activityId": "act_036_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلشِّعْرَ",
+        "وَجَعَلَنِى",
+        "أَيْدِيكُمْ",
+        "مُتَّكِـُٔونَ"
+      ],
+      "activityId": "act_036_05_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 22,
+    "theme": "بشارة مؤمن آل يس بالجنة ودخوله إياها وتمنيه هداية قومه وإكرام ربه له."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_10",
+  "title": "سورة العنكبوت - الآيات 46-50",
+  "surahId": 29,
+  "ayahStart": 46,
+  "ayahEnd": 50,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 12,
+      "options": [
+        "شَهِيدًۭا ۖ",
+        "وَقُولُوٓا۟",
+        "وَيَرْحَمُ",
+        "لُوطًۭا ۚ"
+      ],
+      "activityId": "act_029_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "يُعَذِّبُ مَن يَشَآءُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَكَأَيِّن مِّن دَآبَّةٍۢ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "وَلَئِن سَأَلْتَهُم مَّن"
+        }
+      ],
+      "activityId": "act_029_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 9,
+      "options": [
+        "فِيهَا",
+        "مَّعَ",
+        "فَلَمَّا",
+        "وَمِنْ"
+      ],
+      "activityId": "act_029_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَمَا كُنتَ تَتْلُوا۟"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ"
+        }
+      ],
+      "activityId": "act_029_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 7,
+      "options": [
+        "وَلَئِن",
+        "بَلْ",
+        "وَلَا",
+        "مِن"
+      ],
+      "activityId": "act_029_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 48,
+      "correctNextAyahNumber": 49,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "بَلْ هُوَ ءَايَـٰتٌۢ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        }
+      ],
+      "activityId": "act_029_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 7,
+      "options": [
+        "يُتْلَىٰ",
+        "إِنَّا",
+        "جَعَلَ",
+        "أُوتُوا۟"
+      ],
+      "activityId": "act_029_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قُلْ كَفَىٰ بِٱللَّهِ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "يَـٰعِبَادِىَ ٱلَّذِينَ ءَامَنُوٓا۟"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَقَالُوا۟ لَوْلَآ أُنزِلَ"
+        }
+      ],
+      "activityId": "act_029_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 8,
+      "options": [
+        "أَجَلٌۭ",
+        "إِنَّمَا",
+        "ٱلَّذِينَ",
+        "مُّسَمًّۭى"
+      ],
+      "activityId": "act_029_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 21,
+    "theme": "قواعد مجادلة أهل الكتاب بالتي هي أحسن ودعوتهم إلى كلمة التوحيد."
+  }
+}

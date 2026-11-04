@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_15",
+  "title": "سورة ص - الآيات 79-83",
+  "surahId": 38,
+  "ayahStart": 79,
+  "ayahEnd": 83,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 3,
+      "options": [
+        "إِلَىٰ",
+        "رَبَّهُۥ",
+        "فَوْجٌۭ",
+        "لَهَا"
+      ],
+      "activityId": "act_038_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "إِنَّ هَـٰذَا لَرِزْقُنَا"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَقَالَ إِنِّىٓ أَحْبَبْتُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "قَالَ فَإِنَّكَ مِنَ"
+        }
+      ],
+      "activityId": "act_038_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 2,
+      "options": [
+        "فِيهِ",
+        "عَن",
+        "مِنَ",
+        "هُمْ ۗ"
+      ],
+      "activityId": "act_038_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "إِلَىٰ يَوْمِ ٱلْوَقْتِ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍۢ"
+        }
+      ],
+      "activityId": "act_038_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 2,
+      "options": [
+        "لَيَبْغِى",
+        "ٱلْوَقْتِ",
+        "وَحُسْنَ",
+        "وَٰحِدَةًۭ"
+      ],
+      "activityId": "act_038_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 81,
+      "correctNextAyahNumber": 82,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "مَا كَانَ لِىَ"
+        }
+      ],
+      "activityId": "act_038_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 82,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلصَّـٰلِحَـٰتِ",
+        "وَءَاتَيْنَـٰهُ",
+        "لَأُغْوِيَنَّهُمْ",
+        "وَلِيَتَذَكَّرَ"
+      ],
+      "activityId": "act_038_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 82,
+      "correctNextAyahNumber": 83,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "أَمْ نَجْعَلُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "إِلَّا عِبَادَكَ مِنْهُمُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ"
+        }
+      ],
+      "activityId": "act_038_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 83,
+      "missingWordPosition": 2,
+      "options": [
+        "صَالُوا۟",
+        "مِنْهُمُ",
+        "مِنْهَا",
+        "جَهَنَّمَ"
+      ],
+      "activityId": "act_038_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "محاورة إبليس وطرده من رحمة الله وطلبه الإنظار إلى يوم الوقت المعلوم وتوعده بإغواء الخلق."
+  }
+}

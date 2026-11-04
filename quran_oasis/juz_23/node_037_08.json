@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_08",
+  "title": "سورة الصافات - الآيات 43-48",
+  "surahId": 37,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 2,
+      "options": [
+        "إِلَـٰهَكُمْ",
+        "ٱلْعِزَّةِ",
+        "كَذَٰلِكَ",
+        "ٱلنَّعِيمِ"
+      ],
+      "activityId": "act_037_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 164,
+          "text": "وَمَا مِنَّآ إِلَّا"
+        },
+        {
+          "ayahNumber": 149,
+          "text": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ"
+        }
+      ],
+      "activityId": "act_037_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 1,
+      "options": [
+        "بِقَلْبٍۢ",
+        "كَيْدًۭا",
+        "عَنْهُمْ",
+        "سُرُرٍۢ"
+      ],
+      "activityId": "act_037_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "أُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍۢ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ"
+        },
+        {
+          "ayahNumber": 127,
+          "text": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ"
+        }
+      ],
+      "activityId": "act_037_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 2,
+      "options": [
+        "بِكَأْسٍۢ",
+        "ثَاقِبٌۭ",
+        "زَجْرًۭا",
+        "عِبَادَ"
+      ],
+      "activityId": "act_037_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "بَيْضَآءَ لَذَّةٍۢ لِّلشَّـٰرِبِينَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ"
+        },
+        {
+          "ayahNumber": 182,
+          "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّا كَذَٰلِكَ نَفْعَلُ"
+        }
+      ],
+      "activityId": "act_037_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "لَذَّةٍۢ",
+        "دَمَّرْنَا",
+        "وَأَنتُمْ",
+        "فَأْتُوا۟"
+      ],
+      "activityId": "act_037_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 164,
+          "text": "وَمَا مِنَّآ إِلَّا"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "سَلَـٰمٌ عَلَىٰ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "قَالَ هَلْ أَنتُم"
+        }
+      ],
+      "activityId": "act_037_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 4,
+      "options": [
+        "لَآ",
+        "مِنَ",
+        "هُمْ",
+        "دُونَ"
+      ],
+      "activityId": "act_037_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ"
+        }
+      ],
+      "activityId": "act_037_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 2,
+      "options": [
+        "يُبْعَثُونَ",
+        "ٱلطَّرْفِ",
+        "عَلَيْهِ",
+        "ٱلْبَنَاتُ"
+      ],
+      "activityId": "act_037_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "نعيم أهل الجنة في جنات النعيم على سرر متقابلين وكأس من معين وحور عين."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_015_04",
+  "title": "سورة الحجر - الآيات 19-24",
+  "surahId": 15,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 3,
+      "options": [
+        "وَأَلْقَيْنَا",
+        "خَزَآئِنُهُۥ",
+        "وَأَرْسَلْنَا",
+        "ٱلْوَٰرِثُونَ"
+      ],
+      "activityId": "act_015_04_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "wrongOptionsAyahNumbers": [
+        21,
+        17
+      ],
+      "activityId": "act_015_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 8,
+      "options": [
+        "بِرَٰزِقِينَ",
+        "بِخَـٰزِنِينَ",
+        "مَدَدْنَـٰهَا",
+        "نُنَزِّلُهُۥٓ"
+      ],
+      "activityId": "act_015_04_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "wrongOptionsAyahNumbers": [
+        22,
+        18
+      ],
+      "activityId": "act_015_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 6,
+      "options": [
+        "خَزَآئِنُهُۥ",
+        "وَأَلْقَيْنَا",
+        "وَأَنۢبَتْنَا",
+        "فَأَنزَلْنَا"
+      ],
+      "activityId": "act_015_04_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "wrongOptionsAyahNumbers": [
+        23,
+        19
+      ],
+      "activityId": "act_015_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 8,
+      "options": [
+        "فَأَسْقَيْنَـٰكُمُوهُ",
+        "ٱلْمُسْتَقْدِمِينَ",
+        "ٱلْمُسْتَـْٔخِرِينَ",
+        "خَزَآئِنُهُۥ"
+      ],
+      "activityId": "act_015_04_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "wrongOptionsAyahNumbers": [
+        24,
+        20
+      ],
+      "activityId": "act_015_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْوَٰرِثُونَ",
+        "وَأَرْسَلْنَا",
+        "وَأَلْقَيْنَا",
+        "وَأَنۢبَتْنَا"
+      ],
+      "activityId": "act_015_04_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "wrongOptionsAyahNumbers": [
+        25,
+        21
+      ],
+      "activityId": "act_015_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُسْتَقْدِمِينَ",
+        "فَأَسْقَيْنَـٰكُمُوهُ",
+        "ٱلْوَٰرِثُونَ",
+        "فَأَنزَلْنَا"
+      ],
+      "activityId": "act_015_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

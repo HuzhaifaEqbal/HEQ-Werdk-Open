@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_11",
+  "title": "سورة يوسف - الآيات 59-64",
+  "surahId": 12,
+  "ayahStart": 59,
+  "ayahEnd": 64,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْمُنزِلِينَ",
+        "يَعْرِفُونَهَآ",
+        "ٱلرَّٰحِمِينَ",
+        "ٱنقَلَبُوٓا۟"
+      ],
+      "activityId": "act_012_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "wrongOptionsAyahNumbers": [
+        61,
+        57
+      ],
+      "activityId": "act_012_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 3,
+      "options": [
+        "تَأْتُونِى",
+        "ٱجْعَلُوا۟",
+        "ءَامَنُكُمْ",
+        "أَبِيكُمْ ۚ"
+      ],
+      "activityId": "act_012_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        58
+      ],
+      "activityId": "act_012_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 6,
+      "options": [
+        "لَفَـٰعِلُونَ",
+        "لَحَـٰفِظُونَ",
+        "يَـٰٓأَبَانَا",
+        "بِضَـٰعَتَهُمْ"
+      ],
+      "activityId": "act_012_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_012_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 8,
+      "options": [
+        "يَعْرِفُونَهَآ",
+        "ٱلْمُنزِلِينَ",
+        "بِجَهَازِهِمْ",
+        "ٱلرَّٰحِمِينَ"
+      ],
+      "activityId": "act_012_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_012_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 6,
+      "options": [
+        "يَـٰٓأَبَانَا",
+        "لَفَـٰعِلُونَ",
+        "لِفِتْيَـٰنِهِ",
+        "أَمِنتُكُمْ"
+      ],
+      "activityId": "act_012_11_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_012_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلرَّٰحِمِينَ",
+        "بِجَهَازِهِمْ",
+        "ٱنقَلَبُوٓا۟",
+        "تَقْرَبُونِ"
+      ],
+      "activityId": "act_012_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

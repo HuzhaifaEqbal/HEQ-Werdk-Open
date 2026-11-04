@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_03",
+  "title": "سورة مريم - الآيات 13-18",
+  "surahId": 19,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 0,
+      "options": [
+        "وَحَنَانًۭا",
+        "بِـَٔايَـٰتِنَا",
+        "بِلِسَانِكَ",
+        "بِوَٰلِدَتِى"
+      ],
+      "activityId": "act_019_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ"
+        }
+      ],
+      "activityId": "act_019_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 1,
+      "options": [
+        "بِوَٰلِدَيْهِ",
+        "بِٱلَّذِينَ",
+        "رَّحْمَتِنَا",
+        "عَلَيْهِمْ ۖ"
+      ],
+      "activityId": "act_019_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "أَسْمِعْ بِهِمْ وَأَبْصِرْ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ"
+        }
+      ],
+      "activityId": "act_019_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 0,
+      "options": [
+        "وَسَلَـٰمٌ",
+        "ءَايَـٰتُ",
+        "أَءِذَا",
+        "أَبُوكِ"
+      ],
+      "activityId": "act_019_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ"
+        }
+      ],
+      "activityId": "act_019_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱنتَبَذَتْ",
+        "بِوَٰلِدَيْهِ",
+        "عِبَادَهُۥ",
+        "عِبَادِنَا"
+      ],
+      "activityId": "act_019_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "فَٱتَّخَذَتْ مِن دُونِهِمْ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَوَهَبْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَوَهَبْنَا لَهُۥ مِن"
+        }
+      ],
+      "activityId": "act_019_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "فَأَرْسَلْنَآ",
+        "سَأَسْتَغْفِرُ",
+        "سَيَكْفُرُونَ",
+        "سُبْحَـٰنَهُۥٓ ۚ"
+      ],
+      "activityId": "act_019_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "قَالَتْ إِنِّىٓ أَعُوذُ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قَالَتْ أَنَّىٰ يَكُونُ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "يَـٰٓأَبَتِ إِنِّى قَدْ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ"
+        }
+      ],
+      "activityId": "act_019_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلرَّحْمَـٰنِ",
+        "فَأَجَآءَهَا",
+        "فَأَرْسَلْنَآ",
+        "فَنَادَىٰهَا"
+      ],
+      "activityId": "act_019_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

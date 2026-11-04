@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_029_14",
+  "title": "سورة العنكبوت - الآيات 66-69",
+  "surahId": 29,
+  "ayahStart": 66,
+  "ayahEnd": 69,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 3,
+      "options": [
+        "وَلَيَأْتِيَنَّهُم",
+        "وَلِيَتَمَتَّعُوا۟ ۖ",
+        "وَلَنَجْزِيَنَّهُمْ",
+        "وَيَسْتَعْجِلُونَكَ"
+      ],
+      "activityId": "act_029_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًۭا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ"
+        }
+      ],
+      "activityId": "act_029_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 7,
+      "options": [
+        "أَنَا۠",
+        "ٱلنَّاسُ",
+        "وَأَهْلَكَ",
+        "ٱلْخَلْقَ"
+      ],
+      "activityId": "act_029_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَمَنْ أَظْلَمُ مِمَّنِ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَمَن جَـٰهَدَ فَإِنَّمَا"
+        }
+      ],
+      "activityId": "act_029_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 8,
+      "options": [
+        "كَفَىٰ",
+        "كَذَّبَ",
+        "بَعْضًۭا",
+        "يُبْدِئُ"
+      ],
+      "activityId": "act_029_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 68,
+      "correctNextAyahNumber": 69,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "فَمَا كَانَ جَوَابَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا"
+        }
+      ],
+      "activityId": "act_029_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 4,
+      "options": [
+        "لِّقَوْمٍۢ",
+        "مُهْلِكُوٓا۟",
+        "ءَامَنُوٓا۟",
+        "سُبُلَنَا ۚ"
+      ],
+      "activityId": "act_029_14_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 21,
+    "theme": "بيان فضل الجهاد في سبيل الله ووعد الله بالهداية للمحسنين."
+  }
+}

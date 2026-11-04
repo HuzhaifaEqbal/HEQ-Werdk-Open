@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_09",
+  "title": "سورة مريم - الآيات 49-54",
+  "surahId": 19,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱعْتَزَلَهُمْ",
+        "سَأَسْتَغْفِرُ",
+        "سُبْحَـٰنَهُۥٓ ۚ",
+        "فَأَجَآءَهَا"
+      ],
+      "activityId": "act_019_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "وَوَهَبْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَوَهَبْنَا لَهُۥ مِن"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "إِن كُلُّ مَن"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم"
+        }
+      ],
+      "activityId": "act_019_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 0,
+      "options": [
+        "وَوَهَبْنَا",
+        "وَٱلسَّلَـٰمُ",
+        "وَٱلْأَرْضِ",
+        "يَتَفَطَّرْنَ"
+      ],
+      "activityId": "act_019_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ"
+        }
+      ],
+      "activityId": "act_019_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱذْكُرْ",
+        "تَؤُزُّهُمْ",
+        "تَحْتِهَآ",
+        "تَحْزَنِى"
+      ],
+      "activityId": "act_019_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَوَهَبْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ"
+        }
+      ],
+      "activityId": "act_019_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 0,
+      "options": [
+        "وَنَـٰدَيْنَـٰهُ",
+        "يَجْعَلْنِى",
+        "يَدْخُلُونَ",
+        "يَسْمَعُونَ"
+      ],
+      "activityId": "act_019_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "وَوَهَبْنَا لَهُۥ مِن"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَوَهَبْنَا لَهُم مِّن"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِلَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ"
+        }
+      ],
+      "activityId": "act_019_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 0,
+      "options": [
+        "وَوَهَبْنَا",
+        "يَعْبُدُونَ",
+        "يَعْقُوبَ ۖ",
+        "يَـٰزَكَرِيَّآ"
+      ],
+      "activityId": "act_019_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِبْرَٰهِيمَ ۚ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ"
+        }
+      ],
+      "activityId": "act_019_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 3,
+      "options": [
+        "إِسْمَـٰعِيلَ ۚ",
+        "فَأَرْسَلْنَآ",
+        "فَنَادَىٰهَا",
+        "فَٱتَّبِعْنِىٓ"
+      ],
+      "activityId": "act_019_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

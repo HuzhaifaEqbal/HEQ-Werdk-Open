@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_10",
+  "title": "سورة الإسراء - الآيات 55-60",
+  "surahId": 17,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْأَرْضِ ۗ",
+        "يَسْتَمِعُونَ",
+        "يُعَذِّبْكُمْ ۚ",
+        "يُعِيدُنَا ۖ"
+      ],
+      "activityId": "act_017_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "قُلِ ٱدْعُوا۟ ٱللَّهَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "قُل لَّئِنِ ٱجْتَمَعَتِ"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "قُلْ ءَامِنُوا۟ بِهِۦٓ"
+        }
+      ],
+      "activityId": "act_017_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 7,
+      "options": [
+        "يَمْلِكُونَ",
+        "تَفْضِيلًۭا",
+        "تَفْقَهُونَ",
+        "تَقْتُلُوٓا۟"
+      ],
+      "activityId": "act_017_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَنَّ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "أَمْ أَمِنتُمْ أَن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَلَوْلَآ أَن ثَبَّتْنَـٰكَ"
+        }
+      ],
+      "activityId": "act_017_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْوَسِيلَةَ",
+        "ٱرْحَمْهُمَا",
+        "ٱلدِّيَارِ ۚ",
+        "ٱلرَّحْمَـٰنَ ۖ"
+      ],
+      "activityId": "act_017_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَإِن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَإِن كَادُوا۟ لَيَفْتِنُونَكَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_017_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 5,
+      "options": [
+        "مُهْلِكُوهَا",
+        "ٱلظَّـٰلِمُونَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْأَسْمَآءُ"
+      ],
+      "activityId": "act_017_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا مَنَعَنَآ أَن"
+        },
+        {
+          "ayahNumber": 94,
+          "text": "وَمَا مَنَعَ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "۞ أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "فَأَرَادَ أَن يَسْتَفِزَّهُم"
+        }
+      ],
+      "activityId": "act_017_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَوَّلُونَ ۚ",
+        "وَأَمْدَدْنَـٰكُم",
+        "وَلِتَعْلَمُوا۟",
+        "وَلِيَدْخُلُوا۟"
+      ],
+      "activityId": "act_017_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذْ قُلْنَا لَكَ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ"
+        },
+        {
+          "ayahNumber": 91,
+          "text": "أَوْ تَكُونَ لَكَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "أَوْ يَكُونَ لَكَ"
+        }
+      ],
+      "activityId": "act_017_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 16,
+      "options": [
+        "ٱلْمَلْعُونَةَ",
+        "وَلِيُتَبِّرُوا۟",
+        "وَٱلْحِسَابَ ۚ",
+        "وَٱلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_017_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

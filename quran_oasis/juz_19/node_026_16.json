@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_16",
+  "title": "سورة الشعراء - الآيات 91-96",
+  "surahId": 26,
+  "ayahStart": 91,
+  "ayahEnd": 96,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 91,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْغَاوِينَ",
+        "وَأَطِيعُونِ",
+        "وَأَكْثَرُهُمْ",
+        "وَأَلْحِقْنِى"
+      ],
+      "activityId": "act_026_16_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 91,
+      "correctNextAyahNumber": 92,
+      "options": [
+        {
+          "ayahNumber": 92,
+          "text": "وَقِيلَ لَهُمْ أَيْنَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَقِيلَ لِلنَّاسِ هَلْ"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 166,
+          "text": "وَتَذَرُونَ مَا خَلَقَ"
+        }
+      ],
+      "activityId": "act_026_16_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 92,
+      "missingWordPosition": 5,
+      "options": [
+        "تَعْبُدُونَ",
+        "وَٱتَّبَعَكَ",
+        "وَٱتَّقُوا۟",
+        "وَٱلْأَرْضِ"
+      ],
+      "activityId": "act_026_16_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 92,
+      "correctNextAyahNumber": 93,
+      "options": [
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        },
+        {
+          "ayahNumber": 221,
+          "text": "هَلْ أُنَبِّئُكُمْ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        }
+      ],
+      "activityId": "act_026_16_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 93,
+      "missingWordPosition": 4,
+      "options": [
+        "يَنصُرُونَكُمْ",
+        "بِٱلصَّـٰلِحِينَ",
+        "بِٱلْقِسْطَاسِ",
+        "فَأَتْبَعُوهُم"
+      ],
+      "activityId": "act_026_16_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 93,
+      "correctNextAyahNumber": 94,
+      "options": [
+        {
+          "ayahNumber": 94,
+          "text": "فَكُبْكِبُوا۟ فِيهَا هُمْ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالُوا۟ وَهُمْ فِيهَا"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "وَمَآ أَنَا۠ بِطَارِدِ"
+        }
+      ],
+      "activityId": "act_026_16_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 94,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْغَاوُۥنَ",
+        "فَأَخْرَجْنَـٰهُم",
+        "فَسَيَأْتِيهِمْ",
+        "لَمَعْزُولُونَ"
+      ],
+      "activityId": "act_026_16_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 94,
+      "correctNextAyahNumber": 95,
+      "options": [
+        {
+          "ayahNumber": 95,
+          "text": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ"
+        },
+        {
+          "ayahNumber": 118,
+          "text": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 125,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        }
+      ],
+      "activityId": "act_026_16_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 2,
+      "options": [
+        "أَجْمَعُونَ",
+        "يَأْتِيهِم",
+        "يَأْفِكُونَ",
+        "يَتَّبِعُهُمُ"
+      ],
+      "activityId": "act_026_16_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "options": [
+        {
+          "ayahNumber": 96,
+          "text": "قَالُوا۟ وَهُمْ فِيهَا"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        },
+        {
+          "ayahNumber": 167,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        },
+        {
+          "ayahNumber": 185,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ"
+        }
+      ],
+      "activityId": "act_026_16_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 3,
+      "options": [
+        "يَخْتَصِمُونَ",
+        "وَأَمْطَرْنَا",
+        "وَأَنجَيْنَا",
+        "وَتَتَّخِذُونَ"
+      ],
+      "activityId": "act_026_16_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_34",
+  "title": "سورة الشعراء - الآيات 188-192",
+  "surahId": 26,
+  "ayahStart": 188,
+  "ayahEnd": 192,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 188,
+      "missingWordPosition": 4,
+      "options": [
+        "تَعْمَلُونَ",
+        "أَفَرَءَيْتَ",
+        "أَكْثَرُهُم",
+        "أَنۢبَتْنَا"
+      ],
+      "activityId": "act_026_34_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 188,
+      "correctNextAyahNumber": 189,
+      "options": [
+        {
+          "ayahNumber": 189,
+          "text": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ"
+        },
+        {
+          "ayahNumber": 139,
+          "text": "فَكَذَّبُوهُ فَأَهْلَكْنَـٰهُمْ ۗ إِنَّ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "يَوْمَ لَا يَنفَعُ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ"
+        }
+      ],
+      "activityId": "act_026_34_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 189,
+      "missingWordPosition": 0,
+      "options": [
+        "فَكَذَّبُوهُ",
+        "أَهْلَكْنَا",
+        "أَيْدِيَكُمْ",
+        "أُنَبِّئُكُمْ"
+      ],
+      "activityId": "act_026_34_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 189,
+      "correctNextAyahNumber": 190,
+      "options": [
+        {
+          "ayahNumber": 190,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ"
+        }
+      ],
+      "activityId": "act_026_34_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 190,
+      "missingWordPosition": 6,
+      "options": [
+        "أَكْثَرُهُم",
+        "إِبْرَٰهِيمَ",
+        "إِسْرَٰٓءِيلَ",
+        "بِسِحْرِهِۦ"
+      ],
+      "activityId": "act_026_34_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 190,
+      "correctNextAyahNumber": 191,
+      "options": [
+        {
+          "ayahNumber": 191,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ"
+        }
+      ],
+      "activityId": "act_026_34_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 191,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "بِعِبَادِىٓ",
+        "تَأْمُرُونَ",
+        "تَبْخَسُوا۟"
+      ],
+      "activityId": "act_026_34_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 191,
+      "correctNextAyahNumber": 192,
+      "options": [
+        {
+          "ayahNumber": 192,
+          "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ"
+        },
+        {
+          "ayahNumber": 196,
+          "text": "وَإِنَّهُۥ لَفِى زُبُرِ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "إِذْ نُسَوِّيكُم بِرَبِّ"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "رَبِّ نَجِّنِى وَأَهْلِى"
+        }
+      ],
+      "activityId": "act_026_34_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 192,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "بَيْنَهُمَآ ۖ",
+        "بِـَٔايَـٰتِنَآ ۖ",
+        "بِمُعَذَّبِينَ"
+      ],
+      "activityId": "act_026_34_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

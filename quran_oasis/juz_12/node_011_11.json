@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_11",
+  "title": "سورة هود - الآيات 60-65",
+  "surahId": 11,
+  "ayahStart": 60,
+  "ayahEnd": 65,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْقِيَـٰمَةِ ۗ",
+        "أَتَنْهَىٰنَآ",
+        "فَيَأْخُذَكُمْ",
+        "عَصَيْتُهُۥ ۖ"
+      ],
+      "activityId": "act_011_11_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "wrongOptionsAyahNumbers": [
+        62,
+        58
+      ],
+      "activityId": "act_011_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 18,
+      "options": [
+        "وَٱسْتَعْمَرَكُمْ",
+        "تَزِيدُونَنِى",
+        "ٱلْقِيَـٰمَةِ ۗ",
+        "وَأُتْبِعُوا۟"
+      ],
+      "activityId": "act_011_11_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "wrongOptionsAyahNumbers": [
+        63,
+        59
+      ],
+      "activityId": "act_011_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 9,
+      "options": [
+        "أَتَنْهَىٰنَآ",
+        "فَعَقَرُوهَا",
+        "وَءَاتَىٰنِى",
+        "فَيَأْخُذَكُمْ"
+      ],
+      "activityId": "act_011_11_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "wrongOptionsAyahNumbers": [
+        64,
+        60
+      ],
+      "activityId": "act_011_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 20,
+      "options": [
+        "تَزِيدُونَنِى",
+        "ءَابَآؤُنَا",
+        "فَٱسْتَغْفِرُوهُ",
+        "وَٱسْتَعْمَرَكُمْ"
+      ],
+      "activityId": "act_011_11_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "wrongOptionsAyahNumbers": [
+        65,
+        61
+      ],
+      "activityId": "act_011_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 15,
+      "options": [
+        "فَيَأْخُذَكُمْ",
+        "أَتَنْهَىٰنَآ",
+        "عَصَيْتُهُۥ ۖ",
+        "وَأُتْبِعُوا۟"
+      ],
+      "activityId": "act_011_11_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "wrongOptionsAyahNumbers": [
+        66,
+        62
+      ],
+      "activityId": "act_011_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 1,
+      "options": [
+        "فَعَقَرُوهَا",
+        "ءَابَآؤُنَا",
+        "وَءَاتَىٰنِى",
+        "ٱلْقِيَـٰمَةِ ۗ"
+      ],
+      "activityId": "act_011_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

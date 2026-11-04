@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_06",
+  "title": "سورة يونس - الآيات 31-36",
+  "surahId": 10,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 23,
+      "options": [
+        "فَسَيَقُولُونَ",
+        "شُرَكَآئِكُم",
+        "يُعِيدُهُۥ ۚ",
+        "ٱلضَّلَـٰلُ ۖ"
+      ],
+      "activityId": "act_010_06_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "wrongOptionsAyahNumbers": [
+        33,
+        29
+      ],
+      "activityId": "act_010_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلضَّلَـٰلُ ۖ",
+        "أَكْثَرُهُمْ",
+        "تَحْكُمُونَ",
+        "تُؤْفَكُونَ"
+      ],
+      "activityId": "act_010_06_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "wrongOptionsAyahNumbers": [
+        34,
+        30
+      ],
+      "activityId": "act_010_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 10,
+      "options": [
+        "يُؤْمِنُونَ",
+        "تُصْرَفُونَ",
+        "وَٱلْأَرْضِ",
+        "يَرْزُقُكُم"
+      ],
+      "activityId": "act_010_06_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "wrongOptionsAyahNumbers": [
+        35,
+        31
+      ],
+      "activityId": "act_010_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 4,
+      "options": [
+        "شُرَكَآئِكُم",
+        "وَٱلْأَبْصَـٰرَ",
+        "فَسَيَقُولُونَ",
+        "يَفْعَلُونَ"
+      ],
+      "activityId": "act_010_06_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "wrongOptionsAyahNumbers": [
+        36,
+        32
+      ],
+      "activityId": "act_010_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "شُرَكَآئِكُم",
+        "يُعِيدُهُۥ ۚ",
+        "وَٱلْأَبْصَـٰرَ",
+        "يُؤْمِنُونَ"
+      ],
+      "activityId": "act_010_06_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "wrongOptionsAyahNumbers": [
+        37,
+        33
+      ],
+      "activityId": "act_010_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 3,
+      "options": [
+        "أَكْثَرُهُمْ",
+        "ٱلسَّمَآءِ",
+        "ٱلْأَمْرَ ۚ",
+        "تَحْكُمُونَ"
+      ],
+      "activityId": "act_010_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

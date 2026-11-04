@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_17",
+  "title": "سورة الصافات - الآيات 97-102",
+  "surahId": 37,
+  "ayahStart": 97,
+  "ayahEnd": 102,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 3,
+      "options": [
+        "بُنْيَـٰنًۭا",
+        "وَيُقْذَفُونَ",
+        "ٱلزَّقُّومِ",
+        "وَأَنۢبَتْنَا"
+      ],
+      "activityId": "act_037_17_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "options": [
+        {
+          "ayahNumber": 98,
+          "text": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "إِنَّا كَذَٰلِكَ نَفْعَلُ"
+        },
+        {
+          "ayahNumber": 182,
+          "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ"
+        }
+      ],
+      "activityId": "act_037_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 2,
+      "options": [
+        "كَيْدًۭا",
+        "وَٰحِدَةٌۭ",
+        "ضَرْبًۢا",
+        "وَٱللَّهُ"
+      ],
+      "activityId": "act_037_17_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "options": [
+        {
+          "ayahNumber": 99,
+          "text": "وَقَالَ إِنِّى ذَاهِبٌ"
+        },
+        {
+          "ayahNumber": 117,
+          "text": "وَءَاتَيْنَـٰهُمَا ٱلْكِتَـٰبَ ٱلْمُسْتَبِينَ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّۭا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ"
+        }
+      ],
+      "activityId": "act_037_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱبْنُوا۟",
+        "إِلَىٰ",
+        "بِهِۦ",
+        "فَإِذَا"
+      ],
+      "activityId": "act_037_17_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "رَبِّ هَبْ لِى"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ"
+        }
+      ],
+      "activityId": "act_037_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 3,
+      "options": [
+        "يَوْمُ",
+        "ضَلَّ",
+        "إِنْ",
+        "مِنَ"
+      ],
+      "activityId": "act_037_17_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "وَقَالُوٓا۟ إِنْ هَـٰذَآ"
+        },
+        {
+          "ayahNumber": 179,
+          "text": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍۢ"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ"
+        }
+      ],
+      "activityId": "act_037_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 1,
+      "options": [
+        "يَعْبُدُونَ",
+        "بِغُلَـٰمٍ",
+        "ٱلدِّينِ",
+        "شَجَرَةًۭ"
+      ],
+      "activityId": "act_037_17_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "options": [
+        {
+          "ayahNumber": 102,
+          "text": "فَلَمَّا بَلَغَ مَعَهُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "إِلَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ"
+        }
+      ],
+      "activityId": "act_037_17_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 12,
+      "options": [
+        "ٱلدِّينِ",
+        "ٱلْعَظِيمِ",
+        "فَٱنظُرْ",
+        "كَيْدًۭا"
+      ],
+      "activityId": "act_037_17_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "إلقاء إبراهيم في النار ونجاته ورؤيا ذبح ابنه إسماعيل واستسلامهما لأمر الله."
+  }
+}

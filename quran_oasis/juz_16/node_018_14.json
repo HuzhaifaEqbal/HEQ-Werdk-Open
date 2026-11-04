@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_14",
+  "title": "سورة الكهف - الآيات 75-80",
+  "surahId": 18,
+  "ayahStart": 75,
+  "ayahEnd": 80,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 6,
+      "options": [
+        "تَسْتَطِيعَ",
+        "فَضَرَبْنَا",
+        "فَعَلْتُهُۥ",
+        "فَقَالُوا۟"
+      ],
+      "activityId": "act_018_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ إِن سَأَلْتُكَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قَالَ سَتَجِدُنِىٓ إِن"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ مَا مَكَّنِّى"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "قَالَ هَـٰذَا رَحْمَةٌۭ"
+        }
+      ],
+      "activityId": "act_018_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 7,
+      "options": [
+        "تُصَـٰحِبْنِى ۖ",
+        "أَفْوَٰهِهِمْ ۚ",
+        "أَنسَىٰنِيهُ",
+        "أَهْلَكْنَـٰهُمْ"
+      ],
+      "activityId": "act_018_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "حَتَّىٰٓ إِذَا بَلَغَ"
+        }
+      ],
+      "activityId": "act_018_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 10,
+      "options": [
+        "يُضَيِّفُوهُمَا",
+        "ٱلْقَرْنَيْنِ ۖ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ"
+      ],
+      "activityId": "act_018_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "قَالَ هَـٰذَا فِرَاقُ"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "قَالَ هَـٰذَا رَحْمَةٌۭ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ إِن سَأَلْتُكَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        }
+      ],
+      "activityId": "act_018_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 4,
+      "options": [
+        "وَبَيْنِكَ ۚ",
+        "فَقَتَلَهُۥ",
+        "فَلْيَعْمَلْ",
+        "فَلْيَنظُرْ"
+      ],
+      "activityId": "act_018_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "options": [
+        {
+          "ayahNumber": 79,
+          "text": "أَمَّا ٱلسَّفِينَةُ فَكَانَتْ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "قَالَ أَمَّا مَن"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "قَيِّمًۭا لِّيُنذِرَ بَأْسًۭا"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَأَمَّا ٱلْغُلَـٰمُ فَكَانَ"
+        }
+      ],
+      "activityId": "act_018_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّفِينَةُ",
+        "أَوْلِيَآءَ ۚ",
+        "بِٱلْغَدَوٰةِ",
+        "بِٱلْغَيْبِ ۖ"
+      ],
+      "activityId": "act_018_14_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "وَأَمَّا ٱلْغُلَـٰمُ فَكَانَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَأَمَّا ٱلْجِدَارُ فَكَانَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَأَمَّا مَنْ ءَامَنَ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "فَأَرَدْنَآ أَن يُبْدِلَهُمَا"
+        }
+      ],
+      "activityId": "act_018_14_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 7,
+      "options": [
+        "يُرْهِقَهُمَا",
+        "تُؤَاخِذْنِى",
+        "تُصَـٰحِبْنِى ۖ",
+        "جِئْتُمُونَا"
+      ],
+      "activityId": "act_018_14_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

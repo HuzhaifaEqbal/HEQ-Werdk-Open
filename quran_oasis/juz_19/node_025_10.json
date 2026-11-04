@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_025_10",
+  "title": "سورة الفرقان - الآيات 51-56",
+  "surahId": 25,
+  "ayahStart": 51,
+  "ayahEnd": 56,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 2,
+      "options": [
+        "لَبَعَثْنَا",
+        "وَزَادَهُمْ",
+        "وَزَفِيرًۭا",
+        "وَصِهْرًۭا ۗ"
+      ],
+      "activityId": "act_025_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "فَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "لِّنُحْـِۧىَ بِهِۦ بَلْدَةًۭ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَهُوَ ٱلَّذِى جَعَلَ"
+        }
+      ],
+      "activityId": "act_025_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْكَـٰفِرِينَ",
+        "لِيَذَّكَّرُوا۟",
+        "وَأَعَانَهُۥ",
+        "وَأَعْتَدْنَا"
+      ],
+      "activityId": "act_025_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "۞ وَهُوَ ٱلَّذِى مَرَجَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "تَبَارَكَ ٱلَّذِى جَعَلَ"
+        }
+      ],
+      "activityId": "act_025_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْبَحْرَيْنِ",
+        "وَأَنزَلْنَا",
+        "وَجَعَلْنَـٰهُمْ",
+        "وَذُرِّيَّـٰتِنَا"
+      ],
+      "activityId": "act_025_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَهُوَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَهُوَ ٱلَّذِىٓ أَرْسَلَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَهُوَ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ"
+        }
+      ],
+      "activityId": "act_025_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 6,
+      "options": [
+        "فَجَعَلَهُۥ",
+        "وَقَالُوٓا۟",
+        "وَقَدِمْنَآ",
+        "وَقُرُونًۢا"
+      ],
+      "activityId": "act_025_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَرَءَيْتَ مَنِ ٱتَّخَذَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "إِلَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "إِذَا رَأَتْهُم مِّن"
+        }
+      ],
+      "activityId": "act_025_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَعْبُدُونَ",
+        "وَعُمْيَانًۭا",
+        "وَنُسْقِيَهُۥ",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_025_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَمَآ أَرْسَلْنَا قَبْلَكَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَا يَأْتُونَكَ بِمَثَلٍ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "إِلَّا مَن تَابَ"
+        }
+      ],
+      "activityId": "act_025_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 1,
+      "options": [
+        "أَرْسَلْنَـٰكَ",
+        "وَكَانُوا۟",
+        "وَمَصِيرًۭا",
+        "وَمُقَامًۭا"
+      ],
+      "activityId": "act_025_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

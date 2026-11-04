@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_06",
+  "title": "سورة مريم - الآيات 31-36",
+  "surahId": 19,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "بِٱلصَّلَوٰةِ",
+        "وَيَعْقُوبَ ۖ",
+        "وَيَكُونُونَ",
+        "وَٱتَّبَعُوا۟"
+      ],
+      "activityId": "act_019_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "يَـٰٓأَبَتِ لَا تَعْبُدِ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "فَلَمَّا ٱعْتَزَلَهُمْ وَمَا"
+        }
+      ],
+      "activityId": "act_019_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 1,
+      "options": [
+        "بِوَٰلِدَتِى",
+        "وَجَعَلَنِى",
+        "وَجَعَلْنَا",
+        "وَحَنَانًۭا"
+      ],
+      "activityId": "act_019_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "أَسْمِعْ بِهِمْ وَأَبْصِرْ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ"
+        }
+      ],
+      "activityId": "act_019_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلسَّلَـٰمُ",
+        "وَرَفَعْنَـٰهُ",
+        "وَزَكَوٰةًۭ ۖ",
+        "وَعَمِلُوا۟"
+      ],
+      "activityId": "act_019_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "ذَٰلِكَ عِيسَى ٱبْنُ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَكَانَ يَأْمُرُ أَهْلَهُۥ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ"
+        }
+      ],
+      "activityId": "act_019_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 8,
+      "options": [
+        "يَمْتَرُونَ",
+        "وَقَالُوا۟",
+        "وَقَرَّبْنَـٰهُ",
+        "وَنَرِثُهُۥ"
+      ],
+      "activityId": "act_019_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "مَا كَانَ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "يَـٰٓأُخْتَ هَـٰرُونَ مَا"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "كَلَّا ۚ سَنَكْتُبُ مَا"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "وَنَرِثُهُۥ مَا يَقُولُ"
+        }
+      ],
+      "activityId": "act_019_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 7,
+      "options": [
+        "سُبْحَـٰنَهُۥٓ ۚ",
+        "وَٱتَّخَذُوا۟",
+        "وَٱلزَّكَوٰةِ",
+        "وَٱلْبَـٰقِيَـٰتُ"
+      ],
+      "activityId": "act_019_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَإِنَّ ٱللَّهَ رَبِّى"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَإِن مِّنكُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَٱتَّخَذُوا۟ مِن دُونِ"
+        }
+      ],
+      "activityId": "act_019_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "فَٱعْبُدُوهُ ۚ",
+        "لِعِبَـٰدَتِهِۦ ۚ",
+        "وَأَعْتَزِلُكُمْ",
+        "وَلِنَجْعَلَهُۥٓ"
+      ],
+      "activityId": "act_019_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

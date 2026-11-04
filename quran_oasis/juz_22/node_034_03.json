@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_034_03",
+  "title": "سورة سبأ - الآيات 10-14",
+  "surahId": 34,
+  "ayahStart": 10,
+  "ayahEnd": 14,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 6,
+      "options": [
+        "خَمْطٍۢ",
+        "بَعِيدٍۢ",
+        "كَفَرُوا۟",
+        "أَوِّبِى"
+      ],
+      "activityId": "act_034_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَكَذَّبَ ٱلَّذِينَ مِن"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ"
+        }
+      ],
+      "activityId": "act_034_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "فَٱتَّبَعُوهُ",
+        "وَٱلْأَرْضِ ۖ",
+        "وَٱعْمَلُوا۟",
+        "مَوْقُوفُونَ"
+      ],
+      "activityId": "act_034_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "فَقَالُوا۟ رَبَّنَا بَـٰعِدْ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا"
+        }
+      ],
+      "activityId": "act_034_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 14,
+      "options": [
+        "عَلَىٰ",
+        "لِّكُلِّ",
+        "سَمِيعٌۭ",
+        "بَيْنَ"
+      ],
+      "activityId": "act_034_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "قُلْ أَرُونِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قُلْ إِن ضَلَلْتُ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يَعْمَلُونَ لَهُۥ مَا"
+        }
+      ],
+      "activityId": "act_034_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 10,
+      "options": [
+        "وَرَوَاحُهَا",
+        "أَمْوَٰلُكُمْ",
+        "رَّاسِيَـٰتٍ ۚ",
+        "وَقَدَّرْنَا"
+      ],
+      "activityId": "act_034_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "قُلْ إِنَّ رَبِّى"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَلَمَّا قَضَيْنَا عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قُلْ إِن ضَلَلْتُ"
+        }
+      ],
+      "activityId": "act_034_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 12,
+      "options": [
+        "وَٱلنَّهَارِ",
+        "أَرْسَلْنَآ",
+        "جَزَيْنَـٰهُم",
+        "مِنسَأَتَهُۥ ۖ"
+      ],
+      "activityId": "act_034_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "فضل الله على داود وسليمان وتسخير الجبال والطير والحديد والريح والجن."
+  }
+}

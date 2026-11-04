@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_11",
+  "title": "سورة الصافات - الآيات 61-66",
+  "surahId": 37,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 2,
+      "options": [
+        "فَلْيَعْمَلِ",
+        "بِٱلْعَرَآءِ",
+        "تَحْكُمُونَ",
+        "ءَالِهَةًۭ"
+      ],
+      "activityId": "act_037_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "أَذَٰلِكَ خَيْرٌۭ نُّزُلًا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "مَا لَكُمْ لَا"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَتَرَكْنَا عَلَيْهِ فِى"
+        }
+      ],
+      "activityId": "act_037_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 3,
+      "options": [
+        "أَمْ",
+        "أَصْلِ",
+        "أَبَقَ",
+        "مَاذَا"
+      ],
+      "activityId": "act_037_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 169,
+          "text": "لَكُنَّا عِبَادَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "سَلَـٰمٌ عَلَىٰ نُوحٍۢ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "إِنَّا جَعَلْنَـٰهَا فِتْنَةًۭ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+        }
+      ],
+      "activityId": "act_037_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلطَّرْفِ",
+        "فِتْنَةًۭ",
+        "بَيْضٌۭ",
+        "وَأَقْبَلَ"
+      ],
+      "activityId": "act_037_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "لَا فِيهَا غَوْلٌۭ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ"
+        }
+      ],
+      "activityId": "act_037_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "طِينٍۢ",
+        "قَوْلُ",
+        "فِىٓ",
+        "كَيْفَ"
+      ],
+      "activityId": "act_037_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 181,
+          "text": "وَسَلَـٰمٌ عَلَى ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        },
+        {
+          "ayahNumber": 162,
+          "text": "مَآ أَنتُمْ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ"
+        }
+      ],
+      "activityId": "act_037_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 2,
+      "options": [
+        "عِينٌۭ",
+        "يُطَافُ",
+        "عَنْهُمْ",
+        "رُءُوسُ"
+      ],
+      "activityId": "act_037_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "فَإِنَّهُمْ لَـَٔاكِلُونَ مِنْهَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قَالُوا۟ بَل لَّمْ"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَتَرَكْنَا عَلَيْهِمَا فِى"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قُلْ نَعَمْ وَأَنتُمْ"
+        }
+      ],
+      "activityId": "act_037_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 3,
+      "options": [
+        "فَٱهْدُوهُمْ",
+        "إِلْ يَاسِينَ",
+        "فَكَفَرُوا۟",
+        "فَمَالِـُٔونَ"
+      ],
+      "activityId": "act_037_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "المقارنة بين نزل الجنة وشجرة الزقوم طعام أهل الجحيم."
+  }
+}

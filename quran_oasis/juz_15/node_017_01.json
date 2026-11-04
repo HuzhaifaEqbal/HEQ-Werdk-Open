@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_01",
+  "title": "سورة الإسراء - الآيات 1-6",
+  "surahId": 17,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 16,
+      "options": [
+        "ءَايَـٰتِنَآ ۚ",
+        "ءَاذَانِهِمْ",
+        "ءَايَتَيْنِ ۖ",
+        "أَعْرَضْتُمْ ۚ"
+      ],
+      "activityId": "act_017_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ذُرِّيَّةَ مَنْ حَمَلْنَا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ"
+        }
+      ],
+      "activityId": "act_017_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 0,
+      "options": [
+        "وَءَاتَيْنَا",
+        "ءَايَـٰتِنَآ ۚ",
+        "أَفَأَمِنتُمْ",
+        "أُولَىٰهُمَا"
+      ],
+      "activityId": "act_017_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "ذُرِّيَّةَ مَنْ حَمَلْنَا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَكَمْ أَهْلَكْنَا مِنَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "مَّن كَانَ يُرِيدُ"
+        }
+      ],
+      "activityId": "act_017_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 2,
+      "options": [
+        "حَمَلْنَا",
+        "ءَأَسْجُدُ",
+        "ءَالِهَةٌۭ",
+        "أَحْسَنُ ۚ"
+      ],
+      "activityId": "act_017_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "فَإِذَا جَآءَ وَعْدُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ"
+        }
+      ],
+      "activityId": "act_017_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقَضَيْنَآ",
+        "ءَاتَيْنَا",
+        "ءَامِنُوا۟",
+        "أَحَدُهُمَآ"
+      ],
+      "activityId": "act_017_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "فَإِذَا جَآءَ وَعْدُ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَقُلْ جَآءَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ثُمَّ رَدَدْنَا لَكُمُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ"
+        }
+      ],
+      "activityId": "act_017_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 3,
+      "options": [
+        "أُولَىٰهُمَا",
+        "بِإِمَـٰمِهِمْ ۖ",
+        "بِعِبَادِهِۦ",
+        "بِيَمِينِهِۦ"
+      ],
+      "activityId": "act_017_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "ثُمَّ رَدَدْنَا لَكُمُ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "عَسَىٰ رَبُّكُمْ أَن"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَأَنَّ ٱلَّذِينَ لَا"
+        }
+      ],
+      "activityId": "act_017_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَمْدَدْنَـٰكُم",
+        "أَفَأَصْفَىٰكُمْ",
+        "بِجَانِبِهِۦ ۖ",
+        "بِٱلْقِسْطَاسِ"
+      ],
+      "activityId": "act_017_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

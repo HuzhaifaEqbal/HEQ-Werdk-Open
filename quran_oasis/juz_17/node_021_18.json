@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_021_18",
+  "title": "سورة الأنبياء - الآيات 103-107",
+  "surahId": 21,
+  "ayahStart": 103,
+  "ayahEnd": 107,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 4,
+      "options": [
+        "وَتَتَلَقَّىٰهُمُ",
+        "يَسْتَهْزِءُونَ",
+        "ٱلتَّمَاثِيلُ",
+        "ٱلْأَخْسَرِينَ"
+      ],
+      "activityId": "act_021_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "يَوْمَ نَطْوِى ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَمَا خَلَقْنَا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 100,
+          "text": "لَهُمْ فِيهَا زَفِيرٌۭ"
+        }
+      ],
+      "activityId": "act_021_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 10,
+      "options": [
+        "نُّعِيدُهُۥ ۚ",
+        "ٱلْوَٰرِثِينَ",
+        "۞ وَأَيُّوبَ",
+        "ءَابَآءَنَا"
+      ],
+      "activityId": "act_021_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 105,
+          "text": "وَلَقَدْ كَتَبْنَا فِى"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ"
+        }
+      ],
+      "activityId": "act_021_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلصَّـٰلِحُونَ",
+        "ءَاذَنتُكُمْ",
+        "ءَالِهَتَكُمْ",
+        "أَفَتَأْتُونَ"
+      ],
+      "activityId": "act_021_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ فِى هَـٰذَا"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "إِنَّ ٱلَّذِينَ سَبَقَتْ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_021_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 3,
+      "options": [
+        "لَبَلَـٰغًۭا",
+        "أَتَيْنَا",
+        "أَحَسُّوا۟",
+        "أَحْصَنَتْ"
+      ],
+      "activityId": "act_021_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "options": [
+        {
+          "ayahNumber": 107,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "وَمَآ أَرْسَلْنَا قَبْلَكَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "وَمَا جَعَلْنَـٰهُمْ جَسَدًۭا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَمَا جَعَلْنَا لِبَشَرٍۢ"
+        }
+      ],
+      "activityId": "act_021_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 4,
+      "options": [
+        "لِّلْعَـٰلَمِينَ",
+        "أَنزَلْنَـٰهُ ۚ",
+        "أَهْلَكْنَـٰهَآ",
+        "بُرْهَـٰنَكُمْ ۖ"
+      ],
+      "activityId": "act_021_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

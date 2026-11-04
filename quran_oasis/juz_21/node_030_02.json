@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_02",
+  "title": "سورة الروم - الآيات 6-10",
+  "surahId": 30,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "إِنَّهُۥ",
+        "فَٱنظُرُوا۟",
+        "وَعْدَهُۥ",
+        "أَكْثَرَ"
+      ],
+      "activityId": "act_030_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "أَمْ أَنزَلْنَا عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        }
+      ],
+      "activityId": "act_030_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 5,
+      "options": [
+        "وَهُمْ",
+        "يَشَآءُ",
+        "إِنْ",
+        "لَهُۥ"
+      ],
+      "activityId": "act_030_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 19,
+          "text": "يُخْرِجُ ٱلْحَىَّ مِنَ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَإِذَا مَسَّ ٱلنَّاسَ"
+        }
+      ],
+      "activityId": "act_030_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 11,
+      "options": [
+        "مِمَّا",
+        "إِلَّا",
+        "وَإِذَآ",
+        "إِنَّهُۥ"
+      ],
+      "activityId": "act_030_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَوَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "بَلِ ٱتَّبَعَ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_030_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 17,
+      "options": [
+        "يَتَفَرَّقُونَ",
+        "أَلْسِنَتِكُمْ",
+        "يَعْلَمُونَ",
+        "وَعَمَرُوهَآ"
+      ],
+      "activityId": "act_030_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "ثُمَّ كَانَ عَـٰقِبَةَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ خَلْقُ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "مَن كَفَرَ فَعَلَيْهِ"
+        }
+      ],
+      "activityId": "act_030_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَرْضَ",
+        "يَكْفُرُونَ",
+        "كَذَّبُوا۟",
+        "وَٱلنَّهَارِ"
+      ],
+      "activityId": "act_030_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "التفكر في خلق السماوات والأرض والدعوة للسير في الأرض والاعتبار بمصير المكذبين."
+  }
+}

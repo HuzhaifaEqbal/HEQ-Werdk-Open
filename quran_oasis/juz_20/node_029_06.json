@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_029_06",
+  "title": "سورة العنكبوت - الآيات 25-29",
+  "surahId": 29,
+  "ayahStart": 25,
+  "ayahEnd": 29,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْقِيَـٰمَةِ",
+        "لَكَـٰذِبُونَ",
+        "خَـٰلِدِينَ",
+        "ٱلْـَٔاخِرَ"
+      ],
+      "activityId": "act_029_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "وَإِبْرَٰهِيمَ إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "۞ فَـَٔامَنَ لَهُۥ لُوطٌۭ ۘ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "يَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَمَّآ أَن جَآءَتْ"
+        }
+      ],
+      "activityId": "act_029_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 6,
+      "options": [
+        "إِلَىٰ",
+        "أَهْلَ",
+        "يَعْلَمُ",
+        "رِزْقًۭا"
+      ],
+      "activityId": "act_029_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَلَمَّآ أَن جَآءَتْ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ"
+        }
+      ],
+      "activityId": "act_029_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 8,
+      "options": [
+        "مُسْتَبْصِرِينَ",
+        "رَّبِّهِۦ ۖ",
+        "وَٱلْكِتَـٰبَ",
+        "ٱلسَّيِّـَٔاتِ"
+      ],
+      "activityId": "act_029_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًۭا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَلُوطًا إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        }
+      ],
+      "activityId": "act_029_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْفَـٰحِشَةَ",
+        "ٱلْفَحْشَآءِ",
+        "يَفْسُقُونَ",
+        "وَإِبْرَٰهِيمَ"
+      ],
+      "activityId": "act_029_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "أَحَسِبَ ٱلنَّاسُ أَن"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟"
+        }
+      ],
+      "activityId": "act_029_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 11,
+      "options": [
+        "جَوَابَ",
+        "أَحَسِبَ",
+        "وَعَلَىٰ",
+        "فَسَوْفَ"
+      ],
+      "activityId": "act_029_06_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "نجاة إبراهيم ولوط عليهما السلام ودعوة لوط لقومه وبيان سوء عاقبتهم."
+  }
+}

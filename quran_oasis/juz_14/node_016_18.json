@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_18",
+  "title": "سورة النحل - الآيات 103-108",
+  "surahId": 16,
+  "ayahStart": 103,
+  "ayahEnd": 108,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 4,
+      "options": [
+        "يَقُولُونَ",
+        "ٱلدُّنْيَا",
+        "بِٱلْكُفْرِ",
+        "قُلُوبِهِمْ"
+      ],
+      "activityId": "act_016_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_016_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 4,
+      "options": [
+        "يُؤْمِنُونَ",
+        "وَقَلْبُهُۥ",
+        "يُلْحِدُونَ",
+        "ٱلْحَيَوٰةَ"
+      ],
+      "activityId": "act_016_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "wrongOptionsAyahNumbers": [
+        106,
+        102
+      ],
+      "activityId": "act_016_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْكَـٰذِبُونَ",
+        "بِٱلْإِيمَـٰنِ",
+        "ٱلْغَـٰفِلُونَ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_016_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_016_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 12,
+      "options": [
+        "بِٱلْإِيمَـٰنِ",
+        "ٱلْكَـٰذِبُونَ",
+        "ٱسْتَحَبُّوا۟",
+        "ٱلْغَـٰفِلُونَ"
+      ],
+      "activityId": "act_016_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_016_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱسْتَحَبُّوا۟",
+        "بِٱلْإِيمَـٰنِ",
+        "ٱلْكَـٰذِبُونَ",
+        "ٱلْغَـٰفِلُونَ"
+      ],
+      "activityId": "act_016_18_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "wrongOptionsAyahNumbers": [
+        109,
+        105
+      ],
+      "activityId": "act_016_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأَبْصَـٰرِهِمْ ۖ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱسْتَحَبُّوا۟",
+        "بِٱلْإِيمَـٰنِ"
+      ],
+      "activityId": "act_016_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

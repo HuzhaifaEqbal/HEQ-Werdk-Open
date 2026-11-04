@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_039_01",
+  "title": "سورة الزمر - الآيات 1-5",
+  "surahId": 39,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَرْضُ",
+        "وَيَحِلُّ",
+        "ٱللَّهِ",
+        "ذَٰلِكَ"
+      ],
+      "activityId": "act_039_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "إِنَّآ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "أَلَا لِلَّهِ ٱلدِّينُ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ"
+        }
+      ],
+      "activityId": "act_039_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 5,
+      "options": [
+        "رَّبِّكُم",
+        "فَٱعْبُدِ",
+        "شَىْءٍۢ ۖ",
+        "بُطُونِ"
+      ],
+      "activityId": "act_039_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "أَلَا لِلَّهِ ٱلدِّينُ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "لَّوْ أَرَادَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "فَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        }
+      ],
+      "activityId": "act_039_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 16,
+      "options": [
+        "بَعْدِ",
+        "هُوَ",
+        "يَضِلُّ",
+        "إِنَّ"
+      ],
+      "activityId": "act_039_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "لَّوْ أَرَادَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "قُلْ إِنِّىٓ أُمِرْتُ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_039_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 8,
+      "options": [
+        "زَوْجَهَا",
+        "يَخْلُقُ",
+        "يُخْلِفُ",
+        "كَانُوا۟"
+      ],
+      "activityId": "act_039_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "أَمِ ٱتَّخَذُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "قُلْ أَفَغَيْرَ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا"
+        }
+      ],
+      "activityId": "act_039_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 11,
+      "options": [
+        "أَعْلَمُ",
+        "كَانُوا۟",
+        "بِهِۦٓ ۙ",
+        "ٱلَّيْلِ ۖ"
+      ],
+      "activityId": "act_039_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "تنزيل الكتاب بالحق والأمر بإخلاص الدين لله وإبطال اتخاذ الأولياء وكمال خلق الكون."
+  }
+}

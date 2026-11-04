@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_10",
+  "title": "سورة النمل - الآيات 51-55",
+  "surahId": 27,
+  "ayahStart": 51,
+  "ayahEnd": 55,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 6,
+      "options": [
+        "دَمَّرْنَـٰهُمْ",
+        "فَنَاظِرَةٌۢ",
+        "فَٱنظُرِى",
+        "قَدَّرْنَـٰهَا"
+      ],
+      "activityId": "act_027_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَلَا تَحْزَنْ عَلَيْهِمْ"
+        }
+      ],
+      "activityId": "act_027_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 1,
+      "options": [
+        "بُيُوتُهُمْ",
+        "لَتَأْتُونَ",
+        "لَصَـٰدِقُونَ",
+        "لَنَقُولَنَّ"
+      ],
+      "activityId": "act_027_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "إِنَّ ٱلَّذِينَ لَا"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ"
+        }
+      ],
+      "activityId": "act_027_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 0,
+      "options": [
+        "وَأَنجَيْنَا",
+        "بِهَدِيَّتِكُمْ",
+        "بِٱلسَّيِّئَةِ",
+        "بِٱلْحَسَنَةِ"
+      ],
+      "activityId": "act_027_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "وَلُوطًا إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِذْ قَالَ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "حَتَّىٰٓ إِذَا جَآءُو"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قَالَ عِفْرِيتٌۭ مِّنَ"
+        }
+      ],
+      "activityId": "act_027_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 3,
+      "options": [
+        "لِقَوْمِهِۦٓ",
+        "لِأَهْلِهِۦٓ",
+        "لِسُلَيْمَـٰنَ",
+        "لِوَلِيِّهِۦ"
+      ],
+      "activityId": "act_027_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَإِنَّ رَبَّكَ لَذُو"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَمَآ أَنتَ بِهَـٰدِى"
+        }
+      ],
+      "activityId": "act_027_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلنِّسَآءِ ۚ",
+        "بِٱلْـَٔاخِرَةِ",
+        "تَقَاسَمُوا۟",
+        "رَحْمَتِهِۦٓ ۗ"
+      ],
+      "activityId": "act_027_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

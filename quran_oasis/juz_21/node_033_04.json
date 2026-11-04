@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_04",
+  "title": "سورة الأحزاب - الآيات 14-18",
+  "surahId": 33,
+  "ayahStart": 14,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْفِتْنَةَ",
+        "صَدَقُوا۟",
+        "كَٱلَّذِى",
+        "لِسُنَّةِ"
+      ],
+      "activityId": "act_033_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَٱتَّبِعْ مَا يُوحَىٰٓ"
+        }
+      ],
+      "activityId": "act_033_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "صَلُّوا۟",
+        "تَنكِحُوٓا۟",
+        "يُوَلُّونَ",
+        "۞ تُرْجِى"
+      ],
+      "activityId": "act_033_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَإِن كُنتُنَّ تُرِدْنَ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قُل لَّن يَنفَعَكُمُ"
+        }
+      ],
+      "activityId": "act_033_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 8,
+      "options": [
+        "فِيمَا",
+        "لَكُمْ",
+        "إِلَى",
+        "أَوِ"
+      ],
+      "activityId": "act_033_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "قُلْ مَن ذَا"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ"
+        }
+      ],
+      "activityId": "act_033_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 13,
+      "options": [
+        "بِكُمْ",
+        "ٱبْنِ",
+        "إِلَيْكَ",
+        "بِمَآ"
+      ],
+      "activityId": "act_033_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "لَّا يَحِلُّ لَكَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ لَّئِن لَّمْ يَنتَهِ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "۞ قَدْ يَعْلَمُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        }
+      ],
+      "activityId": "act_033_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 7,
+      "options": [
+        "بَعْدُ",
+        "هَلُمَّ",
+        "مِّنْهُمْ",
+        "لَّقَدْ"
+      ],
+      "activityId": "act_033_04_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "موقف المنافقين وتخاذلهم في غزوة الخندق وتحريضهم على الفرار."
+  }
+}

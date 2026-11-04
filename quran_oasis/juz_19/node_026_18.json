@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_18",
+  "title": "سورة الشعراء - الآيات 103-108",
+  "surahId": 26,
+  "ayahStart": 103,
+  "ayahEnd": 108,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 6,
+      "options": [
+        "أَكْثَرُهُم",
+        "يَشْعُرُونَ",
+        "يَعْلَمَهُۥ",
+        "يَعْمَلُونَ"
+      ],
+      "activityId": "act_026_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 159,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ"
+        }
+      ],
+      "activityId": "act_026_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "يَفْعَلُونَ",
+        "يَقُولُونَ",
+        "يَقْتُلُونِ"
+      ],
+      "activityId": "act_026_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 105,
+          "text": "كَذَّبَتْ قَوْمُ نُوحٍ"
+        },
+        {
+          "ayahNumber": 160,
+          "text": "كَذَّبَتْ قَوْمُ لُوطٍ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ"
+        }
+      ],
+      "activityId": "act_026_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "يَسْتَعْجِلُونَ",
+        "يَسْتَهْزِءُونَ",
+        "يَسْمَعُونَكُمْ"
+      ],
+      "activityId": "act_026_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 106,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ"
+        },
+        {
+          "ayahNumber": 161,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ"
+        }
+      ],
+      "activityId": "act_026_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 3,
+      "options": [
+        "أَخُوهُمْ",
+        "شَـٰفِعِينَ",
+        "ظَـٰلِمِينَ",
+        "ظَلَمُوٓا۟"
+      ],
+      "activityId": "act_026_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "options": [
+        {
+          "ayahNumber": 107,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 143,
+          "text": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "إِنِّىٓ أَخَافُ عَلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 216,
+          "text": "فَإِنْ عَصَوْكَ فَقُلْ"
+        }
+      ],
+      "activityId": "act_026_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 2,
+      "options": [
+        "رَسُولٌ",
+        "أَعْلَمُ",
+        "أَغْنَىٰ",
+        "أَفَّاكٍ"
+      ],
+      "activityId": "act_026_18_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "options": [
+        {
+          "ayahNumber": 108,
+          "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
+        },
+        {
+          "ayahNumber": 213,
+          "text": "فَلَا تَدْعُ مَعَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "إِلَّا مَنْ أَتَى"
+        }
+      ],
+      "activityId": "act_026_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 2,
+      "options": [
+        "وَأَطِيعُونِ",
+        "وَٱلْمَغْرِبِ",
+        "يَخْتَصِمُونَ",
+        "يَنتَصِرُونَ"
+      ],
+      "activityId": "act_026_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

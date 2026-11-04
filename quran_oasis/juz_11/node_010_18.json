@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_010_18",
+  "title": "سورة يونس - الآيات 100-104",
+  "surahId": 10,
+  "ayahStart": 100,
+  "ayahEnd": 104,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 14,
+      "options": [
+        "يَعْقِلُونَ",
+        "تَعْبُدُونَ",
+        "وَٱلنُّذُرُ",
+        "وَٱلَّذِينَ"
+      ],
+      "activityId": "act_010_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "wrongOptionsAyahNumbers": [
+        102,
+        98
+      ],
+      "activityId": "act_010_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 6,
+      "options": [
+        "وَٱلْأَرْضِ ۚ",
+        "ءَامَنُوا۟ ۚ",
+        "يَنتَظِرُونَ",
+        "فَٱنتَظِرُوٓا۟"
+      ],
+      "activityId": "act_010_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "wrongOptionsAyahNumbers": [
+        103,
+        99
+      ],
+      "activityId": "act_010_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْمُنتَظِرِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "يَتَوَفَّىٰكُمْ ۖ",
+        "وَٱلْأَرْضِ ۚ"
+      ],
+      "activityId": "act_010_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "wrongOptionsAyahNumbers": [
+        104,
+        100
+      ],
+      "activityId": "act_010_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "فَٱنتَظِرُوٓا۟",
+        "يَتَوَفَّىٰكُمْ ۖ",
+        "ٱلْمُنتَظِرِينَ"
+      ],
+      "activityId": "act_010_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_010_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 21,
+      "options": [
+        "يَتَوَفَّىٰكُمْ ۖ",
+        "ٱلْمُؤْمِنِينَ",
+        "فَٱنتَظِرُوٓا۟",
+        "ٱلْمُنتَظِرِينَ"
+      ],
+      "activityId": "act_010_18_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

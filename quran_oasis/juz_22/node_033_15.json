@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_15",
+  "title": "سورة الأحزاب - الآيات 69-73",
+  "surahId": 33,
+  "ayahStart": 69,
+  "ayahEnd": 73,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 69,
+      "missingWordPosition": 8,
+      "options": [
+        "فَبَرَّأَهُ",
+        "وَأَنزَلَ",
+        "يَسْـَٔلُونَ",
+        "زَادَهُمْ"
+      ],
+      "activityId": "act_033_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 69,
+      "correctNextAyahNumber": 70,
+      "options": [
+        {
+          "ayahNumber": 25,
+          "text": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّ ٱللَّهَ لَعَنَ"
+        }
+      ],
+      "activityId": "act_033_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 70,
+      "missingWordPosition": 4,
+      "options": [
+        "هَلُمَّ",
+        "ٱللَّهَ",
+        "سُوٓءًا",
+        "وَمَا"
+      ],
+      "activityId": "act_033_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 70,
+      "correctNextAyahNumber": 71,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ"
+        }
+      ],
+      "activityId": "act_033_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 7,
+      "options": [
+        "مِّن",
+        "يُطِعِ",
+        "جَآءَ",
+        "عَلِيمًا"
+      ],
+      "activityId": "act_033_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَمَا كَانَ لِمُؤْمِنٍۢ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "قُل لَّن يَنفَعَكُمُ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ"
+        }
+      ],
+      "activityId": "act_033_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 9,
+      "options": [
+        "ءَابَآئِهِنَّ",
+        "يَحْمِلْنَهَا",
+        "يَمِينُكَ ۗ",
+        "تَبْدِيلًۭا"
+      ],
+      "activityId": "act_033_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "وَٱتَّبِعْ مَا يُوحَىٰٓ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِذْ جَآءُوكُم مِّن"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ"
+        }
+      ],
+      "activityId": "act_033_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 7,
+      "options": [
+        "عَهْدُ",
+        "وَبَشِّرِ",
+        "قَدَرًۭا",
+        "ٱللَّهُ"
+      ],
+      "activityId": "act_033_15_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "الأمر بتقوى الله والقول السديد وعظمة الأمانة التي أشفقت منها السماوات والأرض."
+  }
+}

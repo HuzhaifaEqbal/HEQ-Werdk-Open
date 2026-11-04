@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_08",
+  "title": "سورة الروم - الآيات 38-42",
+  "surahId": 30,
+  "ayahStart": 38,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 8,
+      "options": [
+        "قَبْلُ ۚ",
+        "بِهِۦ",
+        "ٱلْحَىَّ",
+        "خَيْرٌۭ"
+      ],
+      "activityId": "act_030_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "فَيَوْمَئِذٍۢ لَّا يَنفَعُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "أَمْ أَنزَلْنَا عَلَيْهِمْ"
+        }
+      ],
+      "activityId": "act_030_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 11,
+      "options": [
+        "قَدَّمَتْ",
+        "فَرَأَوْهُ",
+        "مُبْطِلُونَ",
+        "ٱللَّهِ ۖ"
+      ],
+      "activityId": "act_030_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "غُلِبَتِ ٱلرُّومُ"
+        }
+      ],
+      "activityId": "act_030_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 11,
+      "options": [
+        "وَلِيُذِيقَكُم",
+        "وَلَـٰكِنَّكُمْ",
+        "شُرَكَآئِكُم",
+        "قَـٰنِتُونَ"
+      ],
+      "activityId": "act_030_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "ظَهَرَ ٱلْفَسَادُ فِى"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        }
+      ],
+      "activityId": "act_030_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلنَّاسِ",
+        "ٱلْأَمْرُ",
+        "إِلَىٰ",
+        "لَقَدْ"
+      ],
+      "activityId": "act_030_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "فِى بِضْعِ سِنِينَ ۗ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَن"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "أَوَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_030_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "فَٱصْبِرْ",
+        "عَـٰقِبَةَ",
+        "وَأَجَلٍۢ",
+        "عَـٰقِبَةُ"
+      ],
+      "activityId": "act_030_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "الأمر بإيتاء ذي القربى والمسكين وبيان بركة الزكاة في مقابل الربا."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_040_13",
+  "title": "سورة غافر - الآيات 71-75",
+  "surahId": 40,
+  "ayahStart": 71,
+  "ayahEnd": 75,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 71,
+      "missingWordPosition": 3,
+      "options": [
+        "كَـٰظِمِينَ ۚ",
+        "أَعْنَـٰقِهِمْ",
+        "ٱلْمُبْطِلُونَ",
+        "ٱلسَّيِّـَٔاتِ ۚ"
+      ],
+      "activityId": "act_040_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 71,
+      "correctNextAyahNumber": 72,
+      "options": [
+        {
+          "ayahNumber": 72,
+          "text": "فِى ٱلْحَمِيمِ ثُمَّ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَقَالَ ٱلَّذِىٓ ءَامَنَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "۞ وَيَـٰقَوْمِ مَا لِىٓ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "ٱلَّذِينَ يُجَـٰدِلُونَ فِىٓ"
+        }
+      ],
+      "activityId": "act_040_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلنَّارِ",
+        "سَـٰحِرٌۭ",
+        "جَنَّـٰتِ",
+        "ذَٰلِكَ"
+      ],
+      "activityId": "act_040_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "ثُمَّ قِيلَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "فَسَتَذْكُرُونَ مَآ أَقُولُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَقَالَ مُوسَىٰٓ إِنِّى"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ"
+        }
+      ],
+      "activityId": "act_040_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 3,
+      "options": [
+        "أَيْنَ",
+        "كَيْدُ",
+        "أَبْلُغُ",
+        "ٱلنَّاسِ"
+      ],
+      "activityId": "act_040_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مِن دُونِ ٱللَّهِ ۖ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَخَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ"
+        }
+      ],
+      "activityId": "act_040_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْأَعْمَىٰ",
+        "يَسْتَوِى",
+        "نَّدْعُوا۟",
+        "صَرْحًۭا"
+      ],
+      "activityId": "act_040_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "كَذَٰلِكَ يُؤْفَكُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "يَوْمَ هُم بَـٰرِزُونَ ۖ"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "ذَٰلِكُم بِمَا كُنتُمْ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "مِثْلَ دَأْبِ قَوْمِ"
+        }
+      ],
+      "activityId": "act_040_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 6,
+      "options": [
+        "شَكٍّۢ",
+        "بِغَيْرِ",
+        "أَهْدِكُمْ",
+        "يَـٰقَوْمِ"
+      ],
+      "activityId": "act_040_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "أحوال الكافرين في السلاسل والأغلال يسحبون في الحميم ثم في النار يسجرون."
+  }
+}

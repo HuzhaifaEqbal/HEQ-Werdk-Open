@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_11",
+  "title": "سورة الإسراء - الآيات 61-66",
+  "surahId": 17,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 2,
+      "options": [
+        "لِلْمَلَـٰٓئِكَةِ",
+        "ٱلْأَمْثَالَ",
+        "ٱلْحُسْنَىٰ ۚ",
+        "ٱلْحِكْمَةِ ۗ"
+      ],
+      "activityId": "act_017_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "قَالَ أَرَءَيْتَكَ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "قَالَ لَقَدْ عَلِمْتَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ ٱذْهَبْ فَمَن"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        }
+      ],
+      "activityId": "act_017_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 11,
+      "options": [
+        "لَأَحْتَنِكَنَّ",
+        "ٱلْعَاجِلَةَ",
+        "ٱلْقُرْءَانَ",
+        "ٱلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_017_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ ٱذْهَبْ فَمَن"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "قَالَ لَقَدْ عَلِمْتَ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ"
+        }
+      ],
+      "activityId": "act_017_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 7,
+      "options": [
+        "جَزَآؤُكُمْ",
+        "تَقْرَبُوا۟",
+        "تَكُونُوا۟",
+        "تَكْبِيرًۢا"
+      ],
+      "activityId": "act_017_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَإِن مِّن قَرْيَةٍ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "سُنَّةَ مَن قَدْ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ"
+        }
+      ],
+      "activityId": "act_017_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱسْتَفْزِزْ",
+        "ٱلْمُهْتَدِ ۖ",
+        "ٱلْوَسِيلَةَ",
+        "ءَاذَانِهِمْ"
+      ],
+      "activityId": "act_017_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "إِنَّ عِبَادِى لَيْسَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ رَبَّكَ يَبْسُطُ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ"
+        }
+      ],
+      "activityId": "act_017_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 1,
+      "options": [
+        "عِبَادِى",
+        "أَمِنتُمْ",
+        "أُخْرَىٰ ۗ",
+        "أُوتُوا۟"
+      ],
+      "activityId": "act_017_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "رَّبُّكُمُ ٱلَّذِى يُزْجِى"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "رَّبُّكُمْ أَعْلَمُ بِكُمْ ۖ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "رَّبُّكُمْ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ"
+        }
+      ],
+      "activityId": "act_017_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 7,
+      "options": [
+        "لِتَبْتَغُوا۟",
+        "ءَايَتَيْنِ ۖ",
+        "ءَايَـٰتِنَآ ۚ",
+        "أَعْرَضْتُمْ ۚ"
+      ],
+      "activityId": "act_017_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

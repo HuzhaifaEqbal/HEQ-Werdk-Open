@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_028_10",
+  "title": "سورة القصص - الآيات 55-60",
+  "surahId": 28,
+  "ayahStart": 55,
+  "ayahEnd": 60,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْجَـٰهِلِينَ",
+        "ٱلْمُبَـٰرَكَةِ",
+        "ٱلْوَٰرِثِينَ",
+        "ٱمْرَأَتَيْنِ"
+      ],
+      "activityId": "act_028_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّكَ لَا تَهْدِى"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "وَهُوَ ٱللَّهُ لَآ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "مَن جَآءَ بِٱلْحَسَنَةِ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَكَمْ أَهْلَكْنَا مِن"
+        }
+      ],
+      "activityId": "act_028_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 12,
+      "options": [
+        "بِٱلْمُهْتَدِينَ",
+        "يَسْتَصْرِخُهُۥ ۚ",
+        "ٱلْمَقْبُوحِينَ",
+        "ٱلْمُنتَصِرِينَ"
+      ],
+      "activityId": "act_028_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 57,
+          "text": "وَقَالُوٓا۟ إِن نَّتَّبِعِ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَوْلَآ أَن تُصِيبَهُم"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قُلْ أَرَءَيْتُمْ إِن"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ"
+        }
+      ],
+      "activityId": "act_028_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 0,
+      "options": [
+        "وَقَالُوٓا۟",
+        "ذُنُوبِهِمُ",
+        "رَزَقْنَـٰهُمْ",
+        "رَّحْمَتِهِۦ"
+      ],
+      "activityId": "act_028_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَكَمْ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّكَ لَا تَهْدِى"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَمَآ أُوتِيتُم مِّن"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ"
+        }
+      ],
+      "activityId": "act_028_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 5,
+      "options": [
+        "مَعِيشَتَهَا ۖ",
+        "يَسْتَجِيبُوا۟",
+        "ٱسْتَنصَرَهُۥ",
+        "ٱسْتُضْعِفُوا۟"
+      ],
+      "activityId": "act_028_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 59,
+          "text": "وَمَا كَانَ رَبُّكَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَمَآ أُوتِيتُم مِّن"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا كُنتَ بِجَانِبِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ"
+        }
+      ],
+      "activityId": "act_028_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 12,
+      "options": [
+        "ءَايَـٰتِنَا ۚ",
+        "ءَابَآئِنَا",
+        "ءَاتَيْنَـٰهُمُ",
+        "أَبْنَآءَهُمْ"
+      ],
+      "activityId": "act_028_10_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 59,
+      "correctNextAyahNumber": 60,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "وَمَآ أُوتِيتُم مِّن"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَمَا كُنتَ تَرْجُوٓا۟"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا كُنتَ بِجَانِبِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ"
+        }
+      ],
+      "activityId": "act_028_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 7,
+      "options": [
+        "وَزِينَتُهَا ۚ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ",
+        "ٱلْمُحْسِنِينَ"
+      ],
+      "activityId": "act_028_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "القصص",
+    "juz": 20,
+    "theme": "تعرض آيات هذا المقطع قصة موسى عليه السلام منذ ولادته إلى رسالته، ومواجهة فرعون، ثم قصة قارون، وتقرر أن العاقبة للمتقين وأن الحكم لله وحده."
+  }
+}

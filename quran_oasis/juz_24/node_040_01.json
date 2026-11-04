@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_040_01",
+  "title": "سورة غافر - الآيات 1-6",
+  "surahId": 40,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "ذِى",
+        "لِىٓ",
+        "حمٓ",
+        "كُلَّ"
+      ],
+      "activityId": "act_040_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "فَلَمَّا رَأَوْا۟ بَأْسَنَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "يَـٰقَوْمِ لَكُمُ ٱلْمُلْكُ"
+        }
+      ],
+      "activityId": "act_040_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱللَّهِ",
+        "جَآءَ",
+        "ءَايَـٰتِ",
+        "لَكُمْ ۚ"
+      ],
+      "activityId": "act_040_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "ٱللَّهُ ٱلَّذِى جَعَلَ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "أَفَلَمْ يَسِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_040_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلطَّوْلِ ۖ",
+        "مُخْلِصِينَ",
+        "صَـٰلِحًۭا",
+        "لَنَنصُرُ"
+      ],
+      "activityId": "act_040_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "فَٱصْبِرْ إِنَّ وَعْدَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "لَا جَرَمَ أَنَّمَا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَا يُجَـٰدِلُ فِىٓ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن"
+        }
+      ],
+      "activityId": "act_040_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 6,
+      "options": [
+        "وَأُشْرِكَ",
+        "إِلَـٰهَ",
+        "ٱلَّذِينَ",
+        "يَجْحَدُونَ"
+      ],
+      "activityId": "act_040_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَلَقَدْ أَرْسَلْنَا رُسُلًۭا"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ"
+        }
+      ],
+      "activityId": "act_040_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 10,
+      "options": [
+        "بِرَسُولِهِمْ",
+        "ٱلْقَهَّارِ",
+        "مُشْرِكِينَ",
+        "بِـَٔايَـٰتِنَا"
+      ],
+      "activityId": "act_040_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَيُرِيكُمْ ءَايَـٰتِهِۦ فَأَىَّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ"
+        }
+      ],
+      "activityId": "act_040_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 5,
+      "options": [
+        "أَنَّمَا",
+        "وَبِمَآ",
+        "أَمَتَّنَا",
+        "ٱلَّذِينَ"
+      ],
+      "activityId": "act_040_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "غافر",
+    "juz": 24,
+    "theme": "تنزيل الكتاب من الله العزيز العليم غافر الذنب وقابل التوب ومجادلة الكافرين ومصيرهم."
+  }
+}

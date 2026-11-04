@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_15",
+  "title": "سورة المؤمنون - الآيات 85-90",
+  "surahId": 23,
+  "ayahStart": 85,
+  "ayahEnd": 90,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 0,
+      "options": [
+        "سَيَقُولُونَ",
+        "ٱلْأَوَّلُونَ",
+        "ٱلْعَادُونَ",
+        "ٱلْعَآدِّينَ"
+      ],
+      "activityId": "act_023_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَن رَّبُّ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "قُلْ مَنۢ بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "قُل رَّبِّ إِمَّا"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "قُل لِّمَنِ ٱلْأَرْضُ"
+        }
+      ],
+      "activityId": "act_023_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلسَّمَـٰوَٰتِ",
+        "يَعْمَهُونَ",
+        "يَقُولُونَ",
+        "يَهْتَدُونَ"
+      ],
+      "activityId": "act_023_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 87,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "قَـٰلَ كَمْ لَبِثْتُمْ"
+        }
+      ],
+      "activityId": "act_023_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 0,
+      "options": [
+        "سَيَقُولُونَ",
+        "ٱلْفِرْدَوْسَ",
+        "ٱلْكَـٰفِرُونَ",
+        "ٱلْوَٰرِثُونَ"
+      ],
+      "activityId": "act_023_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "قُلْ مَنۢ بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَن رَّبُّ"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "قَـٰلَ إِن لَّبِثْتُمْ"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "قُل لِّمَنِ ٱلْأَرْضُ"
+        }
+      ],
+      "activityId": "act_023_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 13,
+      "options": [
+        "تَعْلَمُونَ",
+        "يُؤْمِنُونَ",
+        "يُبْعَثُونَ",
+        "يُسَـٰرِعُونَ"
+      ],
+      "activityId": "act_023_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "options": [
+        {
+          "ayahNumber": 89,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ"
+        },
+        {
+          "ayahNumber": 112,
+          "text": "قَـٰلَ كَمْ لَبِثْتُمْ"
+        }
+      ],
+      "activityId": "act_023_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 0,
+      "options": [
+        "سَيَقُولُونَ",
+        "۞ هَيْهَاتَ",
+        "ءَابَآءَهُمُ",
+        "ءَابَآئِنَا"
+      ],
+      "activityId": "act_023_15_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "بَلْ قَالُوا۟ مِثْلَ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "بَلْ قُلُوبُهُمْ فِى"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ"
+        }
+      ],
+      "activityId": "act_023_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 1,
+      "options": [
+        "أَتَيْنَـٰهُم",
+        "يُشْرِكُونَ",
+        "يُظْلَمُونَ",
+        "يُوعَدُونَ"
+      ],
+      "activityId": "act_023_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

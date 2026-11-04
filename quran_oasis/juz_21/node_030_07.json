@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_030_07",
+  "title": "سورة الروم - الآيات 33-37",
+  "surahId": 30,
+  "ayahStart": 33,
+  "ayahEnd": 37,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 9,
+      "options": [
+        "إِذَآ",
+        "وَلَهُۥ",
+        "وَمَآ",
+        "فَأَمَّا"
+      ],
+      "activityId": "act_030_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "غُلِبَتِ ٱلرُّومُ"
+        }
+      ],
+      "activityId": "act_030_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 3,
+      "options": [
+        "فَتَمَتَّعُوا۟",
+        "يَسْتَخِفَّنَّكَ",
+        "أَنفُسِهِم ۗ",
+        "أَيْمَـٰنُكُم"
+      ],
+      "activityId": "act_030_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "أَمْ أَنزَلْنَا عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَلَقَدْ أَرْسَلْنَا مِن"
+        }
+      ],
+      "activityId": "act_030_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 5,
+      "options": [
+        "رُسُلُهُم",
+        "مُّسْلِمُونَ",
+        "ٱلْخَلْقَ",
+        "يَتَكَلَّمُ"
+      ],
+      "activityId": "act_030_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَلَهُۥ مَن فِى"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "مِنَ ٱلَّذِينَ فَرَّقُوا۟"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمَآ ءَاتَيْتُم مِّن"
+        }
+      ],
+      "activityId": "act_030_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 7,
+      "options": [
+        "يَخْرُجُ",
+        "تُصِبْهُمْ",
+        "فَرَأَوْهُ",
+        "أَكْثَرُهُم"
+      ],
+      "activityId": "act_030_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "قُلْ سِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "مِنَ ٱلَّذِينَ فَرَّقُوا۟"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ"
+        }
+      ],
+      "activityId": "act_030_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 7,
+      "options": [
+        "يَشَآءُ",
+        "لِخَلْقِ",
+        "بِمَآ",
+        "أَنتُم"
+      ],
+      "activityId": "act_030_07_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الروم",
+    "juz": 21,
+    "theme": "تقلب الإنسان بين الدعاء في الضر والشرك في النعمة وسعة الرزق وقدره."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_038_06",
+  "title": "سورة ص - الآيات 31-36",
+  "surahId": 38,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 3,
+      "options": [
+        "أَكْفِلْنِيهَا",
+        "بِٱلْعَشِىِّ",
+        "فَأَنظِرْنِىٓ",
+        "بَيْنَهُمَا ۖ"
+      ],
+      "activityId": "act_038_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "كَمْ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَقَالَ إِنِّىٓ أَحْبَبْتُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ"
+        }
+      ],
+      "activityId": "act_038_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 6,
+      "options": [
+        "لَهُ",
+        "نَّارٍۢ",
+        "يُوحَىٰٓ",
+        "ذِكْرِ"
+      ],
+      "activityId": "act_038_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 55,
+          "text": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "وَوَهَبْنَا لِدَاوُۥدَ سُلَيْمَـٰنَ ۚ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "وَلَتَعْلَمُنَّ نَبَأَهُۥ بَعْدَ"
+        }
+      ],
+      "activityId": "act_038_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 3,
+      "options": [
+        "لَّمَّا",
+        "مَسْحًۢا",
+        "عُرِضَ",
+        "فَٱضْرِب"
+      ],
+      "activityId": "act_038_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 6,
+          "text": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "أَنتُمْ عَنْهُ مُعْرِضُونَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَلَقَدْ فَتَنَّا سُلَيْمَـٰنَ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "مَا كَانَ لِىَ"
+        }
+      ],
+      "activityId": "act_038_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 4,
+      "options": [
+        "لِىَ",
+        "أَجَعَلَ",
+        "نَجْعَلُ",
+        "عَلَىٰ"
+      ],
+      "activityId": "act_038_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "قَالَ رَبِّ ٱغْفِرْ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ٱصْبِرْ عَلَىٰ مَا"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "قَالَ لَقَدْ ظَلَمَكَ"
+        }
+      ],
+      "activityId": "act_038_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 8,
+      "options": [
+        "أَيُّوبَ",
+        "ٱلْخِطَابِ",
+        "يَنۢبَغِى",
+        "وَذِكْرَىٰ"
+      ],
+      "activityId": "act_038_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "كَمْ أَهْلَكْنَا مِن"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ"
+        },
+        {
+          "ayahNumber": 80,
+          "text": "قَالَ فَإِنَّكَ مِنَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "صٓ ۚ وَٱلْقُرْءَانِ ذِى"
+        }
+      ],
+      "activityId": "act_038_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْيَسَعَ",
+        "بِأَمْرِهِۦ",
+        "رِجَالًۭا",
+        "وَمِثْلَهُم"
+      ],
+      "activityId": "act_038_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "وهب سليمان لداود وحبه للخير وعرض الخيل الصافنات وتطهير إنابته إلى الله."
+  }
+}

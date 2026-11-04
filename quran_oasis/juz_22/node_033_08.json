@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_08",
+  "title": "سورة الأحزاب - الآيات 36-40",
+  "surahId": 33,
+  "ayahStart": 36,
+  "ayahEnd": 40,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 12,
+      "options": [
+        "۞ وَمَن",
+        "لَهُمُ",
+        "بُيُوتَ",
+        "وَرَآءِ"
+      ],
+      "activityId": "act_033_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 36,
+      "correctNextAyahNumber": 37,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَإِذْ تَقُولُ لِلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ"
+        }
+      ],
+      "activityId": "act_033_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 25,
+      "options": [
+        "يَخْشَوْنَ",
+        "فَإِذَا",
+        "يُصَلِّى",
+        "فَلَمَّا"
+      ],
+      "activityId": "act_033_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "مَّا كَانَ عَلَى"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ"
+        }
+      ],
+      "activityId": "act_033_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 10,
+      "options": [
+        "جُنُودٌۭ",
+        "سُنَّةَ",
+        "أَبَدًا ۚ",
+        "قَبْلُ"
+      ],
+      "activityId": "act_033_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَمَا كَانَ لِمُؤْمِنٍۢ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        }
+      ],
+      "activityId": "act_033_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 6,
+      "options": [
+        "يَقْنُتْ",
+        "وَٱتَّبِعْ",
+        "يَخْشَوْنَ",
+        "نَفْسَهَا"
+      ],
+      "activityId": "act_033_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "مَّا جَعَلَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "مَّا كَانَ مُحَمَّدٌ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا"
+        }
+      ],
+      "activityId": "act_033_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 8,
+      "options": [
+        "رَّسُولَ",
+        "يُؤْذِى",
+        "كَٱلَّذِى",
+        "قَوْلًۭا"
+      ],
+      "activityId": "act_033_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "الرضا بقضاء الله ورسوله وحكمة زواج النبي من زينب وتأكيد أنه خاتم النبيين."
+  }
+}

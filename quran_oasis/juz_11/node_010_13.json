@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_010_13",
+  "title": "سورة يونس - الآيات 73-78",
+  "surahId": 10,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْمُنذَرِينَ",
+        "ٱلْمُعْتَدِينَ",
+        "ٱلْكِبْرِيَآءُ",
+        "بِمُؤْمِنِينَ"
+      ],
+      "activityId": "act_010_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_010_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 22,
+      "options": [
+        "ٱلْمُعْتَدِينَ",
+        "ٱلْمُنذَرِينَ",
+        "ٱلْكِبْرِيَآءُ",
+        "ٱلسَّـٰحِرُونَ"
+      ],
+      "activityId": "act_010_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_010_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 11,
+      "options": [
+        "فَٱسْتَكْبَرُوا۟",
+        "ٱلْمُعْتَدِينَ",
+        "ٱلْمُنذَرِينَ",
+        "ٱلْكِبْرِيَآءُ"
+      ],
+      "activityId": "act_010_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_010_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 2,
+      "options": [
+        "جَآءَهُمُ",
+        "فِرْعَوْنَ",
+        "قَوْمِهِمْ",
+        "كَذَّبُوا۟"
+      ],
+      "activityId": "act_010_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_010_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 3,
+      "options": [
+        "أَتَقُولُونَ",
+        "ءَابَآءَنَا",
+        "فَجَآءُوهُم",
+        "لِتَلْفِتَنَا"
+      ],
+      "activityId": "act_010_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_010_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْكِبْرِيَآءُ",
+        "ٱلْمُعْتَدِينَ",
+        "ٱلْمُنذَرِينَ",
+        "بِٱلْبَيِّنَـٰتِ"
+      ],
+      "activityId": "act_010_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يونس",
+    "juz": 11,
+    "theme": "تقرير وحدانية الله وصدق الوحي، وعرض دلائل القدرة والبعث، وقصص نوح وموسى ويونس عليهم السلام، وبيان عاقبة الإيمان والتكذيب."
+  }
+}

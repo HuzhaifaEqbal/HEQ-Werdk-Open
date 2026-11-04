@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_034_02",
+  "title": "سورة سبأ - الآيات 6-9",
+  "surahId": 34,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "بِمَآ",
+        "ٱلَّذِى",
+        "رَّبِّكَ",
+        "ٱلْأَرْضِ"
+      ],
+      "activityId": "act_034_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 7,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قُلْ إِنَّ رَبِّى"
+        }
+      ],
+      "activityId": "act_034_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 8,
+      "options": [
+        "ءَامَنَ",
+        "إِذَا",
+        "قُلِ",
+        "مِّن"
+      ],
+      "activityId": "act_034_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "وَمَا كَانَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "يَعْمَلُونَ لَهُۥ مَا"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_034_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 7,
+      "options": [
+        "خَيْرُ",
+        "دُونِ",
+        "مِّن",
+        "بَلِ"
+      ],
+      "activityId": "act_034_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَفَلَمْ يَرَوْا۟ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَمَآ أَمْوَٰلُكُمْ وَلَآ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَوْ تَرَىٰٓ إِذْ"
+        }
+      ],
+      "activityId": "act_034_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 15,
+      "options": [
+        "ٱلْأَرْضَ",
+        "عِندَنَا",
+        "عَذَابِ",
+        "عِندَهُۥٓ"
+      ],
+      "activityId": "act_034_02_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "إنكار الكافرين للبعث وافترائهم على النبي والتذكير بآيات السماء والأرض."
+  }
+}

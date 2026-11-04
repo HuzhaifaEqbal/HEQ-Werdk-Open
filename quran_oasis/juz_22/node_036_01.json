@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_01",
+  "title": "سورة يس - الآيات 1-6",
+  "surahId": 36,
+  "ayahStart": 1,
+  "ayahEnd": 6,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "مِنْ",
+        "يسٓ",
+        "وَمَا",
+        "لَآ"
+      ],
+      "activityId": "act_036_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ"
+        }
+      ],
+      "activityId": "act_036_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْحَكِيمِ",
+        "يَأْتِيهِم",
+        "رَزَقَكُمُ",
+        "يَـٰقَوْمِ"
+      ],
+      "activityId": "act_036_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذَا قِيلَ لَهُمْ"
+        }
+      ],
+      "activityId": "act_036_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلَّتِى",
+        "يَرَ",
+        "قَالَ",
+        "لَمِنَ"
+      ],
+      "activityId": "act_036_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 4,
+          "text": "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "لِّيُنذِرَ مَن كَانَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "لَا ٱلشَّمْسُ يَنۢبَغِى"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ"
+        }
+      ],
+      "activityId": "act_036_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 1,
+      "options": [
+        "مَّثَلًا",
+        "إِنَّمَا",
+        "ٱلَّذِى",
+        "صِرَٰطٍۢ"
+      ],
+      "activityId": "act_036_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "هُمْ وَأَزْوَٰجُهُمْ فِى"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ"
+        }
+      ],
+      "activityId": "act_036_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 1,
+      "options": [
+        "أَنشَأَهَآ",
+        "أَلِيمٌۭ",
+        "فَسُبْحَـٰنَ",
+        "ٱلْعَزِيزِ"
+      ],
+      "activityId": "act_036_01_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 5,
+      "correctNextAyahNumber": 6,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَءَايَةٌۭ لَّهُمُ ٱلْأَرْضُ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "لِتُنذِرَ قَوْمًۭا مَّآ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلًا"
+        }
+      ],
+      "activityId": "act_036_01_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "أُنذِرَ",
+        "وَأَنِ",
+        "ٱتَّقُوا۟",
+        "شَىْءٍۢ"
+      ],
+      "activityId": "act_036_01_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 22,
+    "theme": "القسم بالقرآن الحكيم وتأكيد رسالة النبي ﷺ وإنذار الغافلين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_018_11",
+  "title": "سورة الكهف - الآيات 60-64",
+  "surahId": 18,
+  "ayahStart": 60,
+  "ayahEnd": 64,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 9,
+      "options": [
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْحَدِيدِ ۖ",
+        "ٱلْحُسْنَىٰ ۖ",
+        "ٱلْحِزْبَيْنِ"
+      ],
+      "activityId": "act_018_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "فَلَمَّا بَلَغَا مَجْمَعَ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "فَلَمَّا جَاوَزَا قَالَ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "خَـٰلِدِينَ فِيهَا لَا"
+        }
+      ],
+      "activityId": "act_018_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 3,
+      "options": [
+        "بَيْنِهِمَا",
+        "دُونِهِمَا",
+        "ذِرَاعَيْهِ",
+        "رَّابِعُهُمْ"
+      ],
+      "activityId": "act_018_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "فَلَمَّا جَاوَزَا قَالَ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذْ قَالَ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ لَهُۥ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قَالَ إِنَّكَ لَن"
+        }
+      ],
+      "activityId": "act_018_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 5,
+      "options": [
+        "غَدَآءَنَا",
+        "رَّحْمَتِهِۦ",
+        "سَأَتْلُوا۟",
+        "سَأُنَبِّئُكَ"
+      ],
+      "activityId": "act_018_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ أَرَءَيْتَ إِذْ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "قَالَ سَتَجِدُنِىٓ إِن"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "قَالَ فَإِنِ ٱتَّبَعْتَنِى"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قَالَ أَلَمْ أَقُلْ"
+        }
+      ],
+      "activityId": "act_018_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 10,
+      "options": [
+        "أَنسَىٰنِيهُ",
+        "ٱلْعَذَابَ ۚ",
+        "ٱلْفِرْدَوْسِ",
+        "ٱلْقَرْنَيْنِ"
+      ],
+      "activityId": "act_018_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "قَالَ ذَٰلِكَ مَا"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "قَالَ مَا مَكَّنِّى"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "قَالَ لَا تُؤَاخِذْنِى"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "قَالَ إِن سَأَلْتُكَ"
+        }
+      ],
+      "activityId": "act_018_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 7,
+      "options": [
+        "ءَاثَارِهِمَا",
+        "يَنصُرُونَهُۥ",
+        "يُضَيِّفُوهُمَا",
+        "ٱلْأَرَآئِكِ ۚ"
+      ],
+      "activityId": "act_018_11_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_027_08",
+  "title": "سورة النمل - الآيات 41-45",
+  "surahId": 27,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 5,
+      "options": [
+        "أَتَهْتَدِىٓ",
+        "حَاجِزًا ۗ",
+        "دَاوُۥدَ ۖ",
+        "دَمَّرْنَـٰهُمْ"
+      ],
+      "activityId": "act_027_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "فَلَمَّا جَآءَتْ قِيلَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "فَلَمَّا جَآءَتْهُمْ ءَايَـٰتُنَا"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "فَلَمَّا جَآءَهَا نُودِىَ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "فَلَمَّا جَآءَ سُلَيْمَـٰنَ"
+        }
+      ],
+      "activityId": "act_027_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 8,
+      "options": [
+        "وَأُوتِينَا",
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْحَسَنَةِ ۖ",
+        "ٱلْعَـٰلَمِينَ"
+      ],
+      "activityId": "act_027_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "وَصَدَّهَا مَا كَانَت"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَإِنَّ رَبَّكَ لَيَعْلَمُ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "فَٱنظُرْ كَيْفَ كَانَ"
+        }
+      ],
+      "activityId": "act_027_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 0,
+      "options": [
+        "وَصَدَّهَا",
+        "ءَآللَّهُ",
+        "أَئِنَّكُمْ",
+        "أَتْلُوَا۟"
+      ],
+      "activityId": "act_027_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "قِيلَ لَهَا ٱدْخُلِى"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "فَلَمَّا جَآءَتْ قِيلَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "قَالَ نَكِّرُوا۟ لَهَا"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ"
+        }
+      ],
+      "activityId": "act_027_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 10,
+      "options": [
+        "سَاقَيْهَا ۚ",
+        "ٱلْغَـٰبِرِينَ",
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "ٱلْقُرْءَانِ"
+      ],
+      "activityId": "act_027_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَلُوطًا إِذْ قَالَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        }
+      ],
+      "activityId": "act_027_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 12,
+      "options": [
+        "يَخْتَصِمُونَ",
+        "ٱلْكَـٰذِبِينَ",
+        "ٱلْمَدِينَةِ",
+        "ٱمْرَأَتَهُۥ"
+      ],
+      "activityId": "act_027_08_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_06",
+  "title": "سورة الكهف - الآيات 31-36",
+  "surahId": 18,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 23,
+      "options": [
+        "ٱلْأَرَآئِكِ ۚ",
+        "ٱلْقَرْنَيْنِ ۖ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُجْرِمُونَ"
+      ],
+      "activityId": "act_018_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "۞ وَٱضْرِبْ لَهُم مَّثَلًۭا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلَ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "مَّا لَهُم بِهِۦ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَكَانَ لَهُۥ ثَمَرٌۭ"
+        }
+      ],
+      "activityId": "act_018_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 9,
+      "options": [
+        "وَحَفَفْنَـٰهُمَا",
+        "ٱلْأَرَآئِكِ ۚ",
+        "ٱلْمُجْرِمِينَ",
+        "ٱلْمُرْسَلِينَ"
+      ],
+      "activityId": "act_018_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "قَالَ لَهُۥ صَاحِبُهُۥ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "لَّـٰكِنَّا۠ هُوَ ٱللَّهُ"
+        }
+      ],
+      "activityId": "act_018_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْجَنَّتَيْنِ",
+        "وَثَامِنُهُمْ",
+        "وَحَشَرْنَـٰهُمْ",
+        "وَذُرِّيَّتَهُۥٓ"
+      ],
+      "activityId": "act_018_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "وَكَانَ لَهُۥ ثَمَرٌۭ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَلَمْ تَكُن لَّهُۥ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ لَهُۥ مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "قَالَ لَهُۥ صَاحِبُهُۥ"
+        }
+      ],
+      "activityId": "act_018_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 6,
+      "options": [
+        "يُحَاوِرُهُۥٓ",
+        "وَلِقَآئِهِۦ",
+        "وَلْيَتَلَطَّفْ",
+        "وَنُقَلِّبُهُمْ"
+      ],
+      "activityId": "act_018_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "قَالَ لَهُۥ صَاحِبُهُۥ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "أَوْ يُصْبِحَ مَآؤُهَا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ"
+        }
+      ],
+      "activityId": "act_018_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 4,
+      "options": [
+        "لِّنَفْسِهِۦ",
+        "بَيْنَهُمَا",
+        "بَيْنَهُمْ ۚ",
+        "بُنْيَـٰنًۭا ۖ"
+      ],
+      "activityId": "act_018_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "وَمَآ أَظُنُّ ٱلسَّاعَةَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَمَا مَنَعَ ٱلنَّاسَ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "وَإِذِ ٱعْتَزَلْتُمُوهُمْ وَمَا"
+        }
+      ],
+      "activityId": "act_018_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلسَّاعَةَ",
+        "بِتَأْوِيلِ",
+        "بِثَمَرِهِۦ",
+        "بِعِبَادَةِ"
+      ],
+      "activityId": "act_018_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 15,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

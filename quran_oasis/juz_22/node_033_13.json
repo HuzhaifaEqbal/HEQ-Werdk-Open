@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_13",
+  "title": "سورة الأحزاب - الآيات 60-64",
+  "surahId": 33,
+  "ayahStart": 60,
+  "ayahEnd": 64,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 60,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمَدِينَةِ",
+        "يَـٰنِسَآءَ",
+        "مُّهِينًۭا",
+        "أَعْمَـٰلَكُمْ"
+      ],
+      "activityId": "act_033_13_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 60,
+      "correctNextAyahNumber": 61,
+      "options": [
+        {
+          "ayahNumber": 61,
+          "text": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "سُنَّةَ ٱللَّهِ فِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "مَّا كَانَ عَلَى"
+        }
+      ],
+      "activityId": "act_033_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 3,
+      "options": [
+        "أَخْطَأْتُم",
+        "فُرُوجَهُمْ",
+        "أُخِذُوا۟",
+        "دُعِيتُمْ"
+      ],
+      "activityId": "act_033_13_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 60,
+          "text": "۞ لَّئِن لَّمْ يَنتَهِ"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "سُنَّةَ ٱللَّهِ فِى"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِذْ جَآءُوكُم مِّن"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "۞ تُرْجِى مَن تَشَآءُ"
+        }
+      ],
+      "activityId": "act_033_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 7,
+      "options": [
+        "لَّمْ",
+        "بِهِۦ",
+        "عَنِ",
+        "وَلَن"
+      ],
+      "activityId": "act_033_13_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ"
+        }
+      ],
+      "activityId": "act_033_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 7,
+      "options": [
+        "عِندَ",
+        "لَّكَ",
+        "قَضَى",
+        "مَن"
+      ],
+      "activityId": "act_033_13_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "إِنَّ ٱللَّهَ لَعَنَ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَٱذْكُرْنَ مَا يُتْلَىٰ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذْ قَالَت طَّآئِفَةٌۭ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ"
+        }
+      ],
+      "activityId": "act_033_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "وَٱلْحَـٰفِظِينَ",
+        "ٱلْكَـٰفِرِينَ",
+        "لِقُلُوبِكُمْ",
+        "أَدْعِيَآءَكُمْ"
+      ],
+      "activityId": "act_033_13_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "وعيد المنافقين والمرجفين في المدينة وبيان سؤال الناس عن الساعة."
+  }
+}

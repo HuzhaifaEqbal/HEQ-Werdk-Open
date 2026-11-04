@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_025_14",
+  "title": "سورة الفرقان - الآيات 73-77",
+  "surahId": 25,
+  "ayahStart": 73,
+  "ayahEnd": 77,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 9,
+      "options": [
+        "وَعُمْيَانًۭا",
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْجَـٰهِلُونَ",
+        "ٱلْفُرْقَانَ"
+      ],
+      "activityId": "act_025_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 74,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَٱلَّذِينَ لَا يَشْهَدُونَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "وَٱلَّذِينَ إِذَآ أَنفَقُوا۟"
+        }
+      ],
+      "activityId": "act_025_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 7,
+      "options": [
+        "وَذُرِّيَّـٰتِنَا",
+        "ٱلْقُرْءَانَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمَلَـٰٓئِكَةُ"
+      ],
+      "activityId": "act_025_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 75,
+          "text": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "فَقَدْ كَذَّبُوكُم بِمَا"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "قُلْ مَا يَعْبَؤُا۟"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "فَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        }
+      ],
+      "activityId": "act_025_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْغُرْفَةَ",
+        "ٱتَّخَذُوا۟",
+        "ٱسْجُدُوا۟",
+        "ٱفْتَرَىٰهُ"
+      ],
+      "activityId": "act_025_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "options": [
+        {
+          "ayahNumber": 76,
+          "text": "خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "إِنَّهَا سَآءَتْ مُسْتَقَرًّۭا"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَوْ شِئْنَا لَبَعَثْنَا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "ثُمَّ قَبَضْنَـٰهُ إِلَيْنَا"
+        }
+      ],
+      "activityId": "act_025_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 3,
+      "options": [
+        "مُسْتَقَرًّۭا",
+        "ٱلرَّحْمَـٰنُ",
+        "ٱلرَّسُولِ",
+        "ٱلسَّبِيلَ"
+      ],
+      "activityId": "act_025_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "options": [
+        {
+          "ayahNumber": 77,
+          "text": "قُلْ مَا يَعْبَؤُا۟"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "قُلْ مَآ أَسْـَٔلُكُمْ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "قُلْ أَنزَلَهُ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قُلْ أَذَٰلِكَ خَيْرٌ"
+        }
+      ],
+      "activityId": "act_025_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 6,
+      "options": [
+        "دُعَآؤُكُمْ ۖ",
+        "ءَاخَرُونَ ۖ",
+        "ءَالِهَتِنَا",
+        "أَغْرَقْنَـٰهُمْ"
+      ],
+      "activityId": "act_025_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

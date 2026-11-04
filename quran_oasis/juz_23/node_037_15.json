@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_037_15",
+  "title": "سورة الصافات - الآيات 85-90",
+  "surahId": 37,
+  "ayahStart": 85,
+  "ayahEnd": 90,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 3,
+      "options": [
+        "وَتَوَلَّ",
+        "وَقَوْمِهِۦ",
+        "يَعْلَمُونَ",
+        "ٱلنَّعِيمِ"
+      ],
+      "activityId": "act_037_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "options": [
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "فَهُمْ عَلَىٰٓ ءَاثَـٰرِهِمْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "أَئِفْكًا ءَالِهَةًۭ دُونَ"
+        }
+      ],
+      "activityId": "act_037_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 2,
+      "options": [
+        "لَكُمْ",
+        "لَوْ",
+        "دُونَ",
+        "قَوْلُ"
+      ],
+      "activityId": "act_037_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "options": [
+        {
+          "ayahNumber": 151,
+          "text": "أَلَآ إِنَّهُم مِّنْ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِنَّ هَـٰذَا لَهُوَ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "فَمَا ظَنُّكُم بِرَبِّ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ"
+        }
+      ],
+      "activityId": "act_037_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 2,
+      "options": [
+        "أَكْثَرُ",
+        "نَفْعَلُ",
+        "خَيْرٌۭ",
+        "بِرَبِّ"
+      ],
+      "activityId": "act_037_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "options": [
+        {
+          "ayahNumber": 88,
+          "text": "فَنَظَرَ نَظْرَةًۭ فِى"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "قَالَ هَلْ أَنتُم"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 170,
+          "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ"
+        }
+      ],
+      "activityId": "act_037_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 1,
+      "options": [
+        "إِنَّهُۥ",
+        "نَظْرَةًۭ",
+        "لَّازِبٍۭ",
+        "يَنظُرُونَ"
+      ],
+      "activityId": "act_037_15_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَإِذَا رَأَوْا۟ ءَايَةًۭ"
+        },
+        {
+          "ayahNumber": 89,
+          "text": "فَقَالَ إِنِّى سَقِيمٌۭ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "فَمَا ظَنُّكُم بِرَبِّ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "فِى جَنَّـٰتِ ٱلنَّعِيمِ"
+        }
+      ],
+      "activityId": "act_037_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 1,
+      "options": [
+        "مَاذَا",
+        "سَلَـٰمٌ",
+        "أَوْ",
+        "إِنِّى"
+      ],
+      "activityId": "act_037_15_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "options": [
+        {
+          "ayahNumber": 90,
+          "text": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لِقَوْمِهِۦٓ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "فَٱطَّلَعَ فَرَءَاهُ فِى"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        }
+      ],
+      "activityId": "act_037_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 1,
+      "options": [
+        "لِمِثْلِ",
+        "عَنْهُ",
+        "وَهُوَ",
+        "هَـٰذَآ"
+      ],
+      "activityId": "act_037_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "إنكار إبراهيم على قومه عبادة الأصنام ونظره في النجوم."
+  }
+}

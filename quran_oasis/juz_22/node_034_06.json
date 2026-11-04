@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_034_06",
+  "title": "سورة سبأ - الآيات 25-30",
+  "surahId": 34,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 5,
+      "options": [
+        "إِنْ",
+        "وَلَا",
+        "يُعِيدُ",
+        "خَرَّ"
+      ],
+      "activityId": "act_034_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟"
+        }
+      ],
+      "activityId": "act_034_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 5,
+      "options": [
+        "وَيَرَى",
+        "إِنَّهُۥ",
+        "يَفْتَحُ",
+        "إِلَىٰ"
+      ],
+      "activityId": "act_034_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "قُلْ أَرُونِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "فَٱلْيَوْمَ لَا يَمْلِكُ"
+        }
+      ],
+      "activityId": "act_034_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 6,
+      "options": [
+        "بِهَـٰذَا",
+        "أَعْنَاقِ",
+        "كَلَّا ۚ",
+        "فَلَمَّا"
+      ],
+      "activityId": "act_034_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قُلْ يَجْمَعُ بَيْنَنَا"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَلَوْ تَرَىٰٓ إِذْ"
+        }
+      ],
+      "activityId": "act_034_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 5,
+      "options": [
+        "بَشِيرًۭا",
+        "ٱلْجِنَّ ۖ",
+        "جَآءَهُمْ",
+        "رَبُّنَا"
+      ],
+      "activityId": "act_034_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "قُلْ إِنَّ رَبِّى"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "يَعْلَمُ مَا يَلِجُ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        }
+      ],
+      "activityId": "act_034_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "يُجْزَوْنَ",
+        "كَآفَّةًۭ",
+        "ٱلْوَعْدُ",
+        "تُتْلَىٰ"
+      ],
+      "activityId": "act_034_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "فَلَمَّا قَضَيْنَا عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "قُل لَّكُم مِّيعَادُ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَمَآ أَمْوَٰلُكُمْ وَلَآ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ"
+        }
+      ],
+      "activityId": "act_034_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 5,
+      "options": [
+        "تَسْتَـْٔخِرُونَ",
+        "أَرْسَلْنَـٰكَ",
+        "أَهَـٰٓؤُلَآءِ",
+        "ءَاتَيْنَـٰهُم"
+      ],
+      "activityId": "act_034_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "بيان مصدر الرزق وتبرئة الملائكة من عبادة المشركين لهم وتقرير حقيقة العدل الإلهي."
+  }
+}

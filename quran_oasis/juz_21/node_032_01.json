@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_01",
+  "title": "سورة السجدة - الآيات 1-5",
+  "surahId": 32,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 0,
+      "options": [
+        "إِذَا",
+        "وَمَا",
+        "الٓمٓ",
+        "كَمَن"
+      ],
+      "activityId": "act_032_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَفَمَن كَانَ مُؤْمِنًۭا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "أَوَلَمْ يَهْدِ لَهُمْ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ لَا"
+        }
+      ],
+      "activityId": "act_032_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 4,
+      "options": [
+        "لَكُم",
+        "شَىْءٍ",
+        "۞ قُلْ",
+        "فِيهِ"
+      ],
+      "activityId": "act_032_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "وَيَقُولُونَ مَتَىٰ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَأَمَّا ٱلَّذِينَ فَسَقُوا۟"
+        }
+      ],
+      "activityId": "act_032_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 9,
+      "options": [
+        "سُجَّدًۭا",
+        "أَنَّا",
+        "قَوْمًۭا",
+        "جَزَآءًۢ"
+      ],
+      "activityId": "act_032_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 13,
+          "text": "وَلَوْ شِئْنَا لَـَٔاتَيْنَا"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ لَا"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَ"
+        }
+      ],
+      "activityId": "act_032_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 11,
+      "options": [
+        "سَوَّىٰهُ",
+        "جَنَّـٰتُ",
+        "ٱسْتَوَىٰ",
+        "رَّبِّكَ"
+      ],
+      "activityId": "act_032_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "يُدَبِّرُ ٱلْأَمْرَ مِنَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "فَلَا تَعْلَمُ نَفْسٌۭ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "ثُمَّ جَعَلَ نَسْلَهُۥ"
+        }
+      ],
+      "activityId": "act_032_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 8,
+      "options": [
+        "صَـٰلِحًا",
+        "ٱلَّذِى",
+        "إِلَيْهِ",
+        "إِنَّمَا"
+      ],
+      "activityId": "act_032_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "تنزيل الكتاب وتدبير الأمر من السماء إلى الأرض في يوم مقداره ألف سنة."
+  }
+}

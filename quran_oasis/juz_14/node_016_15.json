@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_15",
+  "title": "سورة النحل - الآيات 85-90",
+  "surahId": 16,
+  "ayahStart": 85,
+  "ayahEnd": 90,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 85,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْعَذَابَ",
+        "أَشْرَكُوا۟",
+        "بِٱلْعَدْلِ",
+        "وَإِيتَآئِ"
+      ],
+      "activityId": "act_016_15_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 85,
+      "correctNextAyahNumber": 86,
+      "wrongOptionsAyahNumbers": [
+        87,
+        83
+      ],
+      "activityId": "act_016_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 86,
+      "missingWordPosition": 5,
+      "options": [
+        "شُرَكَآءَهُمْ",
+        "أَنفُسِهِمْ ۖ",
+        "وَٱلْإِحْسَـٰنِ",
+        "وَٱلْبَغْىِ ۚ"
+      ],
+      "activityId": "act_016_15_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 86,
+      "correctNextAyahNumber": 87,
+      "wrongOptionsAyahNumbers": [
+        88,
+        84
+      ],
+      "activityId": "act_016_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 87,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلسَّلَمَ ۖ",
+        "يُفْسِدُونَ",
+        "ٱلْقُرْبَىٰ",
+        "تَذَكَّرُونَ"
+      ],
+      "activityId": "act_016_15_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 87,
+      "correctNextAyahNumber": 88,
+      "wrongOptionsAyahNumbers": [
+        89,
+        85
+      ],
+      "activityId": "act_016_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 88,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْعَذَابِ",
+        "يُنظَرُونَ",
+        "يَفْتَرُونَ",
+        "ٱلسَّلَمَ ۖ"
+      ],
+      "activityId": "act_016_15_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 88,
+      "correctNextAyahNumber": 89,
+      "wrongOptionsAyahNumbers": [
+        90,
+        86
+      ],
+      "activityId": "act_016_15_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 89,
+      "missingWordPosition": 24,
+      "options": [
+        "لِلْمُسْلِمِينَ",
+        "شُرَكَآءَهُمْ",
+        "شُرَكَآؤُنَا",
+        "ٱلْفَحْشَآءِ"
+      ],
+      "activityId": "act_016_15_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 89,
+      "correctNextAyahNumber": 90,
+      "wrongOptionsAyahNumbers": [
+        91,
+        87
+      ],
+      "activityId": "act_016_15_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 90,
+      "missingWordPosition": 5,
+      "options": [
+        "وَٱلْإِحْسَـٰنِ",
+        "شُرَكَآءَهُمْ",
+        "أَنفُسِهِمْ ۖ",
+        "شُرَكَآؤُنَا"
+      ],
+      "activityId": "act_016_15_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

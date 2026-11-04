@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_034_05",
+  "title": "سورة سبأ - الآيات 20-24",
+  "surahId": 34,
+  "ayahStart": 20,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 5,
+      "options": [
+        "يَحْشُرُهُمْ",
+        "ٱعْمَلُوٓا۟",
+        "فَأَرْسَلْنَا",
+        "فَٱتَّبَعُوهُ"
+      ],
+      "activityId": "act_034_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَمَا كَانَ لَهُۥ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَمَآ ءَاتَيْنَـٰهُم مِّن"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟"
+        }
+      ],
+      "activityId": "act_034_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 10,
+      "options": [
+        "وَأَوْلَـٰدًۭا",
+        "فَجَعَلْنَـٰهُمْ",
+        "تُقَرِّبُكُمْ",
+        "بِٱلْـَٔاخِرَةِ"
+      ],
+      "activityId": "act_034_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "أَفْتَرَىٰ عَلَى ٱللَّهِ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ"
+        }
+      ],
+      "activityId": "act_034_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 13,
+      "options": [
+        "وَلَا",
+        "شَكٍّۢ",
+        "إِلَّا",
+        "عَلَىٰ"
+      ],
+      "activityId": "act_034_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "وَلَا تَنفَعُ ٱلشَّفَـٰعَةُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "لَقَدْ كَانَ لِسَبَإٍۢ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قُل لَّا تُسْـَٔلُونَ"
+        }
+      ],
+      "activityId": "act_034_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 10,
+      "options": [
+        "نَذِيرٌۭ",
+        "مِثْقَالُ",
+        "فُزِّعَ",
+        "بِهِۦ"
+      ],
+      "activityId": "act_034_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "۞ قُلْ مَن يَرْزُقُكُم"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "قُلْ إِنَّ رَبِّى"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا"
+        }
+      ],
+      "activityId": "act_034_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 8,
+      "options": [
+        "وَيَرَى",
+        "وَإِنَّآ",
+        "حَتَّىٰٓ",
+        "عَبْدٍۢ"
+      ],
+      "activityId": "act_034_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "سبأ",
+    "juz": 22,
+    "theme": "تحقق ظن إبليس بأهل سبأ وعجز الشركاء المزعومين عن جلب النفع أو دفع الضر."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_039_02",
+  "title": "سورة الزمر - الآيات 6-9",
+  "surahId": 39,
+  "ayahStart": 6,
+  "ayahEnd": 9,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 18,
+      "options": [
+        "بُطُونِ",
+        "خَلْقًۭا",
+        "هُوَ ۖ",
+        "فَبَشِّرْ"
+      ],
+      "activityId": "act_039_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "لَّهُۥ مَقَالِيدُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "وَنُفِخَ فِى ٱلصُّورِ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِن تَكْفُرُوا۟ فَإِنَّ"
+        }
+      ],
+      "activityId": "act_039_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 16,
+      "options": [
+        "كَـٰشِفَـٰتُ",
+        "يُشْرِكُونَ",
+        "كَفَرُوٓا۟",
+        "وَازِرَةٌۭ"
+      ],
+      "activityId": "act_039_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 31,
+          "text": "ثُمَّ إِنَّكُمْ يَوْمَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "۞ وَإِذَا مَسَّ ٱلْإِنسَـٰنَ"
+        }
+      ],
+      "activityId": "act_039_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 16,
+      "options": [
+        "يَدْعُوٓا۟",
+        "وَلَعَذَابُ",
+        "فَسَوْفَ",
+        "ٱلرِّزْقَ"
+      ],
+      "activityId": "act_039_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَمَّنْ هُوَ قَـٰنِتٌ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "أَفَمَنْ حَقَّ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "قُلِ ٱللَّهَ أَعْبُدُ"
+        }
+      ],
+      "activityId": "act_039_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 11,
+      "options": [
+        "رَبِّهِۦ ۗ",
+        "ٱنتِقَامٍۢ",
+        "دَعَانَا",
+        "سَبِيلِهِۦ ۚ"
+      ],
+      "activityId": "act_039_02_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 23,
+    "theme": "خلق الإنسان من نفس واحدة وأطوار خلقه في الأرحام والتذكير بكفر الإنسان وشكره."
+  }
+}

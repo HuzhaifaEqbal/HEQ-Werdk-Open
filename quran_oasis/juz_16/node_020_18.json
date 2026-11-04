@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_020_18",
+  "title": "سورة طه - الآيات 103-108",
+  "surahId": 20,
+  "ayahStart": 103,
+  "ayahEnd": 108,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 0,
+      "options": [
+        "يَتَخَـٰفَتُونَ",
+        "فَأَلْقَىٰهَا",
+        "فَتَنَـٰزَعُوٓا۟",
+        "فَقَذَفْنَـٰهَا"
+      ],
+      "activityId": "act_020_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "نَّحْنُ أَعْلَمُ بِمَا"
+        },
+        {
+          "ayahNumber": 130,
+          "text": "فَٱصْبِرْ عَلَىٰ مَا"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالَ بَصُرْتُ بِمَا"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا"
+        }
+      ],
+      "activityId": "act_020_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 3,
+      "options": [
+        "يَقُولُونَ",
+        "ٱلشَّفَـٰعَةُ",
+        "ٱلشَّيْطَـٰنُ",
+        "ٱلصَّـٰلِحَـٰتِ"
+      ],
+      "activityId": "act_020_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "options": [
+        {
+          "ayahNumber": 105,
+          "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَمَآ أَعْجَلَكَ عَن"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "وَمَنْ أَعْرَضَ عَن"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ"
+        }
+      ],
+      "activityId": "act_020_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَسْـَٔلُونَكَ",
+        "فَلَأُقَطِّعَنَّ",
+        "فَنَبَذْتُهَا",
+        "فَيُسْحِتَكُم"
+      ],
+      "activityId": "act_020_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "options": [
+        {
+          "ayahNumber": 106,
+          "text": "فَيَذَرُهَا قَاعًۭا صَفْصَفًۭا"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَأَنَّكَ لَا تَظْمَؤُا۟"
+        },
+        {
+          "ayahNumber": 120,
+          "text": "فَوَسْوَسَ إِلَيْهِ ٱلشَّيْطَـٰنُ"
+        },
+        {
+          "ayahNumber": 121,
+          "text": "فَأَكَلَا مِنْهَا فَبَدَتْ"
+        }
+      ],
+      "activityId": "act_020_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 0,
+      "options": [
+        "فَيَذَرُهَا",
+        "ٱلصَّلَوٰةَ",
+        "ٱلصُّورِ ۚ",
+        "ٱلنَّجْوَىٰ"
+      ],
+      "activityId": "act_020_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "options": [
+        {
+          "ayahNumber": 107,
+          "text": "لَّا تَرَىٰ فِيهَا"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَأَنَّكَ لَا تَظْمَؤُا۟"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "يَوْمَئِذٍۢ يَتَّبِعُونَ ٱلدَّاعِىَ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "يَوْمَئِذٍۢ لَّا تَنفَعُ"
+        }
+      ],
+      "activityId": "act_020_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 2,
+      "options": [
+        "فِيهَا",
+        "أَكَادُ",
+        "أَلْقَىٰ",
+        "أَمْرِى"
+      ],
+      "activityId": "act_020_18_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 107,
+      "correctNextAyahNumber": 108,
+      "options": [
+        {
+          "ayahNumber": 108,
+          "text": "يَوْمَئِذٍۢ يَتَّبِعُونَ ٱلدَّاعِىَ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "يَوْمَئِذٍۢ لَّا تَنفَعُ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "قُلْنَا لَا تَخَفْ"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "وَأَنَّكَ لَا تَظْمَؤُا۟"
+        }
+      ],
+      "activityId": "act_020_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْأَصْوَاتُ",
+        "فَٱعْبُدْنِى",
+        "فَٱقْذِفِيهِ",
+        "لَكَبِيرُكُمُ"
+      ],
+      "activityId": "act_020_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "طه",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع تنزيل القرآن، وقصة موسى وفرعون، ومشاهد القيامة، وأخبار آدم، وتوجيهات الثبات والعبادة والرجاء."
+  }
+}

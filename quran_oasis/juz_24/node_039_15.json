@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_039_15",
+  "title": "سورة الزمر - الآيات 72-75",
+  "surahId": 39,
+  "ayahStart": 72,
+  "ayahEnd": 75,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 72,
+      "missingWordPosition": 4,
+      "options": [
+        "أُوتِيتُهُۥ",
+        "شُرَكَآءُ",
+        "وَقَالُوا۟",
+        "خَـٰلِدِينَ"
+      ],
+      "activityId": "act_039_15_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 72,
+      "correctNextAyahNumber": 73,
+      "options": [
+        {
+          "ayahNumber": 69,
+          "text": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ"
+        },
+        {
+          "ayahNumber": 73,
+          "text": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "إِنَّآ أَنزَلْنَا عَلَيْكَ"
+        }
+      ],
+      "activityId": "act_039_15_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 10,
+      "options": [
+        "تَنزِيلُ",
+        "وَفُتِحَتْ",
+        "وَمِثْلَهُۥ",
+        "رَحْمَةَ"
+      ],
+      "activityId": "act_039_15_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "إِنَّآ أَنزَلْنَآ إِلَيْكَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "۞ فَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "لَهُم مِّن فَوْقِهِمْ"
+        }
+      ],
+      "activityId": "act_039_15_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 8,
+      "options": [
+        "إِنَّمَآ",
+        "نَتَبَوَّأُ",
+        "ٱلشَّفَـٰعَةُ",
+        "لِلنَّاسِ"
+      ],
+      "activityId": "act_039_15_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "أَمَّنْ هُوَ قَـٰنِتٌ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "۞ فَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 75,
+          "text": "وَتَرَى ٱلْمَلَـٰٓئِكَةَ حَآفِّينَ"
+        }
+      ],
+      "activityId": "act_039_15_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 8,
+      "options": [
+        "هَـٰذَا ۚ",
+        "۞ وَإِذَا",
+        "ظَلَمُوا۟",
+        "رَبِّهِمْ ۖ"
+      ],
+      "activityId": "act_039_15_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الزمر",
+    "juz": 24,
+    "theme": "سوق المتقين إلى الجنة زمراً وترحيب الملائكة بهم وحمد رب العالمين عند العرش."
+  }
+}

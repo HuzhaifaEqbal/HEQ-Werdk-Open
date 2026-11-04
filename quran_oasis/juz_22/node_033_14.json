@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_033_14",
+  "title": "سورة الأحزاب - الآيات 65-68",
+  "surahId": 33,
+  "ayahStart": 65,
+  "ayahEnd": 68,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 4,
+      "options": [
+        "وَخَاتَمَ",
+        "وَٱتَّبِعْ",
+        "أَبَدًۭا ۖ",
+        "يَجِدُونَ"
+      ],
+      "activityId": "act_033_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَوْ دُخِلَتْ عَلَيْهِم"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_033_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 6,
+      "options": [
+        "لِإِخْوَٰنِهِمْ",
+        "يَـٰلَيْتَنَآ",
+        "تُمَتَّعُونَ",
+        "أَخَوَٰتِهِنَّ"
+      ],
+      "activityId": "act_033_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 66,
+      "correctNextAyahNumber": 67,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "وَقَالُوا۟ رَبَّنَآ إِنَّآ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "قُلْ مَن ذَا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَإِذْ تَقُولُ لِلَّذِىٓ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن"
+        }
+      ],
+      "activityId": "act_033_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 67,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱمْرَأَةًۭ",
+        "قُلُوبِهِم",
+        "سَادَتَنَا",
+        "ٱلنَّبِىِّ ۚ"
+      ],
+      "activityId": "act_033_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 67,
+      "correctNextAyahNumber": 68,
+      "options": [
+        {
+          "ayahNumber": 68,
+          "text": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "قُلْ مَن ذَا"
+        }
+      ],
+      "activityId": "act_033_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 68,
+      "missingWordPosition": 4,
+      "options": [
+        "مِّنْهَا",
+        "صَـٰلِحًۭا",
+        "ٱلْعَذَابِ",
+        "بَعْضُهُمْ"
+      ],
+      "activityId": "act_033_14_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "ندم الكافرين يوم تقلب وجوههم في النار وأمنيتهم لو أطاعوا الله ورسوله."
+  }
+}

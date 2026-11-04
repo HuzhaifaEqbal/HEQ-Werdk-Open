@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_11",
+  "title": "سورة المؤمنون - الآيات 61-66",
+  "surahId": 23,
+  "ayahStart": 61,
+  "ayahEnd": 66,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 61,
+      "missingWordPosition": 1,
+      "options": [
+        "يُسَـٰرِعُونَ",
+        "لِلزَّكَوٰةِ",
+        "لَّخَـٰسِرُونَ",
+        "لَّيُصْبِحُنَّ"
+      ],
+      "activityId": "act_023_11_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 61,
+      "correctNextAyahNumber": 62,
+      "options": [
+        {
+          "ayahNumber": 62,
+          "text": "وَلَا نُكَلِّفُ نَفْسًا"
+        },
+        {
+          "ayahNumber": 114,
+          "text": "قَـٰلَ إِن لَّبِثْتُمْ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "إِنْ هُوَ إِلَّا"
+        }
+      ],
+      "activityId": "act_023_11_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 62,
+      "missingWordPosition": 4,
+      "options": [
+        "وُسْعَهَا ۖ",
+        "مَلُومِينَ",
+        "مُبْلِسُونَ",
+        "مُعْرِضُونَ"
+      ],
+      "activityId": "act_023_11_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 62,
+      "correctNextAyahNumber": 63,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "بَلْ قُلُوبُهُمْ فِى"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "بَلْ قَالُوا۟ مِثْلَ"
+        },
+        {
+          "ayahNumber": 90,
+          "text": "بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "نُسَارِعُ لَهُمْ فِى"
+        }
+      ],
+      "activityId": "act_023_11_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 63,
+      "missingWordPosition": 1,
+      "options": [
+        "قُلُوبُهُمْ",
+        "مُنكِرُونَ",
+        "مُّبَارَكًۭا",
+        "مُّخْرَجُونَ"
+      ],
+      "activityId": "act_023_11_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 63,
+      "correctNextAyahNumber": 64,
+      "options": [
+        {
+          "ayahNumber": 64,
+          "text": "حَتَّىٰٓ إِذَآ أَخَذْنَا"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "حَتَّىٰٓ إِذَا فَتَحْنَا"
+        },
+        {
+          "ayahNumber": 99,
+          "text": "حَتَّىٰٓ إِذَا جَآءَ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ"
+        }
+      ],
+      "activityId": "act_023_11_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 64,
+      "missingWordPosition": 3,
+      "options": [
+        "مُتْرَفِيهِم",
+        "مَوَٰزِينُهُۥ",
+        "وَأَكْثَرُهُمْ",
+        "وَأَنزَلْنَا"
+      ],
+      "activityId": "act_023_11_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 64,
+      "correctNextAyahNumber": 65,
+      "options": [
+        {
+          "ayahNumber": 65,
+          "text": "لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "ثُمَّ إِنَّكُمْ يَوْمَ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "ثُمَّ إِنَّكُم بَعْدَ"
+        }
+      ],
+      "activityId": "act_023_11_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 65,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْيَوْمَ ۖ",
+        "مُّسْتَقِيمٍۢ",
+        "مُّشْفِقُونَ",
+        "مُّغْرَقُونَ"
+      ],
+      "activityId": "act_023_11_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 65,
+      "correctNextAyahNumber": 66,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "قَدْ كَانَتْ ءَايَـٰتِى"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "أَلَمْ تَكُنْ ءَايَـٰتِى"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَلَوِ ٱتَّبَعَ ٱلْحَقُّ"
+        }
+      ],
+      "activityId": "act_023_11_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 66,
+      "missingWordPosition": 7,
+      "options": [
+        "أَعْقَـٰبِكُمْ",
+        "نُّسْقِيكُم",
+        "وَجَعَلْنَا",
+        "وَرَآئِهِم"
+      ],
+      "activityId": "act_023_11_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_09",
+  "title": "سورة ص - الآيات 49-53",
+  "surahId": 38,
+  "ayahStart": 49,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلصَّـٰفِنَـٰتُ",
+        "لِلْمُتَّقِينَ",
+        "ٱلْمِحْرَابَ",
+        "بِفَـٰكِهَةٍۢ"
+      ],
+      "activityId": "act_038_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍۢ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَءَاخَرِينَ مُقَرَّنِينَ فِى"
+        }
+      ],
+      "activityId": "act_038_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَشْرَارِ",
+        "ٱلْـَٔالِهَةَ",
+        "مُّفَتَّحَةًۭ",
+        "أَهْلَكْنَا"
+      ],
+      "activityId": "act_038_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "إِذْ دَخَلُوا۟ عَلَىٰ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَعَجِبُوٓا۟ أَن جَآءَهُم"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "مُتَّكِـِٔينَ فِيهَا يَدْعُونَ"
+        }
+      ],
+      "activityId": "act_038_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 3,
+      "options": [
+        "قَالُوا۟",
+        "ضِغْثًۭا",
+        "فِيهَا",
+        "شَكٍّۢ"
+      ],
+      "activityId": "act_038_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ ٱلطَّرْفِ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "يَـٰدَاوُۥدُ إِنَّا جَعَلْنَـٰكَ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَآ أَسْـَٔلُكُمْ"
+        }
+      ],
+      "activityId": "act_038_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 2,
+      "options": [
+        "عَبْدَنَآ",
+        "ٱلْأَيْدِ ۖ",
+        "وَمِثْلَهُم",
+        "ٱلطَّرْفِ"
+      ],
+      "activityId": "act_038_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 49,
+          "text": "هَـٰذَا ذِكْرٌۭ ۚ وَإِنَّ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "هَـٰذَا مَا تُوعَدُونَ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "وَإِنَّ لَهُۥ عِندَنَا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ"
+        }
+      ],
+      "activityId": "act_038_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 3,
+      "options": [
+        "لَشَىْءٌ",
+        "تَتَّبِعِ",
+        "خَيْرٌۭ",
+        "لِيَوْمِ"
+      ],
+      "activityId": "act_038_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "ذكر عباد الله إبراهيم وإسحاق ويعقوب أولي الأيدي والأبصار وإسماعيل واليسع وذا الكفل."
+  }
+}

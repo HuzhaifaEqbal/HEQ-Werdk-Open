@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_017_05",
+  "title": "سورة الإسراء - الآيات 25-30",
+  "surahId": 17,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 4,
+      "options": [
+        "نُفُوسِكُمْ ۚ",
+        "لِيُخْرِجُوكَ",
+        "لَّأَمْسَكْتُمْ",
+        "لَّٱبْتَغَوْا۟"
+      ],
+      "activityId": "act_017_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "وَءَاتِ ذَا ٱلْقُرْبَىٰ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَلَا تَقْفُ مَا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "وَلَا تَمْشِ فِى"
+        }
+      ],
+      "activityId": "act_017_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْمِسْكِينَ",
+        "وَلِتَعْلَمُوا۟",
+        "وَٱلْحِسَابَ ۚ",
+        "وَٱلْمَلَـٰٓئِكَةِ"
+      ],
+      "activityId": "act_017_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "إِنَّ عِبَادِى لَيْسَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ رَبَّكَ يَبْسُطُ"
+        }
+      ],
+      "activityId": "act_017_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْمُبَذِّرِينَ",
+        "وَٱلْمِسْكِينَ",
+        "يَسْتَطِيعُونَ",
+        "ٱلْأَوَّلُونَ ۚ"
+      ],
+      "activityId": "act_017_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "ذَٰلِكَ مِمَّآ أَوْحَىٰٓ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        }
+      ],
+      "activityId": "act_017_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱبْتِغَآءَ",
+        "أُوتِيتُم",
+        "إِحْسَـٰنًا ۚ",
+        "إِسْرَٰٓءِيلَ"
+      ],
+      "activityId": "act_017_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "وَلَا تَجْعَلْ يَدَكَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ"
+        }
+      ],
+      "activityId": "act_017_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 3,
+      "options": [
+        "مَغْلُولَةً",
+        "بَيْنَهُمْ ۚ",
+        "بِحَمْدِهِۦ",
+        "بِصَلَاتِكَ"
+      ],
+      "activityId": "act_017_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ رَبَّكَ يَبْسُطُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ"
+        }
+      ],
+      "activityId": "act_017_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 9,
+      "options": [
+        "بِعِبَادِهِۦ",
+        "لَّٱتَّخَذُوكَ",
+        "لِّتَبْتَغُوا۟",
+        "مُتْرَفِيهَا"
+      ],
+      "activityId": "act_017_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_017_14",
+  "title": "سورة الإسراء - الآيات 77-81",
+  "surahId": 17,
+  "ayahStart": 77,
+  "ayahEnd": 81,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 3,
+      "options": [
+        "أَرْسَلْنَا",
+        "ذُرِّيَّتَهُۥٓ",
+        "رَبَّيَانِى",
+        "رَحْمَتَهُۥ"
+      ],
+      "activityId": "act_017_14_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "options": [
+        {
+          "ayahNumber": 78,
+          "text": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "وَقُرْءَانًۭا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "وَيَقُولُونَ سُبْحَـٰنَ رَبِّنَآ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ"
+        }
+      ],
+      "activityId": "act_017_14_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلصَّلَوٰةَ",
+        "رُءُوسَهُمْ",
+        "رُّسُلِنَا ۖ",
+        "سُبْحَـٰنَهُۥ"
+      ],
+      "activityId": "act_017_14_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 78,
+      "correctNextAyahNumber": 79,
+      "options": [
+        {
+          "ayahNumber": 79,
+          "text": "وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "وَمَن يَهْدِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "وَمَنْ أَرَادَ ٱلْـَٔاخِرَةَ"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَمَن كَانَ فِى"
+        }
+      ],
+      "activityId": "act_017_14_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 79,
+      "missingWordPosition": 11,
+      "options": [
+        "مَّحْمُودًۭا",
+        "شَدِيدًۭا ۚ",
+        "عَلَيْهَا ۚ",
+        "عُنُقِهِۦ ۖ"
+      ],
+      "activityId": "act_017_14_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 79,
+      "correctNextAyahNumber": 80,
+      "options": [
+        {
+          "ayahNumber": 80,
+          "text": "وَقُل رَّبِّ أَدْخِلْنِى"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقُل لِّعِبَادِى يَقُولُوا۟"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 81,
+          "text": "وَقُلْ جَآءَ ٱلْحَقُّ"
+        }
+      ],
+      "activityId": "act_017_14_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 80,
+      "missingWordPosition": 5,
+      "options": [
+        "وَأَخْرِجْنِى",
+        "عَذَابَهُۥٓ ۚ",
+        "فَأَغْرَقْنَـٰهُ",
+        "فَدَمَّرْنَـٰهَا"
+      ],
+      "activityId": "act_017_14_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 80,
+      "correctNextAyahNumber": 81,
+      "options": [
+        {
+          "ayahNumber": 81,
+          "text": "وَقُلْ جَآءَ ٱلْحَقُّ"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "وَقُل لِّعِبَادِى يَقُولُوا۟"
+        },
+        {
+          "ayahNumber": 111,
+          "text": "وَقُلِ ٱلْحَمْدُ لِلَّهِ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "فَإِذَا جَآءَ وَعْدُ"
+        }
+      ],
+      "activityId": "act_017_14_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 81,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْبَـٰطِلُ ۚ",
+        "عِبَادِهِۦ",
+        "غَيْرَهُۥ ۖ",
+        "فَأُو۟لَـٰٓئِكَ"
+      ],
+      "activityId": "act_017_14_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الإسراء",
+    "juz": 15,
+    "theme": "يبيّن المقطع هداية القرآن، وآيات الله في خلقه وتدبيره، ومسؤولية الإنسان عن اختياره، ويقوده إلى التوحيد والعمل الصالح."
+  }
+}

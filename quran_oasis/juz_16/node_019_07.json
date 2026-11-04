@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_07",
+  "title": "سورة مريم - الآيات 37-42",
+  "surahId": 19,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْأَحْزَابُ",
+        "وَٱهْجُرْنِى",
+        "ٱعْتَزَلَهُمْ",
+        "ٱلشَّهَوَٰتِ ۖ"
+      ],
+      "activityId": "act_019_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "أَسْمِعْ بِهِمْ وَأَبْصِرْ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ"
+        }
+      ],
+      "activityId": "act_019_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 4,
+      "options": [
+        "يَأْتُونَنَا ۖ",
+        "وَٱلشَّيَـٰطِينَ",
+        "يَـٰٓإِبْرَٰهِيمُ ۖ",
+        "ٱلْفَرِيقَيْنِ"
+      ],
+      "activityId": "act_019_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "إِذْ نَادَىٰ رَبَّهُۥ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ"
+        }
+      ],
+      "activityId": "act_019_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 0,
+      "options": [
+        "وَأَنذِرْهُمْ",
+        "ٱلشَّيَـٰطِينَ",
+        "ٱلشَّيْطَـٰنَ ۖ",
+        "ٱلظَّـٰلِمُونَ"
+      ],
+      "activityId": "act_019_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "إِنَّا نَحْنُ نَرِثُ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "أَوَلَا يَذْكُرُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "أَلَمْ تَرَ أَنَّآ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ"
+        }
+      ],
+      "activityId": "act_019_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 6,
+      "options": [
+        "وَإِلَيْنَا",
+        "وَنَـٰدَيْنَـٰهُ",
+        "وَوَهَبْنَا",
+        "وَٱجْعَلْهُ"
+      ],
+      "activityId": "act_019_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ"
+        }
+      ],
+      "activityId": "act_019_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "إِبْرَٰهِيمَ ۚ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْأَحْزَابُ",
+        "ٱلْكَـٰفِرِينَ"
+      ],
+      "activityId": "act_019_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "إِذْ نَادَىٰ رَبَّهُۥ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "يَـٰٓأَبَتِ لَا تَعْبُدِ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "يَـٰٓأَبَتِ إِنِّىٓ أَخَافُ"
+        }
+      ],
+      "activityId": "act_019_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 2,
+      "options": [
+        "لِأَبِيهِ",
+        "بَعْدِهِمْ",
+        "بِدُعَآءِ",
+        "بِقُوَّةٍۢ ۖ"
+      ],
+      "activityId": "act_019_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

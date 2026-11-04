@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_035_09",
+  "title": "سورة فاطر - الآيات 41-45",
+  "surahId": 35,
+  "ayahStart": 41,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 10,
+      "options": [
+        "عَذَابِهَا ۚ",
+        "كَفَرُوا۟ ۖ",
+        "أَمْسَكَهُمَا",
+        "أُو۟لَـٰٓئِكَ"
+      ],
+      "activityId": "act_035_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "إِن تَدْعُوهُمْ لَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "ثُمَّ أَخَذْتُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَلَا تَزِرُ وَازِرَةٌۭ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ"
+        }
+      ],
+      "activityId": "act_035_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 9,
+      "options": [
+        "وَهُمْ",
+        "لَآ",
+        "مِنْ",
+        "وَمَا"
+      ],
+      "activityId": "act_035_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "ٱسْتِكْبَارًۭا فِى ٱلْأَرْضِ"
+        },
+        {
+          "ayahNumber": 5,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَٱللَّهُ خَلَقَكُم مِّن"
+        }
+      ],
+      "activityId": "act_035_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 13,
+      "options": [
+        "لَئِن",
+        "ٱلظِّلُّ",
+        "خَـٰلِقٍ",
+        "إِلَّا"
+      ],
+      "activityId": "act_035_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "مَّا يَفْتَحِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَمَا ذَٰلِكَ عَلَى"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "أَوَلَمْ يَسِيرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ"
+        }
+      ],
+      "activityId": "act_035_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْحَزَنَ ۖ",
+        "أُخْرَىٰ ۚ",
+        "ٱلصَّلَوٰةَ",
+        "قُوَّةًۭ ۚ"
+      ],
+      "activityId": "act_035_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَلَوْ يُؤَاخِذُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "مَّا يَفْتَحِ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "هُوَ ٱلَّذِى جَعَلَكُمْ"
+        }
+      ],
+      "activityId": "act_035_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 13,
+      "options": [
+        "كَفَرُوا۟ ۖ",
+        "حَسَرَٰتٍ ۚ",
+        "يُؤَخِّرُهُمْ",
+        "يُذْهِبْكُمْ"
+      ],
+      "activityId": "act_035_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فاطر",
+    "juz": 22,
+    "theme": "بيان خلافة الإنسان في الأرض وعجز آلهة المشركين وعظمة إمساك الله للسماوات والأرض."
+  }
+}

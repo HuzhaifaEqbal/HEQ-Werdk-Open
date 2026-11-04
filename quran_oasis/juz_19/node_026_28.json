@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_026_28",
+  "title": "سورة الشعراء - الآيات 158-162",
+  "surahId": 26,
+  "ayahStart": 158,
+  "ayahEnd": 162,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 158,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلْعَذَابُ ۗ",
+        "وَأَكْثَرُهُمْ",
+        "وَأَلْحِقْنِى",
+        "وَأَمْطَرْنَا"
+      ],
+      "activityId": "act_026_28_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 158,
+      "correctNextAyahNumber": 159,
+      "options": [
+        {
+          "ayahNumber": 159,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ"
+        },
+        {
+          "ayahNumber": 175,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ"
+        },
+        {
+          "ayahNumber": 140,
+          "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ"
+        }
+      ],
+      "activityId": "act_026_28_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 159,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَزِيزُ",
+        "ٱلْعَظِيمِ",
+        "ٱلْعَلِيمُ",
+        "ٱلْمَشْرِقِ"
+      ],
+      "activityId": "act_026_28_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 159,
+      "correctNextAyahNumber": 160,
+      "options": [
+        {
+          "ayahNumber": 160,
+          "text": "كَذَّبَتْ قَوْمُ لُوطٍ"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "كَذَّبَتْ قَوْمُ نُوحٍ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ"
+        },
+        {
+          "ayahNumber": 123,
+          "text": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ"
+        }
+      ],
+      "activityId": "act_026_28_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 160,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُرْسَلِينَ",
+        "فَأَخْرَجْنَـٰهُم",
+        "فَسَيَأْتِيهِمْ",
+        "لَمَعْزُولُونَ"
+      ],
+      "activityId": "act_026_28_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 160,
+      "correctNextAyahNumber": 161,
+      "options": [
+        {
+          "ayahNumber": 161,
+          "text": "إِذْ قَالَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 142,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ"
+        },
+        {
+          "ayahNumber": 124,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ"
+        }
+      ],
+      "activityId": "act_026_28_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 161,
+      "missingWordPosition": 3,
+      "options": [
+        "أَخُوهُمْ",
+        "كَذَّبُوا۟",
+        "كَذَّبُونِ",
+        "لَأَجْرًا"
+      ],
+      "activityId": "act_026_28_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 161,
+      "correctNextAyahNumber": 162,
+      "options": [
+        {
+          "ayahNumber": 162,
+          "text": "إِنِّى لَكُمْ رَسُولٌ"
+        },
+        {
+          "ayahNumber": 178,
+          "text": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ"
+        },
+        {
+          "ayahNumber": 135,
+          "text": "إِنِّىٓ أَخَافُ عَلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 216,
+          "text": "فَإِنْ عَصَوْكَ فَقُلْ"
+        }
+      ],
+      "activityId": "act_026_28_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 162,
+      "missingWordPosition": 2,
+      "options": [
+        "رَسُولٌ",
+        "بَرِىٓءٌۭ",
+        "بَغْتَةًۭ",
+        "بَنُونَ"
+      ],
+      "activityId": "act_026_28_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

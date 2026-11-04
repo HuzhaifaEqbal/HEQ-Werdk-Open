@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_027_04",
+  "title": "سورة النمل - الآيات 19-24",
+  "surahId": 27,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 19,
+      "options": [
+        "وَأَدْخِلْنِى",
+        "وَأُوتِينَا",
+        "وَجُنُودُهُۥ",
+        "وَقَوْمِهِۦٓ ۚ"
+      ],
+      "activityId": "act_027_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "فَمَكَثَ غَيْرَ بَعِيدٍۢ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَصَدَّهَا مَا كَانَت"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "وَإِنَّ رَبَّكَ لَيَعْلَمُ"
+        }
+      ],
+      "activityId": "act_027_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَآئِبِينَ",
+        "ٱلْمُؤْمِنِينَ",
+        "ٱلْمُفْسِدِينَ",
+        "ٱلْمُنذَرِينَ"
+      ],
+      "activityId": "act_027_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "لَأُعَذِّبَنَّهُۥ عَذَابًۭا شَدِيدًا"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ"
+        }
+      ],
+      "activityId": "act_027_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 4,
+      "options": [
+        "لَأَا۟ذْبَحَنَّهُۥٓ",
+        "وَلَنُخْرِجَنَّهُم",
+        "ٱلْعَظِيمِ ۩‏",
+        "فَلَنَأْتِيَنَّهُم"
+      ],
+      "activityId": "act_027_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "فَمَكَثَ غَيْرَ بَعِيدٍۢ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "ٱذْهَب بِّكِتَـٰبِى هَـٰذَا"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟"
+        }
+      ],
+      "activityId": "act_027_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 9,
+      "options": [
+        "وَجِئْتُكَ",
+        "ءَأَشْكُرُ",
+        "ءَاتِيكَ",
+        "ءَانَسْتُ"
+      ],
+      "activityId": "act_027_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "لَأُعَذِّبَنَّهُۥ عَذَابًۭا شَدِيدًا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ"
+        }
+      ],
+      "activityId": "act_027_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 3,
+      "options": [
+        "تَمْلِكُهُمْ",
+        "أَخْرِجُوٓا۟",
+        "أَرْسَلْنَآ",
+        "أَعْمَـٰلَهُمْ"
+      ],
+      "activityId": "act_027_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "قَالُوا۟ نَحْنُ أُو۟لُوا۟"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم"
+        }
+      ],
+      "activityId": "act_027_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 0,
+      "options": [
+        "وَجَدتُّهَا",
+        "أَفْتُونِى",
+        "أَكَذَّبْتُم",
+        "أَكْثَرُهُمْ"
+      ],
+      "activityId": "act_027_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النمل",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع آيات القرآن وقصص موسى وداود وسليمان، ثم مشاهد من قصص الأنبياء، ودلائل الخلق والبعث، وتختم بأمر النبي بالعبادة والتوكل."
+  }
+}

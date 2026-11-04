@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_037_19",
+  "title": "سورة الصافات - الآيات 108-112",
+  "surahId": 37,
+  "ayahStart": 108,
+  "ayahEnd": 112,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 108,
+      "missingWordPosition": 1,
+      "options": [
+        "عَلَيْهِ",
+        "وَإِذَا",
+        "سَبَقَتْ",
+        "طَلْعُهَا"
+      ],
+      "activityId": "act_037_19_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 108,
+      "correctNextAyahNumber": 109,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِلَّا مَنْ خَطِفَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا"
+        }
+      ],
+      "activityId": "act_037_19_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 109,
+      "missingWordPosition": 1,
+      "options": [
+        "عَلَىٰٓ",
+        "بِهِۦ ۖ",
+        "نُوحٍۢ",
+        "فَمَا"
+      ],
+      "activityId": "act_037_19_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 109,
+      "correctNextAyahNumber": 110,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "وَنَـٰدَيْنَـٰهُ أَن يَـٰٓإِبْرَٰهِيمُ"
+        },
+        {
+          "ayahNumber": 141,
+          "text": "فَسَاهَمَ فَكَانَ مِنَ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+        },
+        {
+          "ayahNumber": 157,
+          "text": "فَأْتُوا۟ بِكِتَـٰبِكُمْ إِن"
+        }
+      ],
+      "activityId": "act_037_19_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 110,
+      "missingWordPosition": 1,
+      "options": [
+        "عَظِيمٍۢ",
+        "لَّازِبٍۭ",
+        "إِنَّهُمْ",
+        "نَجْزِى"
+      ],
+      "activityId": "act_037_19_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 110,
+      "correctNextAyahNumber": 111,
+      "options": [
+        {
+          "ayahNumber": 111,
+          "text": "إِنَّهُۥ مِنْ عِبَادِنَا"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَقَالُوا۟ يَـٰوَيْلَنَا هَـٰذَا"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ"
+        },
+        {
+          "ayahNumber": 176,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+        }
+      ],
+      "activityId": "act_037_19_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 111,
+      "missingWordPosition": 2,
+      "options": [
+        "نَفْعَلُ",
+        "وَكُنَّا",
+        "عِبَادِنَا",
+        "مُّكْرَمُونَ"
+      ],
+      "activityId": "act_037_19_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 111,
+      "correctNextAyahNumber": 112,
+      "options": [
+        {
+          "ayahNumber": 112,
+          "text": "وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّۭا"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "سَلَـٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "إِنَّهُمْ كَانُوٓا۟ إِذَا"
+        }
+      ],
+      "activityId": "act_037_19_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 112,
+      "missingWordPosition": 2,
+      "options": [
+        "وَصَدَّقَ",
+        "ٱلْكَرْبِ",
+        "نَبِيًّۭا",
+        "كَأَنَّهُۥ"
+      ],
+      "activityId": "act_037_19_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الصافات",
+    "juz": 23,
+    "theme": "جزاء المحسنين والبشارة بإسحاق نبياً والبركة فيهما."
+  }
+}

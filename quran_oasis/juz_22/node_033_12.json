@@ -1,0 +1,134 @@
+{
+  "nodeId": "hifz_033_12",
+  "title": "سورة الأحزاب - الآيات 56-59",
+  "surahId": 33,
+  "ayahStart": 56,
+  "ayahEnd": 59,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 6,
+      "options": [
+        "مَفْعُولًۭا",
+        "تَلَبَّثُوا۟",
+        "يَـٰٓأَيُّهَا",
+        "بِصِدْقِهِمْ"
+      ],
+      "activityId": "act_033_12_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "لَّقَدْ كَانَ لَكُمْ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ لَّئِن لَّمْ يَنتَهِ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "إِنَّ ٱلَّذِينَ يُؤْذُونَ"
+        }
+      ],
+      "activityId": "act_033_12_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱللَّهُ",
+        "جَعَلَ",
+        "أَنَّهُم",
+        "وَجِيهًۭا"
+      ],
+      "activityId": "act_033_12_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَّا جَعَلَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ"
+        }
+      ],
+      "activityId": "act_033_12_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱكْتَسَبُوا۟",
+        "خَـٰلِدِينَ",
+        "أَزْوَٰجٍۢ",
+        "يَنَالُوا۟"
+      ],
+      "activityId": "act_033_12_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 58,
+      "correctNextAyahNumber": 59,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ"
+        }
+      ],
+      "activityId": "act_033_12_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 59,
+      "missingWordPosition": 11,
+      "options": [
+        "وَلَوْ",
+        "شَىْءٍۢ",
+        "ذَٰلِكَ",
+        "وَطَرًۭا"
+      ],
+      "activityId": "act_033_12_07"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 22,
+    "theme": "الأمر بالصلاة على النبي ﷺ والنهي عن أذيته وأمر نساء المؤمنين بالحجاب والجلباب."
+  }
+}

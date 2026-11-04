@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_023_05",
+  "title": "سورة المؤمنون - الآيات 25-30",
+  "surahId": 23,
+  "ayahStart": 25,
+  "ayahEnd": 30,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 6,
+      "options": [
+        "فَتَرَبَّصُوا۟",
+        "وَٱعْمَلُوا۟",
+        "وَٱلشَّهَـٰدَةِ",
+        "وَٱلْأَبْصَـٰرَ"
+      ],
+      "activityId": "act_023_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 25,
+      "correctNextAyahNumber": 26,
+      "options": [
+        {
+          "ayahNumber": 26,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "قَالَ رَبِّ ٱنصُرْنِى بِمَا"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "قَالَ عَمَّا قَلِيلٍۢ"
+        },
+        {
+          "ayahNumber": 108,
+          "text": "قَالَ ٱخْسَـُٔوا۟ فِيهَا"
+        }
+      ],
+      "activityId": "act_023_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 26,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱنصُرْنِى",
+        "تَهْجُرُونَ",
+        "تُبْعَثُونَ",
+        "تُحْشَرُونَ"
+      ],
+      "activityId": "act_023_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 26,
+      "correctNextAyahNumber": 27,
+      "options": [
+        {
+          "ayahNumber": 27,
+          "text": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 95,
+          "text": "وَإِنَّا عَلَىٰٓ أَن"
+        },
+        {
+          "ayahNumber": 98,
+          "text": "وَأَعُوذُ بِكَ رَبِّ"
+        }
+      ],
+      "activityId": "act_023_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 27,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَوْحَيْنَآ",
+        "وَّقُلُوبُهُمْ",
+        "يَتَضَرَّعُونَ",
+        "يَسْتَـْٔخِرُونَ"
+      ],
+      "activityId": "act_023_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 27,
+      "correctNextAyahNumber": 28,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "فَإِذَا ٱسْتَوَيْتَ أَنتَ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "فَإِذَا نُفِخَ فِى"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "قُل لِّمَنِ ٱلْأَرْضُ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+        }
+      ],
+      "activityId": "act_023_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 28,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلظَّـٰلِمِينَ",
+        "يُحَافِظُونَ",
+        "ٱلتَّنُّورُ ۙ",
+        "ٱلرَّٰحِمِينَ"
+      ],
+      "activityId": "act_023_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 28,
+      "correctNextAyahNumber": 29,
+      "options": [
+        {
+          "ayahNumber": 29,
+          "text": "وَقُل رَّبِّ أَنزِلْنِى"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "وَقُل رَّبِّ أَعُوذُ"
+        },
+        {
+          "ayahNumber": 118,
+          "text": "وَقُل رَّبِّ ٱغْفِرْ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "قُلْ مَن رَّبُّ"
+        }
+      ],
+      "activityId": "act_023_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 29,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلْمُنزِلِينَ",
+        "مُسْتَكْبِرِينَ",
+        "وَءَابَآؤُنَا",
+        "وَأَتْرَفْنَـٰهُمْ"
+      ],
+      "activityId": "act_023_05_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 29,
+      "correctNextAyahNumber": 30,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنْ هُوَ إِلَّا"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "إِنْ هِىَ إِلَّا"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "إِنْ هُوَ إِلَّا رَجُلٌ"
+        }
+      ],
+      "activityId": "act_023_05_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 30,
+      "missingWordPosition": 6,
+      "options": [
+        "لَمُبْتَلِينَ",
+        "ٱلرَّٰزِقِينَ",
+        "ٱلسَّيِّئَةَ ۚ",
+        "ٱلشَّيَـٰطِينِ"
+      ],
+      "activityId": "act_023_05_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "المؤمنون",
+    "juz": 18,
+    "theme": "تعرض آيات هذا المقطع صفات المؤمنين، ومراحل خلق الإنسان، وآيات الله في الكون، وقصص الرسل، ومشاهد القيامة، والدعاء بالرحمة والمغفرة."
+  }
+}

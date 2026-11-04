@@ -1,0 +1,114 @@
+{
+  "nodeId": "hifz_015_17",
+  "title": "سورة الحجر - الآيات 95-99",
+  "surahId": 15,
+  "ayahStart": 95,
+  "ayahEnd": 99,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 95,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمُسْتَهْزِءِينَ",
+        "ٱلسَّـٰجِدِينَ",
+        "يَجْعَلُونَ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_015_17_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 95,
+      "correctNextAyahNumber": 96,
+      "wrongOptionsAyahNumbers": [
+        97,
+        93
+      ],
+      "activityId": "act_015_17_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 96,
+      "missingWordPosition": 2,
+      "options": [
+        "يَجْعَلُونَ",
+        "يَقُولُونَ",
+        "ٱلْيَقِينُ",
+        "كَفَيْنَـٰكَ"
+      ],
+      "activityId": "act_015_17_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 96,
+      "correctNextAyahNumber": 97,
+      "wrongOptionsAyahNumbers": [
+        98,
+        94
+      ],
+      "activityId": "act_015_17_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 97,
+      "missingWordPosition": 7,
+      "options": [
+        "يَقُولُونَ",
+        "ٱلْيَقِينُ",
+        "يَجْعَلُونَ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_015_17_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 97,
+      "correctNextAyahNumber": 98,
+      "wrongOptionsAyahNumbers": [
+        99,
+        95
+      ],
+      "activityId": "act_015_17_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 98,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلسَّـٰجِدِينَ",
+        "يَقُولُونَ",
+        "يَجْعَلُونَ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_015_17_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 98,
+      "correctNextAyahNumber": 99,
+      "wrongOptionsAyahNumbers": [
+        96,
+        95
+      ],
+      "activityId": "act_015_17_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْيَقِينُ",
+        "يَقُولُونَ",
+        "يَجْعَلُونَ",
+        "يَعْلَمُونَ"
+      ],
+      "activityId": "act_015_17_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحجر",
+    "juz": 14,
+    "theme": "تثبيت النبي أمام تكذيب المكذبين، وذكر حفظ القرآن، وقصص آدم وإبليس والرسل، وآيات الخلق والرزق، والأمر بالعبادة حتى اليقين."
+  }
+}

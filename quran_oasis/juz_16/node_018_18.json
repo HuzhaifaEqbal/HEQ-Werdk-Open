@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_018_18",
+  "title": "سورة الكهف - الآيات 99-104",
+  "surahId": 18,
+  "ayahStart": 99,
+  "ayahEnd": 104,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 99,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَتَرَكْنَا",
+        "فَأَعِينُونِى",
+        "وَحَفَفْنَـٰهُمَا",
+        "وَمُنذِرِينَ ۚ"
+      ],
+      "activityId": "act_018_18_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 99,
+      "correctNextAyahNumber": 100,
+      "options": [
+        {
+          "ayahNumber": 100,
+          "text": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍۢ"
+        },
+        {
+          "ayahNumber": 106,
+          "text": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ"
+        },
+        {
+          "ayahNumber": 103,
+          "text": "قُلْ هَلْ نُنَبِّئُكُم"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟"
+        }
+      ],
+      "activityId": "act_018_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 100,
+      "missingWordPosition": 3,
+      "options": [
+        "لِّلْكَـٰفِرِينَ",
+        "وَنُقَلِّبُهُمْ",
+        "وَيَسْـَٔلُونَكَ",
+        "وَيَقُولُونَ"
+      ],
+      "activityId": "act_018_18_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 100,
+      "correctNextAyahNumber": 101,
+      "options": [
+        {
+          "ayahNumber": 101,
+          "text": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ"
+        },
+        {
+          "ayahNumber": 104,
+          "text": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَلَقَدْ صَرَّفْنَا فِى"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "وَٱصْبِرْ نَفْسَكَ مَعَ"
+        }
+      ],
+      "activityId": "act_018_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 101,
+      "missingWordPosition": 9,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "وَيَسْتَخْرِجَا",
+        "وَٱزْدَادُوا۟",
+        "يَسْتَجِيبُوا۟"
+      ],
+      "activityId": "act_018_18_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 101,
+      "correctNextAyahNumber": 102,
+      "options": [
+        {
+          "ayahNumber": 102,
+          "text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟"
+        },
+        {
+          "ayahNumber": 105,
+          "text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 107,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        }
+      ],
+      "activityId": "act_018_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 8,
+      "options": [
+        "أَوْلِيَآءَ ۚ",
+        "وَيَلْبَسُونَ",
+        "وَٱتَّخَذُوٓا۟",
+        "وَٱلرَّقِيمِ"
+      ],
+      "activityId": "act_018_18_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "options": [
+        {
+          "ayahNumber": 103,
+          "text": "قُلْ هَلْ نُنَبِّئُكُم"
+        },
+        {
+          "ayahNumber": 109,
+          "text": "قُل لَّوْ كَانَ"
+        },
+        {
+          "ayahNumber": 110,
+          "text": "قُلْ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قُلِ ٱللَّهُ أَعْلَمُ"
+        }
+      ],
+      "activityId": "act_018_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْأَخْسَرِينَ",
+        "وَيَسْتَغْفِرُوا۟",
+        "لِيَتَسَآءَلُوا۟",
+        "ٱعْتَزَلْتُمُوهُمْ"
+      ],
+      "activityId": "act_018_18_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "options": [
+        {
+          "ayahNumber": 104,
+          "text": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ"
+        },
+        {
+          "ayahNumber": 101,
+          "text": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 84,
+          "text": "إِنَّا مَكَّنَّا لَهُۥ"
+        }
+      ],
+      "activityId": "act_018_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْحَيَوٰةِ",
+        "قُلُوبِهِمْ",
+        "كَلْبُهُمْ ۚ",
+        "كَنزَهُمَا"
+      ],
+      "activityId": "act_018_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الكهف",
+    "juz": 16,
+    "theme": "تتناول آيات هذا المقطع الهداية والإيمان والابتلاء، وتعرض من قصة أصحاب الكهف وموسى وذي القرنين ما يرسخ التوكل والعدل والثبات على الحق."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_02",
+  "title": "سورة السجدة - الآيات 6-10",
+  "surahId": 32,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 3,
+      "options": [
+        "إِيمَـٰنُهُمْ",
+        "مِقْدَارُهُۥٓ",
+        "وَٱلشَّهَـٰدَةِ",
+        "أَنْعَـٰمُهُمْ"
+      ],
+      "activityId": "act_032_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 12,
+          "text": "وَلَوْ تَرَىٰٓ إِذِ"
+        },
+        {
+          "ayahNumber": 16,
+          "text": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "قُلْ يَوْمَ ٱلْفَتْحِ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِىٓ أَحْسَنَ كُلَّ"
+        }
+      ],
+      "activityId": "act_032_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "يَدْعُونَ",
+        "جَزَآءًۢ",
+        "خَلَقَهُۥ ۖ",
+        "مِرْيَةٍۢ"
+      ],
+      "activityId": "act_032_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلُ ٱلْكِتَـٰبِ لَا"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةًۭ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "ثُمَّ جَعَلَ نَسْلَهُۥ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ"
+        }
+      ],
+      "activityId": "act_032_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "مُوقِنُونَ",
+        "وَطَمَعًۭا",
+        "بَيْنَهُمْ",
+        "سُلَـٰلَةٍۢ"
+      ],
+      "activityId": "act_032_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 9,
+          "text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "أَفَمَن كَانَ مُؤْمِنًۭا"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَذُوقُوا۟ بِمَا نَسِيتُمْ"
+        }
+      ],
+      "activityId": "act_032_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "إِذِ",
+        "عَنْهُمْ",
+        "لَكُمُ",
+        "تَعْلَمُ"
+      ],
+      "activityId": "act_032_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "فَذُوقُوا۟ بِمَا نَسِيتُمْ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "أَوَلَمْ يَهْدِ لَهُمْ"
+        },
+        {
+          "ayahNumber": 21,
+          "text": "وَلَنُذِيقَنَّهُم مِّنَ ٱلْعَذَابِ"
+        }
+      ],
+      "activityId": "act_032_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 7,
+      "options": [
+        "إِلَى",
+        "خَلْقٍۢ",
+        "أَعْرَضَ",
+        "خَوْفًۭا"
+      ],
+      "activityId": "act_032_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "إتقان خلق كل شيء وبدء خلق الإنسان من طين ثم نسله من سلالة من ماء مهين."
+  }
+}

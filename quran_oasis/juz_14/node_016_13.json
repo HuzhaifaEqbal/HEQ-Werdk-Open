@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_016_13",
+  "title": "سورة النحل - الآيات 73-78",
+  "surahId": 16,
+  "ayahStart": 73,
+  "ayahEnd": 78,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 73,
+      "missingWordPosition": 15,
+      "options": [
+        "يَسْتَطِيعُونَ",
+        "ٱلْأَمْثَالَ ۚ",
+        "وَٱلْأَفْـِٔدَةَ ۙ",
+        "بِٱلْعَدْلِ ۙ"
+      ],
+      "activityId": "act_016_13_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 73,
+      "correctNextAyahNumber": 74,
+      "wrongOptionsAyahNumbers": [
+        75,
+        71
+      ],
+      "activityId": "act_016_13_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 74,
+      "missingWordPosition": 4,
+      "options": [
+        "ٱلْأَمْثَالَ ۚ",
+        "يَسْتَطِيعُونَ",
+        "وَٱلْأَفْـِٔدَةَ ۙ",
+        "وَيَعْبُدُونَ"
+      ],
+      "activityId": "act_016_13_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 74,
+      "correctNextAyahNumber": 75,
+      "wrongOptionsAyahNumbers": [
+        76,
+        72
+      ],
+      "activityId": "act_016_13_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 75,
+      "missingWordPosition": 21,
+      "options": [
+        "يَسْتَوُۥنَ ۚ",
+        "وَٱلْأَرْضِ ۚ",
+        "وَٱلْأَبْصَـٰرَ",
+        "بِٱلْعَدْلِ ۙ"
+      ],
+      "activityId": "act_016_13_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 75,
+      "correctNextAyahNumber": 76,
+      "wrongOptionsAyahNumbers": [
+        77,
+        73
+      ],
+      "activityId": "act_016_13_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 76,
+      "missingWordPosition": 25,
+      "options": [
+        "بِٱلْعَدْلِ ۙ",
+        "يَسْتَوُۥنَ ۚ",
+        "وَيَعْبُدُونَ",
+        "وَٱلْأَرْضِ ۚ"
+      ],
+      "activityId": "act_016_13_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 76,
+      "correctNextAyahNumber": 77,
+      "wrongOptionsAyahNumbers": [
+        78,
+        74
+      ],
+      "activityId": "act_016_13_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 77,
+      "missingWordPosition": 4,
+      "options": [
+        "وَٱلْأَرْضِ ۚ",
+        "يَسْتَوُۥنَ ۚ",
+        "وَٱلْأَبْصَـٰرَ",
+        "بِٱلْعَدْلِ ۙ"
+      ],
+      "activityId": "act_016_13_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 77,
+      "correctNextAyahNumber": 78,
+      "wrongOptionsAyahNumbers": [
+        79,
+        75
+      ],
+      "activityId": "act_016_13_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 78,
+      "missingWordPosition": 13,
+      "options": [
+        "وَٱلْأَفْـِٔدَةَ ۙ",
+        "يَسْتَطِيعُونَ",
+        "ٱلْأَمْثَالَ ۚ",
+        "وَيَعْبُدُونَ"
+      ],
+      "activityId": "act_016_13_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "النحل",
+    "juz": 14,
+    "theme": "تعداد نعم الله وآيات قدرته، والدعوة إلى التوحيد والعدل والإحسان، وبيان الوحي ومواقف الناس منه، وقصص إبراهيم والتوجيه إلى الصبر والدعوة بالحكمة."
+  }
+}

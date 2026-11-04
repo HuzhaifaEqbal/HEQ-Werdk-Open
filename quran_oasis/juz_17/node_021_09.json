@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_021_09",
+  "title": "سورة الأنبياء - الآيات 49-54",
+  "surahId": 21,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 3,
+      "options": [
+        "بِٱلْغَيْبِ",
+        "حِسَابُهُمْ",
+        "خَشْيَتِهِۦ",
+        "دَعْوَىٰهُمْ"
+      ],
+      "activityId": "act_021_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "وَهَـٰذَا ذِكْرٌۭ مُّبَارَكٌ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "مَا يَأْتِيهِم مِّن"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَـٰمَكُم"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا"
+        }
+      ],
+      "activityId": "act_021_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 3,
+      "options": [
+        "أَنزَلْنَـٰهُ ۚ",
+        "ٱلْفُرْقَانَ",
+        "ٱلْمَوَٰزِينَ",
+        "ٱلْوَٰرِثِينَ"
+      ],
+      "activityId": "act_021_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ"
+        },
+        {
+          "ayahNumber": 79,
+          "text": "فَفَهَّمْنَـٰهَا سُلَيْمَـٰنَ ۚ وَكُلًّا"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "قَالُوا۟ سَمِعْنَا فَتًۭى"
+        }
+      ],
+      "activityId": "act_021_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَلَقَدْ",
+        "دُونِنَا ۚ",
+        "ذِكْرُكُمْ ۖ",
+        "رُءُوسِهِمْ"
+      ],
+      "activityId": "act_021_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "إِذْ قَالَ لِأَبِيهِ"
+        },
+        {
+          "ayahNumber": 78,
+          "text": "وَدَاوُۥدَ وَسُلَيْمَـٰنَ إِذْ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "۞ وَأَيُّوبَ إِذْ نَادَىٰ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "وَذَا ٱلنُّونِ إِذ"
+        }
+      ],
+      "activityId": "act_021_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلتَّمَاثِيلُ",
+        "وَءَابَآءَهُمْ",
+        "وَأَدْخَلْنَـٰهُمْ",
+        "وَتَتَلَقَّىٰهُمُ"
+      ],
+      "activityId": "act_021_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "قَالُوا۟ فَأْتُوا۟ بِهِۦ"
+        },
+        {
+          "ayahNumber": 68,
+          "text": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا"
+        }
+      ],
+      "activityId": "act_021_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 2,
+      "options": [
+        "ءَابَآءَنَا",
+        "۞ وَأَيُّوبَ",
+        "ءَاذَنتُكُمْ",
+        "ءَالِهَتَكُمْ"
+      ],
+      "activityId": "act_021_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "قَالَ لَقَدْ كُنتُمْ"
+        },
+        {
+          "ayahNumber": 56,
+          "text": "قَالَ بَل رَّبُّكُمْ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "قَالَ بَلْ فَعَلَهُۥ"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "قَالَ أَفَتَعْبُدُونَ مِن"
+        }
+      ],
+      "activityId": "act_021_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 4,
+      "options": [
+        "وَءَابَآؤُكُمْ",
+        "وَيَدْعُونَنَا",
+        "يَسْبِقُونَهُۥ",
+        "يَسْتَحْسِرُونَ"
+      ],
+      "activityId": "act_021_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأنبياء",
+    "juz": 17,
+    "theme": "تذكّر آيات هذا المقطع بقرب الحساب، وتعرض قصص الأنبياء ودعاءهم ونصر الله لهم، وتقرر وحدة الرسالة والبعث والجزاء."
+  }
+}

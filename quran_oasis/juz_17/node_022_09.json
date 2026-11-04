@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_022_09",
+  "title": "سورة الحج - الآيات 49-53",
+  "surahId": 22,
+  "ayahStart": 49,
+  "ayahEnd": 53,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 1,
+      "options": [
+        "يَـٰٓأَيُّهَا",
+        "بَهِيمَةِ",
+        "بَوَّأْنَا",
+        "بَيْنَكُمْ"
+      ],
+      "activityId": "act_022_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 72,
+          "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ"
+        }
+      ],
+      "activityId": "act_022_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 0,
+      "options": [
+        "فَٱلَّذِينَ",
+        "لِّلْعَبِيدِ",
+        "لْيَقْضُوا۟",
+        "مُخْضَرَّةً ۗ"
+      ],
+      "activityId": "act_022_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَٱلَّذِينَ هَاجَرُوا۟ فِى"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "أَفَلَمْ يَسِيرُوا۟ فِى"
+        }
+      ],
+      "activityId": "act_022_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 0,
+      "options": [
+        "وَٱلَّذِينَ",
+        "مُشْرِكِينَ",
+        "مَّعْلُومَـٰتٍ",
+        "مُّسْتَقِيمٍۢ"
+      ],
+      "activityId": "act_022_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "وَمَآ أَرْسَلْنَا مِن"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "ٱلَّذِينَ أُخْرِجُوا۟ مِن"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "وَٱلْبُدْنَ جَعَلْنَـٰهَا لَكُم"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        }
+      ],
+      "activityId": "act_022_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 14,
+      "options": [
+        "أُمْنِيَّتِهِۦ",
+        "وَٱلْمَسْجِدِ",
+        "يَنصُرُهُۥٓ ۗ",
+        "يَنفَعُهُۥ ۚ"
+      ],
+      "activityId": "act_022_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "لِّيَجْعَلَ مَا يُلْقِى"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "يَعْلَمُ مَا بَيْنَ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "لَّهُۥ مَا فِى"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "مَا قَدَرُوا۟ ٱللَّهَ"
+        }
+      ],
+      "activityId": "act_022_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 9,
+      "options": [
+        "وَٱلْقَاسِيَةِ",
+        "لِلطَّآئِفِينَ",
+        "وَلْيَطَّوَّفُوا۟",
+        "وَٱجْتَنِبُوا۟"
+      ],
+      "activityId": "act_022_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الحج",
+    "juz": 17,
+    "theme": "تذكر آيات هذا المقطع أهوال القيامة، ودلائل البعث والتوحيد، وشعائر الحج، ونصرة المؤمنين، وصفات العباد الذين يرثون الجنة."
+  }
+}

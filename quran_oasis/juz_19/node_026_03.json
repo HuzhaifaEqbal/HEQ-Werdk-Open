@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_03",
+  "title": "سورة الشعراء - الآيات 13-18",
+  "surahId": 26,
+  "ayahStart": 13,
+  "ayahEnd": 18,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 0,
+      "options": [
+        "وَيَضِيقُ",
+        "ءَامَنَّا",
+        "أَخُوهُمْ",
+        "أَرْضِكُم"
+      ],
+      "activityId": "act_026_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 14,
+          "text": "وَلَهُمْ عَلَىَّ ذَنۢبٌۭ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا"
+        },
+        {
+          "ayahNumber": 113,
+          "text": "إِنْ حِسَابُهُمْ إِلَّا"
+        },
+        {
+          "ayahNumber": 194,
+          "text": "عَلَىٰ قَلْبِكَ لِتَكُونَ"
+        }
+      ],
+      "activityId": "act_026_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 5,
+      "options": [
+        "يَقْتُلُونِ",
+        "تَعْلَمُونَ",
+        "تَعْمَلُونَ",
+        "تَكُونُوا۟"
+      ],
+      "activityId": "act_026_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "قَالَ كَلَّا ۖ فَٱذْهَبَا"
+        },
+        {
+          "ayahNumber": 62,
+          "text": "قَالَ كَلَّآ ۖ إِنَّ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "قَالَ رَبِّ إِنِّىٓ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قَالَ أَلَمْ نُرَبِّكَ"
+        }
+      ],
+      "activityId": "act_026_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 3,
+      "options": [
+        "بِـَٔايَـٰتِنَآ ۖ",
+        "أَزْوَٰجِكُم ۚ",
+        "أَشْيَآءَهُمْ",
+        "أَفَرَءَيْتُم"
+      ],
+      "activityId": "act_026_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 15,
+      "correctNextAyahNumber": 16,
+      "options": [
+        {
+          "ayahNumber": 16,
+          "text": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "قَالُوا۟ لَا ضَيْرَ ۖ"
+        },
+        {
+          "ayahNumber": 51,
+          "text": "إِنَّا نَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 53,
+          "text": "فَأَرْسَلَ فِرْعَوْنُ فِى"
+        }
+      ],
+      "activityId": "act_026_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 16,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "بَيْنَهُمَآ ۖ",
+        "بِـَٔايَـٰتِنَآ ۖ",
+        "بِمُعَذَّبِينَ"
+      ],
+      "activityId": "act_026_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 16,
+      "correctNextAyahNumber": 17,
+      "options": [
+        {
+          "ayahNumber": 17,
+          "text": "أَنْ أَرْسِلْ مَعَنَا"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "إِنْ أَنَا۠ إِلَّا"
+        },
+        {
+          "ayahNumber": 137,
+          "text": "إِنْ هَـٰذَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 174,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        }
+      ],
+      "activityId": "act_026_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 17,
+      "missingWordPosition": 4,
+      "options": [
+        "إِسْرَٰٓءِيلَ",
+        "تَمَسُّوهَا",
+        "تُطِيعُوٓا۟",
+        "جَبَّارِينَ"
+      ],
+      "activityId": "act_026_03_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 17,
+      "correctNextAyahNumber": 18,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "قَالَ أَلَمْ نُرَبِّكَ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قَالَ فَعَلْتُهَآ إِذًۭا"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قَالَ كَلَّا ۖ فَٱذْهَبَا"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "قَالَ رَبُّكُمْ وَرَبُّ"
+        }
+      ],
+      "activityId": "act_026_03_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 18,
+      "missingWordPosition": 4,
+      "options": [
+        "وَلِيدًۭا",
+        "أَسْـَٔلُكُمْ",
+        "أَضَلَّنَآ",
+        "أَلْقُوا۟"
+      ],
+      "activityId": "act_026_03_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

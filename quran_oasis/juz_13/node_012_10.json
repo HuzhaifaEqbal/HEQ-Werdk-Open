@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_10",
+  "title": "سورة يوسف - الآيات 53-58",
+  "surahId": 12,
+  "ayahStart": 53,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 6,
+      "options": [
+        "لَأَمَّارَةٌۢ",
+        "ٱلْـَٔاخِرَةِ",
+        "فَعَرَفَهُمْ",
+        "فَدَخَلُوا۟"
+      ],
+      "activityId": "act_012_10_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "wrongOptionsAyahNumbers": [
+        55,
+        51
+      ],
+      "activityId": "act_012_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 5,
+      "options": [
+        "أَسْتَخْلِصْهُ",
+        "بِرَحْمَتِنَا",
+        "ٱلْمُحْسِنِينَ",
+        "لَأَمَّارَةٌۢ"
+      ],
+      "activityId": "act_012_10_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "wrongOptionsAyahNumbers": [
+        56,
+        52
+      ],
+      "activityId": "act_012_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱجْعَلْنِى",
+        "ءَامَنُوا۟",
+        "مُنكِرُونَ",
+        "وَكَانُوا۟"
+      ],
+      "activityId": "act_012_10_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "wrongOptionsAyahNumbers": [
+        57,
+        53
+      ],
+      "activityId": "act_012_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 17,
+      "options": [
+        "ٱلْمُحْسِنِينَ",
+        "أَسْتَخْلِصْهُ",
+        "بِٱلسُّوٓءِ",
+        "لِنَفْسِى ۖ"
+      ],
+      "activityId": "act_012_10_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "wrongOptionsAyahNumbers": [
+        58,
+        54
+      ],
+      "activityId": "act_012_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْـَٔاخِرَةِ",
+        "ٱلْأَرْضِ ۖ",
+        "ٱجْعَلْنِى",
+        "ٱئْتُونِى"
+      ],
+      "activityId": "act_012_10_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "wrongOptionsAyahNumbers": [
+        59,
+        55
+      ],
+      "activityId": "act_012_10_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 4,
+      "options": [
+        "فَدَخَلُوا۟",
+        "بِٱلسُّوٓءِ",
+        "لِنَفْسِى ۖ",
+        "ٱلْأَرْضِ ۖ"
+      ],
+      "activityId": "act_012_10_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 13,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

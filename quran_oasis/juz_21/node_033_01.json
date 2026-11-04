@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_033_01",
+  "title": "سورة الأحزاب - الآيات 1-5",
+  "surahId": 33,
+  "ayahStart": 1,
+  "ayahEnd": 5,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 1,
+      "missingWordPosition": 6,
+      "options": [
+        "لَنُغْرِيَنَّكَ",
+        "وَرَسُولِهِۦ",
+        "ٱلْكَـٰفِرِينَ",
+        "وَأَشْفَقْنَ"
+      ],
+      "activityId": "act_033_01_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 1,
+      "correctNextAyahNumber": 2,
+      "options": [
+        {
+          "ayahNumber": 2,
+          "text": "وَٱتَّبِعْ مَا يُوحَىٰٓ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم"
+        },
+        {
+          "ayahNumber": 70,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_033_01_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 2,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱللَّهَ",
+        "أَزْوَٰجِ",
+        "خَبِيرًا",
+        "وَمِنْ"
+      ],
+      "activityId": "act_033_01_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 2,
+      "correctNextAyahNumber": 3,
+      "options": [
+        {
+          "ayahNumber": 66,
+          "text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 3,
+          "text": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ"
+        }
+      ],
+      "activityId": "act_033_01_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 3,
+      "missingWordPosition": 3,
+      "options": [
+        "جَهُولًۭا",
+        "ءَاذَوْا۟",
+        "وَكَفَىٰ",
+        "ٱتَّقِ"
+      ],
+      "activityId": "act_033_01_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 3,
+      "correctNextAyahNumber": 4,
+      "options": [
+        {
+          "ayahNumber": 18,
+          "text": "۞ قَدْ يَعْلَمُ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "مَّا جَعَلَ ٱللَّهُ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "إِذْ جَآءُوكُم مِّن"
+        }
+      ],
+      "activityId": "act_033_01_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 4,
+      "missingWordPosition": 14,
+      "options": [
+        "وَٱلْمُرْجِفُونَ",
+        "أُمَّهَـٰتِكُمْ ۚ",
+        "ٱلْمُعَوِّقِينَ",
+        "ٱلْأَدْبَـٰرَ ۚ"
+      ],
+      "activityId": "act_033_01_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 4,
+      "correctNextAyahNumber": 5,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "هُوَ ٱلَّذِى يُصَلِّى"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ"
+        },
+        {
+          "ayahNumber": 1,
+          "text": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ"
+        }
+      ],
+      "activityId": "act_033_01_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 5,
+      "missingWordPosition": 14,
+      "options": [
+        "ٱلْبَأْسَ",
+        "فِيكُم",
+        "وَلَيْسَ",
+        "نَصِيرًۭا"
+      ],
+      "activityId": "act_033_01_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الأحزاب",
+    "juz": 21,
+    "theme": "تقوى الله وعدم طاعة الكافرين والمنافقين وإبطال عادة التبني والظهار."
+  }
+}

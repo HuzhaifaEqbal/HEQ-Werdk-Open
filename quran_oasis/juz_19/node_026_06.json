@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_06",
+  "title": "سورة الشعراء - الآيات 31-36",
+  "surahId": 26,
+  "ayahStart": 31,
+  "ayahEnd": 36,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 31,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلصَّـٰدِقِينَ",
+        "وَأَزْلَفْنَا",
+        "وَأَطِيعُونِ",
+        "وَأَكْثَرُهُمْ"
+      ],
+      "activityId": "act_026_06_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 31,
+      "correctNextAyahNumber": 32,
+      "options": [
+        {
+          "ayahNumber": 32,
+          "text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ"
+        },
+        {
+          "ayahNumber": 33,
+          "text": "وَنَزَعَ يَدَهُۥ فَإِذَا"
+        }
+      ],
+      "activityId": "act_026_06_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 32,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَلْقَىٰ",
+        "أَمَدَّكُم",
+        "أَنُؤْمِنُ",
+        "أَنۢبَـٰٓؤُا۟"
+      ],
+      "activityId": "act_026_06_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 32,
+      "correctNextAyahNumber": 33,
+      "options": [
+        {
+          "ayahNumber": 33,
+          "text": "وَنَزَعَ يَدَهُۥ فَإِذَا"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "يُرِيدُ أَن يُخْرِجَكُم"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ"
+        }
+      ],
+      "activityId": "act_026_06_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 33,
+      "missingWordPosition": 5,
+      "options": [
+        "لِلنَّـٰظِرِينَ",
+        "وَأَلْحِقْنِى",
+        "وَأَمْطَرْنَا",
+        "وَأَنجَيْنَا"
+      ],
+      "activityId": "act_026_06_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 33,
+      "correctNextAyahNumber": 34,
+      "options": [
+        {
+          "ayahNumber": 34,
+          "text": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "قَالَ إِنَّ رَسُولَكُمُ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "قَالَ لِمَنْ حَوْلَهُۥٓ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "قَالَ فَأْتِ بِهِۦٓ"
+        }
+      ],
+      "activityId": "act_026_06_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 34,
+      "missingWordPosition": 1,
+      "options": [
+        "لِلْمَلَإِ",
+        "أَوَعَظْتَ",
+        "إِبْلِيسَ",
+        "إِلَيْكُمْ"
+      ],
+      "activityId": "act_026_06_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 34,
+      "correctNextAyahNumber": 35,
+      "options": [
+        {
+          "ayahNumber": 35,
+          "text": "يُرِيدُ أَن يُخْرِجَكُم"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ"
+        },
+        {
+          "ayahNumber": 52,
+          "text": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍۢ"
+        }
+      ],
+      "activityId": "act_026_06_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 35,
+      "missingWordPosition": 2,
+      "options": [
+        "يُخْرِجَكُم",
+        "فَأَخَذَهُمُ",
+        "فَأَلْقَوْا۟",
+        "فَعَلْتُهَآ"
+      ],
+      "activityId": "act_026_06_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 35,
+      "correctNextAyahNumber": 36,
+      "options": [
+        {
+          "ayahNumber": 36,
+          "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ"
+        },
+        {
+          "ayahNumber": 71,
+          "text": "قَالُوا۟ نَعْبُدُ أَصْنَامًۭا"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "قَالُوا۟ بَلْ وَجَدْنَآ"
+        }
+      ],
+      "activityId": "act_026_06_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 36,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمَدَآئِنِ",
+        "وَتَتَّخِذُونَ",
+        "وَتَنْحِتُونَ",
+        "وَٱجْعَلْنِى"
+      ],
+      "activityId": "act_026_06_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

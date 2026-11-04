@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_025_08",
+  "title": "سورة الفرقان - الآيات 39-44",
+  "surahId": 25,
+  "ayahStart": 39,
+  "ayahEnd": 44,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْأَمْثَـٰلَ ۖ",
+        "ٱلْبَحْرَيْنِ",
+        "ٱلْجَـٰهِلُونَ",
+        "ٱلْفُرْقَانَ"
+      ],
+      "activityId": "act_025_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "وَلَقَدْ أَتَوْا۟ عَلَى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ"
+        }
+      ],
+      "activityId": "act_025_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 10,
+      "options": [
+        "يَرَوْنَهَا ۚ",
+        "ٱلْقُرْءَانَ",
+        "ٱلْكَـٰفِرِينَ",
+        "ٱلْمَلَـٰٓئِكَةُ"
+      ],
+      "activityId": "act_025_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "وَإِذَا رَأَوْكَ إِن"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَإِذَآ أُلْقُوا۟ مِنْهَا"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "إِن كَادَ لَيُضِلُّنَا"
+        }
+      ],
+      "activityId": "act_025_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 3,
+      "options": [
+        "يَتَّخِذُونَكَ",
+        "ءَاخَرُونَ ۖ",
+        "ءَالِهَتِنَا",
+        "أَغْرَقْنَـٰهُمْ"
+      ],
+      "activityId": "act_025_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "إِن كَادَ لَيُضِلُّنَا"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "أَمْ تَحْسَبُ أَنَّ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "لَّقَدْ أَضَلَّنِى عَنِ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "تَبَارَكَ ٱلَّذِىٓ إِن"
+        }
+      ],
+      "activityId": "act_025_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 4,
+      "options": [
+        "ءَالِهَتِنَا",
+        "بِحَمْدِهِۦ ۚ",
+        "بِٱلسَّاعَةِ",
+        "دُعَآؤُكُمْ ۖ"
+      ],
+      "activityId": "act_025_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "أَرَءَيْتَ مَنِ ٱتَّخَذَ"
+        },
+        {
+          "ayahNumber": 54,
+          "text": "وَهُوَ ٱلَّذِى خَلَقَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَيَعْبُدُونَ مِن دُونِ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "وَمَآ أَرْسَلْنَا قَبْلَكَ"
+        }
+      ],
+      "activityId": "act_025_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 0,
+      "options": [
+        "أَرَءَيْتَ",
+        "ءَأَنتُمْ",
+        "ءَالِهَةًۭ",
+        "ءَايَةًۭ ۖ"
+      ],
+      "activityId": "act_025_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "أَمْ تَحْسَبُ أَنَّ"
+        },
+        {
+          "ayahNumber": 42,
+          "text": "إِن كَادَ لَيُضِلُّنَا"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَإِذَا رَأَوْكَ إِن"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "قُلْ أَذَٰلِكَ خَيْرٌ"
+        }
+      ],
+      "activityId": "act_025_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 10,
+      "options": [
+        "كَٱلْأَنْعَـٰمِ ۖ",
+        "ٱلْأَسْوَاقِ ۙ",
+        "ٱلْمُتَّقُونَ ۚ",
+        "ٱلْمُرْسَلِينَ"
+      ],
+      "activityId": "act_025_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الفرقان",
+    "juz": 19,
+    "theme": "تقرر آيات هذا المقطع عظمة القرآن والرسالة، وتعرض جدال المكذبين ومشاهد القيامة، وصفات عباد الرحمن ودعاءهم."
+  }
+}

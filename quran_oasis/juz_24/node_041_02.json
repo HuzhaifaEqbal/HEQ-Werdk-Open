@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_02",
+  "title": "سورة فصلت - الآيات 6-10",
+  "surahId": 41,
+  "ayahStart": 6,
+  "ayahEnd": 10,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 6,
+      "missingWordPosition": 8,
+      "options": [
+        "إِلَـٰهُكُمْ",
+        "ٱعْمَلُوا۟",
+        "صَـٰعِقَةُ",
+        "تَحْزَنُوا۟"
+      ],
+      "activityId": "act_041_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 6,
+      "correctNextAyahNumber": 7,
+      "options": [
+        {
+          "ayahNumber": 28,
+          "text": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 7,
+          "text": "ٱلَّذِينَ لَا يُؤْتُونَ"
+        }
+      ],
+      "activityId": "act_041_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 4,
+      "options": [
+        "وَفِىٓ",
+        "وَحَقَّ",
+        "وَهُم",
+        "إِلَّا"
+      ],
+      "activityId": "act_041_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 1,
+          "text": "حمٓ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "نُزُلًۭا مِّنْ غَفُورٍۢ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا"
+        }
+      ],
+      "activityId": "act_041_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 4,
+      "options": [
+        "أَوْلِيَآؤُكُمْ",
+        "ٱلصَّـٰلِحَـٰتِ",
+        "ٱلشَّيْطَـٰنِ",
+        "وَعَرَبِىٌّۭ ۗ"
+      ],
+      "activityId": "act_041_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "وَلَقَدْ ءَاتَيْنَا مُوسَى"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَضَلَّ عَنْهُم مَّا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "ثُمَّ ٱسْتَوَىٰٓ إِلَى"
+        }
+      ],
+      "activityId": "act_041_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلَّيْلُ",
+        "أَنزَلْنَا",
+        "يَوْمَيْنِ",
+        "فَأَعْرَضَ"
+      ],
+      "activityId": "act_041_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 10,
+          "text": "وَجَعَلَ فِيهَا رَوَٰسِىَ"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "إِنَّ ٱلَّذِينَ قَالُوا۟"
+        },
+        {
+          "ayahNumber": 26,
+          "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ"
+        }
+      ],
+      "activityId": "act_041_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 8,
+      "options": [
+        "فِيهَآ",
+        "مِّمَّا",
+        "ٱلْأَرْضِ",
+        "فَٱعْمَلْ"
+      ],
+      "activityId": "act_041_02_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "الأمر باتباع الوحي والتوجه إلى الله والاستغفار وويل للمشركين المانعين للزكاة المنكرين للآخرة."
+  }
+}

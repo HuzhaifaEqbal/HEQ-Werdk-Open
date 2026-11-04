@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_036_02",
+  "title": "سورة يس - الآيات 7-12",
+  "surahId": 36,
+  "ayahStart": 7,
+  "ayahEnd": 12,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 7,
+      "missingWordPosition": 3,
+      "options": [
+        "جَآءَهَا",
+        "عَلَىٰٓ",
+        "ٱلَّيْلُ",
+        "جُندٍۢ"
+      ],
+      "activityId": "act_036_02_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 7,
+      "correctNextAyahNumber": 8,
+      "options": [
+        {
+          "ayahNumber": 15,
+          "text": "قَالُوا۟ مَآ أَنتُمْ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّا جَعَلْنَا فِىٓ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلًا"
+        }
+      ],
+      "activityId": "act_036_02_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 8,
+      "missingWordPosition": 5,
+      "options": [
+        "فَهِىَ",
+        "عَدُوٌّۭ",
+        "وَإِن",
+        "خَصِيمٌۭ"
+      ],
+      "activityId": "act_036_02_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 8,
+      "correctNextAyahNumber": 9,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "لَا ٱلشَّمْسُ يَنۢبَغِى"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّۢ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "وَجَعَلْنَا مِنۢ بَيْنِ"
+        }
+      ],
+      "activityId": "act_036_02_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 9,
+      "missingWordPosition": 5,
+      "options": [
+        "وَلَقَدْ",
+        "وَمِنْ",
+        "كُلَّهَا",
+        "يَقُولَ"
+      ],
+      "activityId": "act_036_02_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 9,
+      "correctNextAyahNumber": 10,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "وَنُفِخَ فِى ٱلصُّورِ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَٱضْرِبْ لَهُم مَّثَلًا"
+        },
+        {
+          "ayahNumber": 66,
+          "text": "وَلَوْ نَشَآءُ لَطَمَسْنَا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ"
+        }
+      ],
+      "activityId": "act_036_02_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 10,
+      "missingWordPosition": 3,
+      "options": [
+        "كَمْ",
+        "أَمْ",
+        "كُلِّ",
+        "أَن"
+      ],
+      "activityId": "act_036_02_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 10,
+      "correctNextAyahNumber": 11,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "لَهُمْ فِيهَا فَـٰكِهَةٌۭ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "إِنَّمَا تُنذِرُ مَنِ"
+        }
+      ],
+      "activityId": "act_036_02_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 6,
+      "options": [
+        "عَلَّمْنَـٰهُ",
+        "ٱلرَّحْمَـٰنَ",
+        "وَمَشَارِبُ ۖ",
+        "مُّظْلِمُونَ"
+      ],
+      "activityId": "act_036_02_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 5,
+          "text": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "إِنَّا نَحْنُ نُحْىِ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "إِنِّىٓ إِذًۭا لَّفِى"
+        }
+      ],
+      "activityId": "act_036_02_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱلشَّيْطَـٰنَ ۖ",
+        "أَحْيَيْنَـٰهَا",
+        "وَءَاثَـٰرَهُمْ ۚ",
+        "مَّرْقَدِنَا ۜ ۗ"
+      ],
+      "activityId": "act_036_02_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 22,
+    "theme": "أغلال الكافرين وحجبهم عن الإبصار وبشارة من اتبع الذكر وخشي الرحمن بالغيب."
+  }
+}

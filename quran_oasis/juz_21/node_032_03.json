@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_032_03",
+  "title": "سورة السجدة - الآيات 11-15",
+  "surahId": 32,
+  "ayahStart": 11,
+  "ayahEnd": 15,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 11,
+      "missingWordPosition": 5,
+      "options": [
+        "طِينٍۢ",
+        "جَنَّـٰتُ",
+        "وُكِّلَ",
+        "شِئْنَا"
+      ],
+      "activityId": "act_032_03_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 11,
+      "correctNextAyahNumber": 12,
+      "options": [
+        {
+          "ayahNumber": 30,
+          "text": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "أَوَلَمْ يَرَوْا۟ أَنَّا"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "وَلَوْ تَرَىٰٓ إِذِ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَوْ شِئْنَا لَـَٔاتَيْنَا"
+        }
+      ],
+      "activityId": "act_032_03_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 12,
+      "missingWordPosition": 8,
+      "options": [
+        "يَقُولُونَ",
+        "ٱلْفَتْحُ",
+        "مُؤْمِنًۭا",
+        "رَبَّنَآ"
+      ],
+      "activityId": "act_032_03_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 12,
+      "correctNextAyahNumber": 13,
+      "options": [
+        {
+          "ayahNumber": 3,
+          "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۚ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "إِنَّ رَبَّكَ هُوَ"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَوْ شِئْنَا لَـَٔاتَيْنَا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا"
+        }
+      ],
+      "activityId": "act_032_03_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 13,
+      "missingWordPosition": 8,
+      "options": [
+        "تَعْلَمُ",
+        "تَأْكُلُ",
+        "هَـٰذَآ",
+        "ٱلْقَوْلُ"
+      ],
+      "activityId": "act_032_03_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 13,
+      "correctNextAyahNumber": 14,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَنْ أَظْلَمُ مِمَّن"
+        },
+        {
+          "ayahNumber": 30,
+          "text": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ"
+        },
+        {
+          "ayahNumber": 6,
+          "text": "ذَٰلِكَ عَـٰلِمُ ٱلْغَيْبِ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "فَذُوقُوا۟ بِمَا نَسِيتُمْ"
+        }
+      ],
+      "activityId": "act_032_03_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 14,
+      "missingWordPosition": 7,
+      "options": [
+        "نَسِينَـٰكُمْ ۖ",
+        "لَـَٔايَـٰتٍ ۖ",
+        "وَلَنُذِيقَنَّهُم",
+        "ٱلسَّمَـٰوَٰتِ"
+      ],
+      "activityId": "act_032_03_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 14,
+      "correctNextAyahNumber": 15,
+      "options": [
+        {
+          "ayahNumber": 11,
+          "text": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ"
+        },
+        {
+          "ayahNumber": 15,
+          "text": "إِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا"
+        },
+        {
+          "ayahNumber": 13,
+          "text": "وَلَوْ شِئْنَا لَـَٔاتَيْنَا"
+        },
+        {
+          "ayahNumber": 4,
+          "text": "ٱللَّهُ ٱلَّذِى خَلَقَ"
+        }
+      ],
+      "activityId": "act_032_03_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 15,
+      "missingWordPosition": 7,
+      "options": [
+        "نَاكِسُوا۟",
+        "خَرُّوا۟",
+        "ٱلْعَزِيزُ",
+        "بِحَمْدِ"
+      ],
+      "activityId": "act_032_03_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "السجدة",
+    "juz": 21,
+    "theme": "مشهد نكس المجرمين رؤوسهم عند ربهم ومجازاة كل نفس بما كسبت."
+  }
+}

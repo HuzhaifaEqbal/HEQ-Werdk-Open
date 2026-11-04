@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_029_09",
+  "title": "سورة العنكبوت - الآيات 40-45",
+  "surahId": 29,
+  "ayahStart": 40,
+  "ayahEnd": 45,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 14,
+      "options": [
+        "تَعْثَوْا۟",
+        "مُهَاجِرٌ",
+        "كَمَثَلِ",
+        "خَسَفْنَا"
+      ],
+      "activityId": "act_029_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "وَعَادًۭا وَثَمُودَا۟ وَقَد"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "إِنَّمَا تَعْبُدُونَ مِن"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَقَالَ إِنَّمَا ٱتَّخَذْتُم"
+        }
+      ],
+      "activityId": "act_029_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 10,
+      "options": [
+        "بَيْتًۭا ۖ",
+        "فَلَبِثَ",
+        "إِنَّهُمْ",
+        "وَٰحِدٌۭ"
+      ],
+      "activityId": "act_029_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "إِنَّ ٱللَّهَ يَعْلَمُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ"
+        }
+      ],
+      "activityId": "act_029_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 6,
+      "options": [
+        "لَغَنِىٌّ",
+        "دُونِهِۦ",
+        "وَلَقَد",
+        "لَهُمُ"
+      ],
+      "activityId": "act_029_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 42,
+      "correctNextAyahNumber": 43,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "وَمَآ أَنتُم بِمُعْجِزِينَ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا"
+        },
+        {
+          "ayahNumber": 11,
+          "text": "وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ"
+        }
+      ],
+      "activityId": "act_029_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "وَمَا",
+        "نِعْمَ",
+        "إِنَّا",
+        "كَفَىٰ"
+      ],
+      "activityId": "act_029_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 63,
+          "text": "وَلَئِن سَأَلْتَهُم مَّن"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "قَالَ إِنَّ فِيهَا"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَمِنَ ٱلنَّاسِ مَن"
+        }
+      ],
+      "activityId": "act_029_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 4,
+      "options": [
+        "بِٱلْحَقِّ ۚ",
+        "ٱلصَّلَوٰةَ",
+        "إِبْرَٰهِيمَ",
+        "وَٱلْأَرْضِ ۗ"
+      ],
+      "activityId": "act_029_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "ٱتْلُ مَآ أُوحِىَ"
+        },
+        {
+          "ayahNumber": 29,
+          "text": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "كُلُّ نَفْسٍۢ ذَآئِقَةُ"
+        },
+        {
+          "ayahNumber": 14,
+          "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا"
+        }
+      ],
+      "activityId": "act_029_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 10,
+      "options": [
+        "وَقَالُوا۟",
+        "تَنْهَىٰ",
+        "جَآءَتْ",
+        "وَسَخَّرَ"
+      ],
+      "activityId": "act_029_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "العنكبوت",
+    "juz": 20,
+    "theme": "الأمر بتلاوة القرآن وإقامة الصلاة وتأكيد النهي عن الفحشاء والمنكر."
+  }
+}

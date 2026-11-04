@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_07",
+  "title": "سورة الشعراء - الآيات 37-42",
+  "surahId": 26,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 0,
+      "options": [
+        "يَأْتُوكَ",
+        "بَطَشْتُم",
+        "بَيْضَآءُ",
+        "بُيُوتًۭا"
+      ],
+      "activityId": "act_026_07_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "options": [
+        {
+          "ayahNumber": 38,
+          "text": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ"
+        },
+        {
+          "ayahNumber": 87,
+          "text": "وَلَا تُخْزِنِى يَوْمَ"
+        },
+        {
+          "ayahNumber": 88,
+          "text": "يَوْمَ لَا يَنفَعُ"
+        }
+      ],
+      "activityId": "act_026_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّحَرَةُ",
+        "فَقَرَأَهُۥ",
+        "فَكَذَّبُوهُ",
+        "فَنَجَّيْنَـٰهُ"
+      ],
+      "activityId": "act_026_07_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "options": [
+        {
+          "ayahNumber": 39,
+          "text": "وَقِيلَ لِلنَّاسِ هَلْ"
+        },
+        {
+          "ayahNumber": 92,
+          "text": "وَقِيلَ لَهُمْ أَيْنَ"
+        },
+        {
+          "ayahNumber": 76,
+          "text": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ"
+        },
+        {
+          "ayahNumber": 93,
+          "text": "مِن دُونِ ٱللَّهِ"
+        }
+      ],
+      "activityId": "act_026_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّجْتَمِعُونَ",
+        "وَٱلْجِبِلَّةَ",
+        "وَٱلْمَغْرِبِ",
+        "يَخْتَصِمُونَ"
+      ],
+      "activityId": "act_026_07_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "options": [
+        {
+          "ayahNumber": 40,
+          "text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ"
+        },
+        {
+          "ayahNumber": 38,
+          "text": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَٱلَّذِىٓ أَطْمَعُ أَن"
+        }
+      ],
+      "activityId": "act_026_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْغَـٰلِبِينَ",
+        "يَنتَصِرُونَ",
+        "يَنقَلِبُونَ",
+        "ٱلذُّكْرَانَ"
+      ],
+      "activityId": "act_026_07_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "options": [
+        {
+          "ayahNumber": 41,
+          "text": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ"
+        },
+        {
+          "ayahNumber": 61,
+          "text": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ"
+        },
+        {
+          "ayahNumber": 96,
+          "text": "قَالُوا۟ وَهُمْ فِيهَا"
+        },
+        {
+          "ayahNumber": 116,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        }
+      ],
+      "activityId": "act_026_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 11,
+      "options": [
+        "ٱلْغَـٰلِبِينَ",
+        "ٱلسَّـٰجِدِينَ",
+        "ٱلشَّيَـٰطِينُ",
+        "ٱلصَّـٰدِقِينَ"
+      ],
+      "activityId": "act_026_07_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "قَالَ نَعَمْ وَإِنَّكُمْ"
+        },
+        {
+          "ayahNumber": 20,
+          "text": "قَالَ فَعَلْتُهَآ إِذًۭا"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "قَالَ لَهُم مُّوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "قَالَ ءَامَنتُمْ لَهُۥ"
+        }
+      ],
+      "activityId": "act_026_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلْمُقَرَّبِينَ",
+        "وَءَابَآؤُكُمُ",
+        "وَأَوْرَثْنَـٰهَا",
+        "وَٱلشُّعَرَآءُ"
+      ],
+      "activityId": "act_026_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

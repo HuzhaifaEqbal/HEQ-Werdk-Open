@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_012_07",
+  "title": "سورة يوسف - الآيات 37-42",
+  "surahId": 12,
+  "ayahStart": 37,
+  "ayahEnd": 42,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 37,
+      "missingWordPosition": 5,
+      "options": [
+        "تُرْزَقَانِهِۦٓ",
+        "تَسْتَفْتِيَانِ",
+        "سَمَّيْتُمُوهَآ",
+        "وَءَابَآؤُكُم"
+      ],
+      "activityId": "act_012_07_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 37,
+      "correctNextAyahNumber": 38,
+      "wrongOptionsAyahNumbers": [
+        39,
+        35
+      ],
+      "activityId": "act_012_07_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 38,
+      "missingWordPosition": 6,
+      "options": [
+        "وَيَعْقُوبَ ۚ",
+        "نَبَّأْتُكُمَا",
+        "يَأْتِيكُمَا",
+        "بِٱلْـَٔاخِرَةِ"
+      ],
+      "activityId": "act_012_07_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 38,
+      "correctNextAyahNumber": 39,
+      "wrongOptionsAyahNumbers": [
+        40,
+        36
+      ],
+      "activityId": "act_012_07_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 39,
+      "missingWordPosition": 4,
+      "options": [
+        "مُّتَفَرِّقُونَ",
+        "وَيَعْقُوبَ ۚ",
+        "بِٱلْـَٔاخِرَةِ",
+        "نَبَّأْتُكُمَا"
+      ],
+      "activityId": "act_012_07_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 39,
+      "correctNextAyahNumber": 40,
+      "wrongOptionsAyahNumbers": [
+        41,
+        37
+      ],
+      "activityId": "act_012_07_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 40,
+      "missingWordPosition": 7,
+      "options": [
+        "سَمَّيْتُمُوهَآ",
+        "تُرْزَقَانِهِۦٓ",
+        "يَأْتِيَكُمَا ۚ",
+        "بِتَأْوِيلِهِۦ"
+      ],
+      "activityId": "act_012_07_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 40,
+      "correctNextAyahNumber": 41,
+      "wrongOptionsAyahNumbers": [
+        42,
+        38
+      ],
+      "activityId": "act_012_07_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 41,
+      "missingWordPosition": 19,
+      "options": [
+        "تَسْتَفْتِيَانِ",
+        "تُرْزَقَانِهِۦٓ",
+        "يَأْتِيَكُمَا ۚ",
+        "بِتَأْوِيلِهِۦ"
+      ],
+      "activityId": "act_012_07_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 41,
+      "correctNextAyahNumber": 42,
+      "wrongOptionsAyahNumbers": [
+        43,
+        39
+      ],
+      "activityId": "act_012_07_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 42,
+      "missingWordPosition": 7,
+      "options": [
+        "ٱذْكُرْنِى",
+        "ءَابَآءِىٓ",
+        "أَحَدُكُمَا",
+        "تَعْبُدُونَ"
+      ],
+      "activityId": "act_012_07_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يوسف",
+    "juz": 12,
+    "theme": "عرض قصة يوسف عليه السلام وما فيها من الابتلاء والصبر والعفة والتدبير، وبيان لطف الله وتدبيره وعاقبة التقوى والإحسان."
+  }
+}

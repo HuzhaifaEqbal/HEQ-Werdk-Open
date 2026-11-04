@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_019_04",
+  "title": "سورة مريم - الآيات 19-24",
+  "surahId": 19,
+  "ayahStart": 19,
+  "ayahEnd": 24,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 19,
+      "missingWordPosition": 1,
+      "options": [
+        "إِنَّمَآ",
+        "أَثَـٰثًۭا",
+        "أَحَدًۭا",
+        "أَحْسَنُ"
+      ],
+      "activityId": "act_019_04_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 19,
+      "correctNextAyahNumber": 20,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "قَالَتْ أَنَّىٰ يَكُونُ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "قَالَتْ إِنِّىٓ أَعُوذُ"
+        },
+        {
+          "ayahNumber": 8,
+          "text": "قَالَ رَبِّ أَنَّىٰ"
+        },
+        {
+          "ayahNumber": 43,
+          "text": "يَـٰٓأَبَتِ إِنِّى قَدْ"
+        }
+      ],
+      "activityId": "act_019_04_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 20,
+      "missingWordPosition": 6,
+      "options": [
+        "يَمْسَسْنِى",
+        "فَأَشَارَتْ",
+        "فَأُو۟لَـٰٓئِكَ",
+        "فَلْيَمْدُدْ"
+      ],
+      "activityId": "act_019_04_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 20,
+      "correctNextAyahNumber": 21,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "قَالَ كَذَٰلِكِ قَالَ"
+        },
+        {
+          "ayahNumber": 9,
+          "text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ"
+        },
+        {
+          "ayahNumber": 19,
+          "text": "قَالَ إِنَّمَآ أَنَا۠"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "قَالَ أَرَاغِبٌ أَنتَ"
+        }
+      ],
+      "activityId": "act_019_04_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 7,
+      "options": [
+        "وَلِنَجْعَلَهُۥٓ",
+        "بِعِبَادَتِهِمْ",
+        "فَسَيَعْلَمُونَ",
+        "فَٱعْبُدُوهُ ۚ"
+      ],
+      "activityId": "act_019_04_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 22,
+          "text": "۞ فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "فَأَتَتْ بِهِۦ قَوْمَهَا"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ"
+        }
+      ],
+      "activityId": "act_019_04_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ فَحَمَلَتْهُ",
+        "لَأَرْجُمَنَّكَ ۖ",
+        "لَنَحْشُرَنَّهُمْ",
+        "لَنُحْضِرَنَّهُمْ"
+      ],
+      "activityId": "act_019_04_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 23,
+          "text": "فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 86,
+          "text": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ"
+        },
+        {
+          "ayahNumber": 85,
+          "text": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "وَهُزِّىٓ إِلَيْكِ بِجِذْعِ"
+        }
+      ],
+      "activityId": "act_019_04_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 0,
+      "options": [
+        "فَأَجَآءَهَا",
+        "فَٱتَّبِعْنِىٓ",
+        "فَٱنتَبَذَتْ",
+        "لِّيَكُونُوا۟"
+      ],
+      "activityId": "act_019_04_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 24,
+          "text": "فَنَادَىٰهَا مِن تَحْتِهَآ"
+        },
+        {
+          "ayahNumber": 60,
+          "text": "إِلَّا مَن تَابَ"
+        },
+        {
+          "ayahNumber": 59,
+          "text": "۞ فَخَلَفَ مِنۢ بَعْدِهِمْ"
+        },
+        {
+          "ayahNumber": 64,
+          "text": "وَمَا نَتَنَزَّلُ إِلَّا"
+        }
+      ],
+      "activityId": "act_019_04_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 0,
+      "options": [
+        "فَنَادَىٰهَا",
+        "وَءَاتَيْنَـٰهُ",
+        "وَأَنذِرْهُمْ",
+        "وَإِسْرَٰٓءِيلَ"
+      ],
+      "activityId": "act_019_04_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "مريم",
+    "juz": 16,
+    "theme": "تعرض آيات هذا المقطع رحمة الله وأنبياءه، وبشارات زكريا ومريم وعيسى عليهم السلام، وآيات البعث، ومآل المؤمنين والمكذبين."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_038_10",
+  "title": "سورة ص - الآيات 54-58",
+  "surahId": 38,
+  "ayahStart": 54,
+  "ayahEnd": 58,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 2,
+      "options": [
+        "إِبْلِيسَ",
+        "لَيَبْغِى",
+        "ٱلْغَفَّـٰرُ",
+        "لَرِزْقُنَا"
+      ],
+      "activityId": "act_038_10_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 54,
+      "correctNextAyahNumber": 55,
+      "options": [
+        {
+          "ayahNumber": 67,
+          "text": "قُلْ هُوَ نَبَؤٌا۟"
+        },
+        {
+          "ayahNumber": 74,
+          "text": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ"
+        },
+        {
+          "ayahNumber": 28,
+          "text": "أَمْ نَجْعَلُ ٱلَّذِينَ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ"
+        }
+      ],
+      "activityId": "act_038_10_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 55,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلْأَحْزَابُ",
+        "لِلطَّـٰغِينَ",
+        "لَأَمْلَأَنَّ",
+        "عِبَـٰدَنَآ"
+      ],
+      "activityId": "act_038_10_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 55,
+      "correctNextAyahNumber": 56,
+      "options": [
+        {
+          "ayahNumber": 56,
+          "text": "جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ"
+        },
+        {
+          "ayahNumber": 31,
+          "text": "إِذْ عُرِضَ عَلَيْهِ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ"
+        }
+      ],
+      "activityId": "act_038_10_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 56,
+      "missingWordPosition": 2,
+      "options": [
+        "بِيَدِكَ",
+        "إِلَىَّ",
+        "مُّبِينٌ",
+        "فَبِئْسَ"
+      ],
+      "activityId": "act_038_10_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 56,
+      "correctNextAyahNumber": 57,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "أَءُنزِلَ عَلَيْهِ ٱلذِّكْرُ"
+        },
+        {
+          "ayahNumber": 57,
+          "text": "هَـٰذَا فَلْيَذُوقُوهُ حَمِيمٌۭ"
+        },
+        {
+          "ayahNumber": 27,
+          "text": "وَمَا خَلَقْنَا ٱلسَّمَآءَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "إِلَّا عِبَادَكَ مِنْهُمُ"
+        }
+      ],
+      "activityId": "act_038_10_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 57,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱمْشُوا۟",
+        "شَدِيدٌۢ",
+        "تَخَاصُمُ",
+        "حَمِيمٌۭ"
+      ],
+      "activityId": "act_038_10_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 57,
+      "correctNextAyahNumber": 58,
+      "options": [
+        {
+          "ayahNumber": 73,
+          "text": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِنَّهُمْ عِندَنَا لَمِنَ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "وَخُذْ بِيَدِكَ ضِغْثًۭا"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "وَءَاخَرُ مِن شَكْلِهِۦٓ"
+        }
+      ],
+      "activityId": "act_038_10_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 58,
+      "missingWordPosition": 2,
+      "options": [
+        "وَيَعْقُوبَ",
+        "فَوَيْلٌۭ",
+        "إِبْلِيسَ",
+        "شَكْلِهِۦٓ"
+      ],
+      "activityId": "act_038_10_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "ص",
+    "juz": 23,
+    "theme": "حسن مآب المتقين في جنات عدن مفتحة لهم الأبواب ومتكئين فيها وعندهم قاصرات الطرف."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_036_09",
+  "title": "سورة يس - الآيات 43-47",
+  "surahId": 36,
+  "ayahStart": 43,
+  "ayahEnd": 47,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 4,
+      "options": [
+        "وَنَسِىَ",
+        "نَخْتِمُ",
+        "رَبِّى",
+        "صَرِيخَ"
+      ],
+      "activityId": "act_036_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 8,
+          "text": "إِنَّا جَعَلْنَا فِىٓ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ"
+        },
+        {
+          "ayahNumber": 44,
+          "text": "إِلَّا رَحْمَةًۭ مِّنَّا"
+        },
+        {
+          "ayahNumber": 50,
+          "text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ"
+        }
+      ],
+      "activityId": "act_036_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَشْحُونِ",
+        "بِٱلْغَيْبِ ۖ",
+        "رَزَقَكُمُ",
+        "وَمَتَـٰعًا"
+      ],
+      "activityId": "act_036_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 43,
+          "text": "وَإِن نَّشَأْ نُغْرِقْهُمْ"
+        },
+        {
+          "ayahNumber": 45,
+          "text": "وَإِذَا قِيلَ لَهُمُ"
+        },
+        {
+          "ayahNumber": 69,
+          "text": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ"
+        }
+      ],
+      "activityId": "act_036_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 6,
+      "options": [
+        "أَيْدِيكُمْ",
+        "يَكْسِبُونَ",
+        "يَدَّعُونَ",
+        "شَيْـًۭٔا"
+      ],
+      "activityId": "act_036_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 82,
+          "text": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ"
+        },
+        {
+          "ayahNumber": 77,
+          "text": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 58,
+          "text": "سَلَـٰمٌۭ قَوْلًۭا مِّن"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "وَمَا تَأْتِيهِم مِّنْ"
+        }
+      ],
+      "activityId": "act_036_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 5,
+      "options": [
+        "ءَايَـٰتِ",
+        "لِّيُنذِرَ",
+        "وَمِنْهَا",
+        "مِنكُمْ"
+      ],
+      "activityId": "act_036_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 21,
+          "text": "ٱتَّبِعُوا۟ مَن لَّا"
+        },
+        {
+          "ayahNumber": 34,
+          "text": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍۢ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "وَإِذَا قِيلَ لَهُمْ"
+        },
+        {
+          "ayahNumber": 10,
+          "text": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ"
+        }
+      ],
+      "activityId": "act_036_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 11,
+      "options": [
+        "ءَامَنُوٓا۟",
+        "مُّهْتَدُونَ",
+        "أَرْسَلْنَآ",
+        "سَلَـٰمٌۭ"
+      ],
+      "activityId": "act_036_09_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "يس",
+    "juz": 23,
+    "theme": "دعوة المشركين لتقوى الله والإنفاق مما رزقهم واستكبارهم وجدالهم."
+  }
+}

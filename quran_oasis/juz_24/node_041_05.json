@@ -1,0 +1,170 @@
+{
+  "nodeId": "hifz_041_05",
+  "title": "سورة فصلت - الآيات 21-25",
+  "surahId": 41,
+  "ayahStart": 21,
+  "ayahEnd": 25,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 21,
+      "missingWordPosition": 9,
+      "options": [
+        "وَوَيْلٌۭ",
+        "دُخَانٌۭ",
+        "وَمَا",
+        "أَنطَقَ"
+      ],
+      "activityId": "act_041_05_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 21,
+      "correctNextAyahNumber": 22,
+      "options": [
+        {
+          "ayahNumber": 42,
+          "text": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ"
+        },
+        {
+          "ayahNumber": 22,
+          "text": "وَمَا كُنتُمْ تَسْتَتِرُونَ"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 18,
+          "text": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟"
+        }
+      ],
+      "activityId": "act_041_05_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 22,
+      "missingWordPosition": 10,
+      "options": [
+        "قُوَّةً ۖ",
+        "تَخَافُوا۟",
+        "جُلُودُكُمْ",
+        "تَعْمَلُونَ"
+      ],
+      "activityId": "act_041_05_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 22,
+      "correctNextAyahNumber": 23,
+      "options": [
+        {
+          "ayahNumber": 37,
+          "text": "وَمِنْ ءَايَـٰتِهِ ٱلَّيْلُ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ"
+        },
+        {
+          "ayahNumber": 49,
+          "text": "لَّا يَسْـَٔمُ ٱلْإِنسَـٰنُ"
+        },
+        {
+          "ayahNumber": 23,
+          "text": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى"
+        }
+      ],
+      "activityId": "act_041_05_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 23,
+      "missingWordPosition": 4,
+      "options": [
+        "بِرَبِّكُمْ",
+        "ءَايَـٰتِهِ",
+        "وَعَمِلُوا۟",
+        "يُؤْتُونَ"
+      ],
+      "activityId": "act_041_05_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 23,
+      "correctNextAyahNumber": 24,
+      "options": [
+        {
+          "ayahNumber": 20,
+          "text": "حَتَّىٰٓ إِذَا مَا"
+        },
+        {
+          "ayahNumber": 48,
+          "text": "وَضَلَّ عَنْهُم مَّا"
+        },
+        {
+          "ayahNumber": 2,
+          "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَـٰنِ"
+        },
+        {
+          "ayahNumber": 24,
+          "text": "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ"
+        }
+      ],
+      "activityId": "act_041_05_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 24,
+      "missingWordPosition": 5,
+      "options": [
+        "بِهِۦ",
+        "مِّمَّا",
+        "فَإِنْ",
+        "وَإِن"
+      ],
+      "activityId": "act_041_05_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 24,
+      "correctNextAyahNumber": 25,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى"
+        },
+        {
+          "ayahNumber": 35,
+          "text": "وَمَا يُلَقَّىٰهَآ إِلَّا"
+        },
+        {
+          "ayahNumber": 12,
+          "text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ"
+        },
+        {
+          "ayahNumber": 25,
+          "text": "۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ"
+        }
+      ],
+      "activityId": "act_041_05_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 25,
+      "missingWordPosition": 12,
+      "options": [
+        "بِكُلِّ",
+        "ظَنَنتُم",
+        "قَدِيرٌ",
+        "ٱلْقَوْلُ"
+      ],
+      "activityId": "act_041_05_09"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "فصلت",
+    "juz": 24,
+    "theme": "حشر أعداء الله إلى النار وشهادة سمعهم وأبصارهم وجلودهم بما كانوا يعملون."
+  }
+}

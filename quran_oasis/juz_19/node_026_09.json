@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_09",
+  "title": "سورة الشعراء - الآيات 49-54",
+  "surahId": 26,
+  "ayahStart": 49,
+  "ayahEnd": 54,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 49,
+      "missingWordPosition": 19,
+      "options": [
+        "وَلَأُصَلِّبَنَّكُمْ",
+        "ٱلْمَرْجُومِينَ",
+        "ٱلْمَسْجُونِينَ",
+        "۞ وَأَوْحَيْنَآ"
+      ],
+      "activityId": "act_026_09_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 49,
+      "correctNextAyahNumber": 50,
+      "options": [
+        {
+          "ayahNumber": 50,
+          "text": "قَالُوا۟ لَا ضَيْرَ ۖ"
+        },
+        {
+          "ayahNumber": 185,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        },
+        {
+          "ayahNumber": 47,
+          "text": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ"
+        },
+        {
+          "ayahNumber": 36,
+          "text": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ"
+        }
+      ],
+      "activityId": "act_026_09_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 50,
+      "missingWordPosition": 6,
+      "options": [
+        "مُنقَلِبُونَ",
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْغَاوُۥنَ",
+        "ٱلْغَـٰبِرِينَ"
+      ],
+      "activityId": "act_026_09_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 50,
+      "correctNextAyahNumber": 51,
+      "options": [
+        {
+          "ayahNumber": 51,
+          "text": "إِنَّا نَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 82,
+          "text": "وَٱلَّذِىٓ أَطْمَعُ أَن"
+        },
+        {
+          "ayahNumber": 115,
+          "text": "إِنْ أَنَا۠ إِلَّا"
+        },
+        {
+          "ayahNumber": 97,
+          "text": "تَٱللَّهِ إِن كُنَّا"
+        }
+      ],
+      "activityId": "act_026_09_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 51,
+      "missingWordPosition": 10,
+      "options": [
+        "ٱلْمُؤْمِنِينَ",
+        "وَٱلْغَاوُۥنَ",
+        "وَٱنتَصَرُوا۟",
+        "يَسْتَطِيعُونَ"
+      ],
+      "activityId": "act_026_09_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 51,
+      "correctNextAyahNumber": 52,
+      "options": [
+        {
+          "ayahNumber": 52,
+          "text": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 63,
+          "text": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ"
+        },
+        {
+          "ayahNumber": 102,
+          "text": "فَلَوْ أَنَّ لَنَا"
+        },
+        {
+          "ayahNumber": 139,
+          "text": "فَكَذَّبُوهُ فَأَهْلَكْنَـٰهُمْ ۗ إِنَّ"
+        }
+      ],
+      "activityId": "act_026_09_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 52,
+      "missingWordPosition": 0,
+      "options": [
+        "۞ وَأَوْحَيْنَآ",
+        "أَفَبِعَذَابِنَا",
+        "فَأَهْلَكْنَـٰهُمْ ۗ",
+        "وَلَأُصَلِّبَنَّكُمْ"
+      ],
+      "activityId": "act_026_09_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 52,
+      "correctNextAyahNumber": 53,
+      "options": [
+        {
+          "ayahNumber": 53,
+          "text": "فَأَرْسَلَ فِرْعَوْنُ فِى"
+        },
+        {
+          "ayahNumber": 119,
+          "text": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ"
+        },
+        {
+          "ayahNumber": 146,
+          "text": "أَتُتْرَكُونَ فِى مَا"
+        },
+        {
+          "ayahNumber": 147,
+          "text": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ"
+        }
+      ],
+      "activityId": "act_026_09_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 53,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْمَدَآئِنِ",
+        "ٱلْغَـٰلِبُونَ",
+        "ٱلْغَـٰلِبِينَ",
+        "ٱلْـَٔاخَرِينَ"
+      ],
+      "activityId": "act_026_09_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 53,
+      "correctNextAyahNumber": 54,
+      "options": [
+        {
+          "ayahNumber": 54,
+          "text": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌۭ"
+        },
+        {
+          "ayahNumber": 190,
+          "text": "إِنَّ فِى ذَٰلِكَ"
+        },
+        {
+          "ayahNumber": 67,
+          "text": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ"
+        },
+        {
+          "ayahNumber": 17,
+          "text": "أَنْ أَرْسِلْ مَعَنَا"
+        }
+      ],
+      "activityId": "act_026_09_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 54,
+      "missingWordPosition": 2,
+      "options": [
+        "لَشِرْذِمَةٌۭ",
+        "لَأُقَطِّعَنَّ",
+        "لَتَكُونَنَّ",
+        "لَتَنزِيلُ"
+      ],
+      "activityId": "act_026_09_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}

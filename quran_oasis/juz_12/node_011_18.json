@@ -1,0 +1,136 @@
+{
+  "nodeId": "hifz_011_18",
+  "title": "سورة هود - الآيات 102-107",
+  "surahId": 11,
+  "ayahStart": 102,
+  "ayahEnd": 107,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 102,
+      "missingWordPosition": 6,
+      "options": [
+        "ٱلْقُرَىٰ",
+        "وَشَهِيقٌ",
+        "ٱلَّذِينَ",
+        "فَمِنْهُمْ"
+      ],
+      "activityId": "act_011_18_01"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 102,
+      "correctNextAyahNumber": 103,
+      "wrongOptionsAyahNumbers": [
+        104,
+        100
+      ],
+      "activityId": "act_011_18_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 103,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "بِإِذْنِهِۦ ۚ",
+        "ٱلسَّمَـٰوَٰتُ",
+        "نُؤَخِّرُهُۥٓ"
+      ],
+      "activityId": "act_011_18_03"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 103,
+      "correctNextAyahNumber": 104,
+      "wrongOptionsAyahNumbers": [
+        105,
+        101
+      ],
+      "activityId": "act_011_18_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 104,
+      "missingWordPosition": 2,
+      "options": [
+        "نُؤَخِّرُهُۥٓ",
+        "وَٱلْأَرْضُ",
+        "ٱلسَّمَـٰوَٰتُ",
+        "ظَـٰلِمَةٌ ۚ"
+      ],
+      "activityId": "act_011_18_05"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 104,
+      "correctNextAyahNumber": 105,
+      "wrongOptionsAyahNumbers": [
+        106,
+        102
+      ],
+      "activityId": "act_011_18_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 105,
+      "missingWordPosition": 7,
+      "options": [
+        "بِإِذْنِهِۦ ۚ",
+        "ٱلْـَٔاخِرَةِ ۚ",
+        "نُؤَخِّرُهُۥٓ",
+        "وَٱلْأَرْضُ"
+      ],
+      "activityId": "act_011_18_07"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 105,
+      "correctNextAyahNumber": 106,
+      "wrongOptionsAyahNumbers": [
+        107,
+        103
+      ],
+      "activityId": "act_011_18_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 106,
+      "missingWordPosition": 2,
+      "options": [
+        "ٱلَّذِينَ",
+        "ٱلْقُرَىٰ",
+        "أَخْذَهُۥٓ",
+        "وَسَعِيدٌۭ"
+      ],
+      "activityId": "act_011_18_09"
+    },
+    {
+      "type": "next_ayah",
+      "currentAyahNumber": 106,
+      "correctNextAyahNumber": 107,
+      "wrongOptionsAyahNumbers": [
+        108,
+        104
+      ],
+      "activityId": "act_011_18_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 107,
+      "missingWordPosition": 5,
+      "options": [
+        "ٱلسَّمَـٰوَٰتُ",
+        "نُؤَخِّرُهُۥٓ",
+        "مَّجْمُوعٌۭ",
+        "مَّشْهُودٌۭ"
+      ],
+      "activityId": "act_011_18_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "هود",
+    "juz": 12,
+    "theme": "تقرير التوحيد وصدق الوحي، وذكر قصص نوح وهود وصالح وإبراهيم ولوط وشعيب وموسى عليهم السلام، والأمر بالاستقامة والصبر."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "nodeId": "hifz_026_08",
+  "title": "سورة الشعراء - الآيات 43-48",
+  "surahId": 26,
+  "ayahStart": 43,
+  "ayahEnd": 48,
+  "activities": [
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 43,
+      "missingWordPosition": 3,
+      "options": [
+        "أَلْقُوا۟",
+        "بِأَنْعَـٰمٍۢ",
+        "بِطَارِدِ",
+        "بِلِسَانٍ"
+      ],
+      "activityId": "act_026_08_01"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 43,
+      "correctNextAyahNumber": 44,
+      "options": [
+        {
+          "ayahNumber": 44,
+          "text": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ"
+        },
+        {
+          "ayahNumber": 39,
+          "text": "وَقِيلَ لِلنَّاسِ هَلْ"
+        },
+        {
+          "ayahNumber": 37,
+          "text": "يَأْتُوكَ بِكُلِّ سَحَّارٍ"
+        },
+        {
+          "ayahNumber": 55,
+          "text": "وَإِنَّهُمْ لَنَا لَغَآئِظُونَ"
+        }
+      ],
+      "activityId": "act_026_08_02"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 44,
+      "missingWordPosition": 8,
+      "options": [
+        "ٱلْغَـٰلِبُونَ",
+        "ٱلضَّآلِّينَ",
+        "ٱلظَّـٰلِمِينَ",
+        "ٱلْأَوَّلِينَ"
+      ],
+      "activityId": "act_026_08_03"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 44,
+      "correctNextAyahNumber": 45,
+      "options": [
+        {
+          "ayahNumber": 45,
+          "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا"
+        },
+        {
+          "ayahNumber": 46,
+          "text": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ"
+        },
+        {
+          "ayahNumber": 65,
+          "text": "وَأَنجَيْنَا مُوسَىٰ وَمَن"
+        }
+      ],
+      "activityId": "act_026_08_04"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 45,
+      "missingWordPosition": 7,
+      "options": [
+        "يَأْفِكُونَ",
+        "فَٱتَّقُوا۟",
+        "فَٱذْهَبَا",
+        "فَٱنفَلَقَ"
+      ],
+      "activityId": "act_026_08_05"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 45,
+      "correctNextAyahNumber": 46,
+      "options": [
+        {
+          "ayahNumber": 46,
+          "text": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ"
+        },
+        {
+          "ayahNumber": 32,
+          "text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا"
+        },
+        {
+          "ayahNumber": 41,
+          "text": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ"
+        },
+        {
+          "ayahNumber": 40,
+          "text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ"
+        }
+      ],
+      "activityId": "act_026_08_06"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 46,
+      "missingWordPosition": 1,
+      "options": [
+        "ٱلسَّحَرَةُ",
+        "فِرْعَوْنَ ۚ",
+        "قَلِيلُونَ",
+        "كَٱلطَّوْدِ"
+      ],
+      "activityId": "act_026_08_07"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 46,
+      "correctNextAyahNumber": 47,
+      "options": [
+        {
+          "ayahNumber": 47,
+          "text": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ"
+        },
+        {
+          "ayahNumber": 136,
+          "text": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ"
+        },
+        {
+          "ayahNumber": 153,
+          "text": "قَالُوٓا۟ إِنَّمَآ أَنتَ"
+        },
+        {
+          "ayahNumber": 167,
+          "text": "قَالُوا۟ لَئِن لَّمْ"
+        }
+      ],
+      "activityId": "act_026_08_08"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 47,
+      "missingWordPosition": 3,
+      "options": [
+        "ٱلْعَـٰلَمِينَ",
+        "ٱلْبَاقِينَ",
+        "ٱلْجَمْعَانِ",
+        "ٱلْعَذَابُ ۗ"
+      ],
+      "activityId": "act_026_08_09"
+    },
+    {
+      "type": "next_ayah_sequence",
+      "currentAyahNumber": 47,
+      "correctNextAyahNumber": 48,
+      "options": [
+        {
+          "ayahNumber": 48,
+          "text": "رَبِّ مُوسَىٰ وَهَـٰرُونَ"
+        },
+        {
+          "ayahNumber": 83,
+          "text": "رَبِّ هَبْ لِى"
+        },
+        {
+          "ayahNumber": 169,
+          "text": "رَبِّ نَجِّنِى وَأَهْلِى"
+        },
+        {
+          "ayahNumber": 192,
+          "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ"
+        }
+      ],
+      "activityId": "act_026_08_10"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "ayahNumber": 48,
+      "missingWordPosition": 2,
+      "options": [
+        "وَهَـٰرُونَ",
+        "بِّعَصَاكَ",
+        "تَتَّقُونَ",
+        "تَدْعُونَ"
+      ],
+      "activityId": "act_026_08_11"
+    }
+  ],
+  "tutorContext": {
+    "surahName": "الشعراء",
+    "juz": 19,
+    "theme": "تعرض آيات هذا المقطع قصة موسى وفرعون، ثم قصص الأنبياء مع أقوامهم، وتختم ببيان صدق الوحي وصفات الشعراء المذمومين والمستثنين منهم."
+  }
+}
