@@ -51,7 +51,7 @@ Developers can consume these datasets directly in mobile and web applications vi
   ```http
   https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@{VERSION}/{DIRECTORY}/{PATH_TO_JSON}
   ```
-  > 💡 **نصيحة للمطورين:** بتطبيقات الإنتاج (Production) بننصحك تستخدم الإصدار الثابت `@v1.0.0` بدل `@main` مشان تضمن استقرار الكاش وتتجنب أي تغييرات مفاجئة بهيكل البيانات.
+  > 💡 **نصيحة للمطورين:** بتطبيقات الإنتاج (Production) بننصحك تستخدم الإصدار الثابت `@v1.1.0` بدل `@main` مشان تضمن استقرار الكاش وتتجنب أي تغييرات مفاجئة بهيكل البيانات.
 * **رابط GitHub الخام (Raw GitHub):**
   ```http
   https://raw.githubusercontent.com/HuzhaifaEqbal/HEQ-Werdk-Open/main/{DIRECTORY}/{PATH_TO_JSON}
@@ -154,6 +154,36 @@ curl -s "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/tajweed/m
 # Fetch Seerah Chapter 1
 curl -s "https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@main/AlSera_Alnabaoia/01_makka_w_wlada_alrasul.json"
 ```
+
+---
+
+## 🎧 التلاوات آية بآية | Verse-by-Verse Recitations
+
+ملف [`audio/ayah_reciters.json`](./audio/ayah_reciters.json) فيه 44 مصحف آية بآية (حفص وورش) و5 ترجمات صوتية، كلها على سيرفر HEQ:
+
+```http
+https://heq-cdn.b-cdn.net/quran/{reciter}/{type}/{surah:03d}/{ayah:03d}.mp3
+```
+
+مثال آية الكرسي بصوت الحصري: `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/255.mp3`
+
+---
+
+## 🤖 مهارة Claude Code لبناء تطبيق إسلامي | Claude Code Skill
+
+المستودع فيه مهارة جاهزة اسمها `heq-app-builder`. بتخلي Claude Code يبني تطبيق أو موقع إسلامي كامل من بيانات هالمستودع، وبيلتزم بالقواعد الشرعية وشروط الرخصة.
+The repo ships a Claude Code skill, `heq-app-builder`, that builds a complete Islamic app or website from these datasets.
+
+**التثبيت | Install** (داخل Claude Code):
+
+```
+/plugin marketplace add HuzhaifaEqbal/HEQ-Werdk-Open
+/plugin install heq-app-builder@heq-werdk-open
+```
+
+وبعدها قلّه بس: «ابنيلي تطبيق إسلامي». | Then just ask: "Build me an Islamic app."
+
+الملفات: [`skills/heq-app-builder/SKILL.md`](./skills/heq-app-builder/SKILL.md) (English) — [`SKILL.ar.md`](./skills/heq-app-builder/SKILL.ar.md) (العربية).
 
 ---
 

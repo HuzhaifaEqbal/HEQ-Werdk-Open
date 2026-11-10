@@ -5,7 +5,7 @@
       "title": "همزة الوصل والقطع - الفرق الأساسي",
       "content": "همزة الوصل هي همزة زائدة نتوصل بها إلى النطق بالحرف الساكن الذي بعدها، وتسقط إذا سبقها كلام. أما همزة القطع فهي حرف أصلي تُنطق دائماً وصلاً ووقفاً وابتداءً. العلامة في المصحف: الوصل = رأس الصاد (صـ) فوق الألف. القطع = همزة عادية (أ/إ).",
       "example": "قوله تعالى: (اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ) [العلق: 1] - همزة (اقْرَأْ) همزة وصل تثبت ابتداء وتسقط وصلاً لو سبقت بكلام، بينما همزة (أَعْطَيْنَاكَ) همزة قطع تثبت دائماً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/096001.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/096/001.mp3",
       "visual_example": "<svg viewBox=\"0 0 220 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"220\" height=\"120\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">همزة الوصل ↔ همزة القطع</text><rect x=\"15\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#EDE7F6\" stroke=\"#673AB7\" stroke-width=\"1.5\"/><text x=\"60\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" fill=\"#512DA8\">الوصل (ٱ)</text><text x=\"60\" y=\"76\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#311B92\">تثبت ابتداءً</text><text x=\"60\" y=\"90\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#D32F2F\">تسقط وصلاً</text><rect x=\"115\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#E0F7FA\" stroke=\"#00BCD4\" stroke-width=\"1.5\"/><text x=\"160\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" font-weight=\"bold\" fill=\"#00838F\">القطع (ء)</text><text x=\"160\" y=\"76\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#006064\">تثبت ابتداءً</text><text x=\"160\" y=\"90\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8.5\" fill=\"#388E3C\">وتثبت وصلاً</text></svg>"
     },
     {
@@ -26,7 +26,7 @@
       "title": "علامة همزة الوصل في المصحف",
       "content": "علماء الضبط وضعوا رأس حرف الصاد الصغيرة (صـ) فوق الألف الدالة على همزة الوصل. أُخذت من كلمة (صِلْ) أي صِل الكلام واستمر ولا تقطع. هذه العلامة تُميز همزة الوصل التي تسقط في الدرج عن همزة القطع التي تُنطق دائماً.",
       "example": "قوله تعالى: (فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ) [النصر: 3] - وُضعت رأس الصاد فوق ألف (وَاسْتَغْفِرْهُ) علامة على أنها همزة وصل تسقط في درج القراءة وصلاً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/110003.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/110/003.mp3"
     },
     {
       "type": "question",
@@ -46,7 +46,7 @@
       "title": "قاعدة الحرف الثالث في الأفعال",
       "content": "عند الابتداء بفعل يبدأ بهمزة وصل، نحدد حركة الهمزة كالتالي: نُعدّ الحروف (1: الهمزة، 2: الحرف الساكن بعدها، 3: الحرف المتحرك التالي). حركة الحرف الثالث تُحدد كيف نبدأ: مفتوح أو مكسور = نبدأ بكسر. مضموم (أصلي) = نبدأ بضم.",
       "example": "قوله تعالى: (اقْرَأْ وَرَبُّكَ الْأَكْرَمُ) [العلق: 3] - الحرف الثالث (الراء) مفتوح في الفعل (اقْرَأْ)، فنبدأ بهمزة وصل مكسورة (اِقْرَأْ).",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/096003.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/096/003.mp3"
     },
     {
       "type": "question",
@@ -66,7 +66,7 @@
       "title": "تطبيق قاعدة الحرف الثالث",
       "content": "بتطبيق قاعدة (الحرف الثالث): إذا كان مفتوحاً أو مكسوراً = نبدأ بكسر. إذا كان مضموماً (ضماً أصلياً لا عارضاً) = نبدأ بضم. مثال: اُدْعُ (الثالث: الدال مضمومة ضماً أصلياً) = نبدأ بضم (اُدْعُ).",
       "example": "قوله تعالى: (وَارْكَعُوا مَعَ الرَّاكِعِينَ) [البقرة: 43] - عند الابتداء بـ (ارْكَعُوا) الحرف الثالث (الكاف) مفتوح فنبدأ بالكسر (اِرْكَعُوا).",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002043.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/043.mp3"
     },
     {
       "type": "question",
@@ -86,7 +86,7 @@
       "title": "متى نبدأ بهمزة الوصل مضمومة؟",
       "content": "نبدأ بهمزة الوصل مضمومة في حالة واحدة فقط: إذا كان الحرف الثالث من الفعل مضموماً ضماً أصلياً لازماً (ليس عارضاً). والضمة الأصلية هي التي تبقى حتى في المفرد، بخلاف العارضة التي تجيء مع واو الجماعة فقط.",
       "example": "قوله تعالى: (ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ) [النحل: 125] - الحرف الثالث (العين) مضموم ضماً أصلياً لازماً فنبدأ بهمزة وصل مضمومة (اُدْعُ).",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/016125.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/016/125.mp3"
     },
     {
       "type": "question",

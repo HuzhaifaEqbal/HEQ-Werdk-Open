@@ -5,7 +5,7 @@
       "title": "الاستعاذة والبسملة عند أواسط السور",
       "content": "عند البدء بالتلاوة من أواسط السور (لا من بدايتها)، يُطلب من القارئ الإتيان بالاستعاذة (أعوذ بالله من الشيطان الرجيم)، ويكون مخيراً في الإتيان بالبسملة أو تركها، بخلاف أول السورة حيث البسملة مطلوبة دائماً (باستثناء سورة التوبة).",
       "example": "قوله تعالى: (فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ) - النحل:98 - دليل وجوب الاستعاذة عند التلاوة.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/016098.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/016/098.mp3"
     },
     {
       "type": "question",
@@ -25,7 +25,7 @@
       "title": "مخرج الجوف وحروف المد",
       "content": "الجوف هو الخلاء الممتد داخل الحلق والفم، وهو مخرج مقدر (لا يعتمد على نقطة ارتكاز معينة). تخرج منه حروف المد الثلاثة فقط: الألف المفتوح ما قبلها، والواو المضموم ما قبلها، والياء المكسور ما قبلها.",
       "example": "قوله تعالى: (تِلْكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهَا إِلَيْكَ) - هود:49 - في كلمة (نُوحِيهَا): الواو حرف مد من الجوف، والياء حرف مد من الجوف.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/011049.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/011/049.mp3",
       "visual_example": "<svg viewBox=\"0 0 200 160\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"200\" height=\"160\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"100\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">مخرج الجوف</text><ellipse cx=\"100\" cy=\"90\" rx=\"60\" ry=\"50\" fill=\"#EEF2FF\" stroke=\"#6366F1\" stroke-width=\"2.5\" stroke-dasharray=\"6,3\"/><text x=\"100\" y=\"82\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" fill=\"#6366F1\">الخلاء الداخلي</text><text x=\"100\" y=\"100\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"16\" fill=\"#374151\">ا  وُ  يِ</text><text x=\"100\" y=\"150\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" fill=\"#9CA3AF\">حروف المد الثلاثة</text></svg>"
     },
     {
@@ -46,7 +46,7 @@
       "title": "مناطق الحلق الثلاث وحروفها",
       "content": "الحلق ينقسم إلى ثلاث مناطق: أقصى الحلق (يخرج منه الهمزة والهاء)، ووسط الحلق (يخرج منه العين والحاء)، وأدنى الحلق (يخرج منه الغين والخاء). وهذه الحروف الستة هي حروف الإظهار الحلقي.",
       "example": "قوله تعالى: (اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ) - العلق:1 - تحتوي على حرفين حلقيين: الهمزة (أقصى) والخاء (أدنى).",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/096001.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/096/001.mp3",
       "visual_example": "<svg viewBox=\"0 0 200 180\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"200\" height=\"180\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"100\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">مناطق الحلق الثلاث</text><rect x=\"45\" y=\"35\" width=\"110\" height=\"35\" rx=\"6\" fill=\"#FEE2E2\" stroke=\"#EF4444\" stroke-width=\"1.5\"/><text x=\"100\" y=\"57\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" fill=\"#DC2626\">أقصى الحلق: ء  هـ</text><rect x=\"45\" y=\"80\" width=\"110\" height=\"35\" rx=\"6\" fill=\"#FEF3C7\" stroke=\"#F59E0B\" stroke-width=\"1.5\"/><text x=\"100\" y=\"102\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" fill=\"#D97706\">وسط الحلق: ع  ح</text><rect x=\"45\" y=\"125\" width=\"110\" height=\"35\" rx=\"6\" fill=\"#DCFCE7\" stroke=\"#22C55E\" stroke-width=\"1.5\"/><text x=\"100\" y=\"147\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" fill=\"#16A34A\">أدنى الحلق: غ  خ</text></svg>"
     },
     {
@@ -67,7 +67,7 @@
       "title": "كيفية اكتشاف مخرج الحرف",
       "content": "لمعرفة مخرج الحرف بدقة: نُسكّن الحرف أو نشدده، ثم ندخل عليه همزة وصل متحركة (مثل: أَبْ، أَقْ). المكان الذي ينقطع عنده الصوت هو المخرج الدقيق لهذا الحرف المحقق.",
       "example": "قوله تعالى: (قُلْ هُوَ اللَّهُ أَحَدٌ) - الإخلاص:1 - انطق (أَقْ) وستشعر أن القاف أعمق في الحلق من الكاف في (أَكْ).",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/112001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/112/001.mp3"
     },
     {
       "type": "question",
@@ -87,7 +87,7 @@
       "title": "المخارج الرئيسية (العامة) والحروف",
       "content": "قسم العلماء مخارج الحروف إلى مخارج عامة (تحوي بداخلها مخارج خاصة)، وهي خمسة رئيسية: الجوف، الحلق، اللسان، الشفتان، الخيشوم (الفراغ الأنفي). هذه المخارج هي التي تتوزع عليها كل حروف اللغة العربية (ومعها الغنة).",
       "example": "كل حرف له مكان محدد يخرج منه، مثل الأوتار الصوتية أو الشفتين.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001002.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/002.mp3"
     },
     {
       "type": "question",

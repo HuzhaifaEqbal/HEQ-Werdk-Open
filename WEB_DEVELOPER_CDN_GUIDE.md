@@ -311,7 +311,7 @@ https://cdn.jsdelivr.net/gh/HuzhaifaEqbal/HEQ-Werdk-Open@{VERSION}/{DIRECTORY}/{
       "title": "تعريف علم التجويد",
       "content": "التجويد اصطلاحاً هو إخراج كل حرف من مخرجه الدقيق، وإعطائه حقه ومستحقه...",
       "example": "قراءة (عَسَى) بدلاً من (عَصَى) هو تغيير المعنى، وليس تجويداً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/001.mp3"
     },
     {
       "type": "question",

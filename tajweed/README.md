@@ -61,7 +61,7 @@ Each lesson file is a JSON Object with a `steps` array of 10 alternating items (
       "title": "تعريف علم التجويد",
       "content": "التجويد اصطلاحاً هو إخراج كل حرف من مخرجه الدقيق، وإعطاؤه حقه ومستحقه...",
       "example": "قراءة (عَسَى) بدلاً من (عَصَى) هو تغيير للمعنى.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/001.mp3"
     },
     {
       "type": "question",

@@ -4,7 +4,7 @@
 > ### 📌 الوظائف والمهام الأساسية لهذا الملف (File Functions & Scope):
 > * **سجل إنجاز المنهج الفقهي (المذهب الشافعي):** توثيق الدروس المكتملة 100% لعقد الطهارة، الصلاة (المستويين 1 و 2)، والصيام.
 > * **القواعد التشغيلية الصارمة:** حظر استخدام التيرمينال لحماية المحارف العربية، منع تكرار الصوتيات، وقواعد الوصف التشريحي للصور.
-> * **سجل الصوتيات والروابط المعتمدة:** حصر كافة الشواهد الصوتية (الشيخ سعود الشريم) وحصن المسلم لمنع التكرار.
+> * **سجل الصوتيات والروابط المعتمدة:** حصر كافة الشواهد الصوتية (تلاوات آية بآية من سيرفر HEQ CDN) وحصن المسلم لمنع التكرار.
 > * **الفئة المستهدفة:** مهندسو مناهج الفقه، مطورو المحتوى الإسلامي، ونماذج الذكاء الاصطناعي المسؤولة عن بناء مسارات الفقه.
 
 ---
@@ -32,8 +32,10 @@
 ### 5. عدم حذف وسوم الصور إطلاقاً (Preserve Placeholders)
 * إذا قرر المستخدم تخطي إضافة الصور لدرس معين أو لملفات الـ Boss Level، **لا تحذف وسم `{{CDN_IMAGE_...}}` أبداً**؛ اتركه مكانه في ملف الـ JSON ليبقى محفوظاً للاستخدام المستقبلي.
 
-### 6. الاقتصار على الشواهد القرآنية (الشيخ سعود الشريم) فقط
-* ⚠️ **توجيه صارم:** لا تقم بإضافة أدعية أو تسجيلات من حصن المسلم؛ اكتفِ حصرياً بالشواهد القرآنية بصوت الشيخ سعود الشريم (128kbps) والأمثلة التوضيحية والصور الشكلية.
+### 6. مصادر الصوتيات المعتمدة
+* **الشواهد القرآنية:** من سيرفر HEQ CDN آية بآية حصراً، ويجوز اختيار أي قارئ متوفر فيه (الافتراضي: محمود خليل الحصري مرتل). القاعدة: `https://heq-cdn.b-cdn.net/quran/{reciter}/{type}/{SURAH_3DIGITS}/{AYAH_3DIGITS}.mp3`
+* **الأذكار والأدعية:** من تسجيلات حصن المسلم الرسمية (`hisnmuslim.com`).
+* لا تستخدم أي سيرفر صوتيات آخر.
 
 ---
 
@@ -53,17 +55,17 @@
   * `05_prostrations_sahw_tilawah_shukr.json` (3 صور + صوتين)
 ### 3. عقدة الصيام (`04_Sawm/`)
 * **المستوى الأول (`level_1/`):** مكتمل 100% ✅
-  * `01_fasting_definition_and_conditions.json` (4 صور CDN + صوتين: الشريم 2:183 وحصن المسلم 176)
-  * `02_moon_sighting_and_laylat_al_qadr.json` (3 صور CDN + صوتين: حصن المسلم 175 والشريم 97:1)
-  * `03_fasting_intention_and_abstinence.json` (3 صور CDN + صوتين: الشريم 98:5 وحصن المسلم 186)
-  * `04_fasting_sunnahs_and_etiquette.json` (3 صور CDN + صوتين: الشريم 2:187 وحصن المسلم 184)
-  * `05_fasting_invalidators_and_disliked_acts.json` (3 صور CDN + صوتين: الشريم 2:184 وحصن المسلم 250)
+  * `01_fasting_definition_and_conditions.json` (4 صور CDN + صوتين: الحصري 2:183 وحصن المسلم 176)
+  * `02_moon_sighting_and_laylat_al_qadr.json` (3 صور CDN + صوتين: حصن المسلم 175 والحصري 97:1)
+  * `03_fasting_intention_and_abstinence.json` (3 صور CDN + صوتين: الحصري 98:5 وحصن المسلم 186)
+  * `04_fasting_sunnahs_and_etiquette.json` (3 صور CDN + صوتين: الحصري 2:187 وحصن المسلم 184)
+  * `05_fasting_invalidators_and_disliked_acts.json` (3 صور CDN + صوتين: الحصري 2:184 وحصن المسلم 250)
 * **المستوى الثاني (`level_2/`):** مكتمل 100% ✅
-  * `01_fasting_excuses_and_redemption.json` (3 صور CDN + صوتين: الشريم 4:28 وحصن المسلم 183)
-  * `02_fasting_expiation_and_holding_time.json` (3 صور CDN + صوتين: الشريم 58:4 وحصن المسلم 196)
-  * `03_fasting_voluntary_and_prohibited_days.json` (3 صور CDN + صوتين: الشريم 33:35 وحصن المسلم 237)
-  * `04_fasting_i'tikaf_sunnah_and_invalidators.json` (3 صور CDN + صوتين: الشريم 2:125 وحصن المسلم باب 014)
-  * `05_fasting_vows_and_continuity_rules.json` (3 صور CDN + صوتين: الشريم 76:7 وحصن المسلم 136)
+  * `01_fasting_excuses_and_redemption.json` (3 صور CDN + صوتين: الحصري 4:28 وحصن المسلم 183)
+  * `02_fasting_expiation_and_holding_time.json` (3 صور CDN + صوتين: الحصري 58:4 وحصن المسلم 196)
+  * `03_fasting_voluntary_and_prohibited_days.json` (3 صور CDN + صوتين: الحصري 33:35 وحصن المسلم 237)
+  * `04_fasting_i'tikaf_sunnah_and_invalidators.json` (3 صور CDN + صوتين: الحصري 2:125 وحصن المسلم باب 014)
+  * `05_fasting_vows_and_continuity_rules.json` (3 صور CDN + صوتين: الحصري 76:7 وحصن المسلم 136)
   * `06_boss_level_sawm_l2.json` (10 أسئلة موثقة فقهياً مع حفظ وسوم الصور كاملة)
 
 ---
@@ -72,37 +74,37 @@
 
 كل رابط أدناه تم فحصه واستهلاكه في الدروس السابقة؛ **لا يجوز تكراره**:
 
-### أ. الشواهد القرآنية (المقرئ: سعود الشريم 128kbps)
-القاعدة: `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/{SURAH_3DIGITS}{AYAH_3DIGITS}.mp3`
+### أ. الشواهد القرآنية (المقرئ الحالي: محمود خليل الحصري — مرتل)
+القاعدة: `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/{SURAH_3DIGITS}/{AYAH_3DIGITS}.mp3`
 
 | السورة والآية | الرابط المباشر | الموضوع الفقهي |
 |---|---|---|
-| الفرقان 48 (25:48) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/025048.mp3` | طهورية ماء السماء والبحار |
-| المدثر 4 (74:4) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/074004.mp3` | وجوب تطهير الثياب للصلاة |
-| المائدة 6 (5:6) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/005006.mp3` | آية الوضوء الكبرى وأركانه |
-| النساء 43 (4:43) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/004043.mp3` | التيمم وموجبات الغسل |
-| البقرة 185 (2:185) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002185.mp3` | فقه الرخص والمشقة تجلب التيسير |
-| الإسراء 78 (17:78) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/017078.mp3` | أوقات الصلوات المفروضة |
-| الأعراف 31 (7:31) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/007031.mp3` | شرط ستر العورة وأخذ الزينة |
-| البقرة 144 (2:144) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002144.mp3` | شرط استقبال القبلة الكعبة المشرفة |
-| البقرة 238 (2:238) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002238.mp3` | المحافظة على الصلوات والقيام لله |
-| آل عمران 43 (3:43) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/003043.mp3` | القنوت والركوع مع الراكعين |
-| المؤمنون 2 (23:2) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/023002.mp3` | الخشوع ونفي مبطلات الصلاة |
-| البقرة 43 (2:43) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002043.mp3` | صلاة الجماعة والركوع مع الراكعين |
-| النساء 101 (4:101) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/004101.mp3` | رخصة قصر الصلاة في السفر |
-| الجمعة 9 (62:9) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/062009.mp3` | السعي لصلاة الجمعة وترك البيع |
-| الكوثر 2 (108:2) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/108002.mp3` | صلاة العيدين والنحر |
-| الانشقاق 21 (84:21) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/084021.mp3` | سجود التلاوة ومشروعيته |
-| البقرة 183 (2:183) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002183.mp3` | فرض الصيام ومشروعيته |
-| القدر 1 (97:1) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/097001.mp3` | ليلة القدر وفضل إنزال القرآن |
-| البينة 5 (98:5) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/098005.mp3` | وجوب النية والإخلاص في العبادة |
-| البقرة 187 (2:187) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002187.mp3` | وقت السحور والإمساك حتى الليل |
-| البقرة 184 (2:184) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002184.mp3` | رخص الصيام ومبطلات الإطعام والقضاء |
-| النساء 28 (4:28) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/004028.mp3` | التخفيف ورخص الأعذار في الصيام |
-| المجادلة 4 (58:4) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/058004.mp3` | ترتيب خصال الكفارة الكبرى |
-| الأحزاب 35 (33:35) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/033035.mp3` | فضل الصيام والتطوع وجزاء الصائمين والصائمات |
-| البقرة 125 (2:125) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/002125.mp3` | الاعتكاف ولزوم المساجد وتطهيرها للعاكفين |
-| الإنسان 7 (76:7) | `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/076007.mp3` | الوفاء بالنذر (يوفون بالنذر ويخافون يوماً) |
+| الفرقان 48 (25:48) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/025/048.mp3` | طهورية ماء السماء والبحار |
+| المدثر 4 (74:4) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/074/004.mp3` | وجوب تطهير الثياب للصلاة |
+| المائدة 6 (5:6) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/005/006.mp3` | آية الوضوء الكبرى وأركانه |
+| النساء 43 (4:43) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/004/043.mp3` | التيمم وموجبات الغسل |
+| البقرة 185 (2:185) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/185.mp3` | فقه الرخص والمشقة تجلب التيسير |
+| الإسراء 78 (17:78) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/017/078.mp3` | أوقات الصلوات المفروضة |
+| الأعراف 31 (7:31) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/007/031.mp3` | شرط ستر العورة وأخذ الزينة |
+| البقرة 144 (2:144) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/144.mp3` | شرط استقبال القبلة الكعبة المشرفة |
+| البقرة 238 (2:238) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/238.mp3` | المحافظة على الصلوات والقيام لله |
+| آل عمران 43 (3:43) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/003/043.mp3` | القنوت والركوع مع الراكعين |
+| المؤمنون 2 (23:2) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/023/002.mp3` | الخشوع ونفي مبطلات الصلاة |
+| البقرة 43 (2:43) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/043.mp3` | صلاة الجماعة والركوع مع الراكعين |
+| النساء 101 (4:101) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/004/101.mp3` | رخصة قصر الصلاة في السفر |
+| الجمعة 9 (62:9) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/062/009.mp3` | السعي لصلاة الجمعة وترك البيع |
+| الكوثر 2 (108:2) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/108/002.mp3` | صلاة العيدين والنحر |
+| الانشقاق 21 (84:21) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/084/021.mp3` | سجود التلاوة ومشروعيته |
+| البقرة 183 (2:183) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/183.mp3` | فرض الصيام ومشروعيته |
+| القدر 1 (97:1) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/097/001.mp3` | ليلة القدر وفضل إنزال القرآن |
+| البينة 5 (98:5) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/098/005.mp3` | وجوب النية والإخلاص في العبادة |
+| البقرة 187 (2:187) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/187.mp3` | وقت السحور والإمساك حتى الليل |
+| البقرة 184 (2:184) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/184.mp3` | رخص الصيام ومبطلات الإطعام والقضاء |
+| النساء 28 (4:28) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/004/028.mp3` | التخفيف ورخص الأعذار في الصيام |
+| المجادلة 4 (58:4) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/058/004.mp3` | ترتيب خصال الكفارة الكبرى |
+| الأحزاب 35 (33:35) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/033/035.mp3` | فضل الصيام والتطوع وجزاء الصائمين والصائمات |
+| البقرة 125 (2:125) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/002/125.mp3` | الاعتكاف ولزوم المساجد وتطهيرها للعاكفين |
+| الإنسان 7 (76:7) | `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/076/007.mp3` | الوفاء بالنذر (يوفون بالنذر ويخافون يوماً) |
 
 ### ب. أذكار وأدعية حصن المسلم (الأبواب المباشرة)
 القاعدة: `https://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_{DOOR_3DIGITS}.mp3` أو ملف الصوت المباشر من الفهرس `.../ar/{ID}.mp3`

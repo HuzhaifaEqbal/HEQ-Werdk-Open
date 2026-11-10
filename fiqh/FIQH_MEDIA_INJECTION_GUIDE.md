@@ -58,12 +58,12 @@
 ## 🎧 استراتيجية وقواعد الصوتيات الحية (Audio Strategy)
 
 ### أ. الشواهد القرآنية (Quranic Ayahs)
-- **المقرئ المعتمد:** فضيلة الشيخ **سعود الشريم** (128kbps).
+- **المصدر:** سيرفر HEQ CDN (تلاوات آية بآية). يجوز اختيار أي قارئ متوفر فيه؛ القارئ المستخدم حالياً في الدروس: **محمود خليل الحصري (مرتل)**.
 - **قاعدة مسار الرابط:**
-  `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/{SURAH_3DIGITS}{AYAH_3DIGITS}.mp3`
-  *(تنبيه حاسم: اسم المجلد `Saood_ash-Shuraym_128kbps` بدون حرفي ee في آخره).*
-  - مثال سورة المائدة (005) آية 6: `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/005006.mp3`
-  - مثال سورة النساء (004) آية 43: `https://everyayah.com/data/Saood_ash-Shuraym_128kbps/004043.mp3`
+  `https://heq-cdn.b-cdn.net/quran/{reciter}/{type}/{SURAH_3DIGITS}/{AYAH_3DIGITS}.mp3`
+  *(قائمة القرّاء المتاحة ومجلداتهم في `audio/ayah_reciters.json`).*
+  - مثال سورة المائدة (005) آية 6: `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/005/006.mp3`
+  - مثال سورة النساء (004) آية 43: `https://heq-cdn.b-cdn.net/quran/al_husary/murattal/004/043.mp3`
 
 ### ب. الأذكار والأدعية النبوية (Hisn al-Muslim API)
 - **المصدر المعتمد:** تسجيلات حصن المسلم الرسمية المباشرة (HTTPS).

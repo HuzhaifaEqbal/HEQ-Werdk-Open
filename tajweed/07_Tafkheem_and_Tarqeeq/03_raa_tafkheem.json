@@ -5,7 +5,7 @@
       "title": "الراء المتحركة - القاعدة الأساسية",
       "content": "الراء المتحركة (ذات حركة أصلية) تتبع حركتها: مفتوحة أو مضمومة = تفخيم. مكسورة (كسراً أصلياً) = ترقيق. هذه القاعدة سهلة ومباشرة. الاستثناءات تأتي في الراء الساكنة.",
       "example": "قوله تعالى: (الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ) [الفاتحة: 2] - الراء في (رَبِّ) مفتوحة فتفخم وجوباً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001002.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/002.mp3",
       "visual_example": "<svg viewBox=\"0 0 220 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"220\" height=\"120\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">الراء المتحركة</text><rect x=\"15\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#EDE7F6\" stroke=\"#673AB7\" stroke-width=\"1.5\"/><text x=\"60\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#512DA8\">تفخيم</text><text x=\"60\" y=\"78\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" fill=\"#311B92\">رَ (مفتوحة)</text><text x=\"60\" y=\"94\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" fill=\"#311B92\">رُ (مضمومة)</text><rect x=\"115\" y=\"36\" width=\"90\" height=\"70\" rx=\"6\" fill=\"#E0F7FA\" stroke=\"#00BCD4\" stroke-width=\"1.5\"/><text x=\"160\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"12\" font-weight=\"bold\" fill=\"#00838F\">ترقيق</text><text x=\"160\" y=\"86\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" fill=\"#006064\">رِ (مكسورة)</text></svg>"
     },
     {
@@ -26,7 +26,7 @@
       "title": "الراء الساكنة - تتبع الحركة قبلها",
       "content": "الراء الساكنة تتبع الحركة التي قبلها: إذا كان الحرف قبلها مفتوحاً أو مضموماً = تفخيم. وإذا كان الحرف قبلها مكسوراً = ترقيق (إذا كانت الكسرة أصلية لازمة). أما إذا كانت الكسرة عارضة (مثل كسرة همزة الوصل) فالراء مفخمة.",
       "example": "قوله تعالى: (وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ) [الفيل: 3] - الراء في (وَأَرْسَلَ) ساكنة مسبوقة بفتح، فتفخم وجوباً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/105003.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/105/003.mp3"
     },
     {
       "type": "question",
@@ -46,7 +46,7 @@
       "title": "الراء مع الكسر المقدر وحرف الاستعلاء",
       "content": "قاعدة مهمة: إذا كانت الراء ساكنة وقبلها كسر أصلي، لكن بعدها مباشرة حرف استعلاء ساكن في نفس الكلمة (مثل: صاد، قاف، طاء)، فإن قوة الاستعلاء تتغلب على الكسر وتوجب التفخيم.",
       "example": "قوله تعالى: (إِنَّ رَبَّكَ لَبِالْمِرْصَادِ) [الفجر: 14] - الراء في (لَبِالْمِرْصَادِ) ساكنة قبلها كسر أصلي ولكن بعدها صاد مستعلية في نفس الكلمة، فيتغلب التفخيم.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/089014.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/089/014.mp3"
     },
     {
       "type": "question",
@@ -66,7 +66,7 @@
       "title": "الوقف على الراء المتطرفة",
       "content": "عند الوقف على كلمة تنتهي براء، يجب الرجوع إلى الحركة الأصلية للراء (قبل الوقف) لتحديد حكمها: إذا كانت الراء مفتوحة أو مضمومة قبل الوقف = نقف مفخمة. وإذا كانت مكسورة قبل الوقف = نقف مرققة.",
       "example": "قوله تعالى: (إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ) [القدر: 1] - عند الوقف على (الْقَدْرِ) سكنت الراء وقبلها ساكن قبله فتح، فتفخم الراء وقفاً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/097001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/097/001.mp3"
     },
     {
       "type": "question",
@@ -86,7 +86,7 @@
       "title": "الراء في (إرجه وارتد وأرجيه)",
       "content": "كلمة {إِرْجِهْ} (سورة الأعراف) والأمثال أمثالها: الراء ساكنة وقبلها كسرة همزة الوصل. هذه الكسرة عارضة فالراء مفخمة. أما كلمة (إِرْتَادَ) فنفس الحكم: الكسرة عارضة للوصل = الراء مفخمة.",
       "example": "قوله تعالى: (ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً) [الفجر: 28] - الراء في (ارْجِعِي) ساكنة مسبوقة بكسرة عارضة لهمزة الوصل، فتفخم وجوباً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/089028.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/089/028.mp3"
     },
     {
       "type": "question",

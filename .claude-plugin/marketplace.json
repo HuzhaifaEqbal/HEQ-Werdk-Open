@@ -1,0 +1,13 @@
+{
+  "name": "heq-werdk-open",
+  "owner": {
+    "name": "HEQ Werdk"
+  },
+  "plugins": [
+    {
+      "name": "heq-app-builder",
+      "source": "./",
+      "description": "Build Islamic apps and websites from the open HEQ-Werdk-Open datasets and the HEQ audio CDN."
+    }
+  ]
+}

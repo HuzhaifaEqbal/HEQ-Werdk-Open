@@ -5,7 +5,7 @@
       "title": "الإظهار الشفوي - تعريفه وحروفه",
       "content": "الإظهار الشفوي هو إظهار الميم الساكنة واضحاً عند وقوع أي حرف غير الميم وغير الباء بعدها. وعدد حروف الإظهار الشفوي ستة وعشرون حرفاً. سُمي شفوياً لخروج الميم من الشفتين.",
       "example": "قوله تعالى: (أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ) [الفيل: 1] - الميم الساكنة في (أَلَمْ) بعدها تاء، حكمها الإظهار الشفوي الواضح بلا غنة زائدة.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/105001.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/105/001.mp3",
       "visual_example": "<svg viewBox=\"0 0 240 130\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"240\" height=\"130\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"120\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">أحكام الميم الساكنة الثلاثة</text><rect x=\"10\" y=\"36\" width=\"68\" height=\"80\" rx=\"5\" fill=\"#E8EAF6\" stroke=\"#3F51B5\" stroke-width=\"1\"/><text x=\"44\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#1A237E\">الإخفاء</text><text x=\"44\" y=\"76\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#283593\">[ب]</text><text x=\"44\" y=\"98\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#5C6BC0\">حرف واحد</text><rect x=\"86\" y=\"36\" width=\"68\" height=\"80\" rx=\"5\" fill=\"#FCE4EC\" stroke=\"#EC407A\" stroke-width=\"1\"/><text x=\"120\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#C2185B\">الإدغام</text><text x=\"120\" y=\"76\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#AD1457\">[م]</text><text x=\"120\" y=\"98\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#F06292\">حرف واحد</text><rect x=\"162\" y=\"36\" width=\"68\" height=\"80\" rx=\"5\" fill=\"#E8F5E9\" stroke=\"#4CAF50\" stroke-width=\"1.5\"/><text x=\"196\" y=\"58\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" font-weight=\"bold\" fill=\"#2E7D32\">الإظهار</text><text x=\"196\" y=\"76\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"11\" fill=\"#1B5E20\">باقي الحروف</text><text x=\"196\" y=\"98\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#388E3C\">26 حرفاً</text></svg>"
     },
     {
@@ -26,7 +26,7 @@
       "title": "تحذير ابن الجزري: الواو والفاء",
       "content": "نبّه الإمام ابن الجزري على خطر الخلط بين الميم الساكنة وحرفي الواو والفاء، لأن مخارجهما قريبة من مخرج الميم. عند الإظهار الشفوي قبل الواو أو الفاء، يجب الحرص على إظهار الميم كاملاً بدون أي خفاء أو ادغام.",
       "example": "قوله تعالى: (صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ) [الفاتحة: 7] - الميم في (عَلَيْهِمْ وَلَا) يجب إظهارها بحذر شديد حتى لا تختفي في الواو.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/007.mp3"
     },
     {
       "type": "question",
@@ -46,7 +46,7 @@
       "title": "طريقة صحيحة: ظهور الميم قبل الواو والفاء",
       "content": "عند الإظهار الشفوي قبل الواو أو الفاء، يجب إغلاق الشفتين لإخراج صوت الميم بوضوح (إطباق شفوي كامل)، ثم فتحهما فوراً لنطق الواو أو الفاء. لا يُترك الصوت يمر خلال الشفتين المنفرجتين كما في الإخفاء.",
       "example": "قوله تعالى: (أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ) [الفيل: 2] - الميم في (كَيْدَهُمْ فِي) تُنطق بإطباق تام للشفتين على الميم ثم فتحهما فوراً لنطق الفاء المخرجة من بطن الشفة.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/105002.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/105/002.mp3"
     },
     {
       "type": "question",
@@ -66,7 +66,7 @@
       "title": "علامة الإظهار الشفوي في المصحف",
       "content": "في المصحف العثماني، يُشار إلى الإظهار الشفوي ببقاء السكون (°) ظاهراً فوق الميم الساكنة. وهذا مختلف عن الإدغام الشفوي حيث تُحذف السكون وتُوضع شدة، وعن الإخفاء الشفوي حيث تبقى السكون مع ميم صغيرة.",
       "example": "قوله تعالى: (أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ) [الفيل: 1] - السكون (رأس خاء صغيرة) مرسومة بوضوح فوق ميم (أَلَمْ) للدلالة على وجوب الإظهار الشفوي.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/105001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/105/001.mp3"
     },
     {
       "type": "question",

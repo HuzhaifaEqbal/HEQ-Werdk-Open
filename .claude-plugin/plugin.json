@@ -1,0 +1,9 @@
+{
+  "name": "heq-app-builder",
+  "version": "1.0.0",
+  "description": "Build Islamic apps and websites (Quran, Tajweed, Fiqh, Hadith, Seerah, recitations) from the open HEQ-Werdk-Open datasets and the HEQ audio CDN.",
+  "homepage": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["islamic", "quran", "tajweed", "fiqh", "hadith", "seerah", "flutter"]
+}

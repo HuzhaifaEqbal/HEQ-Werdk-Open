@@ -5,7 +5,7 @@
       "title": "المد اللازم - أقوى المدود وأطولها",
       "content": "المد اللازم هو أقوى أنواع المد وأطولها. يكون عندما يأتي بعد حرف المد حرف ساكن سكوناً أصلياً لازماً (لا يتحرك في وصل ولا وقف). مقداره ست حركات وجوباً عند جميع القراء. سُمي لازماً للزوم مده هذا المقدار.",
       "example": "قوله تعالى: (غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ) [الفاتحة: 7] - الألف في (الضَّالِّينَ) بعدها لام مشددة أصلها ساكن، مد لازم يمد ست حركات لزوماً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/001007.mp3",
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/001/007.mp3",
       "visual_example": "<svg viewBox=\"0 0 240 130\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"240\" height=\"130\" fill=\"#F8F9FA\" rx=\"8\"/><text x=\"120\" y=\"22\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"13\" fill=\"#2C3E50\">أقسام المد اللازم (6 حركات لزوماً)</text><rect x=\"15\" y=\"36\" width=\"98\" height=\"38\" rx=\"4\" fill=\"#EDE7F6\" stroke=\"#673AB7\" stroke-width=\"1\"/><text x=\"64\" y=\"52\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" font-weight=\"bold\" fill=\"#512DA8\">كلمي مثقل</text><text x=\"64\" y=\"66\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#424242\">الضَّالِّين، الحَاقَّة</text><rect x=\"127\" y=\"36\" width=\"98\" height=\"38\" rx=\"4\" fill=\"#EDE7F6\" stroke=\"#673AB7\" stroke-width=\"1\"/><text x=\"176\" y=\"52\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" font-weight=\"bold\" fill=\"#512DA8\">كلمي مخفف</text><text x=\"176\" y=\"66\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#424242\">آلْآنَ</text><rect x=\"15\" y=\"80\" width=\"98\" height=\"38\" rx=\"4\" fill=\"#E8EAF6\" stroke=\"#3F51B5\" stroke-width=\"1\"/><text x=\"64\" y=\"96\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" font-weight=\"bold\" fill=\"#1A237E\">حرفي مثقل</text><text x=\"64\" y=\"110\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#424242\">الم (اللام)</text><rect x=\"127\" y=\"80\" width=\"98\" height=\"38\" rx=\"4\" fill=\"#E8EAF6\" stroke=\"#3F51B5\" stroke-width=\"1\"/><text x=\"176\" y=\"96\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"10\" font-weight=\"bold\" fill=\"#1A237E\">حرفي مخفف</text><text x=\"176\" y=\"110\" text-anchor=\"middle\" font-family=\"Arial\" font-size=\"8\" fill=\"#424242\">ق، ص، ن</text></svg>"
     },
     {
@@ -26,7 +26,7 @@
       "title": "أنواع المد اللازم - الكلمي والحرفي",
       "content": "المد اللازم نوعان: (كلمي) إذا وقع في كلمة عادية، و(حرفي) إذا وقع في حروف فواتح السور. كل منهما ينقسم إلى (مثقل: الحرف الساكن مشدد) و(مخفف: الحرف الساكن غير مشدد). مثال الكلمي: (الضَّالِّين). مثال الحرفي: (طسم).",
       "example": "قوله تعالى: (الْحَاقَّةُ * مَا الْحَاقَّةُ) [الحاقة: 1] - الألف في (الْحَاقَّةُ) مد لازم كلمي مثقل ست حركات لأن بعده قافاً مشددة.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/069001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/069/001.mp3"
     },
     {
       "type": "question",
@@ -46,7 +46,7 @@
       "title": "اللازم الكلمي المخفف في القرآن الكريم",
       "content": "اللازم الكلمي المخفف هو أن يأتي بعد حرف المد حرف ساكن غير مشدد سكوناً أصلياً في كلمة عادية (ليست فاتحة). وهذا النوع نادر جداً. وأشهر أمثلته في القرآن الكريم موضعان فقط في سورة يونس: {آلْآنَ} و{آلذَّكَرَيْنِ}.",
       "example": "قوله تعالى: (آلْآنَ وَقَدْ كُنتُم بِهِ تَسْتَعْجِلُونَ) [يونس: 51] - الألف في (آلْآنَ) بعدها لام ساكنة غير مشددة، فهو مد لازم كلمي مخفف يمد 6 حركات لزوماً.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/010051.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/010/051.mp3"
     },
     {
       "type": "question",
@@ -66,7 +66,7 @@
       "title": "اللازم الحرفي وفواتح السور",
       "content": "اللازم الحرفي يقع في الحروف المقطعة الفردية في فواتح السور التي تُهجى باسمها. علامة وجود المد فيها: أن الحروف التي تتكون من ثلاثة أحرف وأوسطها حرف مد أو لين. تُمد ست حركات. أما الحروف الثنائية كـ(الـ) أو (حا) فلا مد لازم فيها.",
       "example": "قوله تعالى: (ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ) [القلم: 1] - يُنطق حرف النون باسمه (نُـونْ) وفيه واو مدية ساكنة بعدها سكون أصلي، مد لازم حرفي مخفف 6 حركات.",
-      "audio_example": "https://everyayah.com/data/Saood_ash-Shuraym_128kbps/068001.mp3"
+      "audio_example": "https://heq-cdn.b-cdn.net/quran/al_husary/murattal/068/001.mp3"
     },
     {
       "type": "question",
