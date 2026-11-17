@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "HEQ-Werdk-Open: Islamic Tech Waqf Datasets"
+type: dataset
+authors:
+  - given-names: Hothaifa
+    family-names: Eqbal
+    alias: HuzhaifaEqbal
+    affiliation: HEQ Werdk
+    website: "https://www.linkedin.com/in/hothaifa-eqbal-913662397"
+repository-code: "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open"
+url: "https://heqwerdk.com"
+license: CC-BY-NC-4.0
+version: 1.1.0
+date-released: 2026-11-10
+keywords:
+  - quran
+  - tajweed
+  - fiqh
+  - hadith
+  - seerah
+  - islamic
+  - dataset
+abstract: >-
+  Open, structured Islamic educational datasets (Quran in Uthmani script,
+  micro-memorization nodes, Tajweed, Shafi'i Fiqh, Nawawi's Forty Hadith,
+  Prophetic Seerah) for non-commercial apps and websites, served via jsDelivr.

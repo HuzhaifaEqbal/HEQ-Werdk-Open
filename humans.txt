@@ -1,0 +1,15 @@
+/* TEAM */
+Founder & Lead Developer: Hothaifa Eqbal
+Role: Data architecture, Islamic curricula datasets, developer tooling, audio CDN
+LinkedIn: https://www.linkedin.com/in/hothaifa-eqbal-913662397
+GitHub: https://github.com/HuzhaifaEqbal
+Contact: developers [at] heqwerdk.com
+From: HEQ Werdk
+
+/* PROJECT */
+Name: HEQ-Werdk-Open (Islamic Tech Waqf)
+Repository: https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open
+Website: https://heqwerdk.com
+License: CC BY-NC 4.0 (data), MIT (scripts/)
+Language: Arabic, English
+Standards: JSON (UTF-8), Markdown

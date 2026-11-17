@@ -2,6 +2,10 @@
   "name": "heq-app-builder",
   "version": "1.0.0",
   "description": "Build Islamic apps and websites (Quran, Tajweed, Fiqh, Hadith, Seerah, recitations) from the open HEQ-Werdk-Open datasets and the HEQ audio CDN.",
+  "author": {
+    "name": "Hothaifa Eqbal",
+    "url": "https://www.linkedin.com/in/hothaifa-eqbal-913662397"
+  },
   "homepage": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
   "repository": "https://github.com/HuzhaifaEqbal/HEQ-Werdk-Open",
   "license": "CC-BY-NC-4.0",

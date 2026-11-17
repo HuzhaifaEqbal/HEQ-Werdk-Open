@@ -195,6 +195,19 @@ The repo ships a Claude Code skill, `heq-app-builder`, that builds a complete Is
 
 ---
 
+## 👤 من نحن | About
+
+> **ذكر أسماء المطوّرين هنا ليس للرياء ولا للشهرة. بعد ما بنينا هالمنصة وفتحنا أدواتها وبياناتها للعامة وللمطوّرين، صار لازم نعرّف عن المطوّرين، لأن الخدمات اللي منعتمد عليها بتطلب هالشي، ولأن الترخيص بيحتاجه، وهيك منكون محميين قانونياً.**
+>
+> *Naming the developers here is not for fame. Having opened this platform's tools and data to the public and to developers, the services we rely on and the license require us to identify who built it, which also protects us legally.*
+
+- **Hothaifa Eqbal** — مؤسّس المشروع ومطوّره الرئيسي | Founder & Lead Developer
+  [LinkedIn](https://www.linkedin.com/in/hothaifa-eqbal-913662397) · [GitHub](https://github.com/HuzhaifaEqbal)
+
+التفاصيل الكاملة بملف [AUTHORS.md](./AUTHORS.md)، وبيانات الاستشهاد بملف [CITATION.cff](./CITATION.cff).
+
+---
+
 ## 📄 الترخيص وحقوق الاستخدام | License & Rights
 
 هذا المستودع مرخص بموجب رخصة المشاع الإبداعي: **نسب المصنف - غير تجاري 4.0 دولي (CC BY-NC 4.0)**.  
